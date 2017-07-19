@@ -1,1 +1,2 @@
-Test
+# Misc
+## Miscellaneous notes and snippets
