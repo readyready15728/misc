@@ -4,8 +4,8 @@ Commander:
 ```
 # .xz-compressed PDF
 shell/.pdf.xz
-	Open=/usr/lib/mc/ext.d/doc.sh open pdf
-	View=%view{ascii} /usr/lib/mc/ext.d/doc.sh view pdf
+  Open=/usr/lib/mc/ext.d/doc.sh open pdf
+  View=%view{ascii} /usr/lib/mc/ext.d/doc.sh view pdf
 ```
 
 Note that it is not necessary to pass along `%f` or the like; the filename
