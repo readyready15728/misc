@@ -30,4 +30,5 @@ GOG installed on Wine, like so:
 * A user-defined listing mode for both panels with `size:4` not only saves a
 little more of the limited screen real estate of the file manager than would
 otherwise be the case, but also makes sizes display in ways that are more
-readily comprehensible with familiar suffixes.
+readily comprehensible with familiar suffixes. (Remember to use "Save Setup"
+after this.)
