@@ -1,3 +1,5 @@
+# Midnight Commander
+
 * The following makes it possible to view XZ-compressed PDF files in Midnight
 Commander:
 
