@@ -14,10 +14,3 @@ Overflow questions:
     export HISTFILE=~/.bash_eternal_history
     PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
     ```
-
-* The following is necessary to compel Midnight Commander to use Vim as its
-external editor (here with custom build of Vim):
-
-    ```bash
-    export EDITOR=/usr/local/bin/vim
-    ```

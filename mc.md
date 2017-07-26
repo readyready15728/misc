@@ -34,3 +34,10 @@ little more of the limited screen real estate of the file manager than would
 otherwise be the case, but also makes sizes display in ways that are more
 readily comprehensible with familiar suffixes. (Remember to use "Save Setup"
 after this.)
+
+* The following is necessary to compel Midnight Commander to use Vim as its
+external editor (here with custom build of Vim):
+
+    ```bash
+    export EDITOR=/usr/local/bin/vim
+    ```
