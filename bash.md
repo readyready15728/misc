@@ -14,3 +14,8 @@ Overflow questions:
     export HISTFILE=~/.bash_eternal_history
     PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
     ```
+* I have often found that when I searched backwards in history but hit the
+wrong key (something I do frequently) I had to hold down the down arrow for a
+long time to start over looking for that command again. I looked into this and
+it's not actually not necessary. `M->` will take the user to the very end of
+history without any tedium.
