@@ -41,3 +41,5 @@ external editor (here with custom build of Vim):
     ```bash
     export EDITOR=/usr/local/bin/vim
     ```
+
+Place in `.bashrc` or similar.
