@@ -42,4 +42,4 @@ external editor (here with custom build of Vim):
     export EDITOR=/usr/local/bin/vim
     ```
 
-Place in `.bashrc` or similar.
+    Place in `.bashrc` or similar.
