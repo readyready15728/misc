@@ -92,6 +92,6 @@ a fully functioning EPUB!
 
 10. Give your new EPUB the once-over. Is the new EPUB substantially smaller
 than the old one? Do the images display properly? Is the image quality
-adequate? If so, congratulations on your new, smaller EPUB. If not, try again
+adequate? If so, congratulations on your new, smaller EPUB! If not, try again
 with different parameters. If you suspect something is wrong with my procedure,
 please inform me and I will see what can be done about it.
