@@ -13,11 +13,11 @@ archives.
 
 3. Find out where the images are stored and `cd` into the directory containing
 them. (I have only ever come across cases where a single directory holds all
-images.) The exact location varies, but finding it should easy as you will see
-the paths scrolling by as the contents of the EPUB are extracted. Once you find
-it, You might want to run `du -ch` in the directory to get a sense of how large
-the images are at this point. Typically, they are JPEGs. If they are PNGs, skip
-to step 6; otherwise proceed.
+images.) The exact location varies, but finding it should be easy as you will
+see the paths scrolling by as the contents of the EPUB are extracted. Once you
+find it, You might want to run `du -ch` in the directory to get a sense of how
+large the images are at this point. Typically, they are JPEGs. If they are
+PNGs, skip to step 6; otherwise proceed.
 
 4. In my experience, huge EPUB files with JPEG images are a consequence of a
 needlessly high compression setting. Everyone hates JPEGs that look like
