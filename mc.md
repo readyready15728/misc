@@ -43,3 +43,6 @@ external editor (here with custom build of Vim):
     ```
 
     Place in `.bashrc` or similar.
+
+* If there's a bunch of crap left on the screen from the last command you typed
+in, type `Ctrl-L` to refresh the screen.
