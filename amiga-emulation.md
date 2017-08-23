@@ -21,4 +21,5 @@ you need to add at least one more floppy drive to use this feature.)
 menu.
 * Clean Up and Snapshot are useful features of the Amiga Workbench for
 arranging icons. (Hint: right click with window in question focused and
-navigate to menu.)
+navigate to menu.) Clean Up will arrange the icons into a grid and Snapshot
+will "freeze" the current position of icons.
