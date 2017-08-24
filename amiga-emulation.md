@@ -23,3 +23,18 @@ menu.
 arranging icons. (Hint: right click with window in question focused and
 navigate to menu.) Clean Up will arrange the icons into a grid and Snapshot
 will "freeze" the current position of icons.
+* Screenshot directory can be changed in Advanced Setting in FS-UAE Launcher
+with, say, `screenshots_output_dir = ~/Pictures`.
+* `joystick_port_1 = nothing` needs to be in settings for the cursor keys to
+function properly. This is recommended to be used on a per-config basis only,
+not globally.
+* The default color palette in Workbench is ugly. On Workbench 2.1, at least,
+this can be changed by going into Colors under Tools and using the following
+palette: EEE, 898, 131, 282 for a nice green theme. Something similar can be
+done in 3.1 by going to Prefs and then Palette but here decimal RGB triplets
+are used: (238, 238, 238), (136, 153, 136), (17, 51, 17), (34, 136, 34). (It
+appears necessary to shut down Workbench to save these changes though I'm
+not sure? Don't want to have to experiment and set the colors up all over
+again.)
+* Populous appears not to cooperate well with any version of Workbench and
+should just be run on its own; the same may be true of other games.
