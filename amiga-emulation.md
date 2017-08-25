@@ -38,3 +38,4 @@ not sure? Don't want to have to experiment and set the colors up all over
 again.)
 * Populous appears not to cooperate well with any version of Workbench and
 should just be run on its own; the same may be true of other games.
+* Consider installing ClassicWB? (What are the advantages?) 
