@@ -7,3 +7,5 @@
 * [Amiga Games from emuparadise.com](https://www.emuparadise.me/Amiga_ROMs/4)
 * [Various Amiga Software from rudz.dk](http://rudz.dk/download/amiga/)
 * [Amiga Manuals from xiik.net](http://amiga-manuals.xiik.net/amiga.php)
+* [Forum, News and Other Resources from lemonamiga.com](http://www.lemonamiga.com/)
+* [...and from abime.net](http://www.abime.net/)
