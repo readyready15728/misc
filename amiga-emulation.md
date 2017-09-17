@@ -37,5 +37,26 @@ appears necessary to shut down Workbench to save these changes though I'm
 not sure? Don't want to have to experiment and set the colors up all over
 again.)
 * Populous appears not to cooperate well with any version of Workbench and
-should just be run on its own; the same may be true of other games.
-* Consider installing ClassicWB? (What are the advantages?) 
+should just be run on its own; the same may be true of other games. (What if
+it's an issue of not enough memory? Perhaps this could be configured around.
+Would WHDLoad fix it maybe?)
+* Consider installing ClassicWB? (What are the real advantages?)
+* If a program bugs you about the lack of an FPU, then use custom configuration
+to set `fpu` to one of the options that you can find in
+`src/fs-uae/config-hardware.c` in the FS-UAE source. (Look for the variable
+`uae_fpu_model` to see your options. Alternatively, you can change the CPU in
+FS-UAE Launcher because CPU settings entail FPU settings.
+* `WhichAmiga` in AmigaDOS can be incredibly useful for diagnostic purposes; it
+gives all major data about your (emulated) hardware and software.
+* Use `EndCLI` to quit a running instance of AmigaDOS.
+* Installed libraries go in the top-level `Libs` folder.
+* If you installed a library already and a program is still bugging you about
+it not being there, try alternative versions of the same. Also use the Linux
+program `strings` to see what other libraries it might require.
+* Just because it's there in the file system doesn't mean Workbench sees it.
+Workbench needs an .info file to see things. The utility
+[AddIcon](http://aminet.net/package/util/wb/AddIcon) can help with this.
+(Actually, no, that wasn't quite right: Workbench *can* see the entire
+contents of a directory if you go to Window → Show → All Files. I still need
+to figure out getting associations sorted out properly if it can be done
+though.)
