@@ -70,12 +70,20 @@ use them.
 * `MAKEDIR` is the equivalent of `mkdir`.
 * `RENAME` does move operations. It can be even be used with the target
 filename omitted, like so: `RENAME file directory`.
-* If you enable emulation of the Toccata sound card and install toccata.library
-(see [here](http://aminet.net/package/util/libs/toclib12), the CPU appears to
-be relieved of some of the burden of playing sound (presumably because of the
-DSP) for playing software that supports Toccata. What this means, for example,
-is that, for me,
+* If you enable emulation of the Toccata sound card and install
+`toccata.library` (see [here](http://aminet.net/package/util/libs/toclib12),
+the CPU appears to be relieved of some of the burden of playing sound
+(presumably because of the DSP) for playing software that supports Toccata.
+What this means, for example, is that, for me,
 [Eagleplayer](http://bax.comlab.uni-rostock.de/~bj/software/eagleplayer/) will
-play .wav files normally under my install of Workbench 3.1 on Amiga 1200, but
-MP3 playback continues to stutter and lock up the system. :( I'm still looking
-into what can be done about this.
+play .wav files normally under my install of Workbench 3.1 on Amiga 1200 if
+Toccata Amplifier is enabled but MP3 playback continues to stutter and lock up
+the system. :( I'm still looking into what can be done about this. (Issue
+apparently resolved; see below.)
+* The following very, *very* specific constellation of FS-UAE settings enables
+virtually perfect MP3 playback in Eagleplayer, for me at least:
+    * JIT enabled
+    * 68040-NOMMU CPU chosen (because JIT doesn't support MMU anyway)
+    * Toccata emulation enabled
+    * `toccata.library` installed in `Libs`
+    * Toccata Amplifier enabled
