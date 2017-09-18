@@ -58,5 +58,24 @@ Workbench needs an .info file to see things. The utility
 [AddIcon](http://aminet.net/package/util/wb/AddIcon) can help with this.
 (Actually, no, that wasn't quite right: Workbench *can* see the entire
 contents of a directory if you go to Window → Show → All Files. I still need
-to figure out getting associations sorted out properly if it can be done
+to figure out getting associations sorted out properly if it can be done,
 though.)
+* `/` means "parent directory", the same as `..` does everywhere else in
+computing today.
+* `PATH` can be used to add to the search path in a single AmigaDOS instance;
+`ASSIGN` can be used to add to it globally. (For more information on that,
+see [here](http://wiki.amigaos.net/wiki/AmigaOS_Manual:_AmigaDOS_Command_Examples#Changing_the_Search_Path).
+This does not appear to be compatible with paths containing spaces, so don't
+use them.
+* `MAKEDIR` is the equivalent of `mkdir`.
+* `RENAME` does move operations. It can be even be used with the target
+filename omitted, like so: `RENAME file directory`.
+* If you enable emulation of the Toccata sound card and install toccata.library
+(see [here](http://aminet.net/package/util/libs/toclib12), the CPU appears to
+be relieved of some of the burden of playing sound (presumably because of the
+DSP) for playing software that supports Toccata. What this means, for example,
+is that, for me,
+[Eagleplayer](http://bax.comlab.uni-rostock.de/~bj/software/eagleplayer/) will
+play .wav files normally under my install of Workbench 3.1 on Amiga 1200, but
+MP3 playback continues to stutter and lock up the system. :( I'm still looking
+into what can be done about this.
