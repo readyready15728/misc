@@ -9,3 +9,4 @@
 * [Amiga Manuals from xiik.net](http://amiga-manuals.xiik.net/amiga.php)
 * [Forum, News and Other Resources from lemonamiga.com](http://www.lemonamiga.com/)
 * [...and from abime.net](http://www.abime.net/)
+* [..and from amiga.org](http://www.amiga.org)

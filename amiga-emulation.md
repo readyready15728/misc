@@ -87,3 +87,6 @@ virtually perfect MP3 playback in Eagleplayer, for me at least:
     * Toccata emulation enabled
     * `toccata.library` installed in `Libs`
     * Toccata Amplifier enabled
+* If you see an install script written in what looks like some kind of Lisp,
+you need [Installer](http://aminet.net/package/util/misc/Installer-43_3) to
+run it.
