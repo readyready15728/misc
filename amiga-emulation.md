@@ -90,3 +90,5 @@ virtually perfect MP3 playback in Eagleplayer, for me at least:
 * If you see an install script written in what looks like some kind of Lisp,
 you need [Installer](http://aminet.net/package/util/misc/Installer-43_3) to
 run it.
+* Motherboard and Zorro III memory can apparently be used to go over and above
+what FS-UAE will support in fast RAM.
