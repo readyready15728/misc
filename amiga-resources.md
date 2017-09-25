@@ -1,5 +1,9 @@
 # Amiga Resources
 
+# Demos
+* http://ada.untergrund.net/
+* http://www.pouet.net/
+
 ## Documentation and Print Media
 * http://amiga-manuals.xiik.net/amiga.php
 * https://archive.org/details/commodoreamigamanuals
@@ -13,6 +17,7 @@
 * https://www.myabandonware.com/browse/platform/amiga/
 * https://www.emuparadise.me/Amiga_ROMs/4
 * https://openretro.org/browse/amiga/
+* http://www.planetemu.net/machine/amiga
 
 ## General
 * http://www.abime.net/
