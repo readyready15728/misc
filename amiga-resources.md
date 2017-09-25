@@ -1,6 +1,9 @@
 # Amiga Resources
 
-# Demos
+## Articles
+* https://www.raspberrypi.org/magpi/turn-pi-amiga/
+
+## Demos
 * http://ada.untergrund.net/
 * http://www.pouet.net/
 
