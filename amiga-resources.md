@@ -1,6 +1,7 @@
 # Amiga Resources
 
 ## Articles
+* http://amigadocs.hokstad.com/doku.php?id=shell (contains *very* important information on improving on the default Amiga CLI)
 * https://www.raspberrypi.org/magpi/turn-pi-amiga/
 
 ## Demos
@@ -12,6 +13,8 @@
 * https://archive.org/details/commodoreamigamanuals
 * http://www.bombjack.org/amiga/
 * http://www.retro-commodore.eu/
+* https://archive.org/details/commodoreamigamanuals
+* https://www.manualslib.com/brand/commodore/
 * https://retropdfs.wordpress.com/
 * http://replacementdocs.com/download.php?list.4
 * http://www.gamesdatabase.org/system-commodore_amiga
@@ -20,7 +23,8 @@
 * https://www.myabandonware.com/browse/platform/amiga/
 * https://www.emuparadise.me/Amiga_ROMs/4
 * https://openretro.org/browse/amiga/
-* http://www.planetemu.net/machine/amiga
+* http://www.planetemu.net/machine/amiga (also includes demos)
+* http://www.oldgamesfinder.com/ (can also be used to find other Amiga software)
 
 ## General
 * http://www.abime.net/
@@ -37,3 +41,4 @@
 * http://aminet.net/
 * https://datassette.org/softwares/commodore-amiga
 * http://rudz.dk/download/amiga/
+* https://archive.org/details/tosec
