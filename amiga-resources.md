@@ -1,22 +1,31 @@
 # Amiga Resources
 
-* [Kickstart ROMs from romcollector.com](http://www.romcollector.com/emulators-firmware-i-29.html)
-* [Kickstart ROMs etc. from ikod.se](https://www.ikod.se/download/)
-* [Kickstart ROMS from amigas.ru](http://amigas.ru/amiftp/index.php?dir=AmiFTP/Amiga%20Kickstart%20Roms%20-%20Complete%20-%20TOSEC%20v0.04/Modified/)
-* [Workbench Copies from datassette.org](https://datassette.org/softwares/commodore-amiga) (this was literally the only place I could seem to find Workbench 2.x)
-* [Likely the Biggest Site for Third-Party Amiga Software, Aminet](http://aminet.net/)
-* [Amiga Games from myabandonware.com](https://www.myabandonware.com/browse/platform/amiga/)
-* [...and from emuparadise.com](https://www.emuparadise.me/Amiga_ROMs/4)
-* [Various Amiga Software from rudz.dk](http://rudz.dk/download/amiga/)
-* [Amiga Manuals from xiik.net](http://amiga-manuals.xiik.net/amiga.php)
-* [...and from archive.org](https://archive.org/details/commodoreamigamanuals)
-* [Various Amiga-Related Media from bombjack.org](http://www.bombjack.org/amiga/)
-* [...and from retro-commodore.eu](http://www.retro-commodore.eu/)
-* [Magazines Covering Amiga and Other Retrocomputing Platforms from retropdfs.wordpress.com](https://retropdfs.wordpress.com/)
-* [Amiga Game Manuals from replacementdocs.com](http://replacementdocs.com/download.php?list.4)
-* [Amiga Game Manuals and Other Information from gamesdatabase.org](http://www.gamesdatabase.org/system-commodore_amiga)
-* [...and from openretro.org](https://openretro.org/browse/amiga/)
-* [Forum, News and Other Resources from abime.net](http://www.abime.net/)
-* [...and from amiga.org](http://www.amiga.org)
-* [...and from lemonamiga.com](http://www.lemonamiga.com/)
-* [...and from classicamiga.com](http://www.classicamiga.com/)
+## Documentation and Print Media
+* http://amiga-manuals.xiik.net/amiga.php
+* https://archive.org/details/commodoreamigamanuals
+* http://www.bombjack.org/amiga/
+* http://www.retro-commodore.eu/
+* https://retropdfs.wordpress.com/
+* http://replacementdocs.com/download.php?list.4
+* http://www.gamesdatabase.org/system-commodore_amiga
+
+## Games
+* https://www.myabandonware.com/browse/platform/amiga/
+* https://www.emuparadise.me/Amiga_ROMs/4
+* https://openretro.org/browse/amiga/
+
+## General
+* http://www.abime.net/
+* http://www.amiga.org/
+* http://www.lemonamiga.com/
+* http://www.classicamiga.com/
+
+## Kickstart ROMs
+* http://www.romcollector.com/emulators-firmware-i-29.html
+* https://www.ikod.se/download/
+* http://amigas.ru/amiftp/index.php?dir=AmiFTP/Amiga%20Kickstart%20Roms%20-%20Complete%20-%20TOSEC%20v0.04/Modified/
+
+## Miscellaneous Software
+* http://aminet.net/
+* https://datassette.org/softwares/commodore-amiga
+* http://rudz.dk/download/amiga/
