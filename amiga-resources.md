@@ -33,7 +33,6 @@
 
 ## Kickstart ROMs
 * http://www.romcollector.com/emulators-firmware-i-29.html
-* https://www.ikod.se/download/
 * http://amigas.ru/amiftp/index.php?dir=AmiFTP/Amiga%20Kickstart%20Roms%20-%20Complete%20-%20TOSEC%20v0.04/Modified/
 
 ## Miscellaneous Software
@@ -41,3 +40,4 @@
 * https://datassette.org/softwares/commodore-amiga
 * http://rudz.dk/download/amiga/
 * https://archive.org/details/tosec
+* https://www.ikod.se/download/ (actually also includes rather substantial Kickstart ROM collection)
