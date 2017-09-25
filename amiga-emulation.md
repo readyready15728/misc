@@ -92,3 +92,5 @@ you need [Installer](http://aminet.net/package/util/misc/Installer-43_3) to
 run it.
 * Motherboard and Zorro III memory can apparently be used to go over and above
 what FS-UAE will support in fast RAM.
+* FS-UAE can work with .dms demo files directly, but they don't necessarily
+play along well with Workbench.
