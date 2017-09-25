@@ -13,7 +13,6 @@
 * https://archive.org/details/commodoreamigamanuals
 * http://www.bombjack.org/amiga/
 * http://www.retro-commodore.eu/
-* https://archive.org/details/commodoreamigamanuals
 * https://www.manualslib.com/brand/commodore/
 * https://retropdfs.wordpress.com/
 * http://replacementdocs.com/download.php?list.4
