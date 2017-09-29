@@ -34,8 +34,6 @@ palette: EEE, 898, 131, 282 for a nice green theme. Something similar can be
 done in 3.1 by going to Prefs and then Palette but here decimal RGB triplets
 are used: (238, 238, 238), (136, 153, 136), (17, 51, 17), (34, 136, 34). Then
 for enhanced legibility, assign the colors to the different roles as follows:
-    * Background: #1
-    * Text: #2
     * Important Text: #3
     * Bright Edges: #2
     * Dark Edges: #3
