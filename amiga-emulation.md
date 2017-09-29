@@ -1,4 +1,4 @@
-# Amiga Emulation with FS-UAE
+# Amiga Emulation
 
 * Log in to OAGD / Open Retro on FS-UAE Launcher to gain access to the many
 database entries for Amiga games with their associated downloads.
