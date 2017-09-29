@@ -115,10 +115,24 @@ versions of Workbench:
     * Ctrl-U: deletes backwards to start of line
     * Ctrl-S: suspends output
     * Ctrl-Q: resumes output
-    * Ctrl-\: ends CLI instance
+    * Ctrl-\: ends CLI instance (Ctrl-\ is also more generally the EOF
+      character)
 * Universal wildcard on Amiga is #?, not \*. (\* stands for the keyboard
 and current screen; for example `COPY filename to *` will print contents
 of said file to console.)
 * "To instruct Amiga DOS to search through the directories from the root
 (top-level) directory of a volume (disk or partition), you type a colon (:)
 at the beginning of the file description."
+* "As you know, prefacing a file description with a colon serves to identify
+the root directory of the current drive. However, to give the root directory
+of a specific drive, you precede the colon with the drive name. Thus, you have
+yet another way of specifying the file 'data' in directory 'mary', that is
+'DF1:mary/data'."
+* The volume name of a disk is an abstract one independent of its physical
+device name and can be used instead of the device name.
+* "In addition to the aforementioned physical devices, AmigaDOS supports a
+variety of useful logical devices. AmigaDOS uses these devices to find the
+files that your programs require from time to time. (So that your programs can
+refer to a standard device name regardless of where the file actually is.) All
+of these 'logical devices' may be reassigned by you to reference any
+directory.)"
