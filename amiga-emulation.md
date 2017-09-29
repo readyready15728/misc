@@ -32,10 +32,8 @@ not globally.
 this can be changed by going into Colors under Tools and using the following
 palette: EEE, 898, 131, 282 for a nice green theme. Something similar can be
 done in 3.1 by going to Prefs and then Palette but here decimal RGB triplets
-are used: (238, 238, 238), (136, 153, 136), (17, 51, 17), (34, 136, 34). (It
-appears necessary to shut down Workbench to save these changes though I'm
-not sure? Don't want to have to experiment and set the colors up all over
-again.)
+are used: (238, 238, 238), (136, 153, 136), (17, 51, 17), (34, 136, 34). Then
+click Save.
 * Populous appears not to cooperate well with any version of Workbench and
 should just be run on its own; the same may be true of other games. (What if
 it's an issue of not enough memory? Perhaps this could be configured around.
