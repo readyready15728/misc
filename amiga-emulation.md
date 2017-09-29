@@ -117,7 +117,8 @@ versions of Workbench:
     * Ctrl-Q: resumes output
     * Ctrl-\: ends CLI instance
 * Universal wildcard on Amiga is #?, not \*. (\* stands for the keyboard
-and current screen; for example `COPY filename to *` )
+and current screen; for example `COPY filename to *` will print contents
+of said file to console.)
 * "To instruct Amiga DOS to search through the directories from the root
 (top-level) directory of a volume (disk or partition), you type a colon (:)
 at the beginning of the file description."
