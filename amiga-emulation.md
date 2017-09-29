@@ -28,10 +28,10 @@ with, say, `screenshots_output_dir = ~/Pictures`.
 * `joystick_port_1 = nothing` needs to be in settings for the cursor keys to
 function properly. This is recommended to be used on a per-config basis only,
 not globally.
-* The default color palette in Workbench is ugly. On Workbench 2.1, at least,
+* The default color palette in Workbench is ugly. On Workbench 2.x, at least,
 this can be changed by going into Colors under Tools and using the following
 palette: EEE, 898, 131, 282 for a nice green theme. Something similar, but even
-better, can be done in 3.1 by going to Prefs and then Palette but here decimal
+better, can be done in 3.x by going to Prefs and then Palette but here decimal
 RGB triplets are used: (237, 237, 237), (18, 50, 18), (136, 153, 136), (34,
 136, 34). Then for enhanced legibility, assign the colors to the different
 roles as follows:
@@ -44,6 +44,11 @@ roles as follows:
     * Menu Text: #1
 
     Finally click Save.
+
+    The Workbench 1.x can also be altered, but it has to be eyeballed
+    because sliders with no annotation are used to set the RGB components.
+    These will then be saved in an FS-UAE save state. (Presumably WinUAE
+    does the same.)
 * Populous appears not to cooperate well with any version of Workbench and
 should just be run on its own; the same may be true of other games. (What if
 it's an issue of not enough memory? Perhaps this could be configured around.
