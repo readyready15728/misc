@@ -22,7 +22,7 @@ menu.
 * Clean Up and Snapshot are useful features of the Amiga Workbench for
 arranging icons. (Hint: right click with window in question focused and
 navigate to menu.) Clean Up will arrange the icons into a grid and Snapshot
-will "freeze" the current position of icons.
+will "freeze" the current position of icons that have been selected.
 * Screenshot directory can be changed in Advanced Setting in FS-UAE Launcher
 with, say, `screenshots_output_dir = ~/Pictures`.
 * `joystick_port_1 = nothing` needs to be in settings for the cursor keys to
@@ -46,8 +46,9 @@ to set `fpu` to one of the options that you can find in
 `src/fs-uae/config-hardware.c` in the FS-UAE source. (Look for the variable
 `uae_fpu_model` to see your options. Alternatively, you can change the CPU in
 FS-UAE Launcher because CPU settings entail FPU settings.
-* `WhichAmiga` in AmigaDOS can be incredibly useful for diagnostic purposes; it
-gives all major data about your (emulated) hardware and software.
+* [WhichAmiga](http://aminet.net/package/util/moni/WhichAmiga) can be
+incredibly useful for diagnostic purposes; it gives all major data about your
+(emulated) hardware and software.
 * Use `EndCLI` to quit a running instance of AmigaDOS.
 * Installed libraries go in the top-level `Libs` folder.
 * If you installed a library already and a program is still bugging you about
