@@ -79,8 +79,7 @@ computing today.
 * `PATH` can be used to add to the search path in a single AmigaDOS instance;
 `ASSIGN` can be used to add to it globally. (For more information on that,
 see [here](http://wiki.amigaos.net/wiki/AmigaOS_Manual:_AmigaDOS_Command_Examples#Changing_the_Search_Path).
-This does not appear to be compatible with paths containing spaces, so don't
-use them.
+If spaces appear in the path, remember to use double quotes.
 * `MAKEDIR` is the equivalent of `mkdir`.
 * `RENAME` does move operations. It can be even be used with the target
 filename omitted, like so: `RENAME file directory`.
@@ -141,3 +140,26 @@ files that your programs require from time to time. (So that your programs can
 refer to a standard device name regardless of where the file actually is.) All
 of these 'logical devices' may be reassigned by you to reference any
 directory.)"
+* `RUN` carries out a command in the background.
+* `EXECUTE` carries out an AmigaDOS script.
+* `>` and `>>` function as in Unix(-like) systems.
+* A few remarks on documentation for AmigaDOS commands:
+
+    In a command *format* listing:
+
+    * Angle brackets denote necessary arguments
+    * Square brackets denote optional arguments
+    * Curly bois denote arguments of which there can be one or several
+    * The vertical bar denotes a set of mutually exclusive options
+
+    In a command *template* listing:
+
+    * /A: always required
+    * /K: keyword required, if supplied
+    * /S: switch, must be supplied to be turned on
+    * /N: numerical argument
+    * /M: multiple arguments accepted
+    * /F: final argument
+    * =: indicates different forms of the same argument
+
+    More information on all that here: http://wiki.amigaos.net/wiki/AmigaOS_Manual:_AmigaDOS_Command_Reference#Command_Documentation
