@@ -163,3 +163,5 @@ directory.)"
     * =: indicates different forms of the same argument
 
     More information on all that here: http://wiki.amigaos.net/wiki/AmigaOS_Manual:_AmigaDOS_Command_Reference#Command_Documentation
+* When the demo Hardwired asks for the second disk and you insert it,
+right-click to continue.
