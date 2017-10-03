@@ -7,6 +7,7 @@
 ## Demos
 * http://ada.untergrund.net/
 * http://www.pouet.net/
+* http://scene.org/
 
 ## Documentation and Print Media
 * http://amiga-manuals.xiik.net/amiga.php
@@ -41,3 +42,6 @@
 * http://rudz.dk/download/amiga/
 * https://archive.org/details/tosec
 * https://www.ikod.se/download/ (actually also includes rather substantial Kickstart ROM collection)
+
+## Music
+* https://modarchive.org/
