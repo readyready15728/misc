@@ -172,3 +172,9 @@ Installer script will not run unless the two binaries from `mui` are moved or
 copied into `MUI`. `mui` should then be renamed or deleted so that you can
 enter the directory with all the other good stuff and run the Installer script.
 After this is done the installation will run without a hitch.
+* To install the [improved
+  Installer](http://aminet.net/package/util/sys/Installer) by Guido Mersmann,
+have the original Installer installed first, then install that MUI library I
+just talked about, then unpack the improved Installer and do `NewInstaller
+Install`.
+
