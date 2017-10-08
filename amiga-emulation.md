@@ -186,7 +186,8 @@ install datatypes in general, manually or otherwise. Briefly:
     * Preferences go in `SYS:Prefs/DataTypes`
 * When you install Picasso96 and it asks for `Work:` that's apparently a
 default name for the hard drive. Typically `ASSIGN Work: DH0:` can solve this
-issue (barring possibilities with multiple hard drives).
+issue (barring possibilities with multiple hard drives). Additionally that
+command needs to go into `S/user-startup`.
 * I have no idea why, but the Linux version of lha doesn't always extract all
 the files in an lha archive. I have had better luck with the [lha
 extractor](http://aminet.net/package/util/arc/lha) on Aminet in one instance
