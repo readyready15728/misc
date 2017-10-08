@@ -177,4 +177,9 @@ After this is done the installation will run without a hitch.
 have the original Installer installed first, then install that MUI library I
 just talked about, then unpack the improved Installer and do `NewInstaller
 Install`.
-
+* The Installer script that comes with
+  [JPEG-DT](http://aminet.net/package/util/dtype/JPEG-DT) illustrates how to
+install datatypes in general, manually or otherwise. Briefly:
+    * Datatypes as such go in `SYS:Classes/DataTypes`
+    * Descriptor files go in `DEVS:DataTypes`
+    * Preferences go in `SYS:Prefs/DataTypes`
