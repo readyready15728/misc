@@ -176,7 +176,8 @@ After this is done the installation will run without a hitch.
   Installer](http://aminet.net/package/util/sys/Installer) by Guido Mersmann,
 have the original Installer installed first, then install that MUI library I
 just talked about, then unpack the improved Installer and do `NewInstaller
-Install`.
+Install`. (Don't bother with installing languages other than English; it seems
+to lead to an aborted install.)
 * The Installer script that comes with
   [JPEG-DT](http://aminet.net/package/util/dtype/JPEG-DT) illustrates how to
 install datatypes in general, manually or otherwise. Briefly:
