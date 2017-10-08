@@ -165,3 +165,10 @@ directory.)"
     More information on all that here: http://wiki.amigaos.net/wiki/AmigaOS_Manual:_AmigaDOS_Command_Reference#Command_Documentation
 * When the demo Hardwired asks for the second disk and you insert it,
 right-click to continue.
+* For some weird, utterly inexplicable reason, the Aminet package
+[muiusr38](http://aminet.net/package/util/libs/mui38usr) has two directories
+`mui` and `MUI` that the operating system of course can't fully tell apart. The
+Installer script will not run unless the two binaries from `mui` are moved or
+copied into `MUI`. `mui` should then be renamed or deleted so that you can
+enter the directory with all the other good stuff and run the Installer script.
+After this is done the installation will run without a hitch.
