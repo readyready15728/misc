@@ -183,3 +183,7 @@ install datatypes in general, manually or otherwise. Briefly:
     * Datatypes as such go in `SYS:Classes/DataTypes`
     * Descriptor files go in `DEVS:DataTypes`
     * Preferences go in `SYS:Prefs/DataTypes`
+* When you install Picasso96 and it asks for `Work:` that's apparently a
+default name for the hard drive. Typically `ASSIGN Work: DH0:` can solve this
+issue (barring possibilities with multiple hard drives).
+
