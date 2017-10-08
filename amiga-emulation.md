@@ -101,8 +101,8 @@ virtually perfect MP3 playback in Eagleplayer, for me at least:
     * `toccata.library` installed in `Libs`
     * Toccata Amplifier enabled
 * If you see an install script written in what looks like some kind of Lisp,
-you need [Installer](http://aminet.net/package/util/misc/Installer-43_3) to
-run it.
+you need [Installer](http://aminet.net/package/util/misc/Installer-43_3) or one
+of the other implementations of the same to run it.
 * Motherboard and Zorro III memory can apparently be used to go over and above
 what FS-UAE will support in fast RAM.
 * FS-UAE can work with .dms demo files directly, but they don't necessarily
