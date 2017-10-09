@@ -177,7 +177,8 @@ After this is done the installation will run without a hitch.
 have the original Installer installed first, then install that MUI library I
 just talked about, then unpack the improved Installer and do `NewInstaller
 Install`. (Don't bother with installing languages other than English; it seems
-to lead to an aborted install.)
+to lead to an aborted install. Also it seems Mersmann's installer hangs on
+some install scripts??)
 * The Installer script that comes with
   [JPEG-DT](http://aminet.net/package/util/dtype/JPEG-DT) illustrates how to
 install datatypes in general, manually or otherwise. Briefly:
@@ -192,3 +193,5 @@ command needs to go into `S/user-startup`.
 the files in an lha archive. I have had better luck with the [lha
 extractor](http://aminet.net/package/util/arc/lha) on Aminet in one instance
 at least.
+* Good commentary on setting image backgrounds here:
+http://eab.abime.net/showthread.php?t=48274
