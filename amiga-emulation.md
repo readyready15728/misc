@@ -217,6 +217,6 @@ utility, the following steps must be taken, at least in FS-UAE:
     WBPattern will tile images that are too small to fill the whole screen.
     One other very important thing to take into consideration is that it
     appears to be possible for some images to be too large for WBPattern.
-    Step 2 in the process should ameliorate this to some degree. It has for me
+    Step 3 in the process should ameliorate this to some degree. It has for me
     in at least one test instance. But I'd be surprised if it were a silver
     bullet.
