@@ -195,3 +195,5 @@ extractor](http://aminet.net/package/util/arc/lha) on Aminet in one instance
 at least.
 * Good commentary on setting image backgrounds here:
 http://eab.abime.net/showthread.php?t=48274
+* To read documentation in AmigaGuide format, install
+  [aguide34](http://aminet.net/package/text/hyper/aguide34).
