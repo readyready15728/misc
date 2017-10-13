@@ -208,7 +208,8 @@ utility, the following steps must be taken, at least in FS-UAE:
     4. Install [Picasso96](http://aminet.net/package/driver/video/Picasso96).
     5. Install required datatypes.
        [JPEG-DT](http://aminet.net/package/util/dtype/JPEG-DT) and
-       [PNGdt44](http://aminet.net/package/util/dtype/PNGdt44)
+       [PNGdt44](http://aminet.net/package/util/dtype/PNGdt44) should bea
+       adequate for most purposes.
     6. Go into Prefs and select a UAE screenmode. The default window size
        in FS-UAE is 960x540, so "960x540 32bit RBGA" is typically a
        sensible choice.
