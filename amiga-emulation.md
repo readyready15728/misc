@@ -221,3 +221,8 @@ utility, the following steps must be taken, at least in FS-UAE:
     Step 3 in the process should ameliorate this to some degree. It has for me
     in at least one test instance. But I'd be surprised if it were a silver
     bullet.
+* [DCTelnet](http://aminet.net/package/comm/tcp/DCTelnet_16) will hang if
+screen mode is changed *during* a connection. To change the screen mode
+in fact, open DCTelnet, *do not* start a connection, change the screen mode,
+quit, and restart with the new screen mode. *Then* make a connection.
+
