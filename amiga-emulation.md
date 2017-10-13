@@ -185,10 +185,11 @@ install datatypes in general, manually or otherwise. Briefly:
     * Datatypes as such go in `SYS:Classes/DataTypes`
     * Descriptor files go in `DEVS:DataTypes`
     * Preferences go in `SYS:Prefs/DataTypes`
-* When you install Picasso96 and it asks for `Work:` that's apparently a
-default name for the hard drive. Typically `ASSIGN Work: DH0:` can solve this
-issue (barring possibilities with multiple hard drives). Additionally that
-command needs to go into `S/user-startup`.
+* When you install
+[Picasso96](http://aminet.net/package/driver/video/Picasso96) and it asks for
+`Work:` that's apparently a default name for the hard drive. Typically `ASSIGN
+Work: DH0:` can solve this issue (barring possibilities with multiple hard
+drives). Additionally that command needs to go into `SYS:S/user-startup`.
 * I have no idea why, but the Linux version of lha doesn't always extract all
 the files in an lha archive. I have had better luck with the [lha
 extractor](http://aminet.net/package/util/arc/lha) on Aminet in one instance
@@ -197,3 +198,22 @@ at least.
 http://eab.abime.net/showthread.php?t=48274
 * To read documentation in AmigaGuide format, install
   [aguide34](http://aminet.net/package/text/hyper/aguide34).
+* For just any old picture to work with WBPattern, the background-setting
+utility, the following steps must be taken, at least in FS-UAE:
+    1. Graphics card UAEGFX must be enabled in the configuration.
+    2. Increase fast RAM to 8 MB, which will allow larger images to be
+       used.
+    2. Install [Picasso96](http://aminet.net/package/driver/video/Picasso96).
+       (IIRC, this is the one that wouldn't extract properly with the Linux
+       version of lha so *caveat lector*.)
+    3. Go into Prefs and select a UAE screenmode. The default window size
+       in FS-UAE is 960x540, so "960x540 32bit RBGA" is typically a
+       sensible choice.
+
+    Then you should be able to put whatever you want in the background.
+    WBPattern will tile images that are too small to fill the whole
+    screen. One other very important thing to take into consideration is
+    that it appears to be possible for some images to be too large for
+    WBPattern. Step 2 in the process should ameliorate this to some
+    degree. It has for me in at least one test instance. But I'd be
+    surprised if it were a silver bullet.
