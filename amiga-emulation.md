@@ -200,20 +200,23 @@ http://eab.abime.net/showthread.php?t=48274
   [aguide34](http://aminet.net/package/text/hyper/aguide34).
 * For just any old picture to work with WBPattern, the background-setting
 utility, the following steps must be taken, at least in FS-UAE:
-    1. Graphics card UAEGFX must be enabled in the configuration.
-    2. Increase fast RAM to 8 MB, which will allow larger images to be
+    1. Emulate an Amiga 4000 with Workbench 3.1. (Other configurations may
+       work, but this is what I used and it's top-of-the-line.)
+    2. Graphics card UAEGFX must be enabled in the configuration.
+    3. Increase fast RAM to 8 MB, which will allow larger images to be
        used.
-    2. Install [Picasso96](http://aminet.net/package/driver/video/Picasso96).
-       (IIRC, this is the one that wouldn't extract properly with the Linux
-       version of lha so *caveat lector*.)
-    3. Go into Prefs and select a UAE screenmode. The default window size
+    4. Install [Picasso96](http://aminet.net/package/driver/video/Picasso96).
+    5. Install required datatypes.
+       [JPEG-DT](http://aminet.net/package/util/dtype/JPEG-DT) and
+       [PNGdt44](http://aminet.net/package/util/dtype/PNGdt44)
+    6. Go into Prefs and select a UAE screenmode. The default window size
        in FS-UAE is 960x540, so "960x540 32bit RBGA" is typically a
        sensible choice.
 
-    Then you should be able to put whatever you want in the background.
-    WBPattern will tile images that are too small to fill the whole
-    screen. One other very important thing to take into consideration is
-    that it appears to be possible for some images to be too large for
-    WBPattern. Step 2 in the process should ameliorate this to some
-    degree. It has for me in at least one test instance. But I'd be
-    surprised if it were a silver bullet.
+    Then you should be able to put nearly whatever you want in the background.
+    WBPattern will tile images that are too small to fill the whole screen.
+    One other very important thing to take into consideration is that it
+    appears to be possible for some images to be too large for WBPattern.
+    Step 2 in the process should ameliorate this to some degree. It has for me
+    in at least one test instance. But I'd be surprised if it were a silver
+    bullet.
