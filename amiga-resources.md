@@ -4,6 +4,7 @@
 * http://amigadocs.hokstad.com/doku.php?id=shell (contains *very* important information on improving on the default Amiga CLI)
 * https://www.raspberrypi.org/magpi/turn-pi-amiga/
 * http://www.popularmechanics.com/technology/gadgets/a27437/amiga-2017-a1222-tabor/
+* http://blog.mikaellundin.name/2016/02/09/beginners-guide-to-arexx.html
 
 ## Demos
 * http://ada.untergrund.net/
