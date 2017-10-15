@@ -32,14 +32,16 @@ willing to go along with that. MongoDB setup instructions are here:
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-mongodb-on-ubuntu-16-04
 
-This should be followed pretty closely, except that the advice from the following
-NodeBB community thread should take precedence over it as far as the creation of the
-administrative user is concerned:
+This should be followed pretty closely, except that the advice from the
+following Stack Overflow thread should take precedence over it as far as the
+creation of the administrative user is concerned:
+
+https://stackoverflow.com/questions/23943651/mongodb-admin-user-not-authorized
+
+Additionally, follow this thread's advice regarding the creation of the
+`nodebb` table and user:
 
 https://community.nodebb.org/topic/10939/nodebb-could-not-connect-to-your-mongo-database-error/3
-
-Additionally, follow that thread's advice regarding the creation of the
-`nodebb` table and user.
 
 When I ran `node app --setup` I ran into the cryptic "Killed" error again and
 again swap solved my issue. Remember to turn it off immediately after use.
