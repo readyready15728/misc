@@ -104,7 +104,8 @@ This will redirect all http:// requests to https://.
 The BlogSynthesis tutorial has a bunch of stuff about reconfiguring NodeBB
 after it gets set up with nginx. I'm not entirely sure how necessary that is.
 In any case, (*inshallah*) if you've carried out all these steps faithfully you
-should now have NodeBB set up behind nginx with an encrypted connection.
+should now have NodeBB set up behind nginx with an encrypted connection. Register
+a user and that first user has admin access.
 
 I haven't tested this yet, but here is how someone set up NodeBB in a
 subdirectory with other content being served around it:
