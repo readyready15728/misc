@@ -46,3 +46,4 @@ external editor (here with custom build of Vim):
 
 * If there's a bunch of crap left on the screen from the last command you typed
 in, type `Ctrl-L` to refresh the screen.
+* Use the `*` to (de)select all files in a pane.
