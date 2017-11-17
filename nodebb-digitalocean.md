@@ -3,6 +3,9 @@
 What a pain in the ass this all was. I'm writing everything down so I don't
 have to figure everything out again.
 
+**(N.b.: if any of the links go down, use the Wayback Machine. I have archived
+all of them.)**
+
 Start with the following tutorial:
 
 https://www.blogsynthesis.com/install-nodebb-on-digitalocean/
