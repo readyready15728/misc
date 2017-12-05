@@ -6,12 +6,14 @@ authorization on MongoDB out there that will only frustrate users of more
 recent versions. This is *right* way to do things in the MongoDB shell as of
 2.6.10:
 
-    use admin;
-    db.createUser({
-      user: "admin",
-      pwd: "password",
-      roles: [{role: "root", db: "admin"}]
-    });
+```javascript
+use admin;
+db.createUser({
+  user: "admin",
+  pwd: "password",
+  roles: [{role: "root", db: "admin"}]
+});
+```
 
 Remember to enable authorization in `mongod.conf` afterwards and restart the
 service.
