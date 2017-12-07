@@ -9,9 +9,9 @@ recent versions. This is *right* way to do things in the MongoDB shell as of
 ```javascript
 use admin;
 db.createUser({
-  user: "admin",
-  pwd: "password",
-  roles: [{role: "root", db: "admin"}]
+  user: 'admin',
+  pwd: 'password',
+  roles: [{role: 'root', db: 'admin'}]
 });
 ```
 
