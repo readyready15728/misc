@@ -15,5 +15,5 @@ db.createUser({
 });
 ```
 
-Remember to enable authorization in `mongod.conf` afterwards and restart the
-service.
+Remember to enable authorization in `mongod.conf` afterwards (with `auth =
+true`) and restart the service.
