@@ -12,3 +12,5 @@ DJVU like so:
 ```bash
 pdf2djvu output.pdf > output.djvu
 ```
+
+Alternatively, the PDF can be XZ-compressed for further savings.
