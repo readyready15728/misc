@@ -34,6 +34,7 @@
 * http://www.lemonamiga.com/
 * http://www.classicamiga.com/
 * http://amigacity.xyz/
+* http://www.grandis.nu/eab/
 
 ## Kickstart ROMs
 * http://www.romcollector.com/emulators-firmware-i-29.html
