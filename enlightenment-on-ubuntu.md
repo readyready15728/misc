@@ -79,10 +79,10 @@ searching I found out that this has to be done through Settings → Look →
 Application Theme → Icons.
 
 Another issue with keyboard input was the shortcut for cycling through windows.
-I want Alt+Tab to be free for completion in Midnight Commander so I turned it
+I want Alt-Tab to be free for completion in Midnight Commander so I turned it
 off as the cycling shortcut. After derping for a moment I realized it was
 possible to *add* shortcuts and not just change existing ones (duh) and set up
-Ctrl+Tab for this purpose.
+Ctrl-Tab for this purpose.
 
 A small but important change I added after this was going into Settings → Input
 → Edge Bindings and deleting all of them to prevent accidental change of
