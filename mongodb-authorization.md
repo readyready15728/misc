@@ -17,3 +17,16 @@ db.createUser({
 
 Remember to enable authorization in `mongod.conf` afterwards (with `auth =
 true`) and restart the service.
+
+Typically, after this one will want to set up databases with respective users
+having less than full administrative power. An example of what this would look
+like:
+
+```javascript
+use database;
+db.createUser({
+  user: 'database',
+  pwd: 'password',
+  roles: ['readWrite', 'dbAdmin']
+});
+```
