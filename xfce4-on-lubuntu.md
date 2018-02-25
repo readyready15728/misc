@@ -48,15 +48,15 @@ application launch bar at the bottom. This is not a bad setup but it's one I
 wanted to perfect. So I configured the top panel to be like it was in LXDE (on
 the bottom), with the following ordering from left to right:
 
-1. The applications menu
-2. Desktop pager
-3. Task bar
-4. A very important separator, transparent and with Expand checked, because the
-alternative is an an ugly panel all left-justified.
-5. The tray (apparently called the "notification area")
-6. The clock (in 24 hour mode)
-7. And lastly "action buttons" that give the ability to log out, reboot and so
-on.
+1. Applications Menu
+2. Workspace Switcher
+3. Window Buttons
+4. A very important Separator, transparent and with Expand checked, because the
+alternative is an an ugly panel all left-justified
+5. Notification Area
+6. Clock (in 24 hour mode)
+7. Action Buttons (these give the ability to log out, reboot and so
+on)
 
 I didn't like the appearance of the first and last items, so I right-clicked to
 get to Properties in both cases and eliminated the button title in the first
