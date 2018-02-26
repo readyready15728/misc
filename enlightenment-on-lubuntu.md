@@ -26,7 +26,7 @@ compositor as well and that means I also get the modestly useful feature of
 translucent terminal windows and push notifications.  But I had an issue right
 away! When I went and opened GNOME Terminal I noticed immediately that the
 rendering of the font in the toolbar and tabs just didn't *look* right, too
-thin. I went searching for font issues with GTK and eventually found a solution
+thin. I went searching for font issues with Gtk and eventually found a solution
 that works, which was putting the following in a file called
 `$HOME/.Xresources`:
 
