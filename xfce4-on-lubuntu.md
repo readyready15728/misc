@@ -27,23 +27,23 @@ off.
 The next issue to deal with was how GNOME Terminal looked wrong. The background
 was white! I went into Edit → Profile Preferences → Colors and saw that GNOME
 Terminal was using colors from the system theme. I certainly didn't want what
-Gtk themes I could and couldn't use be tethered to having GNOME Terminal so I
-turned that off and got my familiar white-on-black scheme. Then I messed around
-with the palette settings a bit and got a pleasant surprise: the Rxvt palette
-had much bolder colors than I was used to. Something I also recommend doing at
-this point is setting up translucency. There are 100 ticks on the GNOME
-Terminal and I recommend 15% translucency.
+Gtk themes I could and couldn't use be tethered to the desired appearance of
+GNOME Terminal, so I turned that off and got my familiar white-on-black scheme
+back. Then I messed around with the palette settings a bit and got a pleasant
+surprise: the Rxvt palette had much bolder colors than I was used to. Something
+I also recommend doing at this point is setting up translucency if you haven't
+already. There are 100 ticks on the slider and I recommend 15% translucency.
 
 The next thing I wanted to do was change the background. This can also be done
-through Desktop Settings which was mentioned earlier. I like the default mousey
-picture but I like my custom background that says "NEUROPOL" in Futura Bold in
-white on a black background even more. If you have an images folder *filled*
-with images, *don't* use it. Xfce4 will go through an expensive process of
-coming up with a thumbnail of every image. Better to create a subdirectory, or
-some other directory, and put your few background(s) in there.
+through Desktop Settings, which was mentioned earlier. I like the default
+mousey picture but I like my custom "NEUROPOL" background even more. If you
+have an images folder *filled* with images, *don't* use it. Xfce4 will go
+through an expensive process of coming up with a thumbnail of every image.
+Better to create a subdirectory, or some other directory, and put your few
+background(s) in there.
 
 Then I wanted to set up the panels how I wanted them. Xfce4 features a default
-layout very similar to Mac OS X. with a thin strip at the top and a fatter
+layout very similar to Mac OS X, with a thin strip at the top and a fatter
 application launch bar at the bottom. This is not a bad setup but it's one I
 wanted to perfect. So I configured the top panel to be like it was in LXDE (on
 the bottom), with the following ordering from left to right:
@@ -78,8 +78,8 @@ changed around. Additionally I went into Panel Preferences and set the panel to
 hide itself "Intelligently".
 
 Next, I wanted to ensure that Midnight Commander can use Alt-Tab. In the
-settings manager, I headed over to Window Manager → Keyboard and made the
-obvious changes.
+settings manager, I headed over to Window Manager → Keyboard and assigned
+window cycling to Ctrl-Tab instead.
 
 There was also a second modification to keyboard behavior, namely the Compose
 key. Initially, I was under the impression that this is something that requires
@@ -89,7 +89,7 @@ system defaults, enabling me to set up Caps Lock as the Compose key.
 
 Feeling pretty good about my results so far, of course a new issue cropped up,
 and that was Mudlet flashing in the task bar whenever any new messages came in.
-I was not having this issue with LXDE. Anyway I found a Mudlet setting to
+I was not having this issue with LXDE. Anyway, I found a Mudlet setting to
 disable this behavior.
 
 And now for some cosmetic but nice changes: I went into Appearance from the
