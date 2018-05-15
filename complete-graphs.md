@@ -20,12 +20,12 @@ nx.draw_networkx(K, pos, with_labels=False, node_size=0, alpha=0.25); ax = plt.g
 Closely related operations have been joined with semicolons so that the
 parameters of $n$ and alpha can be experimented upon in a Python shell easily.
 Here is the output of the above code, rendered this time not by `plt.show()`
-but by `plt.savefig()` with a high DPI (720):
+but by `plt.savefig()` with a high DPI setting (720):
 
 ![complete graph K_50](complete-graph.png)
 
 The aesthetic qualities of the complete graph apparently have been known for
 hundreds of years, as demonstrated in this illustration from a 16th century
-edition of Ramon Llull's *Ars Magna*:
+edition of medieval Catalan philosopher Ramon Llull's *Ars Magna*:
 
 ![Prima Figvra](prima-figvra.jpg)
