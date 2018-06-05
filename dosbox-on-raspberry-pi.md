@@ -85,6 +85,3 @@ performance but oh well.
 One other thing I didn't need that might still be relevant: if there are
 processes that can be killed that might be getting in the way, kill them. I'm
 not sure how much it would really help in most circumstances, but it might.
-
-* Killing other tasks
-
