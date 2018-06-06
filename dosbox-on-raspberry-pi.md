@@ -5,7 +5,7 @@ The Pi, especially more recent models, can run DOS games with DOSBox pretty
 well but getting the best performance can require a bit of black magic. I set
 the fairly ambitious goal of running a very popular real-time strategy game
 from the DOS era, [The Settlers
-II](https://en.wikipedia.org/wiki/The_Settlers_II) and I was finally able to
+II](https://en.wikipedia.org/wiki/The_Settlers_II), and I was finally able to
 get decent results, just as good as on a desktop, though there was some
 bending over backwards to get this outcome.
 
