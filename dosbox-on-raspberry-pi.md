@@ -44,14 +44,15 @@ to date with the model in question.
 
 After compiling and installing the custom DOSBox, I focused more intensely on
 something I had exposed myself to earlier, namely DOSBox configuration. The
-suggestions in the 2015 compilation guide are a good template, but one might
-want to alter things like the value of `frameskip` and so on. `cycles` is a
-setting that may need special tailoring as no two games are perfectly alike in
-their processing requirements. (Moreover, some developers unwisely tied
-execution speed directly to a specific CPU model rather than using the system
-clock.) Also, just throwing more and more cycles at a lagging game will
-actually make it perform worse for whatever reason. I recommend something like
-the following:
+suggestions in the 2015 compilation guide are a good template (see
+[here](https://www.codingepiphany.com/2013/06/27/some-configs-to-increase-dosbox-performance-on-raspberry-pi/)
+also), but one might want to alter things like the value of `frameskip` and so
+on. `cycles` is a setting that may need special tailoring as no two games are
+perfectly alike in their processing requirements. (Moreover, some developers
+unwisely tied execution speed directly to a specific CPU model rather than
+using the system clock.) Also, just throwing more and more cycles at a lagging
+game will actually make it perform worse for whatever reason. I recommend
+something like the following:
 
 ```
 cycles=10000
