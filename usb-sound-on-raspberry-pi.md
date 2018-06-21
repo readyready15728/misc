@@ -1,21 +1,43 @@
 # USB Sound on Raspberry Pi
 ## Getting the frigging external sound card to work on Raspberry Pi
 
-Mention device (GeneralPlus)
+The built-in audio output on the Raspberry Pi 3 B was absolute garbage for me
+so I bought one of these:
 
-/boot/config.txt (not needed)
-/etc/asound.conf
-/usr/share/alsa/alsa.conf
+https://www.adafruit.com/product/1475
 
-https://learn.adafruit.com/usb-audio-cards-with-a-raspberry-pi?view=all
-http://www.raspberryvi.org/posts/usb-audio.html
+I looked at various tutorials and forum threads and cobbled together a
+solution that actually worked for my model with Raspbian Stretch. The key was
+looking at the output of `aplay -l`:
 
-Maybe the desktop icon? Probably not (actually yes)
+```
+**** List of PLAYBACK Hardware Devices ****
+card 0: ALSA [bcm2835 ALSA], device 0: bcm2835 ALSA [bcm2835 ALSA]
+  Subdevices: 7/7
+  Subdevice #0: subdevice #0
+  Subdevice #1: subdevice #1
+  Subdevice #2: subdevice #2
+  Subdevice #3: subdevice #3
+  Subdevice #4: subdevice #4
+  Subdevice #5: subdevice #5
+  Subdevice #6: subdevice #6
+card 0: ALSA [bcm2835 ALSA], device 1: bcm2835 ALSA [bcm2835 IEC958/HDMI]
+  Subdevices: 1/1
+  Subdevice #0: subdevice #0
+card 1: vc4hdmi [vc4-hdmi], device 0: MAI PCM vc4-hdmi-hifi-0 []
+  Subdevices: 1/1
+  Subdevice #0: subdevice #0
+card 2: Device [USB Audio Device], device 0: USB Audio [USB Audio]
+  Subdevices: 0/1
+  Subdevice #0: subdevice #0
+```
 
-[    2.869490] usb 1-1.4: Manufacturer: GeneralPlus
-[    2.873164] input: GeneralPlus USB Audio Device as /devices/platform/soc/3f980000.usb/usb1/1-1/1-1.4/1-1.4:1.3/0003:1B3F:2008.0003/input/input2
-[    2.951752] hid-generic 0003:1B3F:2008.0003: input,hidraw2: USB HID v2.01 Device [GeneralPlus USB Audio Device] on usb-3f980000.usb-1.4/input3
+In other instructions, the USB audio becomes "card 1". Here, however, it is
+"card 2".
 
+I then edited `/etc/asound.conf`:
+
+```
 pcm.!default {
     type hw
     card 2
@@ -24,8 +46,20 @@ ctl.!default {
     type hw
     card 2
 }
+```
 
+And the relevant part of `/usr/share/alsa/alsa.conf`:
+
+```
 defaults.ctl.card 2
 defaults.pcm.card 2
+```
 
-Still not clear on how to make default
+I'm pretty sure I also had to right-click on the speaker icon in LXDE and
+select "USB Audio Device". Not sure why and not sure how to do that from the
+CLI either. Anyway it works now.
+
+These pages were especially useful in getting the USB audio card to work:
+
+* https://learn.adafruit.com/usb-audio-cards-with-a-raspberry-pi?view=all
+* http://www.raspberryvi.org/posts/usb-audio.html
