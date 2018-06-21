@@ -59,7 +59,6 @@ I'm pretty sure I also had to right-click on the speaker icon in LXDE and
 select "USB Audio Device". Not sure why and not sure how to do that from the
 CLI either. Anyway it works now.
 
-These pages were especially useful in getting the USB audio card to work:
+This page was especially useful in getting the USB audio card to work:
 
-* https://learn.adafruit.com/usb-audio-cards-with-a-raspberry-pi?view=all
-* http://www.raspberryvi.org/posts/usb-audio.html
+https://learn.adafruit.com/usb-audio-cards-with-a-raspberry-pi?view=all
