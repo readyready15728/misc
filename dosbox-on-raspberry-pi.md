@@ -37,7 +37,7 @@ CXXFLAGS="-O3 -mcpu=cortex-a53 -mfpu=neon-fp-armv8 -mfloat-abi=hard -funsafe-mat
 On that note, I am not currently using RetroPie, preferring to do things
 piecemeal, but somebody pointed me to the [script RetroPie uses to compile and
 install
-DOSBOx](https://github.com/RetroPie/RetroPie-Setup/blob/master/scriptmodules/emulators/dosbox.sh)
+DOSBox](https://github.com/RetroPie/RetroPie-Setup/blob/master/scriptmodules/emulators/dosbox.sh)
 which contains relevant information. This should continue to be a valuable
 source of compilation pointers into the future, as new models of the Pi are
 released. Of course, the particulars of compilation should always be kept up
