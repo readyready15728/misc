@@ -1,4 +1,5 @@
-General-purpose header for LaTeX:
+# LaTeX Header
+## General-purpose header for LaTeX
 
 ```latex
 \documentclass[12pt]{article}

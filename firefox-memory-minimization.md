@@ -1,4 +1,5 @@
 # Reduce the Memory Usage of Firefox
+## I don't care for the bloat
 
 There are many ways to do this but, as of Firefox Quantum 57, the best ways 
 appear to be:

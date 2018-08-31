@@ -1,4 +1,5 @@
 # Uninstall Packages Installed by `setup.py`
+## Sometimes Stack Overflow is actually helpful
 
 This is probably the best way to do it:
 

@@ -1,4 +1,5 @@
-## Vim Compilation
+# Vim Compilation
+## Making the most of a great editor
 
 Here is my "Cadillac" configuration of Vim:
 

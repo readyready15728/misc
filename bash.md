@@ -1,4 +1,5 @@
 # bash
+## Getting the most out of the venerable default shell
 
 * The following will create an eternal history for bash as well as preserving
 history from multiple terminal tabs and is drawn from the following Stack

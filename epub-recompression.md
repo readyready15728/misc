@@ -1,4 +1,5 @@
 # EPUB Recompression
+## Trimming needlessly large ebooks
 
 Sometimes you'll download an EPUB file and it's just way too big. Often this
 can be fixed relatively easily, as you'll see here. Just follow these steps:

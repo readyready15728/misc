@@ -1,4 +1,5 @@
 # SyncTERM
+## Explore the mostly dead world of BBSes
 
 [SyncTERM](http://syncterm.bbsdev.net/) is a BBS client that runs on Linux. The
 author is somewhat cryptic about installing from source but it's really as

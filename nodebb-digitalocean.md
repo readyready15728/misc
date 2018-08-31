@@ -1,4 +1,5 @@
 # NodeBB Installation on Digital Ocean
+## I need a beer
 
 What a pain in the ass this all was. I'm writing everything down so I don't
 have to figure everything out again.

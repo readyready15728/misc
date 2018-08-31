@@ -1,4 +1,5 @@
 # Amiga Emulation
+## Getting Amiga software to run on modern hardware
 
 * Log in to OAGD / Open Retro on FS-UAE Launcher to gain access to the many
 database entries for Amiga games with their associated downloads.
@@ -225,4 +226,3 @@ utility, the following steps must be taken, at least in FS-UAE:
 screen mode is changed *during* a connection. To change the screen mode
 in fact, open DCTelnet, *do not* start a connection, change the screen mode,
 quit, and restart with the new screen mode. *Then* make a connection.
-
