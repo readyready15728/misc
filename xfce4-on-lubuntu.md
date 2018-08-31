@@ -77,9 +77,9 @@ right:
 changed around. Additionally I went into Panel Preferences and set the panel to
 hide itself "Intelligently".
 
-Next, I wanted to ensure that Midnight Commander can use Alt-Tab. In the
+Next, I wanted to ensure that Midnight Commander can use `Alt-Tab`. In the
 settings manager, I headed over to Window Manager → Keyboard and assigned
-window cycling to Ctrl-Tab instead.
+window cycling to `Ctrl`-Tab instead.
 
 There was also a second modification to keyboard behavior, namely the Compose
 key. Initially, I was under the impression that this is something that requires

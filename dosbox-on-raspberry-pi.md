@@ -61,7 +61,7 @@ cycleup=1000
 cycledown=1000
 ```
 
-This means that Ctrl-F11 and Ctrl-F12 will step up and down, respectively, in
+This means that `Ctrl`-F11 and `Ctrl`-F12 will step up and down, respectively, in
 increments of one thousand, which is probably granular enough. Then, when you
 find the ideal cycle setting, you can put it in the configuration file.
 

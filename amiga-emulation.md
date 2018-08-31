@@ -108,19 +108,19 @@ of the other implementations of the same to run it.
 what FS-UAE will support in fast RAM.
 * FS-UAE can work with .dms demo files directly, but they don't necessarily
 play along well with Workbench.
-* Ctrl-C can be used in the CLI to terminate an Amiga binary (though it may not
+* `Ctrl-C` can be used in the CLI to terminate an Amiga binary (though it may not
 have effect, at least immediately); the equivalent for an AmigaDOS script is
-Ctrl-D.
+`Ctrl-D`.
 * There are a number of other useful keyboard shortcuts in the CLI for some
 versions of Workbench:
-    * Ctrl-W: deletes one word backwards
-    * Ctrl-X: deletes entire current line
-    * Ctrl-K: "kills" to end of line
-    * Ctrl-Y: pastes kill buffer
-    * Ctrl-U: deletes backwards to start of line
-    * Ctrl-S: suspends output
-    * Ctrl-Q: resumes output
-    * Ctrl-\: ends CLI instance (Ctrl-\ is also more generally the EOF
+    * `Ctrl`-W: deletes one word backwards
+    * `Ctrl`-X: deletes entire current line
+    * `Ctrl`-K: "kills" to end of line
+    * `Ctrl`-Y: pastes kill buffer
+    * `Ctrl`-U: deletes backwards to start of line
+    * `Ctrl`-S: suspends output
+    * `Ctrl`-Q: resumes output
+    * `Ctrl`-\: ends CLI instance (`Ctrl`-\ is also more generally the EOF
       character)
 * Universal wildcard on Amiga is #?, not \*. (\* stands for the keyboard
 and current screen; for example `COPY filename to *` will print contents
