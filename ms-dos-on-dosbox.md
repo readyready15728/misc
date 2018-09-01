@@ -1,7 +1,8 @@
 # MS-DOS on DOSBox
 ## Reviving the operating system that won out through skullduggery
 
-As I did it, I first created a directory dedicated to this task.
+As I chose to go about doing this, I first created a directory dedicated to
+the task in question.
 
 Then, therein, I created an image that serves as a virtual hard drive. 256 MB
 is a sensible default. This can be done accordingly:
@@ -20,8 +21,7 @@ name `dosbox-0.74-ms-dos.conf`.
 Before making any changes to this configuration file, I needed to procure
 images of the MS-DOS 6.22 installation disks. There is a great website called
 [WinWorld](https://winworldpc.com) that has the images for [MS-DOS 6.22 Plus
-Enhanced
-Tools](https://winworldpc.com/download/c38fc38d-68c2-bbe2-80a6-4b11c3a4c2ac).
+Enhanced Tools](https://winworldpc.com/download/c38fc38d-68c2-bbe2-80a6-4b11c3a4c2ac).
 This will be downloaded as a 7zip archive. I used `p7zip -d` to extract it and
 then moved the following files from the directory that was created by
 extracting the archive into the parent MS-DOS directory:
@@ -45,7 +45,7 @@ boot Disk1.img Disk2.img Disk3.img -l a
 
 It's not clear what the purpose of `2` after `imgmount` is. The only
 information I can seem to find without digging through the DOSBox source code
-is that it signifies master (as opposed to slave drive). As far as I
+is that it signifies master (as opposed to slave) drive. As far as I
 understand things, the first three comma-delimited numbers following `-size`
 never change, but the fourth does if one opts for a different image size than
 256 MB. If a different size is desired, multiply the desired number of
