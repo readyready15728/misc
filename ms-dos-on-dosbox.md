@@ -127,7 +127,9 @@ so that `mount` knows where to look for the partition.
 
 And why `sudo`? Only root users can mount with options. Additionally, all of
 the files in the image will have root ownership and this can't be changed, so
-`sudo` will be required for any installations or removals to be done.
+`sudo` will be required for any installations or removals to be done. When
+direct access to the MS-DOS image is no longer desired, use `sudo umount mnt`
+to release that access.
 
 Having followed all these steps, I finally attained a full MS-DOS installation
 to which new software can be added. I'm still having an issue with installing
