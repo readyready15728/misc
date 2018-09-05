@@ -16,7 +16,13 @@
 * [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
 * [What statisticians think about data scientists](https://www.datasciencecentral.com/profiles/blogs/what-statisticians-think-about-data-scientists)
 * [Spiking Neural Networks, the Next Generation of Machine Learning](https://towardsdatascience.com/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b)
-* 
+* [Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research](https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html)
 
 ## Books
 * [Forecasting: Principles and Practice](https://otexts.org/fpp2/)
+
+## Online Courses
+* [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science)
+
+## Videos
+* [Deep Learning: A Crash Course](https://www.youtube.com/watch?v=r0Ogt-q956I)
