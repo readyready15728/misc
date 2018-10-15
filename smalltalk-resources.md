@@ -7,6 +7,7 @@
 * [How learning Smalltalk can make you a better developer](https://techbeacon.com/how-learning-smalltalk-can-make-you-better-developer)
 * [Java Vs Smalltalk](http://wiki.c2.com/?JavaVsSmalltalk)
 * [Smalltalk and Raspberry Pi](https://medium.com/morning-light/smalltalk-and-raspberry-pi-8d85793b132f)
+* [What Killed Smalltalk?](https://pointersgonewild.com/2015/08/20/what-killed-smalltalk/) (see below)
 * [What makes a programming language “cool?”](https://hackernoon.com/what-makes-a-programming-language-cool-f40401f0f929)
 * [Who uses Smalltalk?](https://medium.com/smalltalk-talk/who-uses-smalltalk-c6fdaa6319a)
 * [Why Is Smalltalk Dead](http://wiki.c2.com/?WhyIsSmalltalkDead) (it's not exactly but interesting history here)
@@ -17,3 +18,4 @@
 
 ## Miscellaneous
 * [A brief description of some of the Smalltalk implementations](http://www.world.st/try/implementations)
+* [Not so Terse Guide to Pharo](https://gist.github.com/jdevoo/8e8866cd6087e05790841d0f20b2e377)
