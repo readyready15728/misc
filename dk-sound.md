@@ -1,4 +1,5 @@
 # Sound in Dungeon Keeper Gold
+## Averting a major source of frustration
 
 When I bought Dungeon Keeper Gold from GOG and tried to start playing it, I
 noticed that the sound stuttered horrifically. A lot of people seem to have

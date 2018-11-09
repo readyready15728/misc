@@ -1,4 +1,5 @@
 # MongoDB Authorization
+## Because the official documentation sucks
 
 As alluded to in my [instructions on installing NodeBB on a Digital Ocean
 droplet](nodebb-digitalocean.md), there are old instructions on how to set up

@@ -1,4 +1,5 @@
 # Complete Graphs
+## They look cool
 
 Python libraries [NetworkX](https://networkx.github.io) and
 [matplotlib](https://matplotlib.org) can be used to plot the [complete

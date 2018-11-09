@@ -1,4 +1,5 @@
-General-purpose header for LaTeX:
+# LaTeX Header
+## General-purpose header for LaTeX
 
 ```latex
 \documentclass[12pt]{article}
@@ -10,7 +11,7 @@ General-purpose header for LaTeX:
 ```
 
 Supports Unicode and much better than the lame default of Computer Modern
-Roman, also omits page numbering (which is what I prefer. Here is additional
+Roman, also omits page numbering (which is what I prefer). Here is additional
 configuration I recommend if hyperlinks are going to be used:
 
 ```latex

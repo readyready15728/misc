@@ -1,4 +1,5 @@
 # Amiga Resources
+## Third-party software, documentation and more
 
 ## Articles
 * http://amigadocs.hokstad.com/doku.php?id=shell (contains *very* important information on improving on the default Amiga CLI)

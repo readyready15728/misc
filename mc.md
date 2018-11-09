@@ -1,4 +1,5 @@
 # Midnight Commander
+## Using the command line file manager to its fullest
 
 * The following makes it possible to view XZ-compressed PDF files in Midnight
 Commander:
