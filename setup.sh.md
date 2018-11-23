@@ -23,6 +23,13 @@ EOF
 
 mkdir ~/src
 cd ~/src
+git clone https://github.com/vim/vim
+cd vim
+# Change this to suit taste, for example by enabling compilation of GVim
+./configure --enable-python3interp=yes --enable-terminal --enable-multibyte
+make
+sudo make install
+cd ..
 git clone https://github.com/readyready15728/dot-vimrc
 cd
 ln -s ~/src/dot-vimrc/.vimrc
@@ -36,4 +43,3 @@ cd ~/.vim/bundle/YouCompleteMe
 sudo apt install cmake
 python3 install.py --js-completer --java-completer
 ```
-
