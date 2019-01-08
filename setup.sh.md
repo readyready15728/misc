@@ -40,6 +40,6 @@ cd
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 vim -c 'PluginInstall' -c 'qa'
 cd ~/.vim/bundle/YouCompleteMe
-sudo apt install cmake
+sudo apt install cmake npm
 python3 install.py --js-completer --java-completer
 ```
