@@ -42,4 +42,6 @@ vim -c 'PluginInstall' -c 'qa'
 cd ~/.vim/bundle/YouCompleteMe
 sudo apt install cmake npm
 python3 install.py --js-completer --java-completer
+
+sudo apt install trash-cli
 ```
