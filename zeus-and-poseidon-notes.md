@@ -29,3 +29,4 @@ out of range of the monster.
 * People don't like living near colleges for some reason (though podiums are
 unaffected) so plan accordingly.
 * Sanctuaries do not require maintenance.
+* Elite housing does not require access to infirmaries or fountains.
