@@ -30,3 +30,5 @@ out of range of the monster.
 unaffected) so plan accordingly.
 * Sanctuaries do not require maintenance.
 * Elite housing does not require access to infirmaries or fountains.
+* If agoras don't seem to be delivering goods effectively, it could be because
+they are too distant from granaries and storehouses.
