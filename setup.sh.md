@@ -6,6 +6,8 @@ Self-explanatory. Got a new Pi? Just opened up a new cloud account? Here ya go:
 ```bash
 #!/bin/sh
 
+sudo apt install fortune-mod
+
 cat << 'EOF' >> ~/.bashrc
 
 # Eternal bash history combined with preservation of history across multiple
@@ -20,6 +22,8 @@ export HISTFILE=~/.bash_eternal_history
 PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
 
 export TERM=xterm-256color
+
+fortune
 EOF
 
 mkdir ~/src
