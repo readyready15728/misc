@@ -228,3 +228,9 @@ utility, the following steps must be taken, at least in FS-UAE:
 screen mode is changed *during* a connection. To change the screen mode
 in fact, open DCTelnet, *do not* start a connection, change the screen mode,
 quit, and restart with the new screen mode. *Then* make a connection.
+* [KingCON](http://aminet.net/package/util/shell/KingCON_1.3)'s documentation
+mentions how it is possible to replace the `CON:` device with the greatly
+improved `KCON:` device.
+* Installation of [WHDLoad](http://whdload.de) requires that the
+aforementioned Installer program be installed in the the top-level `C:`
+directory.
