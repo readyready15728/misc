@@ -80,7 +80,9 @@ computing today.
 * `PATH` can be used to add to the search path in a single AmigaDOS instance;
 `ASSIGN` can be used to add to it globally. (For more information on that,
 see [here](http://wiki.amigaos.net/wiki/AmigaOS_Manual:_AmigaDOS_Command_Examples#Changing_the_Search_Path).
-If spaces appear in the path, remember to use double quotes.
+If spaces appear in the path, remember to use double quotes. Additionally,
+such statements need to be added to `SYS:S/User-Startup` to persist over
+multiple boots of the operating system.
 * `MAKEDIR` is the equivalent of `mkdir`.
 * `RENAME` does move operations. It can be even be used with the target
 filename omitted, like so: `RENAME file directory`.
