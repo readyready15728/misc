@@ -59,4 +59,11 @@ sudo apt install ocaml opam
 opam init
 eval `opam config env`
 opam install core base utop merlin
+
+cat << 'EOF' >> ~/.ocamlinit
+#use "topfind";;
+#thread;;
+#require "core.top";;
+#require "core.syntax";;
+EOF
 ```
