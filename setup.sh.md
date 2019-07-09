@@ -23,6 +23,9 @@ PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
 
 export TERM=xterm-256color
 
+# OPAM configuration
+. /home/muhammad/.opam/opam-init/init.sh > /dev/null 2> /dev/null || true
+
 fortune
 EOF
 
