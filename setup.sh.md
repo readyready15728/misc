@@ -51,4 +51,9 @@ sudo apt install cmake npm
 python3 install.py --java-completer --ts-completer
 
 sudo apt install trash-cli
+
+sudo apt install ocaml opam
+opam init
+eval `opam config env`
+opam install core utop merlin
 ```
