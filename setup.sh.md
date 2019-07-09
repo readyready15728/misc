@@ -63,7 +63,6 @@ opam install core base utop merlin
 cat << 'EOF' >> ~/.ocamlinit
 #use "topfind";;
 #thread;;
-#require "core.top";;
-#require "core.syntax";;
+#require "core";;
 EOF
 ```
