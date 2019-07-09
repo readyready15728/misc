@@ -55,5 +55,5 @@ sudo apt install trash-cli
 sudo apt install ocaml opam
 opam init
 eval `opam config env`
-opam install core utop merlin
+opam install core base utop merlin
 ```
