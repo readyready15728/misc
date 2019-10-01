@@ -34,7 +34,7 @@ cd ~/src
 git clone https://github.com/vim/vim
 cd vim
 # The following is adapted from https://github.com/Valloric/YouCompleteMe/wiki/Building-Vim-from-source and may need alteration
-sudo apt get update # Useful for preventing 404
+sudo apt update # Useful for preventing 404
 sudo apt install build-essential libncurses-dev libgnome2-dev libgnomeui-dev libgtk-3-dev libatk1.0-dev libbonoboui2-dev libcairo2-dev libx11-dev libxpm-dev libxt-dev python3-dev git
 # Change this to suit taste
 ./configure --enable-gui=gtk3 --enable-python3interp=yes --enable-terminal --enable-multibyte
