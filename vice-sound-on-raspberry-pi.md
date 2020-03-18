@@ -18,11 +18,9 @@ were right in front of me. I found a constellation of settings that worked,
 but I didn't know how to make it permanent. With a further look at the
 documentation I found an approach that ultimately unraveled the mystery: it is
 possible to dump the current configuration to the configuration file in the
-emulator: it is possible to dump the current configuration to the
-configuration file in the emulator. After I did this, I saw where the
-configuration was *actually* dumped, which was `~/.vice/sdl-vicerc`. I then
-made the changes to ensure that what I had achieved through the menu system
-was made permanent:
+emulator. After I did this, I saw where the configuration was *actually*
+dumped, which was `~/.vice/sdl-vicerc`. I then made the changes to ensure that
+what I had achieved through the menu system was made permanent:
 
 ```
 SoundDeviceName="alsa"
