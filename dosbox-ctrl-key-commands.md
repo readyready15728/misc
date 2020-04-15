@@ -10,3 +10,5 @@ https://www.vogons.org/viewtopic.php?t=29506
 
 How this person figured it out and why I have to do this is still utterly
 beyond me as I have yet to find other references to this quirk.
+
+(*EDIT*: figured it out; it was because Xfce4 was already binding those keys.)
