@@ -1,7 +1,10 @@
 # VisualWorks on Linux
 ## Making the venerable commercial Smalltalk implementation not hideous
 
-This sums it up:
+First of all, I needed to find the email linking to the download. This wasn't
+in my spam folder as the website suggested, but in "Promos".
+
+After getting the ISO, this sums it up:
 
 http://www.cincomsmalltalk.com/main/questions/question/how-do-i-install-cincom-smalltalk-on-linux/
 
