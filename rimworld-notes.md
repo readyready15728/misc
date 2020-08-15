@@ -74,3 +74,14 @@ Also:
 * Animals have to be assigned trainers to be trained and this requires proper
   food for the type of animal.
 * A workstation needs to be not busy if it is to be deconstructed.
+* Healers need to enable self-tend explicitly.
+* Gold can be found in some rock deposits.
+* Colonists can become jealous of others' accommodations.
+* Food storage near cooking facilities in addition to letting cooked food drop
+  rather than be taken to the storage area can greatly improve the efficiency
+  of cooking.
+* Chairs make workstations more efficient.
+* Meditation time can be set in Schedule, and psyfocus for psykers can be set
+  individually.
+* Psykers require meditation sites specific to their focus. See here:
+  https://store.steampowered.com/newshub/app/294100/view/2241050403490947258
