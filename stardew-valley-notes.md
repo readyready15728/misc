@@ -36,4 +36,4 @@
 * Be sure to **identify** recipients of quest items positively before giving
   the item.
 * Bring food with you into the mines.
-* Right click to move just single items between chests/inventory.
+* Right-click to move just single items between chests/inventory.
