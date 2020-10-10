@@ -12,7 +12,7 @@
 * Fishing can be very frustrating. What's worked for me so far is casting the
   line out as far as possible with the Training Rod, which will presumably
   become useless at level 5 of Fishing.
-* Only two advanced fishing rods can use bait.
+* Only two advanced fishing rods can use Bait.
 * Stumps don't grow back so I'm not sure why some people appear to advocate
   leaving them there.
 * A chest to store excess goods is the first item you should craft. In terms
@@ -25,7 +25,7 @@
 * Cauliflower is a good beginner's crop.
 * "Always Show Tool Hit Location" appears useful.
 * Use fertilizer.
-* Use crab pots.
+* Use Crab Pots.
 * It's necessary to go behind the counter to "meet" entrepreneurial villagers.
 * Pierre's General Store has a calendar posted out front.
 * Tilled ground without crops on it will gradually be reclaimed by nature.
@@ -37,3 +37,80 @@
   the item.
 * Bring food with you into the mines.
 * Right-click to move just single items between chests/inventory.
+* Fishing outcomes depend on distance bobber cast from land, location, season,
+  time of day and weather.
+* It's possible to clear tilled land with the pickaxe tool.
+* Visit the Traveling Merchant for rare valuable goods.
+* Right-clicking with weapons can invoke a secondary ability in most cases.
+* Pay attention to time while in the mines.
+* Fruit trees need to have a clear area around them to grow.
+* Tilling the beach is a good way to get clay.
+* Hoe worms for resources.
+* Some crops are multi-seasonal.
+* Tackle can help catch fish.
+* Use the mine elevator for rapid transit.
+* Holding Shift while buying does it in increments of five.
+* Upgrading a tool means it won't be available for two days.
+* Repair the bridge on the beach with 300 Wood.
+* Old Mariner on the beach has an amulet to sell at some point.
+* There seem to be a lot of valuable items on the beach post-Luau.
+* Remember to use Museum rewards later in the game.
+* The Spa can replenish energy.
+* Storms sometimes make crops vanish.
+* The cave in the western region of your farm becomes viable during the first
+  summer.
+* Lightning rods can harvest electricity.
+* Upgraded versions of the watering can and hoe allow the player to water and
+  till multiple squares of land in a single use (using click-and-hold).
+* Sunflowers sometimes produce their own seeds.
+* You can't pave tilled land.
+* Hoe land early.
+* Rivers have salmon roe during the autumn.
+* Accept all story quests.
+* Sell prices depend on where items are dropped off.
+* Look into "retaining soil".
+* Use tappers on mature trees.
+* Stardrops willp permanently increase energy.
+* "Cooking is a game mechanic that becomes available after upgrading the
+  farmhouse for the first time. The house upgrade adds a kitchen, which
+  includes a stove and a refrigerator. The stove is the cooking interface, while
+  the refrigerator provides 36 slots of storage space, similar to a chest. The
+  refrigerator is unique in that it is directly linked with the cooking
+  interface, as if it were an extension of the player's inventory. Only
+  ingredients in the player's inventory, refrigerator or Mini-Fridge are seen as
+  usable items for a recipe."
+* There appear to be major expansions to the game world, including a desert
+  and a Dwarf.
+* Stacks of objects top out at 999.
+* The player needs to store hay for winter.
+* Sprinklers can be very costly.
+* Luck is important for mining.
+* Take little with you when undertaking dangerous mining operations.
+* Dumpster diving in the presence of others is frowned upon.
+* Greenhouses can grow crops during winter.
+* Regarding chicken hearts: "It's easy you just have to feed them and right
+  click on them every day. also, right clicking on them will not increase
+  their hearts when they are upset. so give them heaters in the winter and let
+  them outside in the summer, Fall and spring ( they will not get lost because
+  thay all come back inside beetween 5PM and 5.30PM) Hope this helps!"
+* Cut out weeds, stumps and stones from the wilderness to maximize space for
+  foraging.
+* Animals prefer outdoors grass (but not being out in the rain).
+* Refined Quartz is made from firing Quartz with Coal.
+* Put space between Crab Pots so they're easy to distinguish.
+* Harvesting from Crab Pots is much more efficient if you
+* Harvesting from Crab Pots is much more efficient if you
+* Bundle progress can be checked from the Player Menu.
+* It's way more efficient to harvest from many Crab Pots with Bait in hand
+  ready to put it in.
+* Linus has the recipe for Sashimi (Friendship level 3, by mail next day).
+* It's not always profitable to turn fish into Sashimi. (I assume this refers
+  to farmed fish?)
+* Coffee can be used to increase player speed!
+* If Willy isn't in his shop you can take Bait off your fishing pole for Crab
+  Pots.
+* Dig on spots where little brown stems appear.
+* Trellis crops can't be walked through. (Suggest 3x3 design with empty
+  center?)
+* The Mayonnaise Machine can be quite profitable.
+* Grass mowed while all Silos are full doesn't count towards Hay.
