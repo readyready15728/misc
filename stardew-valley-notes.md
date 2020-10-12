@@ -114,3 +114,51 @@
   center?)
 * The Mayonnaise Machine can be quite profitable.
 * Grass mowed while all Silos are full doesn't count towards Hay.
+* Light sources are needed for lower mine levels.
+* Grass multiplies if permitted to, which can be used to harvest Hay
+  sustainably.
+* Bees with flowers growing near them can produced flavored honey.
+* Friendship can decay! One must talk to villagers to maintain it.
+* Sell high quality crops and keep regular ones for cooking because ingredient
+  quality (currently) makes no difference.
+* Passing trains deposit items apparently.
+* Pigs can dig up truffles.
+* Oil of Garlic will prevent swarm attacks in the Mine.
+* At events (and maybe elsewhere) people can be talked to more than once.
+* Have an excess supply of fertilizer on hand.
+* You can leave your horse anywhere and it will return.
+* Special Fishing-related foods can enhance Fishing skill past max level.
+* Shift+Right Click on chests splits a stack in between the chest and
+  inventory.
+* Ripe produce can continue to be watered and may turn into "large" variants.
+* Kegs can produce a wide variety of products.
+* Fishing is also possible in swamps and lava.
+* In Spring, plant Strawberries.
+* One can buy a calendar from Robin.
+* New items appear on the Beach after rainfall.
+* Pale Ale and other goods can be aged in Casks.
+* Weapons can only be sold at the Adventurer's Guild.
+* Tilling soil in the Mines can have some interesting outcomes.
+* Remember to scythe down all your grass before seasons change.
+* Professions can be switched using the Statue of Uncertainty.
+* A lot of Crab Pot finds can be turned into Sashimi and be more profitable
+  that way!
+* Crab Pots also work in freshwater.
+* If cooking, ensure that ingredients are not in fact worth more than the
+  final product!
+* Item quality affects effects of gift-giving.
+* Museum items can be rearranged.
+* Fairy Roses are best for making Fairy Rose Honey.
+* Plant Cranberry Seeds early to profit best. (That applies more generally for
+  crops that keep yielding after first harvest.)
+* Ordinary trees need only one space to thrive but giving them two might make
+  tapping operations easier to work with.
+* The Old Mariner sells the Mermaid's Pendant, vital to marriage.
+* Extra friendship levels appear after marriage.
+* Once ten hearts of friendship are attained they never go down.
+* Apparently children are possible?
+* "For processing animal products, I suggest putting them in the building with
+  the relevant animals. So, put your cheese presses in your barn, put your
+  mayo-makers in the coop. If you have 1 per animal then you can just pick up
+  whatever 'raw material' they produce and put it straight in to the relevant
+  artisan machine."
