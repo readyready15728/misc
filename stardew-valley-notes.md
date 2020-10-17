@@ -162,3 +162,24 @@
   mayo-makers in the coop. If you have 1 per animal then you can just pick up
   whatever 'raw material' they produce and put it straight in to the relevant
   artisan machine."
+* Once the mine carts are restored, they open up rapid transportation around
+  Stardew Valley.
+* The Cork Bobber is quite effective.
+* Consider building a Chest for sourcing artisan goods production in the Shed.
+* Worm Bins can make Bait for the player.
+* Casting a fishing rod into a pool of bubbles with increase rare catches and
+  lead to earlier biting.
+* Mummies need to be destroyed with some sort of bomb after being downed.
+* Store tree sap products in the same chest as used for other year-round plant
+  goods (mushrooms et al.). Same goes for things like Wheat Flour, even Cloth
+  I would say..
+* Once the player gets all four lit candles on Grandpa's Shrine, it can be
+  interacted with to get the Statue of Perfection, which yields Iridium Ore.
+* Sunflowers are by far the fastest way to make Oil.
+* The Big and Deluxe Coops have an Incubator.
+* Pigs need to be let out of the Barn to produce Truffles.
+* Abigail watering some of the crops doesn't mean they're all watered.
+* Casks have to be used in the Cellar.
+* It's possible to place Chests in the entry area to the Mine.
+* Temporarily put top-row stuff you don't use as often in the two lower rows
+  for convenience.
