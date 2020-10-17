@@ -65,7 +65,7 @@
 * Sunflowers sometimes produce their own seeds.
 * You can't pave tilled land.
 * Hoe land early.
-* Rivers have salmon roe during the autumn.
+* Rivers have salmon during the autumn.
 * Accept all story quests.
 * Sell prices depend on where items are dropped off.
 * Look into "retaining soil".
