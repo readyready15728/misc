@@ -183,3 +183,12 @@
 * It's possible to place Chests in the entry area to the Mine.
 * Temporarily put top-row stuff you don't use as often in the two lower rows
   for convenience.
+* Pale Ale seems like a **much** better option option than Wine for Kegs.
+* Sunflowers should not be used as a cash crop but as a source of Oil.
+* The Iridium Band seems very nice.
+* Don't forget about the Missing Bundle.
+* Mind the lower right part of the Secret Woods.
+* The Greenhouse has its own water supply!
+* Be sure to buy the Return Scepter when you can afford it.
+* Use Auto-Grabbers as they make life easier and obviate the need to hold the
+  Milk Pail and Shears in your inventory.
