@@ -192,3 +192,16 @@
 * Be sure to buy the Return Scepter when you can afford it.
 * Use Auto-Grabbers as they make life easier and obviate the need to hold the
   Milk Pail and Shears in your inventory.
+* "When placed, the [Gold Clock] prevents debris from appearing on your farm.
+  It also keeps any placed fences from decaying, so they'll no longer need
+  repair."
+* Speed-boosting items also work when on horseback.
+* Your horse needs a gap of two spaces to navigate a narrow area.
+* Find all the secret notes!
+* Forage and beachcomb on Saturday, before the weekly reset.
+* Seed packets can be profitable.
+* It is possible to plant Rice Sprouts within three tiles of water and it will
+  be unnecessary to water them.
+* Tea Saplings are also waterless.
+* Ancient Fruit can be immensely profitable.
+* Minecarts in mine levels have coal at the end car.
