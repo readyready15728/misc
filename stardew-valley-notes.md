@@ -49,7 +49,8 @@
 * Some crops are multi-seasonal.
 * Tackle can help catch fish.
 * Use the mine elevator for rapid transit.
-* Holding Shift while buying does it in increments of five.
+* Holding Shift while buying does it in increments of five. Holding down both
+  left and right mouse buttons also greatly increases the speed of purchase.
 * Upgrading a tool means it won't be available for two days.
 * Repair the bridge on the beach with 300 Wood.
 * Old Mariner on the beach has an amulet to sell at some point.
@@ -184,6 +185,7 @@
 * Temporarily put top-row stuff you don't use as often in the two lower rows
   for convenience.
 * Pale Ale seems like a **much** better option option than Wine for Kegs.
+  (Actually Ancient Fruit Wine is even better.)
 * Sunflowers should not be used as a cash crop but as a source of Oil.
 * The Iridium Band seems very nice.
 * Don't forget about the Missing Bundle.
@@ -205,3 +207,8 @@
 * Tea Saplings are also waterless.
 * Ancient Fruit can be immensely profitable.
 * Minecarts in mine levels have coal at the end car.
+* Salmonberries are best turned into Jellies.
+* The Casino can be unlocked.
+* Use Tree Fertilizer to accelerate tree growth.
+* Maybe letting Pigs out all day is a good idea?
+* Give back the Wizard's Magic Ink to make magic buildings available.
