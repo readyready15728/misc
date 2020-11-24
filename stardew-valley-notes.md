@@ -213,3 +213,4 @@
 * Maybe letting Pigs out all day is a good idea?
 * Give back the Wizard's Magic Ink to make magic buildings available.
 * The Iridium Band is really nice.
+* Harvey's clinic has valuable supplies!
