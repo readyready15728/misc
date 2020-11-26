@@ -214,3 +214,5 @@
 * Give back the Wizard's Magic Ink to make magic buildings available.
 * The Iridium Band is really nice.
 * Harvey's clinic has valuable supplies!
+* Hold down the LMB to plant fertilizer and seeds efficiently.
+* Fish can be taken out of a Fish Pond with any fishing rod.
