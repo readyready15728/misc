@@ -216,3 +216,4 @@
 * Harvey's clinic has valuable supplies!
 * Hold down the LMB to plant fertilizer and seeds efficiently.
 * Fish can be taken out of a Fish Pond with any fishing rod.
+* Place a Wicked Statue in a Slime Hutch to prevent bewitching.
