@@ -217,3 +217,6 @@
 * Hold down the LMB to plant fertilizer and seeds efficiently.
 * Fish can be taken out of a Fish Pond with any fishing rod.
 * Place a Wicked Statue in a Slime Hutch to prevent bewitching.
+* Don't use the built-in Slime Incubator in any Slime Hutch if you don't want
+  the possible eyesore of seeing it working endlessly when the Slime Hutch
+  reaches maximum population.
