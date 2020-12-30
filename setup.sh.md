@@ -50,7 +50,7 @@ cd
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 vim -c 'PluginInstall' -c 'qa'
 cd ~/.vim/bundle/YouCompleteMe
-sudo apt install cmake npm
+sudo apt install cmake npm golang
 python3 install.py --all
 
 sudo apt install trash-cli
