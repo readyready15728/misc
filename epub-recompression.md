@@ -70,7 +70,7 @@ making any necessary change appropriate for the file suffix used in this
 directory:
 
     ```bash
-    for page in *.html; do sed -ri 's/<img(.*?)src="(.*?)\.png"/<img\1src="\2\.jpg"/g' $page; done
+    for page in *.html; do ruby -p -i -e 'gsub(/<img(.*?)src="(.*?)\.png"/, "<img\1src=\"\2\.jpg\"")' *.xhtml $page; done
     ```
 
     I believe this regex should be fully appropriate. On the one hand, it will
