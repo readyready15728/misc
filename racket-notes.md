@@ -9,3 +9,7 @@
 * `equal?` is used for most non-numeric equality comparisons. `=` does numeric
   equality comparisons with most reasonable semantics. `eq?` only does object
   reference equality.  
+* `sudo raco pkg install -i <package name(s)>` is necessary for system-wide
+  installation of Racket packages. (The default behavior is to install into
+  `/root` when using `sudo`.)
+* Example of partial function application in Racket: https://rosettacode.org/wiki/Partial_function_application#Racket
