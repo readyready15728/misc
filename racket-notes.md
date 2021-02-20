@@ -13,3 +13,14 @@
   installation of Racket packages. (The default behavior is to install into
   `/root` when using `sudo`.)
 * Example of partial function application in Racket: https://rosettacode.org/wiki/Partial_function_application#Racket
+* The `let*` form can be used to reference values bound in other bindings.
+* Note that `remainder` and `modulo` have different behavior.
+* `empty` is an alias for `'()`.
+* In the context of a `for` statement, a positive integer can create a stream,
+  like so:
+
+    ```racket
+    (for ([i 5])
+        (display i)
+        (newline))
+    ```
