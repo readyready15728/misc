@@ -24,3 +24,46 @@
         (display i)
         (newline))
     ```
+* `for*` can be used for nested loops.
+* Here's how to do a tail call-optimized `factorial`:
+
+  ```racket
+  (define (factorial n)
+    (define (helper n acc)
+      (if (= n 0)
+          acc
+          (helper (sub1 n) (* n acc))))
+    (helper n 1))
+  ```
+* Here's the same thing, but memoized:
+
+  ```racket
+  (define (factorial)
+    (let ([h (make-hash)])
+      (define (factorial n)
+        (cond
+          [(= n 0) 1]
+          [(hash-has-key? h n) (hash-ref h n)]
+          [else
+           (define (helper n acc)
+             (if (= n 0)
+                 acc
+                 (helper (sub1 n) (* n acc))))
+           (helper n 1)]))
+      factorial))
+  ```
+
+* A memoized Fibonacci function:
+
+  ```racket
+  (define F
+    (let ([f (make-hash)])
+      (define (fib n)
+        (cond
+          [(<= n 1) n]
+          [else
+           (let ([fn (+ (fib (- n 1)) (fib (- n 2)))])
+             (hash-set! f n fn)
+             fn)]))
+      fib))
+  ```
