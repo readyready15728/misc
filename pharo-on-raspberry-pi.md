@@ -19,7 +19,7 @@ segfaulting.
 
 After some Google searching, I read that instability in the behavior of the VM
 over time caused the same issue so I tried an earlier release. It *almost*
-worked but for complaint about the VM being too old and an error with
+worked but for a complaint about the VM being too old and an error with
 `LGitLibrary` not being able to find a shared library. Further research into
 that problem revealed that `libgit2.so.0` (or alternatively just `libgit2.so`)
 was missing. What ended up solving the issue was going into
