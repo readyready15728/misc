@@ -29,7 +29,7 @@ was missing. What ended up solving the issue was going into
 The other issue about complaining of an old VM was solved by using a somewhat
 newer VM. I tried one a few releases back and it solved both problems.
 
-And, actually, after having done a bit of research, getting the newest from
+And, actually, after having done a bit of research, getting the newest VM from
 [here](http://files.pharo.org/vm/pharo-spur32/linux/armv6/) (very confusing!)
 and combining it with the latest image and ancillary files worked even better!
 (Symbolic link still needed as before.)
