@@ -11,7 +11,8 @@
 * Pharo works with the system clipboard. How's that for Smalltalk playing
   along nice with the host system? :)
 * Use `&` for logical "and" and `|` for logical "or". Logical "not" is a unary
-  message of the same name.
+  message of the same name. (Actually, I was told `and:` and `or:` are more
+  idiomatic because they're shortcut operators.)
 * Sending the binary message `@` to a number type along with another number
   type to create a `Point` object.
 * PolyMath implements complex number arithmetic!
