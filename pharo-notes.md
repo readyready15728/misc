@@ -7,7 +7,7 @@
   wants `=`.
 * "Literal arrays are created at parse time and are read-only" (but copies are
   mutable—presumably the `isReadOnlyObject` primitive code handles this detail).
-* Use dynamic arrays for instances like this one: `{ (2 + 3) . (6 \* 6) }`.
+* Use dynamic arrays for instances like this one: `{ (2 + 3) . (6 * 6) }`.
 * Pharo works with the system clipboard. How's that for Smalltalk playing
   along nice with the host system? :)
 * Use `&` for logical "and" and `|` for logical "or". Logical "not" is a unary
