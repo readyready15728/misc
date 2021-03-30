@@ -28,7 +28,11 @@ will "freeze" the current position of icons that have been selected.
 with, say, `screenshots_output_dir = ~/Pictures`.
 * `joystick_port_1 = nothing` needs to be in settings for the cursor keys to
 function properly. This is recommended to be used on a per-config basis only,
-not globally.
+not globally. (This option seems to have moved out of custom settings in more
+recent versions.)
+* Use the `PATH` command with no armaments to show the current path.
+* Make sure to eject the disk after installing Workbench. I think not doing so
+broke my install once.
 * The default color palette in Workbench is ugly. On Workbench 2.x, at least,
 this can be changed by going into Colors under Tools and using the following
 palette: EEE, 898, 131, 282 for a nice green theme. Something similar, but even
