@@ -97,3 +97,5 @@
 * The implementation of the unary `selectors` method does something like
   `methods` in Ruby.
 * `respondsTo:` with a symbol is another useful bit of introspection.
+* Shift+Alt+Left Click brings up the halo on a Morph to get rid of a pesky morph.
+* There is a Vim mode for Pharo!
