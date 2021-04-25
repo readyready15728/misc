@@ -100,6 +100,7 @@
 * Shift+Alt+Left Click brings up the halo on a Morph to get rid of a pesky morph.
 * There is a Vim mode for Pharo!
 * From the Discord:
+
   readyready15728: "I want to file a bug report for Pharo 9.0: whenever I delete text over multiple lines using the Backspace key in a Playground, the Transcript gets flooded with SubscriptOutOfBounds errors. I'm not sure I would be able to fix it on my own but I don't know exactly how to track down the error without a tool like grep. How can I find the offending call to Transcript show:?"
 
   Todd Blanchard: "SubscriptOutOfBounds is a class.  Specifically, it is a subclass of Error.  So I would probably get it up in the browser (type its name in a playground, select it, cmd-b for browse) and then hit the old 'class refs' button to see where it is used.  That should give you some clues."
