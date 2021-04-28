@@ -3,7 +3,7 @@
 
 * New users can be added to `wheel` for the purposes of `sudo`. (Needs to be enabled using `visudo`.)
 * The Ports tree can be built using `sudo portsnap auto`.
-* `periodic daily weekly monthly` seems like the only way to update the `locate` DB safely. :/
+* `sudo periodic daily weekly monthly` seems like the only way to update the `locate` DB safely. :/
 * `sudo pkg remove vim-console` needs to happen before any compilation of Vim using Ports.
 * `sudo pkg install py37-pip` (as of now) installs Pip for Python 3.
 * `sudo dmidecode -t processor -t cache` more or less corresponds to `/proc/cpuinfo`.
