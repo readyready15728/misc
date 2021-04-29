@@ -13,3 +13,8 @@
 * Had to add `nginx_enable="YES"` to `/etc/rc.conf` to make it start every boot.
 * Maybe look more into Portmaster?
 * `sftp` broke from attempting to connect from my Linux box. What fixed the problem was putting `Subsystem       sftp    internal-sftp` in `/etc/ssh/sshd_config` then running `sudo service sshd restart`.
+* `sudo portsnap fetch update` updates the Ports tree.
+* `sudo make deinstall` uninstalls a Port.
+* `sudo make rmconfig` restores default Port settings.
+* `sudo make deinstall` followed by `sudo make reinstall` reinstalls a botched Port.
+* Don't forget to restart the appropriate service after changing a lot of config files!
