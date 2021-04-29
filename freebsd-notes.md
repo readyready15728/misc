@@ -11,3 +11,5 @@
 * `sudo portmaster --show-work www/nginx | less` helped me keep track of how much of my nginx build was finished. (Had to be installed separately using `pkg`.)
 * `sudo make config` reconfigures a Port.
 * Had to add `nginx_enable="YES"` to `/etc/rc.conf` to make it start every boot.
+* Maybe look more into Portmaster?
+* `sftp` broke from attempting to connect from my Linux box. What fixed the problem was putting `Subsystem       sftp    internal-sftp` in `/etc/ssh/sshd_config` then running `sudo service sshd restart`.
