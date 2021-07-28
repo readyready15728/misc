@@ -21,7 +21,7 @@ sudo chsh -s /usr/bin/fish $USER
 # The below screws up the terminal for some reason
 # curl -L https://get.oh-my.fish | fish
 mkdir -p ~/.config/fish
-echo > ~/.config/fish/config.fish << EOF
+cat << EOF >> ~/.config/fish/config.fish
 fortune
 echo
 EOF
@@ -64,7 +64,7 @@ sudo apt install -y opam m4
 opam init -y --compiler=$OCAML_VERSION
 eval $(opam env)
 opam install -y async core js_of_ocaml js_of_ocaml-ppx merlin utop ocp-indent
-echo > ~/.config/fish/config.fish << EOF
+cat << EOF >> ~/.config/fish/config.fish
 
 eval (opam env)
 EOF
