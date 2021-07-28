@@ -1,57 +1,53 @@
 # setup.sh
 ## Making a new installation comfy quickly
 
-Self-explanatory. Got a new Pi? Just opened up a new cloud account? Here ya go:
+Scuffed Ansible until I start learning the real thing, intended for CLI-based Debian systems:
 
 ```bash
 #!/bin/sh
 
-# Useful for preventing 404
+## Useful for preventing 404
 sudo apt update
 
-sudo apt install fortune-mod
+## Needed prerequisite packages
+sudo apt install fish git fortune-mod fortunes-bofh-excuses fortunes-de fortunes-debian-hints fortunes-off fortunes-spam fortunes-ubuntu-server
 
-cat << 'EOF' >> ~/.bashrc
-
-# Eternal bash history combined with preservation of history across multiple
-# tabs, drawn from:
-# 
-# https://stackoverflow.com/questions/9457233/unlimited-bash-history
-# https://unix.stackexchange.com/questions/1288/preserve-bash-history-in-multiple-terminal-windows/
-export HISTFILESIZE=
-export HISTSIZE=
-export HISTTIMEFORMAT="[%F %T] "
-export HISTFILE=~/.bash_eternal_history
-PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
-
-export TERM=xterm-256color
-
+## Change default shell to fish and configure fish
+chsh -s /usr/bin/fish
+curl -L https://get.oh-my.fish | fish
+echo << EOF
 fortune
+echo
 EOF
 
+## Compilation and installation of Vim
 mkdir ~/src
 cd ~/src
 git clone https://github.com/vim/vim
 cd vim
 # The following is adapted from https://github.com/Valloric/YouCompleteMe/wiki/Building-Vim-from-source and may need alteration
-sudo apt install build-essential libncurses-dev libgnome2-dev libgnomeui-dev libgtk-3-dev libatk1.0-dev libbonoboui2-dev libcairo2-dev libx11-dev libxpm-dev libxt-dev python3-dev git
+sudo apt install build-essential libncurses-dev python3-dev
 # Change this to suit taste
-./configure --enable-gui=gtk3 --enable-python3interp=yes --enable-terminal --enable-multibyte
+./configure --enable-python3interp=yes --enable-terminal --enable-multibyte
 make
 sudo make install
-cd ..
+
+## Configuration of Vim
+mkdir -p ~/programming/misc
+cd ~/programming/misc
 git clone https://github.com/readyready15728/dot-vimrc
 cd
-ln -s ~/src/dot-vimrc/.vimrc
+ln -s ~/programming/misc/dot-vimrc/.vimrc
 mkdir ~/.vim
 cd ~/.vim
-ln -s ~/src/dot-vimrc/vundle.vim
+ln -s ~/programming/misc/dot-vimrc/vundle.vim
 cd
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 vim -c 'PluginInstall' -c 'qa'
 cd ~/.vim/bundle/YouCompleteMe
 sudo apt install cmake npm golang
-python3 install.py --all
+# python3 install.py --all
 
+## Install trash-cli
 sudo apt install trash-cli
 ```
