@@ -22,8 +22,10 @@ sudo chsh -s /usr/bin/fish $USER
 # curl -L https://get.oh-my.fish | fish
 mkdir -p ~/.config/fish
 cat << EOF >> ~/.config/fish/config.fish
-fortune
-echo
+status --is-interactive; and begin
+  fortune
+  echo
+end
 EOF
 
 ## Compilation and installation of Vim
