@@ -7,6 +7,7 @@ Scuffed Ansible until I start learning the real thing, intended for CLI-based De
 #!/bin/bash
 
 USER=readyready15728
+OCAML_VERSION=4.12.0
 
 ## Useful for preventing 404; also I want to upgrade whatever can be
 sudo apt update
@@ -17,6 +18,7 @@ sudo apt install fish git fortune-mod fortunes-bofh-excuses fortunes-de fortunes
 
 ## Change default shell to fish and configure fish
 sudo chsh -s /usr/bin/fish $USER
+# The below screws up the terminal for some reason
 # curl -L https://get.oh-my.fish | fish
 mkdir -p ~/.config/fish
 echo > ~/.config/fish/config.fish << EOF
@@ -54,4 +56,20 @@ python3 install.py --all
 
 ## Install trash-cli
 sudo apt install trash-cli
+
+## Install OCaml and important ecosystem tools
+sudo add-apt-repository ppa:avsm/ppa
+sudo apt update
+sudo apt install -y opam m4
+opam init -y --compiler=$OCAML_VERSION
+eval $(opam env)
+opam install -y async core js_of_ocaml js_of_ocaml-ppx merlin utop ocp-indent
+echo > ~/.config/fish/config.fish << EOF
+
+eval (opam env)
+EOF
+
+## Reminder user to install oh-my-fish
+echo
+echo "DON'T FORGET TO INSTALL oh-my-fish!!!"
 ```
