@@ -4,7 +4,9 @@
 Scuffed Ansible until I start learning the real thing, intended for CLI-based Debian systems:
 
 ```bash
-#!/bin/sh
+#!/bin/bash
+
+USER=readyready15728
 
 ## Useful for preventing 404
 sudo apt update
@@ -13,7 +15,8 @@ sudo apt update
 sudo apt install fish git fortune-mod fortunes-bofh-excuses fortunes-de fortunes-debian-hints fortunes-off fortunes-spam fortunes-ubuntu-server
 
 ## Change default shell to fish and configure fish
-chsh -s /usr/bin/fish
+echo 'Changing shell to fish'
+sudo chsh -s /usr/bin/fish $USER
 curl -L https://get.oh-my.fish | fish
 echo << EOF
 fortune
