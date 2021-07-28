@@ -8,8 +8,9 @@ Scuffed Ansible until I start learning the real thing, intended for CLI-based De
 
 USER=readyready15728
 
-## Useful for preventing 404
+## Useful for preventing 404; also I want to upgrade whatever can be
 sudo apt update
+sudo apt upgrade
 
 ## Needed prerequisite packages
 sudo apt install fish git fortune-mod fortunes-bofh-excuses fortunes-de fortunes-debian-hints fortunes-off fortunes-spam fortunes-ubuntu-server
@@ -17,7 +18,7 @@ sudo apt install fish git fortune-mod fortunes-bofh-excuses fortunes-de fortunes
 ## Change default shell to fish and configure fish
 echo 'Changing shell to fish'
 sudo chsh -s /usr/bin/fish $USER
-curl -L https://get.oh-my.fish | fish
+# curl -L https://get.oh-my.fish | fish
 mkdir -p ~/.config/fish
 echo > ~/.config/fish/config.fish << EOF
 fortune
