@@ -23,6 +23,7 @@ sudo chsh -s /usr/bin/fish $USER
 mkdir -p ~/.config/fish
 cat << EOF >> ~/.config/fish/config.fish
 status --is-interactive; and begin
+  echo
   fortune
   echo
 end
