@@ -72,7 +72,7 @@ cat << EOF >> ~/.config/fish/config.fish
 eval (opam env)
 EOF
 
-## Reminder user to install oh-my-fish
+## Remind user to install oh-my-fish
 echo
 echo "DON'T FORGET TO INSTALL oh-my-fish!!!"
 ```
