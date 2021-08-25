@@ -71,7 +71,7 @@ consuming a lot of memory, and it will soon cause the machine to become
 unresponsive. Which of the following commands will stop each application
 process?
 
-    A. `kill \`pidof application\`  
+    A. `kill \`pidof application\``  
     B. `killall application`  
     C. `kill -9 \`ps -aux | grep application\``  
     D. `pkill -9 application`  
