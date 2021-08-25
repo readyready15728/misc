@@ -1,11 +1,11 @@
 # Linux+ Practice Quiz Scorecard
-## Not even doing a subtitle for this one; you already know (XKO-004)
+## Not even doing a subtitle for this one; you already know (XK0-004)
 
-I took this one:
+I took this one (if you're signed in a different one appears!):
 
 https://www.itexams.com/exam/XK0-004
 
-Here are my answers and how I responded to getting things right or wrong:
+Here are my answers for this sample and how I responded to getting things right or wrong:
 
 1. In order to comply with new security policies, an administrator needs to prevent the SSH server from using insecure algorithms.
 Which of the following files should be edited to accomplish this?
@@ -190,3 +190,5 @@ the following steps will **BEST** analyze and resolve the issue?
     D. Run `route` to ensure the port is correctly bound, and configure SELinux to allow access on ports 80 and 443
 
     I think `nmap` is better for port scanning but C is the only option here. **CORRECT**
+
+I was thinking about doing something a bit more extensive but haven't made up my mind yet.
