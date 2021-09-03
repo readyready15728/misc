@@ -11,3 +11,9 @@
   mutate(incomeRating = as.character(incomeRating)) %>%
   mutate(incomeRating=as.factor(str_replace(incomeRating, 'NA', 'UNK')))
   ```
+* `install.packages` didn't work for DMwR. Here's what did:
+
+  ```r
+  library(devtools)
+  remotes::install_github('cran/DMwR')
+  ```
