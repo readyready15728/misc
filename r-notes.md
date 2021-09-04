@@ -24,3 +24,5 @@
   library(modeldata)
   data(attrition, package='modeldata'
   ```
+* `verboseIter=TRUE` as an argument to `trainControl` will enable progress
+  tracking during runs of `train`.
