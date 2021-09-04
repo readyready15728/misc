@@ -17,3 +17,10 @@
   library(devtools)
   remotes::install_github('cran/DMwR')
   ```
+* `attrition` is no longer in `rsample`. To gain access to `attrition`,
+  install modeldata, then do:
+
+  ```r
+  library(modeldata)
+  data(attrition, package='modeldata'
+  ```
