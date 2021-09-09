@@ -17,6 +17,8 @@
   library(devtools)
   remotes::install_github('cran/DMwR')
   ```
+  
+  (I had equal success installing ggtheme in a similar fashion.)
 * `attrition` is no longer in `rsample`. To gain access to `attrition`,
   install modeldata, then do:
 
