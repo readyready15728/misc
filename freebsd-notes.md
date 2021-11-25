@@ -18,3 +18,4 @@
 * `sudo make rmconfig` restores default Port settings.
 * `sudo make deinstall` followed by `sudo make reinstall` reinstalls a botched Port.
 * Don't forget to restart the appropriate service after changing a lot of config files!
+* `alias ls='ls -G'` makes for decent color output of `ls` like one would expect on Linux.
