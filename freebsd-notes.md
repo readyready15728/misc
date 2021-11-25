@@ -20,3 +20,4 @@
 * Don't forget to restart the appropriate service after changing a lot of config files!
 * `alias ls='ls -G'` makes for decent color output of `ls` like one would expect on Linux.
 * Making a symlink to the latest version of Python 3 as `python3` can be useful.
+* The OCaml stuff I want installed requires installation of `bash`.
