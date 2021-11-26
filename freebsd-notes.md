@@ -5,7 +5,7 @@
 * The Ports tree can be built using `sudo portsnap auto`.
 * `sudo periodic daily weekly monthly` seems like the only way to update the `locate` DB safely. :/
 * `sudo pkg remove vim-console` needs to happen before any compilation of Vim using Ports.
-* `sudo pkg install py37-pip` (as of now) installs Pip for Python 3.
+* `sudo pkg install py37-pip` (as of now) installs Pip for Python 3. (More recently FreeBSD has upgraded to Python 3.8.)
 * `sudo dmidecode -t processor -t cache` more or less corresponds to `/proc/cpuinfo`.
 * `dmesg` also works.
 * `sudo portmaster --show-work www/nginx | less` helped me keep track of how much of my nginx build was finished. (Had to be installed separately using `pkg`.)
@@ -18,3 +18,7 @@
 * `sudo make rmconfig` restores default Port settings.
 * `sudo make deinstall` followed by `sudo make reinstall` reinstalls a botched Port.
 * Don't forget to restart the appropriate service after changing a lot of config files!
+* `alias ls='ls -G'` makes for decent color output of `ls` like one would expect on Linux.
+* Making a symlink to the latest version of Python 3 as `python3` can be useful.
+* The OCaml stuff I want installed requires installation of `bash`.
+* Assuming you are still reading, avoid Ports as much as possible.
