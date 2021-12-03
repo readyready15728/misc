@@ -3,7 +3,7 @@
 
 * New users can be added to `wheel` for the purposes of `sudo`. (Needs to be enabled using `visudo`.)
 * The Ports tree can be built using `sudo portsnap auto`. (**N.b.: I wrote a lot about Ports here but it's pretty bad because of dependency hell gone unfixed for years. Don't use Ports if you can avoid it.**)
-* `sudo periodic daily weekly monthly` seems like the only way to update the `locate` DB safely. :/
+* `sudo periodic weekly` seems like the only way to update the `locate` DB safely. :/
 * `sudo pkg remove vim-console` needs to happen before any compilation of Vim using Ports.
 * `sudo pkg install py37-pip` (as of now) installs Pip for Python 3. (More recently FreeBSD has upgraded to Python 3.8.)
 * `sudo dmidecode -t processor -t cache` more or less corresponds to `/proc/cpuinfo`.
