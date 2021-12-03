@@ -2,7 +2,7 @@
 ## Notes on the venerable "Unix" operating system from Berkeley
 
 * New users can be added to `wheel` for the purposes of `sudo`. (Needs to be enabled using `visudo`.)
-* The Ports tree can be built using `sudo portsnap auto`.
+* The Ports tree can be built using `sudo portsnap ahttps://github.com/readyready15728uto`. (**N.b.: I wrote a lot about Ports here but it's pretty bad because of dependency hell gone unfixed for years. Don't use Ports if you can avoid it.**)
 * `sudo periodic daily weekly monthly` seems like the only way to update the `locate` DB safely. :/
 * `sudo pkg remove vim-console` needs to happen before any compilation of Vim using Ports.
 * `sudo pkg install py37-pip` (as of now) installs Pip for Python 3. (More recently FreeBSD has upgraded to Python 3.8.)
@@ -21,4 +21,3 @@
 * `alias ls='ls -G'` makes for decent color output of `ls` like one would expect on Linux.
 * Making a symlink to the latest version of Python 3 as `python3` can be useful.
 * The OCaml stuff I want installed requires installation of `bash`.
-* Assuming you are still reading, avoid Ports as much as possible.
