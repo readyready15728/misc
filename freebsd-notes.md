@@ -25,3 +25,5 @@
 * I was able to compile YouCompleteMe for Vim after replacing the offending
   obsolete checksum in `third_party/ycmd/cpp/ycm/CMakeLists.txt` with the one
   that actually was computed for the clang download. 
+* Actually, even that wasn't enough: I had to do `sudo ln -s libncursesw.so
+  libncursesw.so.9` while in `/usr/lib`.
