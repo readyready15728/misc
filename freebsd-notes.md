@@ -22,3 +22,6 @@
 * Making a symlink to the latest version of Python 3 as `python3` can be useful.
 * The OCaml stuff I want installed requires installation of `bash`.
 * Assuming you are still reading, avoid Ports as much as possible.
+* I was able to compile YouCompleteMe for Vim after replacing the offending
+  obsolete checksum in `third_party/ycmd/cpp/ycm/CMakeLists.txt` with the one
+  that actually was computed for the clang download. 
