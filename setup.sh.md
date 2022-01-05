@@ -7,7 +7,7 @@ Scuffed Ansible until I start learning the real thing, intended for CLI-based De
 #!/bin/bash
 
 USER=readyready15728
-OCAML_VERSION=4.12.0
+OCAML_VERSION=4.13.1
 
 ## Useful for preventing 404; also I want to upgrade whatever can be
 sudo apt update
