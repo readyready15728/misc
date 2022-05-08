@@ -60,9 +60,7 @@ python3 install.py --all
 sudo apt install trash-cli
 
 ## Install OCaml and important ecosystem tools
-sudo add-apt-repository ppa:avsm/ppa
-sudo apt update
-sudo apt install -y opam m4
+bash -c "sh <(curl -fsSL https://raw.githubusercontent.com/ocaml/opam/master/shell/install.sh)"
 opam init
 opam update
 eval $(opam env)
