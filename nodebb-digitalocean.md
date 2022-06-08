@@ -1,8 +1,8 @@
 # NodeBB Installation on Digital Ocean
-## I need a beer
+## I haven't had a headache like this in years
 
-What a pain in the ass this all was. I'm writing everything down so I don't
-have to figure everything out again.
+What a pain this all was. I'm writing everything down so I don't have to figure
+everything out again.
 
 **(N.b.: if any of the links go down, use the Wayback Machine. I have archived
 all of them.)**
@@ -109,8 +109,8 @@ This will redirect all http:// requests to https://.
 
 The BlogSynthesis tutorial has a bunch of stuff about reconfiguring NodeBB
 after it gets set up with nginx. I'm not entirely sure how necessary that is.
-In any case, (*inshallah*) if you've carried out all these steps faithfully you
-should now have NodeBB set up behind nginx with an encrypted connection. 
+In any case, if you've carried out all these steps faithfully you should now
+have NodeBB set up behind nginx with an encrypted connection. 
 
 I haven't tested this yet, but here is how someone set up NodeBB in a
 subdirectory with other content being served around it:

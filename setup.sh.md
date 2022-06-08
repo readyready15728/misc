@@ -7,7 +7,6 @@ Scuffed Ansible until I start learning the real thing, intended for CLI-based De
 #!/bin/bash
 
 USER=readyready15728
-OCAML_VERSION=4.13.1
 
 ## Useful for preventing 404; also I want to upgrade whatever can be
 sudo apt update
@@ -61,10 +60,9 @@ python3 install.py --all
 sudo apt install trash-cli
 
 ## Install OCaml and important ecosystem tools
-sudo add-apt-repository ppa:avsm/ppa
-sudo apt update
-sudo apt install -y opam m4
-opam init -y --compiler=$OCAML_VERSION
+bash -c "sh <(curl -fsSL https://raw.githubusercontent.com/ocaml/opam/master/shell/install.sh)"
+opam init
+opam update
 eval $(opam env)
 opam install -y async core js_of_ocaml js_of_ocaml-ppx merlin utop ocp-indent
 cat << EOF >> ~/.config/fish/config.fish
