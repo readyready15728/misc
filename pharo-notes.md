@@ -107,3 +107,11 @@
 
   Todd Blanchard: "SubscriptOutOfBounds is a class.  Specifically, it is a subclass of Error.  So I would probably get it up in the browser (type its name in a playground, select it, cmd-b for browse) and then hit the old 'class refs' button to see where it is used.  That should give you some clues."
 * `WelcomeHelp open` opens the initial welcome help window on a fresh image.
+* Example of `do:separatedBy:`:
+
+```pharo
+#(11 38 3 -2 10) 
+  do: [:each | Transcript show: each printString]
+  separatedBy: [Transcript show: ' '].
+Transcript cr.
+```
