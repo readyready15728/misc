@@ -29,7 +29,7 @@
   parentheses.
 * These are the same:
 
-    ```pharo
+    ```smalltalk
     Transcript show: 'hello'.
     Transcript show: 'Pharo'.
     Transcript cr.
@@ -37,7 +37,7 @@
     
     and (uses the cascade operator):
 
-    ```pharo
+    ```smalltalk
     Transcript 
 	    show: 'hello';
 	    show: 'Pharo' ;
@@ -45,7 +45,7 @@
     ```
 * Examples of block invocation:
 
-    ```pharo
+    ```smalltalk
     [:x | x + 2] value: 5.
 
     [GTPlayground open] value.
@@ -57,7 +57,7 @@
 * Pharo blocks have lexical closure.
 * Example of an "if" statement:
 
-    ```pharo
+    ```smalltalk
     1 < 2
       ifTrue: [100]
       ifFalse: [42].
@@ -66,7 +66,7 @@
     It's just sending `ifTrue:ifFalse` to a Boolean type!
 * Examples of loops:
 
-    ```pharo
+    ```smalltalk
     1 to: 100 by: 3 do: [:i | Transcript show: i asString; cr].
     
     100 to: 0 by: -2 do: [:i | Transcript show: i asString; cr].
@@ -75,7 +75,7 @@
     ```
 * More nice loops:
 
-    ```pharo
+    ```smalltalk
     #(11 38 3 -2 10) do: [:each |
      Transcript show: each printString; cr].
 
