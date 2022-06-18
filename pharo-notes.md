@@ -133,3 +133,30 @@ ProfStef class compile:'goToNextLesson
 
 ProfStef goToNextLesson.
 ```
+* **How to get rid of the Exercism logo**:
+
+I want an untainted background image of a Mechanicus Forge World and both the
+Pharo and Exercism logos have to go. The former can easily be removed using
+the system menu but the latter requires a little work. I found out where the
+logo is set by using Finder, setting the type of search to "Classes" and
+searching for "Exercism", at `BaselineOfExercism>>setExercismLogo`:
+
+```smalltalk
+setExercismLogo
+	| exercismLogo |
+	exercismLogo := (AlphaImageMorph
+		withForm:
+		(ZnEasy
+		getPng:
+			'https://user-images.githubusercontent.com/38899847/48952150-634e9b80-eefe-11e8-890e-7a233d56df65.png'))
+		layout: #scaledAspect;
+		extent: 100 @ 100;
+		position: 10 @ 135;
+		lock.
+	World addMorph: exercismLogo
+```
+
+I then figured out I could go into a Playground and inspect `World submorphs`
+in search of my quarry. There are two `AlphaImageMorph` objects in there with
+the Exercism logo and I sent them both the unary message `delete` for an
+unblemished background.
