@@ -160,3 +160,16 @@ I then figured out I could go into a Playground and inspect `World submorphs`
 in search of my quarry. There are two `AlphaImageMorph` objects in there with
 the Exercism logo and I sent them both the unary message `delete` for an
 unblemished background.
+* The Iceberg tutorial omitted the part where, after creating `src`, you
+select the newly created directory as the location for uploaded source.
+* From a [thread about Iceberg](http://forum.world.st/Iceberg-for-files-other-than-code-td5097973.html):
+
+```
+Indeed. Here's how to get the repository for class MyClass:
+
+repo := IceRepository registeredRepositoryIncludingPackage: MyClass package.
+
+And then the path ist just
+
+repo location.
+```
