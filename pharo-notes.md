@@ -15,6 +15,9 @@
 * Use `&` for logical "and" and `|` for logical "or". Logical "not" is a unary
   message of the same name. (Actually, I was told `and:` and `or:` are more
   idiomatic because they're shortcut operators.)
+* Indeed, _Kent Beck's Guide to Better Smalltalk_ says that an expression
+like `anArray size >= 10 and: [(anArray at: 10) isNil]` is useful to guard
+from errors.
 * Sending the binary message `@` to a number type along with another number
   type to create a `Point` object.
 * PolyMath implements complex number arithmetic!
@@ -173,3 +176,16 @@ And then the path ist just
 
 repo location.
 ```
+* Example of default parameter in Smalltalk:
+
+```
+display
+  self displayOn: Display
+```
+
+Which is implemented as:
+
+```
+displayOn: aDisplayMedium
+  self displayOn: aDisplayMedium at: 0@0
+```  
