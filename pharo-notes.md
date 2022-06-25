@@ -178,14 +178,14 @@ repo location.
 ```
 * Example of default parameter in Smalltalk:
 
-```
+```smalltalk
 display
   self displayOn: Display
 ```
 
 Which is implemented as:
 
-```
+```smalltalk
 displayOn: aDisplayMedium
   self displayOn: aDisplayMedium at: 0@0
 ```  
