@@ -34,9 +34,9 @@ cd ~/src
 git clone https://github.com/vim/vim
 cd vim
 # The following is adapted from https://github.com/Valloric/YouCompleteMe/wiki/Building-Vim-from-source and may need alteration
-sudo apt install build-essential libncurses-dev python3-dev
+sudo apt install build-essential libncurses-dev python3-dev libx11-dev libxtst-dev
 # Change this to suit taste
-./configure --enable-python3interp=yes --enable-terminal --enable-multibyte
+./configure --enable-python3interp=yes --enable-terminal --enable-multibyte --with-x
 make
 sudo make install
 
