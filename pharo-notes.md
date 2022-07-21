@@ -189,3 +189,10 @@ Which is implemented as:
 displayOn: aDisplayMedium
   self displayOn: aDisplayMedium at: 0@0
 ```  
+* "Use an Array if you know the size of the collection when you create it and
+if the indices into the elements (the first argument to `at:` and `at:put:`)
+are consecutive integers between one and the size of the array."
+* `OrderedCollection` is more flexible.
+* Instances of `OrderedCollection` can be used as stacks and queues, not
+unlike Python lists.
+* The `Interval` class also exists, similar to Python ranges.
