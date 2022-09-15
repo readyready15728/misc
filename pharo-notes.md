@@ -176,6 +176,7 @@ And then the path ist just
 
 repo location.
 ```
+* Even more threads about Git and storing text files using Pharo: https://www.google.com/search?q=pharo+iceberg+text+site:forum.world.st
 * Example of default parameter in Smalltalk:
 
 ```smalltalk
