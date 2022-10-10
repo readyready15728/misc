@@ -220,3 +220,4 @@
 * Don't use the built-in Slime Incubator in any Slime Hutch if you don't want
   the possible eyesore of seeing it working endlessly when the Slime Hutch
   reaches maximum population.
+* The Tab key cycles through inventory rows.
