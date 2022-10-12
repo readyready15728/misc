@@ -221,3 +221,5 @@
   the possible eyesore of seeing it working endlessly when the Slime Hutch
   reaches maximum population.
 * The Tab key cycles through inventory rows.
+* Fairy Roses have a crappy profit margin but can increase the price of honey
+  produced by bees to a very high degree.
