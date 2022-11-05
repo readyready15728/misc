@@ -60,6 +60,7 @@ python3 install.py --all
 sudo apt install trash-cli
 
 ## Install OCaml and important ecosystem tools
+sudo apt install unzip bubblewrap
 bash -c "sh <(curl -fsSL https://raw.githubusercontent.com/ocaml/opam/master/shell/install.sh)"
 opam init
 opam update
