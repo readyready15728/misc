@@ -49,3 +49,4 @@ external editor (here with custom build of Vim):
 in, type `Ctrl-L` to refresh the screen.
 * Use the `*` to (de)select all files in a pane.
 * Safe deletion may be a good option.
+* To show human-readable file sizes in Midnight Commander, use `size:4` in the user-defined listing format for each panel.
