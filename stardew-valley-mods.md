@@ -38,24 +38,24 @@
 * Ferngill Weathers
 * GenericModConfigMenu
 * GMCMOptions
-* Grandpa's Farm
-* HappyBirthday
-* HappyBirthdayContentPack en-US
+* Grandpa's Farm (working)
+* HappyBirthday (working)
+* HappyBirthdayContentPack en-US (working)
 * HomeSewingKit
 * HorseFluteAnywhere
 * [JA] Fantasy Crops
 * [JA] Hisame New Recipes
 * JoysOfEfficiency
 * JsonAssets
-* LookupAnything
+* LookupAnything (working)
 * MailFrameworkMod
 * [MNF] Fish Breeding Tanks
 * [MNF] Hisame Craftables
 * [MNF] Mermaid Island
 * [MNF] More New Fish
-* MobilePhone
+* MobilePhone (working)
 * MultiYieldCrops
-* NPCMapLocations
+* NPCMapLocations (working)
 * PartOfTheCommunity
 * PelicanFiber
 * PFMAutomate
@@ -89,4 +89,4 @@
 * TimeSpeed
 * TractorMod
 * TrainStation
-* UIInfoSuite2
+* UIInfoSuite2 (working)
