@@ -223,3 +223,7 @@
 * The Tab key cycles through inventory rows.
 * Fairy Roses have a crappy profit margin but can increase the price of honey
   produced by bees to a very high degree.
+* `~/.config/StardewValley/ErrorLogs/SMAPI-latest.txt` contains useful
+  diagnostic info that can be parsed [here](https://smapi.io/log).
+* Use the cog button on the title screen for mods using Generic Mod Config
+  Menu.
