@@ -231,3 +231,4 @@
   non-comestibles from above-ground, automated furnace, random junk,
   spring produce and other comestibles, then summer produce, fall, winter
   and/or foraged comestibles, eggs and dairy, fish and meat.
+* ...and one cooking ingredients drawer.
