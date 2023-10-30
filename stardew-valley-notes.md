@@ -232,3 +232,5 @@
   spring produce and other comestibles, then summer produce, fall, winter
   and/or foraged comestibles, eggs and dairy, fish and meat.
 * ...and one cooking ingredients drawer.
+* There is a [Stardew Valley Checklist](https://drive.google.com/drive/folders/1vk23YmYtXv3plTJ_3RBZ8xJyI0R3kBhy)
+  on Google Docs that includes info for mods.
