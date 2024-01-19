@@ -5,3 +5,6 @@
   Strength, 18 Charisma, 24 Quickness, 26 Wisdom, 26 Fortitude, 26
   Resilience), Skills at B (5 Pistols, 5 Doctor, 5 Command), Experience at C,
   Ship at D (Juror Class) and Contacts at E (Gestalt Explorer)
+* My captain is Military Officer/Doctor/Combat Medic and my starting officers
+  are Doctor/Combat Medic/Pistoleer, Engineer/Mechanic/Spy and Quartermaster,
+  Commander/Military Officer
