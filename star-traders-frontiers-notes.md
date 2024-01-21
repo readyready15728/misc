@@ -8,3 +8,10 @@
 * My captain is Military Officer/Doctor/Combat Medic and my starting officers
   are Doctor/Combat Medic/Pistoleer, Engineer/Mechanic/Spy and Quartermaster,
   Commander/Military Officer
+* Leaving behind stashes on good Wilderness zones is a good way to mark them
+  out.
+* The same ship combat talent can be used more than once if in sore need.
+* Weapons Locker A6 is the highest attainable component of the type but
+  requires special qualifications to attain.
+* Queue upgrades in a new ship while carrying out errands in your existing
+  ship.
