@@ -15,3 +15,6 @@
   requires special qualifications to attain.
 * Queue upgrades in a new ship while carrying out errands in your existing
   ship.
+* Revised Captain with Dragoon Cruiser (Ship Level at A) with Attributes at B
+  (16 Strength, 16 Charisma, 22 Quickness, Wisdom 24, Fortitude 22, Resilience
+  22) and Skills at C (4 Command, 4 Doctor).
