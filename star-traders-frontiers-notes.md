@@ -18,3 +18,5 @@
 * Revised Captain with Dragoon Cruiser (Ship Level at A) with Attributes at B
   (16 Strength, 16 Charisma, 22 Quickness, Wisdom 24, Fortitude 22, Resilience
   22) and Skills at C (4 Command, 4 Doctor).
+* Officers added to the initial staff mentioned earlier on a Sword
+  Battlecruiser are Scientist/Commander/Zealot and Smuggler/Assassin/Saboteur.
