@@ -200,3 +200,25 @@ block west of the Shandy Gaff diner."
 * "Note: It is possible to sell items in quantities using the qty argument:
 sell salmonberries qty 12, or use the all argument to sell all of an item:
 sell arrowhead all."
+* 'help public skill training facilities'.
+* 'cook' shows available recipes.
+* 'time' and 'calendar'.
+* A pine mallet is adequate for at least some stoneworking.
+* 'help metalcasting'.
+* 'help combat' is **REALLY** extensive.
+* "The ravens are a good starting point. Take the northwest road from the
+first fork north of shadgard, and follow the footpath there."
+* 'health'.
+* Type 'combat' to see how to set combat mode etc.
+* Be sure to 'attack' enemies.
+* 'loose' with no argument launches missiles.
+* Missiles can be recovered.
+* 'put bullet from pouch in trunk'.
+* 'clean gear'.
+* 'mail alias'.
+* 'introduce'.
+* Netherbane oil applied to a weapon and Arcana can be used for lighting.
+* Placing lit candles in every room used also works.
+* To reach Blackwater Construction Site, head towards New Emberlight but don't
+actually go there. Follow the road NW of the Abandoned Canyon Village until
+finding a trail. Follow that trail more or less east.
