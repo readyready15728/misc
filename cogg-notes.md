@@ -222,3 +222,18 @@ first fork north of shadgard, and follow the footpath there."
 * To reach Blackwater Construction Site, head towards New Emberlight but don't
 actually go there. Follow the road NW of the Abandoned Canyon Village until
 finding a trail. Follow that trail more or less east.
+* A sickle is apparently useful for Weaving and skeins can be bought at the
+market.
+* Iron mining and processing is profitable. Two Falls Mine has iron.
+* Get a heavy helmet for mining.
+* 'unhide'.
+* 'help foraging'.
+* Re: turning thornleaf into cloth: "first you crush them into fibers (needs
+bushcraft 50) then you make cordage, then you convert them"
+* Re: bait: "Earthworms. Sold at the Ranger's Lounge."
+* Hold fishing rod and line in either hand then type 'attach' etc.
+* 'order tomato qty 12'.
+* Carts are important for hauling large quantities of goods.
+* Once you're finished cooking in a skillet (or whatever), just remove the
+finished item.
+* 'bandage'.
