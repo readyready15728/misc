@@ -237,3 +237,21 @@ bushcraft 50) then you make cordage, then you convert them"
 * Once you're finished cooking in a skillet (or whatever), just remove the
 finished item.
 * 'bandage'.
+* Steam spinners indicating a blacksmith mean that extra and, so I've been
+told, faster blacksmith services are available in various parts of town.
+* To go to Mistral Lake, first head towards New Emberlight.
+* "Charcoal is produced when a campfire has burnt out completely. It can be
+used as flux in the process of smelting ores, helping reduce impurities in
+most metals."
+* 'forage firewood to ground'.
+* Metalcasting is very good practice, especially nails and rivets.
+* 'help foraging'.
+* One can study Construction at the Timberpine Sawmill.
+* Weaving wicker stuff from bluestem grass is a good way to level Bushcraft.
+* 'help split'.
+* Failure to purify blooms will result in "cheap" finished goods.
+* Melee Combat matters for defense.
+* 'question'.
+* Complete swords for example are assembled using the aforementioned 'attach'.
+* 'retrieve' items after being resurrected from death.
+* 'examine' items for further detail than 'look'.
