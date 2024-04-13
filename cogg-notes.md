@@ -255,3 +255,6 @@ most metals."
 * Complete swords for example are assembled using the aforementioned 'attach'.
 * 'retrieve' items after being resurrected from death.
 * 'examine' items for further detail than 'look'.
+* The tailor shop in Shadgard has an outerwear section.
+* 'transfer all'.
+* More than one item can be processed in at least Metalworking and Tanning.
