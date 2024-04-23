@@ -358,6 +358,7 @@ and WIL.
 * 'help map'.
 * Zander at Rollo's Café, which is on Seneca Street between First and Second
 in Southwest Seattle (actually see 'help SEATTLE SE'), may have work for me.
+(Closest taxi destination is 'Rhino'.) (And it's matrix work.)
 * Axehead at Slitch Pin practices Driving Cars, Driving Motorcycles, Pistols,
 Brawling, Edged Weapons, Street Etiquette, Stealth, Negotiation.
 * George Beano of Beano's Collection Agency also offers work.
@@ -499,3 +500,17 @@ Elven lands.
 * The Seattle Public Library practice various skills, including those related
 to decking and Police Procedure, and also has Matrix terminals in the study
 booths on the western side.
+* Remember to hang up phone calls!
+* Quickness enhancements are recommended for deckers not going the full Street
+Samurai route, and maybe initiative (?).
+* Mall of Mammon is to the east of CyberDoc.
+* Velasquez Bank in West Tacoma has a Matrix terminal.
+* The backroom of Bullet Bonanza in Knight Center sells even **more**
+ammunition.
+* There's a guy on Burton Street in Redmond who practices Stealth.
+* Paulie's Weapons Depot in the abandoned factory on Commerce in Redmond sells
+**cheap** ammunition.
+* The market in the south of Portland apparently has someone who practices Elf
+etiquette.
+* The Rooster deals in arms a little northeast of the apartment complex in
+Redmond and also offers work. (Minimum reputation 100.)
