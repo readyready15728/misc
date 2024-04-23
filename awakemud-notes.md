@@ -471,3 +471,5 @@ software.
 * 'help follow'.
 * 'search' at the newsstand north of the Platinum Club for where to practice
 all decking-related skills to the maximum.
+* 'toggle cyberdoc' to allow player cyberdocs to operate on you.
+
