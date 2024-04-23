@@ -419,7 +419,7 @@ cyberware and also installs them.
 * There is a post office on the ground floor of the Tacoma Mall.
 * There is an ATM on the ground floor of the Tacoma Mall.
 * Jilted is a weapons store on the first floor of the Tacoma Mall.
-* Hackers' Haven on the first floor of the Tacoma Mall sells various high-end
+* Hackers' Haven on the second floor of the Tacoma Mall sells various high-end
 software.
 * Vesalius' Forge on the first floor of the Tacoma Mall sells various
 cyberware.
@@ -472,4 +472,30 @@ software.
 * 'search' at the newsstand north of the Platinum Club for where to practice
 all decking-related skills to the maximum.
 * 'toggle cyberdoc' to allow player cyberdocs to operate on you.
-
+* 'leave' vehicles to get out.
+* Rapid Fire Ammunition in SE Seattle sells ... ammunition.
+* The Smith School of Linguistics in SE Seattle has linguasofts and practices
+languages the old-fashioned way too.
+* A woman in the lobby of Mitsuhama Tower practices Negotiation and Corporate
+Etiquette.
+* Mr. Jones in the Knight Errant Training Facility offers work.
+* Takashi Takechi in the Knight Errant Training Facility sells guns and
+ammunition.
+* Techno Geeks in the Knight Center Shopping Mall (ground floor) sells various
+electronic bits, including commonly used appliances.
+* Cranial Caps in the Knight Center Shopping Mall (ground floor) has offensive
+trucker hats.
+* Lead Loaders in the Knight Center Shopping Mall (first floor) sells SMGs and
+Fast and Deadly sells other long guns. In fact there are a bunch of long guns
+on that floor in addition to cyberware, bioware, body armor and ammunition.
+And all kinds of melee weapons.
+* There is an ATM on the first floor of the Knight Center Shopping Mall, near
+the escalators.
+* A leather rifle strap can be bought at Bolshevik Buffet on the first floor
+of the Knight Center Shopping Mall.
+* Don't go to floors 5+ in the Knight Center without authorization!
+* Hellhound Bus Lines (SW Seattle) appears to be a popular way to travel to
+Elven lands.
+* The Seattle Public Library practice various skills, including those related
+to decking and Police Procedure, and also has Matrix terminals in the study
+booths on the western side.
