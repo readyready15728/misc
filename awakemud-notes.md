@@ -168,7 +168,7 @@ with basic details and information for the vehicles the dealer has for sale."
 * "Useful help files: VEHICLES, DRIVER, UPGRADE, UNINSTALL, REPAIR,
 GRIDGUIDE, VEMOTE, PAINT".
 * 'wear' / 'wield'.
-* 'info' / 'probe'.
+* 'probe' / 'info'.
 * "Outside of character generation, you'll sometimes see items sold with a
 difficulty listed. These represent things that are hard to get ahold of. If
 you decide to purchase one of those items, you'll want to be familiar with the
@@ -367,3 +367,107 @@ Brawling, Edged Weapons, Street Etiquette, Stealth, Negotiation.
 ActiveSofts for sale.
 * If something happens to my Ruger 100 I can get another on the eastern side
 of the ground floor of the Aztech Pyramid at Hugo's Sports Emporium.
+* Circuit Couriers sells credsticks and pouches, including smuggle packs.
+* Credstick PINs don't matter but PINs for storage lockers at the Monorail
+Station do.
+* Credsticks leave a trail and thus cash is necessary for less-legal
+activities.
+* Credsticks, once activated, are usable only be the owner until cracked or
+deactivated.
+* Microdeck Outlet in Auburn sells various deck programs.
+* Taxi directions are usable in a vehicle with autonav.
+* https://awakemud.com/dokuwiki/gridguidelist
+* Wang's Sporting Goods on the ground floor of Beacon Mall sells golf bags.
+* The Microdeck outlet on the first floor of Beacon Mall sells various
+electronic widgets and appliances, primarily those that help with building
+custom decks.
+* Use AVAILOFFSET to help with purchases when etiquette (or Charisma) isn't
+enough.
+* There is a survival supplies store on the first floor of Beacon Mall as well
+as a store for eye cyberware and another for various other types of cyberware.
+* There is a rent-a-cop on the eastern side of the first floor of Beacon Mall
+who offers work.
+* There is also an ActiveSoft store on the first floor.
+* Action Computers and Electronics wrist phones and various optical equipment.
+In addition, Mike offers work.
+* Shiba's Stables in Little Chiba sells the Phoenix cyberdeck.
+* Kang's Pawn Shop in Little Chiba sells radios.
+* White Oak Clinic in Little Chiba installs cyberware.
+* Acme Hardware in Little Chiba sells **explosive** ammunition.
+* Guns 'n' Moses in Lysleul sells Colt Rangemaster hunting rifles.
+* Voyeur Camera Supply in Lysleul Plaza sells surveillance equipment.
+* The Sharper Image outlet in Lysleul Plaza sells radios, phones (including
+ECM scramblers), pocket secretaries and bug scanners.
+* The SecureTech outlet in Lysleul sells armor suitable for covert use.
+secretaries, GPS systems, 
+* Hermes' Library on the ground floor of Moonlight Mall in Redmond practices
+Negotiation.
+* Nybbles & Bytes has a Matrix terminal.
+* There is a Matrix terminal near DeClerry's Bar in West Tacoma.
+* Rodney Boren at DeClerry's Bar in West Tacoma offers work.
+* Tacoma Mall's first floor has a Matrix terminal.
+* Zappa-Tech on the first floor of the Tacoma Mall sells decks, decker's bags,
+computers and various software.
+* Kevlar Armors on the first floor of the Tacoma Mall sells various types of
+low-end armor.
+* There is a Shadowland dumb terminal on the first floor of the Tacoma Mall.
+* There is an ATM on the first floor of the Tacoma Mall.
+* Rigging cuts into one's hacking pool and should not be mixed with hacking
+early on.
+* The Chop Shop on the ground floor of the Tacoma Mall sells various useful
+cyberware and also installs them.
+* There is a post office on the ground floor of the Tacoma Mall.
+* There is an ATM on the ground floor of the Tacoma Mall.
+* Jilted is a weapons store on the first floor of the Tacoma Mall.
+* Hackers' Haven on the first floor of the Tacoma Mall sells various high-end
+software.
+* Vesalius' Forge on the first floor of the Tacoma Mall sells various
+cyberware.
+* OutBack on the first floor of the Tacoma Mall sells various outdoor
+equipment including backpacks.
+* The Stopgap is a 24/7 convenience store.
+* The first floor of Novatech Seattle has Novatech Armor Depot, Novatech
+Security Depot (sells weapons and ammunition), Novatech Cyberdeck Retailer,
+Novatech Cyberdeck Utilities and Programs (sells software), Superhuman Inc.
+Bioware Studio, Superhuman Inc. Cyberware Studio and a store where I can get a
+respirator should I ever need one.
+* Nicolas Lombardi in the Enigma Nightclub on the second floor of Novatech
+Seattle offers work.
+* Angela Wright on the fifth floor of Novatech Seattle offers work (minimum
+reputation 500).
+* Maple Leaf Technologies on the third floor of the Renraku Arcology has decks
+and various other decking-related technology.
+* Body + Tech on the third floor of the Renraku Arcology has various
+cyberware.
+* The Elevators/Payphones section of the third floor of the Renraku Arcology
+has a Matrix terminal.
+* Quickway Chemists on the third floor of the Renraku Arcology has various
+medicines.
+* There is a DocWagon store on the third floor of the Renraku Arcology.
+* SyberSpace on the third floor of the Renraku Arcology sells various decking
+supplies.
+* 'help wheresmycar'.
+* Secure-Tech on the third floor of the Renraku Arcology sells armor.
+* B2 of Renraku Arcology is very dangerous!
+* There is an idling bonus of 1000 yen at intervals (which apparently also
+applies when not idle)!
+* 'install' is also used for decks.
+* There is a post office just south of Circuit Couriers.
+* Richley Thorn at Dante's Inferno (First Hell) offers work.
+* There is a Matrix terminal in the start of Second Hell in Dante's Inferno.
+* Mister Johnson in Dante's Inferno (Second Hell) offers work.
+* There seem to be various "vendors" in Dante's Inferno, including of
+software.
+* John Smith in Dante's Inferno (Fourth Hell) offers work.
+* A girl in line before Dante's Inferno practices Street Etiquette
+* There is an ATM in Dante's Inferno (Ninth Hell).
+* Janis Reenes in The Platinum Club offers work.
+* Rocko at The Platinum Club sells various types of ammunition.
+* The mosh pit in The Platinum Club is dangerous!
+* The bar in The Platinum Club is to the northeast of the mosh pit.
+* Remember that aggressive mobs will force you to draw your weapon!
+* Lin's Laundromat at Seventh Street Plaza in NE Seattle offers work.
+* Cent at Slitch Pit offers work.
+* 'help follow'.
+* 'search' at the newsstand north of the Platinum Club for where to practice
+all decking-related skills to the maximum.
