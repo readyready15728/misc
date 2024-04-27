@@ -14,9 +14,9 @@ side of the door."
 * 'help defaulting'.
 * 'practice' / 'unpractice'.
 * 'skills'.
-* "It's a good idea to pick up at least a little negotiation, as it improves your autorun (quest)
-payouts! You'll also probably benefit from some athletics, as even a few points can save you from 
-nasty falls."
+* "It's a good idea to pick up at least a little negotiation, as it improves
+  your autorun (quest) payouts! You'll also probably benefit from some
+athletics, as even a few points can save you from nasty falls."
 * "Beyond that, it's good to have at least one point in any driving skill so
  you're able to handle vehicles. Everything else is flexible."
 * Just 'help'.
@@ -300,9 +300,10 @@ too dark, mist, smoke, or your opponent being invisible. Knowing what TIME it
 is and taking a moment to SURVEY the room can help."
 * "Real-life injuries can be just as debilitating, and can be avoided through
 clever use of the ! command to reduce repetitive stress."
-* Momo |]newbie[| Gameplay time relates to picking up items from shops, the time of day echoes, etc
-* Momo |]newbie[| Roleplay time is the time in seattle for the purposes of "good morning", what time a
-scene at a bar is set, etc
+* Momo |]newbie[| Gameplay time relates to picking up items from shops, the
+  time of day echoes, etc
+* Momo |]newbie[| Roleplay time is the time in seattle for the purposes of
+  "good morning", what time a scene at a bar is set, etc
 * "The main purpose of this MUD is to have fun. Use SAY and EMOTE to RP if you
 want, constructing elaborate cyberpunk stories, or go around and kill
 everything if you wish. Only time this doesn't apply is if you are
@@ -347,7 +348,7 @@ started.)
 English](CRYPTO-1): Also there are 2 fences there if you find stuff. one is
 rather obscured from being found. you literally have to search the trashiest
 place there to find rikki.
-* Boz Renfield at The Reaper may have work for me.
+* Boz Renfield at The Reaper offers work.
 * 'look 2.credstick'.
 * Figg's Gym trains QUI and STR.
 * Re: my comments about neophyte runs: Iserna |]newbie[| That and the J'valdi
@@ -357,13 +358,14 @@ yeah.
 and WIL.
 * 'help map'.
 * Zander at Rollo's Café, which is on Seneca Street between First and Second
-in Southwest Seattle (actually see 'help SEATTLE SE'), may have work for me.
-(Closest taxi destination is 'Rhino'.) (And it's matrix work.)
+in Southwest Seattle (actually see 'help SEATTLE SE'), offers work.
+(Closest taxi destination is 'Rhino'.)
 * Axehead at Slitch Pin practices Driving Cars, Driving Motorcycles, Pistols,
 Brawling, Edged Weapons, Street Etiquette, Stealth, Negotiation.
 * George Beano of Beano's Collection Agency also offers work.
-* An Elf in The Blue Wyvern in Tarislar offers work.
-* Daniella at Friendship Restaurant on Councul Island offers work.
+* An Elf in The Blue Wyvern in Tarislar offers work. (And it's Matrix work.)
+* Daniella at Friendship Restaurant on Council Island offers work. (Minimum
+reputation 100.)
 * Unnamed Software Store in the mezzanine of the Aztech Pyramid has various
 ActiveSofts for sale.
 * If something happens to my Ruger 100 I can get another on the eastern side
@@ -387,10 +389,10 @@ enough.
 * There is a survival supplies store on the first floor of Beacon Mall as well
 as a store for eye cyberware and another for various other types of cyberware.
 * There is a rent-a-cop on the eastern side of the first floor of Beacon Mall
-who offers work.
+who offers work. (And it's Matrix work.)
 * There is also an ActiveSoft store on the first floor.
-* Action Computers and Electronics wrist phones and various optical equipment.
-In addition, Mike offers work.
+* Action Computers and Electronics sells wrist phones and various optical
+equipment. In addition, Mike offers work. (And it's Matrix work.)
 * Shiba's Stables in Little Chiba sells the Phoenix cyberdeck.
 * Kang's Pawn Shop in Little Chiba sells radios.
 * White Oak Clinic in Little Chiba installs cyberware.
@@ -423,7 +425,7 @@ cyberware and also installs them.
 * Hackers' Haven on the second floor of the Tacoma Mall sells various high-end
 software.
 * Vesalius' Forge on the first floor of the Tacoma Mall sells various
-cyberware.
+cyberware and installs them.
 * OutBack on the first floor of the Tacoma Mall sells various outdoor
 equipment including backpacks.
 * The Stopgap is a 24/7 convenience store.
@@ -460,7 +462,7 @@ applies when not idle)!
 * There seem to be various "vendors" in Dante's Inferno, including of
 software.
 * John Smith in Dante's Inferno (Fourth Hell) offers work.
-* A girl in line before Dante's Inferno practices Street Etiquette
+* A girl in line before Dante's Inferno practices Street Etiquette.
 * There is an ATM in Dante's Inferno (Ninth Hell).
 * Janis Reenes in The Platinum Club offers work.
 * Rocko at The Platinum Club sells various types of ammunition.
@@ -474,7 +476,8 @@ software.
 all decking-related skills to the maximum.
 * 'toggle cyberdoc' to allow player cyberdocs to operate on you.
 * 'leave' vehicles to get out.
-* Rapid Fire Ammunition in SE Seattle sells ... ammunition.
+* Rapid Fire Ammunition in SE Seattle sells ... ammunition. (See below re:
+Rapid Fire Ammunition.)
 * The Smith School of Linguistics in SE Seattle has linguasofts and practices
 languages the old-fashioned way too.
 * A woman in the lobby of Mitsuhama Tower practices Negotiation and Corporate
@@ -496,7 +499,7 @@ the escalators.
 of the Knight Center Shopping Mall.
 * Don't go to floors 5+ in the Knight Center without authorization!
 * Hellhound Bus Lines (SW Seattle) appears to be a popular way to travel to
-Elven lands.
+Elven lands (Portland).
 * The Seattle Public Library practice various skills, including those related
 to decking and Police Procedure, and also has Matrix terminals in the study
 booths on the western side.
@@ -514,3 +517,90 @@ ammunition.
 etiquette.
 * The Rooster deals in arms a little northeast of the apartment complex in
 Redmond and also offers work. (Minimum reputation 100.)
+* 'help junk'.
+* 'help highlight'.
+* 'help xterm256'.
+* 'probe' can show things 'examine' doesn't (for items already in inventory or
+equipment).
+* Bunny at Circuit Couriers offers work.
+* Miyoko at Dante's Inferno (Ninth Hell) offers work.
+* Harold Moore at Dante's Inferno (Ninth Hell) offers work.
+* Don Giuseppe Bonanno at the OldTown station in Tacoma (Den of Thieves')
+offers work.
+* Pherrik (quest target) can be found on the dance floor of Dante's (Fourth
+Hell).
+* Tanq says OOCly, "Take your time. just, for future refrence, 'get all
+all.corpse' will get all the stuff from all the corpses in the room in one
+command, 'get nuyen all.corpse' will get all the nuyen from all the corpses,
+etc."
+* Nick at Purple Haze (NW of Nybbles & Bytes) offers work.
+* Escalators take a moment to take you to your destination.
+* The tiny office in Rapid Fire Ammunition (Seattle SE) sells a diverse array
+of different types of ammunition.
+* Medkits can be used more than once.
+* Powell's Technical Books in Portland sells decking-related merchandise and
+practices related skills. Also the back room guy buys paydata.
+* Jimmy Smith at Smith's Pub offers work.
+* The ferry in the north of West Tacoma can take you to a mysterious ship
+known as the Bradenton.
+* The secretary at Lone Star 17th Precinct offers work.
+* The Big Rhino has an ATM.
+* The back room in the Big Rhino has a Matrix terminal.
+* Entrance to the Ork Underground can be found in the Big Rhino but it's very
+dangerous there.
+* Techno Geeks in Knight Center sells the CMT Avatar and so does a shop in
+Renton.
+* Zigzag at Syberspace offers work and so does a burnt-out Ork decker. (Both
+presumably offer Matrix work.)
+* Brian at Syberspace practices decking-related skills.
+* There is a pawn shop in Little Chiba.
+* Mark Kornen in the Aztech Pyramid food court (ground floor, east side)
+offers work.
+* Universal Omnitech in the Aztech Pyramid (ground floor) sells cyberware.
+* Bits and Bytes in the Aztech Pyramid (ground floor) sells decking-related
+equipment.
+* 'sneak' appears to be required to use Stealth.
+* Discord |]newbie[| [Alak]: It's worth mentioning sneaking only buys you
+about a second or less. It's for moving fast more than reading new stuff in
+detail.
+* Kie'deieron Ly'trelli in Tarislar (location obvious) offers work.
+* There's a guy on the western side of East Puyallup who sells ammunition and
+weapon accessories, as well as a radio model with encryption rating 4.
+* Richard Skylarke in The Epicenter club offers work.
+* Reality Hackers HQ in West Puyallup has easy targets.
+* Duran Bowers in The Cave in Portland (NW of Glisan and Sixth) offers work.
+* The lock to the Portland Crime Mall is easy to bypass with an electronics
+kit and the corresponding skill.
+* Gato tells you OOCly, 'There's a second mall out in the coal plains, off of
+southern Puyallup before the route to Tarislar.'
+* Kiol in the Puyallup Crime Mall practices weapon skills.
+* Mr. Fixit does repairs (but where is he?).
+* There is a computer store north of Krackerjack's hovel in West Tacoma.
+* Recuperate from injuries in peaceful areas.
+* Extra Lar'd Clothing on Big-Ass Alley in Redmond sells extra large
+backpacks.
+* A nameless Johnson in a private room at Penumbra offers work. (And it's
+Matrix work.)
+* There's an ATM on the ground floor of Telestrian Habitat in Portland.
+* Reggie's Hole-in-the-Wall in the SW Seattle cracks credsticks.
+* Zalensky's Electronics in SE Seattle has cyberware and installs them.
+* Baxter Morgan in the West Tacoma junkyard offers work.
+* Dave's Discount Drugs is just south of Evergreen Multiplex in West Tacoma
+and sells patches etc.
+* The Android's Dungeon, south of Stuffer Shack in West Tacoma, has a Matrix
+terminal in the basement.
+* 'help progress'.
+* Road Hog Racing in West Tacoma sells vehicles.
+* There is a Matrix terminal in the southernmost room of Bryerson Medical but
+it requires an electronics kit and cracking to enter.
+* The manager of the Flying Dragon Restaurant offers work. (Minimum reputation
+1500.)
+* Kiriyama's in Chinatown sells flechette ammunition and various other martial
+goods.
+* Honest Obie's in Chinatown sells all kinds of armor and other apparel.
+* Xiang's Boom-Boom Shop in Chinatown sells all kinds of weapons, ammunition
+and accessories.
+* Rita's Body Sculpture in Chinatown sells a bunch of different cyberware and
+bioware and maybe installs them too.
+* The intersection of Xhu and Zhao Streets in Chinatown leads to a smuggler
+ring where vendors sell mostly arms, armor and accessories.
