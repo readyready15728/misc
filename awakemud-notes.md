@@ -301,9 +301,9 @@ is and taking a moment to SURVEY the room can help."
 * "Real-life injuries can be just as debilitating, and can be avoided through
 clever use of the ! command to reduce repetitive stress."
 * Momo |]newbie[| Gameplay time relates to picking up items from shops, the
-  time of day echoes, etc
+time of day echoes, etc
 * Momo |]newbie[| Roleplay time is the time in seattle for the purposes of
-  "good morning", what time a scene at a bar is set, etc
+"good morning", what time a scene at a bar is set, etc
 * "The main purpose of this MUD is to have fun. Use SAY and EMOTE to RP if you
 want, constructing elaborate cyberpunk stories, or go around and kill
 everything if you wish. Only time this doesn't apply is if you are
@@ -364,8 +364,9 @@ in Southwest Seattle (actually see 'help SEATTLE SE'), offers work.
 Brawling, Edged Weapons, Street Etiquette, Stealth, Negotiation.
 * George Beano of Beano's Collection Agency also offers work.
 * An Elf in The Blue Wyvern in Tarislar offers work. (And it's Matrix work.)
-* Daniella at Friendship Restaurant on Council Island offers work. (Minimum
-reputation 100.)
+* There is a Matrix terminal in a back room at the Blue Wyvern.
+* Daniella at Friendship Restaurant on Council Island offers work (minimum
+reputation 100).
 * Unnamed Software Store in the mezzanine of the Aztech Pyramid has various
 ActiveSofts for sale.
 * If something happens to my Ruger 100 I can get another on the eastern side
@@ -389,20 +390,23 @@ enough.
 * There is a survival supplies store on the first floor of Beacon Mall as well
 as a store for eye cyberware and another for various other types of cyberware.
 * There is a rent-a-cop on the eastern side of the first floor of Beacon Mall
-who offers work. (And it's Matrix work.)
+who offers work (for less experienced runners). (And it's (not all) Matrix
+work.)
 * There is also an ActiveSoft store on the first floor.
 * Action Computers and Electronics sells wrist phones and various optical
-equipment. In addition, Mike offers work. (And it's Matrix work.)
+equipment. In addition, Mike offers work (for less experienced runners).
+(And it's Matrix work.)
 * Shiba's Stables in Little Chiba sells the Phoenix cyberdeck.
 * Kang's Pawn Shop in Little Chiba sells radios.
 * White Oak Clinic in Little Chiba installs cyberware.
 * Acme Hardware in Little Chiba sells **explosive** ammunition.
+* There is an ATM on Cyber Strip in Little Chiba.
 * Guns 'n' Moses in Lysleul sells Colt Rangemaster hunting rifles.
 * Voyeur Camera Supply in Lysleul Plaza sells surveillance equipment.
 * The Sharper Image outlet in Lysleul Plaza sells radios, phones (including
 ECM scramblers), pocket secretaries and bug scanners.
 * The SecureTech outlet in Lysleul sells armor suitable for covert use.
-secretaries, GPS systems, 
+secretaries, GPS systems, [comma left here ... and what else]?
 * Hermes' Library on the ground floor of Moonlight Mall in Redmond practices
 Negotiation.
 * Nybbles & Bytes has a Matrix terminal.
@@ -420,14 +424,13 @@ early on.
 * The Chop Shop on the ground floor of the Tacoma Mall sells various useful
 cyberware and also installs them.
 * There is a post office on the ground floor of the Tacoma Mall.
-* There is an ATM on the ground floor of the Tacoma Mall.
 * Jilted is a weapons store on the first floor of the Tacoma Mall.
-* Hackers' Haven on the second floor of the Tacoma Mall sells various high-end
+* Hackers' Haven on the second floor of the Tacoma Mall sells various
 software.
 * Vesalius' Forge on the first floor of the Tacoma Mall sells various
 cyberware and installs them.
-* OutBack on the first floor of the Tacoma Mall sells various outdoor
-equipment including backpacks.
+* OutBack on the second floor of the Tacoma Mall sells various outdoor
+equipment including backpacks and climbing gloves.
 * The Stopgap is a 24/7 convenience store.
 * The first floor of Novatech Seattle has Novatech Armor Depot, Novatech
 Security Depot (sells weapons and ammunition), Novatech Cyberdeck Retailer,
@@ -435,32 +438,37 @@ Novatech Cyberdeck Utilities and Programs (sells software), Superhuman Inc.
 Bioware Studio, Superhuman Inc. Cyberware Studio and a store where I can get a
 respirator should I ever need one.
 * Nicolas Lombardi in the Enigma Nightclub on the second floor of Novatech
-Seattle offers work.
+Seattle offers work. (Killing the lawyer's bodyguard can be rough.)
 * Angela Wright on the fifth floor of Novatech Seattle offers work (minimum
 reputation 500).
-* Maple Leaf Technologies on the third floor of the Renraku Arcology has decks
-and various other decking-related technology.
-* Body + Tech on the third floor of the Renraku Arcology has various
+* Maple Leaf Technologies on the first floor of the Renraku Arcology sells
+decks and various other decking-related technology.
+* Body + Tech on the first floor of the Renraku Arcology sells various
 cyberware.
-* The Elevators/Payphones section of the third floor of the Renraku Arcology
+* The Elevators/Payphones section of the first floor of the Renraku Arcology
 has a Matrix terminal.
-* Quickway Chemists on the third floor of the Renraku Arcology has various
-medicines.
-* There is a DocWagon store on the third floor of the Renraku Arcology.
-* SyberSpace on the third floor of the Renraku Arcology sells various decking
+* Quickway Chemists on the first floor of the Renraku Arcology sells various
+medical supplies.
+* There is a DocWagon store on the first floor of the Renraku Arcology that
+sells DocWagon stuff.
+* SyberSpace on the first floor of the Renraku Arcology sells various decking
 supplies.
 * 'help wheresmycar'.
-* Secure-Tech on the third floor of the Renraku Arcology sells armor.
+* Secure-Tech on the first floor of the Renraku Arcology sells armor.
 * B2 of Renraku Arcology is very dangerous!
 * There is an idling bonus of 1000 yen at intervals (which apparently also
 applies when not idle)!
 * 'install' is also used for decks.
 * There is a post office just south of Circuit Couriers.
-* Richley Thorn at Dante's Inferno (First Hell) offers work.
+* Richley Thorn at Dante's Inferno (First Hell) offers work. (Be very careful
+about geeking Juan González.)
 * There is a Matrix terminal in the start of Second Hell in Dante's Inferno.
-* Mister Johnson in Dante's Inferno (Second Hell) offers work.
+* There is a Matrix terminal in a booth or whatever in the Ninth Hell of
+Dante's Inferno.
+* Mister Johnson in Dante's Inferno (Second Hell) offers work (for less
+experiened runners). (And killing the Mitsuhama executive is rough.)
 * There seem to be various "vendors" in Dante's Inferno, including of
-software.
+software (which in turn includes evaluate utilities).
 * John Smith in Dante's Inferno (Fourth Hell) offers work.
 * A girl in line before Dante's Inferno practices Street Etiquette.
 * There is an ATM in Dante's Inferno (Ninth Hell).
@@ -506,17 +514,23 @@ booths on the western side.
 * Remember to hang up phone calls!
 * Quickness enhancements are recommended for deckers not going the full Street
 Samurai route, and maybe initiative (?).
-* Mall of Mammon is to the east of CyberDoc.
+* The Mall of Mammon is between Seventh and Eighth on Boren Avenue in SE
+Seattle.
+* Bang for Your Buck on the third floor of the Mall of Mammon sells submachine
+gun, heavy pistol, light pistol, sport rifle, shotgun and assault rifle
+ammunition.
 * Velasquez Bank in West Tacoma has a Matrix terminal.
 * The backroom of Bullet Bonanza in Knight Center sells even **more**
 ammunition.
 * There's a guy on Burton Street in Redmond who practices Stealth.
 * Paulie's Weapons Depot in the abandoned factory on Commerce in Redmond sells
 **cheap** ammunition.
+* Phil's Army Surplus between Sixth and Seventh Streets on Boren Avenue in SE
+Seattle sells various sorts of military equipment.
 * The market in the south of Portland apparently has someone who practices Elf
 etiquette.
 * The Rooster deals in arms a little northeast of the apartment complex in
-Redmond and also offers work. (Minimum reputation 100.)
+Redmond and also offers work (minimum reputation 100).
 * 'help junk'.
 * 'help highlight'.
 * 'help xterm256'.
@@ -525,6 +539,9 @@ equipment).
 * Bunny at Circuit Couriers offers work.
 * Miyoko at Dante's Inferno (Ninth Hell) offers work.
 * Harold Moore at Dante's Inferno (Ninth Hell) offers work.
+* Harold Moore's quest for lost items requires going to the Bradenton, the
+staircase at the northernmost part of the Moonlight Mall and a back room in
+the Blue Wyvern.
 * Don Giuseppe Bonanno at the OldTown station in Tacoma (Den of Thieves')
 offers work.
 * Pherrik (quest target) can be found on the dance floor of Dante's (Fourth
@@ -540,7 +557,8 @@ of different types of ammunition.
 * Medkits can be used more than once.
 * Powell's Technical Books in Portland sells decking-related merchandise and
 practices related skills. Also the back room guy buys paydata.
-* Jimmy Smith at Smith's Pub offers work.
+* Jimmy Smith at Smith's Pub offers work. (Requires invitation which can be
+found from doing runs for Bunny.)
 * The ferry in the north of West Tacoma can take you to a mysterious ship
 known as the Bradenton.
 * The secretary at Lone Star 17th Precinct offers work.
@@ -550,9 +568,10 @@ known as the Bradenton.
 dangerous there.
 * Techno Geeks in Knight Center sells the CMT Avatar and so does a shop in
 Renton.
-* Zigzag at Syberspace offers work and so does a burnt-out Ork decker. (Both
-presumably offer Matrix work.)
+* Zigzag at Syberspace offers work and so does a burnt-out Ork decker (minimum
+reputation 1000). (Both presumably offer Matrix work.)
 * Brian at Syberspace practices decking-related skills.
+* There is a Matrix terminal in a back room at Syberspace.
 * There is a pawn shop in Little Chiba.
 * Mark Kornen in the Aztech Pyramid food court (ground floor, east side)
 offers work.
@@ -564,6 +583,9 @@ equipment.
 about a second or less. It's for moving fast more than reading new stuff in
 detail.
 * Kie'deieron Ly'trelli in Tarislar (location obvious) offers work.
+* Possibly the "Teddy Bear Killer" Ly'trelli wants gone is in the abandoned
+mall in Tarislar. (No, Redmond.) For another quest, Schizz can also be found
+in the abandoned mini mall in Redmond.
 * There's a guy on the western side of East Puyallup who sells ammunition and
 weapon accessories, as well as a radio model with encryption rating 4.
 * Richard Skylarke in The Epicenter club offers work.
@@ -575,7 +597,8 @@ kit and the corresponding skill.
 southern Puyallup before the route to Tarislar.'
 * Kiol in the Puyallup Crime Mall practices weapon skills.
 * Mr. Fixit does repairs (but where is he?).
-* There is a computer store north of Krackerjack's hovel in West Tacoma.
+* There is a computer store north of Krackerjack's hovel in West Tacoma that
+sells (there's the keyword) computing equipment.
 * Recuperate from injuries in peaceful areas.
 * Extra Lar'd Clothing on Big-Ass Alley in Redmond sells extra large
 backpacks.
@@ -583,7 +606,8 @@ backpacks.
 Matrix work.)
 * There's an ATM on the ground floor of Telestrian Habitat in Portland.
 * Reggie's Hole-in-the-Wall in the SW Seattle cracks credsticks.
-* Zalensky's Electronics in SE Seattle has cyberware and installs them.
+* Zalensky's Electronics in SE Seattle sells cyberware and installs them. In
+addition they also sell other electronic gear.
 * Baxter Morgan in the West Tacoma junkyard offers work.
 * Dave's Discount Drugs is just south of Evergreen Multiplex in West Tacoma
 and sells patches etc.
@@ -593,8 +617,8 @@ terminal in the basement.
 * Road Hog Racing in West Tacoma sells vehicles.
 * There is a Matrix terminal in the southernmost room of Bryerson Medical but
 it requires an electronics kit and cracking to enter.
-* The manager of the Flying Dragon Restaurant offers work. (Minimum reputation
-1500.)
+* The manager of the Flying Dragon Restaurant offers work (minimum reputation
+1500).
 * Kiriyama's in Chinatown sells flechette ammunition and various other martial
 goods.
 * Honest Obie's in Chinatown sells all kinds of armor and other apparel.
@@ -604,3 +628,203 @@ and accessories.
 bioware and maybe installs them too.
 * The intersection of Xhu and Zhao Streets in Chinatown leads to a smuggler
 ring where vendors sell mostly arms, armor and accessories.
+* Xing in the dojo of Chinatown practices Brawling, Stealth, Athletics and
+Cyber Implants.
+* Nybbles & Bytes sells credsticks.
+* Oswald Skylarke at the Afterlife (Heaven) in West Tacoma offers work.
+* Use the skeleton key obtained from Oswald Skylarke to open the secret door
+in Hell's Bar at Afterlife.
+* Phillipe "Mugsy" Vizzini in the back of Pharaoh's Nightclub in East Tacoma
+offers work.
+* Shakey the Toad in one of the squalid back rooms of Pharaoh's Nightclub in
+East Tacoma offers work (for less experienced runners).
+* Marty Jameson of Jameson's Garage in West Tacoma practices ground vehicle
+repair skills.
+* The dark alley in between Jameson's Garage and Scalpel's Chop Shop (sells
+and installs cyberware) in West Tacoma has some interesting secrets including
+a medical supplies store (inserting the word "sells" so I can find this entry
+easily) and an NPC who practices Biotech and Medicine.
+* Read the sign before taking the ferry.
+* The manager at Star Sapphire has work only for less experienced runners.
+* The Parker Center in East Tacoma sells vehicles and drones.
+* The Parker Center also sells flashlights.
+* Martingale tells you OOCly, 'The first digit of the room number is the
+floor, 1 being ground, the second is 1 for west and 2 for east, and the
+third is how far south it is.'
+* 'help maximums'.
+* Speaks-with-Many in Fenris Nacht practices several American aboriginal
+languages.
+* The BurnsCo Truck Stop in East Tacoma sells vehicles and automotive goods.
+* A nameless Johnson on the second floor of Espanoza Complex offers work (for
+less experienced runners).
+* Kahiri Osato in the Murdered Mime in Renton offers work.
+* Mister Zaibatsu at the Rubber Suit in Everett offers work, as does Mister
+Keiretsu (minimum reputation 500).
+* A private booth in the Rubber Suit has a Matrix terminal (two, in fact).
+* Dave's Discount Drugs in Auburn sells medical supplies.
+* Off of Weisman's Drive in Renton, follow Talbot Lane to Derek's Discount
+Commissary. (Starting with the Italiano is much more efficient.) There a
+Dwarf (Derek?) sells decking-related equipment, decking programs, electronic
+gear and stylish decker's bags.
+* A woman at the top of the burnt-out building in the east of Auburn offers
+work (minimum reputation 200).
+* There is a Matrix terminal in the Fifth Hell of Dante's Inferno.
+* The monorail goes from Seattle to Auburn to Knight Center to West Tacoma and
+then the reverse and so forth.
+* When waiting for the monorail in Seattle, be sure the ticket foyer is to the
+east.
+* Olga Chernov in the Muscovite Lounge in NW Seattle practices Russian and
+German.
+* There is a Matrix terminal on the second floor of the Muscovite Lounge in NW
+Seattle.
+* A nameless Johnson in Sixth Age Clinical Consulting in NW Seattle offers
+work.
+* The office building just east La Vieux Cinema has a Matrix terminal.
+* Doctor Jackie Toshika of Jackie's Biosculpting in NW Seattle offers work.
+* Jackie's Biosculpting also sells and installs bioware.
+* On the second floor of the Council Island Hospital there is a Matrix
+terminal.
+* Dr. Kack Javorkian in the South Island Clinic sells and installs cyberware
+(requires going through air ducts).
+* Robert James Hark III of the Satyricon in Portland offers work.
+* There is a Matrix terminal in the northern area of the Satyricon.
+* There is an ATM on the ground floor of TTBank Tower in Portland.
+* Jana Ca'Haeden in the Davis Street Offices of Portland offers work. There is
+also a Matrix terminal in her office.
+* There is another Matrix terminal in the Davis Street Offices on the same
+floor as Jana Ca'Haeden in a vacant office.
+* Trojan Combat Supplies Store on the ground floor of Telestrian Habitat in
+Portland sells stealth gear.
+* Battlegear on the ground floor of Telestrian Habitat in Portland sells armor
+and other apparel.
+* Telestrian Arms Retail Outlet on the first floor of Telestrian Habitat
+sells some pretty serious firepower.
+* Graagen Auto Parts on the first floor of Telestrian Habitat sells ... auto
+parts, maintenance tools and rigging equipment.
+* Radio Shack on the second floor of Telestrian Habitat sells climbing
+equipment.
+* There's a Matrix terminal in CryptoSoft Inc. on the second floor of
+Telestrian Habitat.
+* Omnifarious Technologies on the second floor of Telestrian Habitat sells and
+installs cyberware.
+* Semitronic Computer Supply on the second floor of Telestrian Habitat sells
+rigging and decking equipment.
+* The merchandise center on the ground floor of Renraku Arcology in SE Seattle
+has a Matrix terminal.
+* Maxwell tells you OOCly, 'Yep. All store decks use cold ASIST. They protect
+you from black IC, but they don't let you use your hacking pool.'
+* DocWagon charges you a proportion of what you have, including bank funds.
+(Not including bank funds really?)
+* Daniel "The Turk" Leoni at the Italiano in Renton offers work.
+* Investigate the mall in NE Seattle on Espanoza Way between Sixth and Seventh
+Streets.
+* It's called Espanoza Way Complex.
+* Gizmo's Gadgets on the first floor of Espanoza Way Complex sells electronic
+gear.
+* Doc Cashin's Optical Upgrades on the first floor of Espanoza Way Complex
+sells optical cyberware, including high quality Alpha cyberware.
+* Professional Security Gear, Inc. on the first floor of Espanoza Way Complex
+sells form-fitting body armor IV and a few accessories.
+* A nameless Johnson on the second floor of Espanoza Way Complex offers work
+to less experienced runners.
+* There is a Matrix terminal on the second floor of Espanoza Way Complex.
+* There is a Matrix terminal in a private room in The Skeleton in
+Touristville.
+* Thomas Steele at The Skeleton offers work (minimum reputation 300).
+* There is a combined ATM / Matrix terminal at the Redmond Way Mall in
+Touristville.
+* Wisebrand Wholesale Chips at the Redmond Way Mall sells various ActiveSofts.
+(In fact there are two of them.)
+* Doc Sihn's Chipware at the Redmond Way Mall sells and installs various
+chipjack-related cyberware.
+* Gustav's Military Surplus in the Redmond Way Mall sells ammunition,
+rucksacks, vision-enhancing glasses and various accessiories.
+* Redmond Wholesale Furniture in the Redmond Way Mall sells, well, furniture.
+* Ocular Adjustments Inc. in the Redmond Way Mall sells and installs optical
+cyberware.
+* Cecile Nichols in The Downfall in Touristville offers work (minimum
+reputation 350).
+* There is a Matrix terminal in the back office of Crusher 495 in
+Touristville.
+* Melvin Graybald at Crusher 495 offers work.
+* Mack Roland in the cemetery at the western end of Middlefield Avenue in
+Redmond offers work (minimum reputation 500).
+* Maxwell Jensen at Ebey's Bar offers work (minimum reputation 250).
+* There is a Matrix terminal in a private booth at Jason's Bar & Grill in
+Everett.
+* Don't fuck around in the basement of Jason's Bar & Grill unless you're
+ready.
+* A chubby man sporting a cheap suit in Jason's Bar & Grill offers work.
+(Don't take him up on delivering bombs to Little Chiba unless truly prepared.)
+* Re: Fort Case: \A gruff and tusked smoker's grunt/[8 MHz, English]:
+Microsoft way dayo? South Redmond, out there somewhere. There's a fence
+dayo.
+* Keep working for Boz Renfield, Bunny and Jimmy Smith and I think one of them
+will make it possible to get a visa.
+* Smith's appears to be the proper place for the encyclopedia volume.
+* Re: Grenada, where there is apparently much decking work: Gato says in
+English, "Mmm. Gettin' out to Grenada, by the way? You can get a visa, fly
+normal. It works. Faster tambien. Pero you can also kinda... loiter, watch for
+cargo planes they ain't check too close. Onna tarmac, west of the main lot."
+* An instructor in the 17th Precinct in NW Seattle practices Athletics,
+Rifles, Pistols, Police Procedures and Tasers.
+* Sofbyte in the ground floor of The Auburn Center sells **very expensive**
+decks and decking programs.
+* Fry's Electronics on the ground floor of The Auburn Center sells various
+electronic gear.
+* Body + TECH on the first floor of The Auburn Center sells and installs
+various cyberware and bioware.
+* Stix n' Stuff on the first floor of The Auburn Center sells furniture.
+* There is an ATM at the entrance of The Auburn Center.
+* The receptionist at the very topmost floor of Knight Center offers work
+(minimum reputation 400).
+* Mister Johann at The Banshee in Touristville offers work.
+* Hyeon Sang-chul at Y.Y. Korean BBQ in Touristville offers work.
+* Guang and Huang intersection in Chinatown is where Yellow Lotus can be
+found, apparently.
+* Dr. Bob's Quickstitch in Touristville sells and installs cyberware, and
+sells medical supplies as well.
+* Chas Moreno at Dr. Bob's Quickstitch offers work.
+* Cabbie Connection in Touristville sells ground vehicle tools and parts.
+* Cabbie of Cabbie Connection offers work.
+* Auburn Paint and Panel sells more vehicle stuff, as does Slipstream Ultra
+Xtra Auto Supplies Store slightly to the west.
+* Boseman's Drone Emporium sells drones just north of Slipstream.
+* Weston Lynn on the second floor of The Gravity Bar in Everett offers work.
+* There is a Matrix terminal on the first floor of The Gravity Bar in a
+private dining booth.
+* Rex Jackson at Dirty Rikki's Bar in Everett offers work.
+* 'sit' / 'rest'.
+* There is a Matrix terminal in the Spacebucks at Surehand Square. There is
+also a trainer there who practices Elf Etiquette and Gaelic. In addition,
+Valin Ke'Nelien in the amphitheater offers work.
+* The Ancients gang might hang out in a truck stop or something in Portland.
+* \A lazily amused baritone(Gato)/[8 MHz, English](CRYPTO-2): Plus if you're
+fine with short bursts an' ain't wanna full-auto, them SMGs oughta take a
+suppressor just fine.
+* \A lazily amused baritone(Gato)/[8 MHz, English](CRYPTO-2): Both got some
+integral, sabes? Y entonces you throw a grip on 'em anna top-mounted SL II.
+* Data Brokerage is used to program Evaluate utilities.
+* Negotiation is used in part to calculate payouts from Johnsons.
+* The Marksman Indoor Firing Range southeast of the Neophyte Guild practices
+Pistols, Shotguns, Submachine Guns, Assault Rifles, Mounted Gunnery, Machine
+Guns, Rifle Repair and Ammo Crafting, Submachine Gun Repair and Ammo Crafting,
+Shotgun Repair and Ammo Crafting, Tasers.
+* Doityadamnself & Son's Hardware and Appliances between Sixth and Seventh on
+Seneca in SW Seattle sells hardware.
+* Ken at the Everett Airport can smuggle you to the Caribbean, where one can
+find a half-price visa (full price at the Everett Airport itself).
+* There's a guy in the basement of Ebey's who sells visas.
+* Glow City is just to the east of where Moonlight Mall is in Redmond (but is
+apparently very dangerous).
+* Stanley's RGA Emporium in Everett sells gunsmithing and ammunition crafting
+equipment and kits for the latter.
+* Clarence Williams at Stanley's RGA Emporium practices the repair and
+ammunition crafting skills for pistols, shotguns, submachine guns, rifles
+and heavy weapons.
+* Allocate cpool towards offense when targets are hard to hit.
+* 'get nuyen all.corpse'.
+* 'get cred all.corpse'.
+* Richard Skylarke will give you a keycard which can be used after searching
+in the mixing stage of The Epicenter. There a cyberdoc sells and presumably
+installs various cyberware.
