@@ -239,8 +239,45 @@ wish you good fortune in your travels Khayyam."
 * 'value'.
 * 'identify' only works on items in inventory, not equipment.
 * 'Saraid: honestly I would turn off autoloot for now'.
+* Turn 'autoloot' back on temporarily if you need an item.
 * Open clan shops will buy items you find.
 * Maybe turn on autoloot level 80?
 * Or maybe not: "Teleron: Never becausse bonus loot items are what you need,
 plus eqsearch can point to what you need."
 * The Vlad area has all cursed items.
+* "If you want a hard-copy of this guide, you can find it in Aylor's Library.
+From anywhere in Aylor, type 'find library' or 'find all' for a list of all
+the primary shops. However, note that you can always locate these help files
+by typing 'index newguide'."
+* "Teleron: If you can't sell them then just sacrifice them."
+* Campaign mobs aren't marked explicitly like in quests.
+* 'coordinates' in Vidblain.
+* Use spaces to separate multiple recipients when sending a note.
+* 'keep all.kibble'.
+* 'get apple from tree'.
+* 'open down'.
+* Madrox (General) tells the CLAN: 'Please keep your ]An Old Duffle Bag[ safe
+and sound. Also remember to lock any doors behind you that you may open with
+it.'
+* Madrox (General) tells the CLAN: 'For a layout of the clan hall type RLOOK
+MAP at clan recall, or if you are visually impaired type RLOOK VIMAP at clan
+recall.'
+* Madrox (General) tells the CLAN: 'If you have any questions, please do not
+hesitate to ask on clan channel via the command CLAN HI I'M NEW!'
+* Szzilleriel (General) tells the CLAN: 'if you're having problems with runto
+type 'runprefix down''
+* The Boot Camp duffel bag can be used as a portal.
+* 'spellup' is very useful.
+* 'keyloot'.
+* The Aard Amulet and Trivia Portals will be useful later.
+* Once you max stats, instinct, HP, mana and moves are next.
+* "Epsilon: Incidentally, do quests and campaigns. You'll need 500qp per mort
+dead minimum (except your first, first SH advancement is free,) and then
+you'll want to be able to spend on Aard items (help newbie-aard). And then
+wishes after that (help wishes), then mastery/potential as you move towards
+the endgame."
+* 'help pclass'.
+* 'help bonusloot'.
+* 'daily blessing'.
+* 'help tags'.
+* 'consider all' can show the name of a mob whose name is unclear.
