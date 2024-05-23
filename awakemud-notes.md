@@ -395,9 +395,9 @@ cyberware.
 who offers work (for less experienced runners). (And it's (not all) Matrix
 work.)
 * There is also an ActiveSoft store on the first floor.
-* Action Computers and Electronics sells wrist phones and various optical
-equipment. In addition, Mike offers work (for less experienced runners).
-(And it's Matrix work.)
+* Action Computers and Electronics sells wrist computers, phones and various
+optical equipment. In addition, Mike offers work (for less experienced
+runners). (And it's Matrix work.)
 * Shiba's Stables in Little Chiba sells the Phoenix cyberdeck.
 * Kang's Pawn Shop in Little Chiba sells radios.
 * White Oak Clinic in Little Chiba installs cyberware.
@@ -408,12 +408,12 @@ equipment. In addition, Mike offers work (for less experienced runners).
 * The Sharper Image outlet in Lysleul Plaza sells radios, phones (including
 ECM scramblers), pocket secretaries and bug scanners.
 * The SecureTech outlet in Lysleul sells armor suitable for covert use.
-secretaries, GPS systems, [comma left here ... and what else]?
 * Hermes' Library on the ground floor of Moonlight Mall in Redmond practices
 Negotiation.
 * Nybbles & Bytes has a Matrix terminal.
 * There is a Matrix terminal near DeClerry's Bar in West Tacoma.
-* Rodney Boren at DeClerry's Bar in West Tacoma offers work.
+* Rodney Boren at DeClerry's Bar in West Tacoma offers work for less
+experienced runners.
 * 'escape'.
 * Tacoma Mall's first floor has a Matrix terminal.
 * Zappa-Tech on the first floor of the Tacoma Mall sells decks, decker's bags,
@@ -427,14 +427,14 @@ early on.
 * The Chop Shop on the ground floor of the Tacoma Mall sells various useful
 cyberware and also installs them.
 * There is a post office on the ground floor of the Tacoma Mall.
-* Jilted is a weapons store on the first floor of the Tacoma Mall.
+* Jilted sells weapons on the first floor of the Tacoma Mall.
 * Hackers' Haven on the second floor of the Tacoma Mall sells various
 software.
 * Vesalius' Forge on the first floor of the Tacoma Mall sells various
 cyberware and installs them.
 * OutBack on the second floor of the Tacoma Mall sells various outdoor
 equipment including backpacks and climbing gloves.
-* The Stopgap is a 24/7 convenience store.
+* The Stopgap is a 24/7 convenience store that sells convenience store stuff.
 * The first floor of Novatech Seattle has Novatech Armor Depot, Novatech
 Security Depot (sells weapons and ammunition), Novatech Cyberdeck Retailer,
 Novatech Cyberdeck Utilities and Programs (sells software), Superhuman Inc.
@@ -442,11 +442,12 @@ Bioware Studio, Superhuman Inc. Cyberware Studio and a store where I can get a
 respirator should I ever need one.
 * Nicolas Lambardi in the Enigma Nightclub on the second floor of Novatech
 Seattle offers work. (Killing the lawyer's bodyguard can be rough.) (What
-he's offering now is also very dangerous.)
+he's offering now is also very dangerous.) (Maxes out at 1000 rep.)
 * Angela Wright on the fifth floor of Novatech Seattle offers work (minimum
 reputation 500).
 * Maple Leaf Technologies on the first floor of the Renraku Arcology sells
-decks and various other decking-related technology.
+decks and various other decking-related technology, including the Hitachi
+RM-AX optical chip encoder.
 * Body + Tech on the first floor of the Renraku Arcology sells various
 cyberware.
 * The Elevators/Payphones section of the first floor of the Renraku Arcology
@@ -455,8 +456,8 @@ has a Matrix terminal.
 medical supplies.
 * There is a DocWagon store on the first floor of the Renraku Arcology that
 sells DocWagon stuff.
-* SyberSpace on the first floor of the Renraku Arcology sells various decking
-supplies.
+* SybreSpace on the first floor of the Renraku Arcology sells low-end decks
+and decking programs.
 * 'help wheresmycar'.
 * Secure-Tech on the first floor of the Renraku Arcology sells armor.
 * B2 of Renraku Arcology is very dangerous!
@@ -504,13 +505,14 @@ Etiquette.
 * Takashi Takechi in the Knight Errant Training Facility sells guns and
 ammunition.
 * Techno Geeks in the Knight Center Shopping Mall (ground floor) sells various
-electronic bits, including commonly used appliances.
+electronic bits, including commonly used appliances, optical chips and
+cyberdeck parts.
 * Cranial Caps in the Knight Center Shopping Mall (ground floor) has offensive
 trucker hats.
 * Lead Loaders in the Knight Center Shopping Mall (first floor) sells SMGs and
 Fast and Deadly sells other long guns. In fact there are a bunch of long
 guns on that floor in addition to cyberware, bioware, body armor and
-ammunition.  And all kinds of melee weapons.
+ammunition. And all kinds of melee weapons.
 * There is an ATM on the first floor of the Knight Center Shopping Mall, near
 the escalators.
 * A leather rifle strap can be bought at Bolshevik Buffet on the first floor
@@ -602,7 +604,7 @@ Program Design, Cyberterminal Program Design, Cyberterminal Design.
 offers work for less experienced runners.
 * Universal Omnitech in the Aztech Pyramid (ground floor) sells cyberware.
 * Bits and Bytes in the Aztech Pyramid (ground floor) sells decking-related
-equipment.
+equipment, including chip cookers and microtronics toolkits.
 * 'sneak' appears to be required to use Stealth.
 * Discord |]newbie[| [Alak]: It's worth mentioning sneaking only buys you
 about a second or less. It's for moving fast more than reading new stuff in
@@ -652,7 +654,7 @@ Matrix work.)
 * Reggie's Hole-in-the-Wall in the SW Seattle cracks credsticks.
 * Zalensky's Electronics in SE Seattle sells cyberware and installs them. In
 addition they also sell other electronic gear.
-* Baxter Morgan in the West Tacoma junkyard offers work (for less experienced
+* Baxter Morgan in the West Tacoma Junkyard offers work (for less experienced
 runners).
 * Dave's Discount Drugs is just south of Evergreen Multiplex in West Tacoma
 and sells patches etc.
@@ -716,7 +718,7 @@ Commissary. (Starting with the Italiano is much more efficient.) There a
 Dwarf (Derek?) sells decking-related equipment, decking programs, electronic
 gear and stylish decker's bags.
 * A woman at the top of the burnt-out building in the east of Auburn offers
-work (minimum reputation 200).
+work (minimum reputation 200) and so does a druggie in the same building.
 * There is a Matrix terminal in the Fifth Hell of Dante's Inferno.
 * The monorail goes from Seattle to Auburn to Knight Center to West Tacoma and
 then the reverse and so forth.
@@ -859,7 +861,8 @@ Xtra Auto Supplies Store slightly to the west.
 (And it's Matrix work.)
 * There is a Matrix terminal on the first floor of The Gravity Bar in a
 private dining booth.
-* Rex Jackson at Dirty Rikki's Bar in Everett offers work.
+* Rex Jackson at Dirty Rikki's Bar in Everett offers work. (Maxes out at 1000
+rep.)
 * A man in Dirty Rikki's Bar practices Latin and Arabic.
 * 'sit' / 'rest' / 'sleep'.
 * There is a Matrix terminal in the Spacebucks at Surehand Square. There is
@@ -897,7 +900,8 @@ and heavy weapons.
 * Richard Skylarke will give you a keycard which can be used after searching
 in the mixing stage of The Epicenter. There a cyberdoc sells and presumably
 installs various cyberware.
-* Mel Mulligan in Dante's Inferno (Seventh Hell) offers work.
+* Mel Mulligan in Dante's Inferno (Seventh Hell) offers work. (Maxes out at
+1000 rep.)
 * Be on the look out for corn on the cob, a red apple, a chocolate doughnut
 and a bagel.
 * A wandering Ork merchant sells corn on the cob in the Ork Underground.
@@ -948,7 +952,7 @@ the main entrance to the airport is a cargo platform, you just have to wait
 for it to roll up and start loading, then you can board.
 * One can buy a Caribbean League visa at a discount at St. Patrick's
 International Airport in the customs office.
-* There is an ATM in the southern entrance are of St. Patrick's International
+* There is an ATM in the southern entrance area of St. Patrick's International
 Airport on Sauteurs.
 * Guillaume's Goods on Sauteurs sells swimming equipment.
 * Lacoste's Boats and Rentals on Sauteurs sells watercraft.
@@ -1003,3 +1007,69 @@ sells numerous level-8 activesofts.
 * STupHR ShaK on Hoagie Street in the Ork Underground sells explosive medium
 submachine gun ammunition and Doc Dodie's Medical Clinic, attached, sells and
 maybe installs cyberware and bioware.
+* Operational Program Design appears required to write Evaluate utilities but
+Data Brokerage determines the highest level they can be written at.
+* The basketball player Zephram Hood is in Tarislar Park.
+* A pencil can be bought at Hen-Chi's All-in-One in western Auburn.
+* Be on the lookout for a resin tube and bubble gum. (They can be found at
+Dave's Discount Drugstore in Auburn.)
+* The keycard Chas Moreno gives you after a difficult run can be used to
+unlock a room where **very** high-end cyberware can be bought and presumably
+installed.
+* Just west of Renton and Cizae in East Puyallup, there is a vendor who sells
+weapons and ammunition, including EX sniper ammunition, and Accodata radios
+with encryption rating 4.
+* LeMaitre Medical Wares on Victoria sells and installs high-quality cyberware
+and bioware.
+* The Cage on floor 1 of the Red Shift Offices on Victoria sells various
+firearms and Zeiss-Audiotek prototype smartscopes.
+* The Grit 'n' Kit on floor 1 of the Red Shift Offices sells armor.
+* Benny Butte on floor 2 of the Red Shift Offices offers work.
+* There is a Matrix terminal on floor 4 of the Red Shift Offices. (Several in
+fact.)
+* John Smith on floor 4 of the Red Shift Offices offers work.
+* Mercer Johansen on floor 5 of the Red Shift Offices offers work.
+* The clinic on Prospect and Union sells cyberware and bioware.
+* Smith's Electronic Boutique on Prospect and Union sells various goggles,
+electronic kits and low-end electronic gear. The back room buys paydata.
+* Vehicle repair can be done in the Tacoma Junkyard.
+* Tiny |]newbie[| Analyze various hosts and also check the ACIFS of each place
+for trapdoors?
+* Ludwig |]newbie[| The website's not working, what's an ACIFS
+* Nanashi |]newbie[| Matrix hosts have subsystems which we refer to as ACIFS,
+which stands for Access, Control, Index, Files, Slave
+* Tiny |]newbie[| The starter syberspace runs are helpful for teaching matrix stuff
+* Tiny |]newbie[| The guy in the south eastern door
+* Nanashi |]newbie[| Sometimes, the Files subsystem of a node is encrypted,
+which means you need to decrypt that particular subsystem before you can
+even try to download a file. In other cases, there are actually trapdoors
+hidden in one of the subsystems
+* Nanashi |]newbie[| So in that case, you'll want to analyze <subsystem> to
+check for that
+* Ludwig |]newbie[| I can't now because I went somewhere I shouldn't and now
+the MPCP got fried
+* Tiny |]newbie[| It's probably not fried permanently
+* Nanashi |]newbie[| Oh ouch. I *think* chargen decks can be repaired at Jim's
+* Nanashi |]newbie[| Not entirely sure though
+* If you cannot LOCATE HOST, you can navigate up one level to the parent host
+with LOGON LTG.
+* Nanashi |]newbie[| You can't find trapdoors that way [locate host]. You can
+only find them by doing analyze <subsystem>
+* [Discord] (OOC), "[Khai]: also check the help files for the individual
+commands. locate host is not the only useful way to use locate, and analyze
+<subsystem> isn't the only useful way to use analyze"
+* A clear, firm male voice(Maxwell) on the other end of the line says in
+English, "Aye, whoever designed that thing did not leave much room for
+noticing patterns and possible ways out of the nodes. So, after you connect to
+the Novatech Host, you can either go OUTLET - and that's their outlet and shop
+parts, not really what you're looking for - or ROUTING. That's where you need
+to go, that's the corporate side."
+* A clear, firm male voice(Maxwell) on the other end of the line says in
+English, "If I may suggest one place you can try with your CMT Avatar and
+get some experience as you go about it, I would suggest the Paine-Snohomish
+Airport node in the Everett LTG, Ludwig."
+* A clear, firm male voice(Maxwell) on the other end of the line says in
+English, "You can always ANALYZE the HOST to check its rating. ANALYZEing
+its SECURITY will also inform you of your security tally."
+* In Johnson NewBody Laboratories, look on the third floor for access to the
+roof, where a service elevator leading to the basement can be found.
