@@ -42,6 +42,7 @@ all 2.chest'."
 * 'check thief important'.
 * "If you are looking for a trainer for a particular ability, try 'spell find
 <spell or skill name>'. To find trainers in a city, try 'where trainers'."
+* 'skill find <spell or skill name>' also works.
 * 'compare'.
 * 'run' / 'flee'.
 * "The 'flee' command will work both in battle and outside of battle, while
@@ -95,3 +96,51 @@ any poison from them.
 cost is roughly equal to your first and second classes'
 * Draak newbies, 'you might not practice many of its abilities, but the
 practices, hp, mana and movement are invaluable'
+* 'search north' / 'trap examine gate' / 'trap disarm gate'.
+* There is a place to 'memorize hue' in Fort Marguera.
+* 'pick lock' can be used to force locks even without the skill.
+* 'Welcome to the Smiths Guild! As you advance in rank, you'll get discounts
+on most forging projects. You'll advance in rank by forging mastercrafted
+items from metal.'
+* 'help metallurgy'.
+* 'help survey'.
+* Warm clothing can protect from the cold.
+* 'help forester'.
+* Talk to the pole-maker in Stillwater to buy a fishing pole. (I think.)
+* 'gather wood'.
+* 'help gather'.
+* 'plant lore' is a level 1 Druid skill needed for certain types of gathering.
+* A woodswoman says to you, 'Welcome to the Woodwrights Guild! As you advance
+in rank, you'll learn techniques to find rarer types of wood and more
+successfully complete projects. You'll advance in ranks by creating
+mastercraft quality items from wood and doing jobs for the guild.'
+* 'help woodcraft'.
+* 'quest nearby'.
+* Maps can be bought at general stores.
+* Javers the Prospector says to you, 'Welcome to the Lapidarists Guild! As you
+advance in rank, you'll learn maximine yields from mineral deposits and work
+successfully with more difficult minerals. You'll advance in ranks by
+completing guild jobs and creating mastercraft quality items from stone.'
+* 'help mining'.
+* 'help lapidary'.
+* A skilled seamstress says to you, 'Welcome to the Haberdashers Guild! As a
+guild member, you will learn how to customize existing clothing before you
+learn to make bespoke clothing of your own. As you advance in the guild, you
+will get discounts on new materials when making clothing. You will advance in
+rank by customizing and making clothing.'
+* 'help hatter'.
+* Most apothecaries or potion sellers will sell some form of liquid container.
+* Skill 'poison lore' is important for thieves.
+* Remember that guildmasters offer jobs that won't by listed in 'where jobs'.
+* Jobs take six hours to refresh, until you level out, which is when they will
+no longer be offered in a given area. (On the newbie islands at least.)
+* 'butcher' large fish into manageable pieces for cooking.
+* Items that zap when worn/wielded are in conflict either with your alignment
+or an equipped item's alignment.
+* 'help crafter'.
+* Re: trying to brew poison: [crafter] Sheep: If I remember right, its a
+chance, but I believe its increased by having poison tagged items.
+* 'help questinfo'.
+* (Hint: To help you recall this passcode, you can use the 'quest replay'
+command to review the final text of quests you have completed, such as
+"quest replay 79200".)
