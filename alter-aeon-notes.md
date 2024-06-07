@@ -144,3 +144,14 @@ chance, but I believe its increased by having poison tagged items.
 * (Hint: To help you recall this passcode, you can use the 'quest replay'
 command to review the final text of quests you have completed, such as
 "quest replay 79200".)
+* Re: finding items for brewing poison: Morpheus newbies, 'everywhere.. try
+list search +poisoned   with a plus sign before poison and an ed on the
+e.d.. Items with a poison flag have a higher chance of brewing poisons.'
+* Morpheus newbies, 'mining can be a great way to find  comps too. and can
+kill 2 birds with one stone.. '
+* Woody Woodworker tells you, 'If you have the skill to make it, I need a
+woodcrafted 'fishing pole'.  The client was very specific - it must be
+crafted from hackberry. Since those are long and skinny, I suggest using
+'gather limb' when looking for wood.
+* 'show acorns'.
+* Re: where to find hackberry wood: Morpheus newbies, 'try lib search name'
