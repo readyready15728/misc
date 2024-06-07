@@ -395,9 +395,9 @@ cyberware.
 who offers work (for less experienced runners). (And it's (not all) Matrix
 work.)
 * There is also an ActiveSoft store on the first floor.
-* Action Computers and Electronics sells wrist computers, phones and various
-optical equipment. In addition, Mike offers work (for less experienced
-runners). (And it's Matrix work.)
+* Action Computers and Electronics sells wrist computers, phones, various
+optical equipment, decks, programs and deckbuilding parts. In addition, Mike
+offers work (for less experienced runners). (And it's Matrix work.)
 * Shiba's Stables in Little Chiba sells the Phoenix cyberdeck.
 * Kang's Pawn Shop in Little Chiba sells radios.
 * White Oak Clinic in Little Chiba installs cyberware.
@@ -410,7 +410,7 @@ ECM scramblers), pocket secretaries and bug scanners.
 * The SecureTech outlet in Lysleul sells armor suitable for covert use.
 * Hermes' Library on the ground floor of Moonlight Mall in Redmond practices
 Negotiation.
-* Nybbles & Bytes has a Matrix terminal.
+* Nybbles & Bytes has a (very limited) Matrix terminal.
 * There is a Matrix terminal near DeClerry's Bar in West Tacoma.
 * Rodney Boren at DeClerry's Bar in West Tacoma offers work for less
 experienced runners.
@@ -443,8 +443,8 @@ respirator should I ever need one.
 * Nicolas Lambardi in the Enigma Nightclub on the second floor of Novatech
 Seattle offers work. (Killing the lawyer's bodyguard can be rough.) (What
 he's offering now is also very dangerous.) (Maxes out at 1000 rep.)
-* Angela Wright on the fifth floor of Novatech Seattle offers work (minimum
-reputation 500).
+* Angela Wright on the fifth floor of Novatech Seattle offers work for less
+experienced runners (minimum reputation 500).
 * Maple Leaf Technologies on the first floor of the Renraku Arcology sells
 decks and various other decking-related technology, including the Hitachi
 RM-AX optical chip encoder.
@@ -464,7 +464,7 @@ and decking programs.
 * There is a Matrix terminal at Personnel Check on floor 4 of Renraku
 Arcology.
 * There is an idling bonus of 1000 yen at intervals (which apparently also
-applies when not idle)!
+applies when not idle)! (Actually no, Lucien said it's only for idling.)
 * 'install' is also used for decks.
 * There is a post office just south of Circuit Couriers.
 * Richley Thorn at Dante's Inferno (First Hell) offers work for less
@@ -482,7 +482,8 @@ experiened runners). (And killing the Mitsuhama executive is rough.)
 difficult.)
 * A girl in line before Dante's Inferno practices Street Etiquette.
 * There is an ATM in Dante's Inferno (Ninth Hell).
-* Janis Reenes in The Platinum Club (SE Seattle) offers work.
+* Janis Reenes in The Platinum Club (SE Seattle) offers work. (Maxes out at
+1500 rep?)
 * Rocko at The Platinum Club sells various types of ammunition.
 * The mosh pit in The Platinum Club is dangerous!
 * The bar in The Platinum Club is to the northeast of the mosh pit.
@@ -505,8 +506,7 @@ Etiquette.
 * Takashi Takechi in the Knight Errant Training Facility sells guns and
 ammunition.
 * Techno Geeks in the Knight Center Shopping Mall (ground floor) sells various
-electronic bits, including commonly used appliances, optical chips and
-cyberdeck parts.
+electronic bits, including commonly used appliances and deckbuilding parts.
 * Cranial Caps in the Knight Center Shopping Mall (ground floor) has offensive
 trucker hats.
 * Lead Loaders in the Knight Center Shopping Mall (first floor) sells SMGs and
@@ -538,7 +538,7 @@ ammunition.
 * Paulie's Weapons Depot in the abandoned factory on Commerce in Redmond sells
 **cheap** ammunition.
 * Phil's Army Surplus between Sixth and Seventh Streets on Boren Avenue in SE
-Seattle sells various sorts of military equipment.
+Seattle sells various sorts of military equipment, including bayonets.
 * The market in the south of Portland apparently has someone who practices Elf
 etiquette.
 * The Rooster deals in arms a little northeast of the apartment complex in
@@ -620,6 +620,7 @@ weapon accessories, as well as a radio model with encryption rating 4.
 runners).
 * Reality Hackers HQ in West Puyallup has easy targets.
 * Duran Bowers in The Cave in Portland (NW of Glisan and Sixth) offers work.
+(Maxes out at 1500 rep.)
 * The Cave in Portland has a Matrix terminal.
 * The lock to the Portland Crime Mall is easy to bypass with an electronics
 kit and the corresponding skill.
@@ -638,7 +639,8 @@ medkits, trauma patches, tranq patches, Walther PSK-770 heavy pistols, M16A4
 assault rifles and dikote combat axes.
 * Gato tells you OOCly, 'There's a second mall out in the coal plains, off of
 southern Puyallup before the route to Tarislar.'
-* Kiol in the Puyallup Crime Mall practices weapon skills.
+* Kiol in the Puyallup Crime Mall (ground floor) practices weapon skills,
+namely Shotguns, Pistols, Submachine Guns, Assault Rifles and Tasers.
 * Heavy Gear in the Puyallup Crime Mall sells Nicami 12x Sniper Model scopes,
 electronic imaging scopes, wrist phones, radios, climbing harnesses and
 thermographic goggles.
@@ -750,8 +752,8 @@ terminal.
 * The Royal Hospital in Portland sells DocWagon modulators and medical
 supplies.
 * The Royal Hospital in Portland also installs cyberware (maybe).
-* Jana Ca'Haeden in the Davis Street Offices of Portland offers work. There is
-also a Matrix terminal in her office.
+* Jana Ca'Haeden in the Davis Street Offices of Portland offers work for less
+experienced runners. There is also a Matrix terminal in her office.
 * There is another Matrix terminal in the Davis Street Offices on the same
 floor as Jana Ca'Haeden in a vacant office.
 * Trojan Combat Supplies Store on the ground floor of Telestrian Habitat in
@@ -777,7 +779,8 @@ has a Matrix terminal.
 * Maxwell tells you OOCly, 'Yep. All store decks use cold ASIST. They protect
 you from black IC, but they don't let you use your hacking pool.'
 * DocWagon charges you a proportion of what you have, including bank funds.
-(Not including bank funds really?)
+(Not including bank funds really? In any case, carry as little cash on your
+person as you can and leave most in the bank.)
 * Daniel "The Turk" Leoni at the Italiano in Renton offers work.
 * Investigate the mall in NE Seattle on Espanoza Way between Sixth and Seventh
 Streets.
@@ -812,7 +815,7 @@ reputation 350).
 Touristville.
 * Melvin Graybald at Crusher 495 offers work. (And it seems really difficult.)
 * Mack Roland in the cemetery at the western end of Middlefield Avenue in
-Redmond offers work (minimum reputation 500).
+Redmond offers work (minimum reputation 500 and maxes out at maybe 1000).
 * Maxwell Jensen at Ebey's Bar offers work (minimum reputation 250).
 * There is a Matrix terminal in a private booth at Jason's Bar & Grill in
 Everett.
@@ -867,10 +870,11 @@ rep.)
 * 'sit' / 'rest' / 'sleep'.
 * There is a Matrix terminal in the Spacebucks at Surehand Square. There is
 also a trainer there who practices Elf Etiquette and Gaelic. In addition,
-Valin Ke'Nelien in the amphitheater offers work.
+Valin Ke'Nelien in the amphitheater offers work. (Maxes out at 1500 rep.)
 * The fiend Valin Ke'Nelien wants dead is on the western side of Lysleul
 Plaza, in the casino.
 * The Ancients gang might hang out in a truck stop or something in Portland.
+(That's the Portland Crime Mall and it is in fact very dangerous.)
 * \A lazily amused baritone(Gato)/[8 MHz, English](CRYPTO-2): Plus if you're
 fine with short bursts an' ain't wanna full-auto, them SMGs oughta take a
 suppressor just fine.
@@ -886,7 +890,7 @@ Shotgun Repair and Ammo Crafting, Tasers.
 Seneca in SW Seattle sells hardware.
 * Ken at the Everett Airport can smuggle you to the Caribbean, where one can
 find a half-price visa (full price at the Everett Airport itself).
-* There's a guy in the basement of Ebey's who sells visas.
+* There's a guy in the basement of Smith's who sells visas.
 * Glow City is just to the east of where Moonlight Mall is in Redmond (but is
 apparently very dangerous).
 * Stanley's RGA Emporium in Everett sells gunsmithing and ammunition crafting
@@ -1073,3 +1077,102 @@ English, "You can always ANALYZE the HOST to check its rating. ANALYZEing
 its SECURITY will also inform you of your security tally."
 * In Johnson NewBody Laboratories, look on the third floor for access to the
 roof, where a service elevator leading to the basement can be found.
+* 'ASIST' is required to use hot ASIST in the Matrix.
+* Ghost says OOCly, "Help build - create deck first"
+* Ghost says OOCly, "Then create part"
+* MPCP further requires 'design' (maybe some other components).
+* 'build mpcp 3.zuse'.
+* Nemesis |]newbie[| Combine 1.box 2.box
+* Decks can be worn.
+* Re: Polearms practice: \a bubbly female voice with a californian
+accent.(Bubbles)/[8 MHz, English]: You can 'searching' 7th street between
+harrison and park.
+* prompt <@pP @mM @bB @iI Mode: @A>.
+* Dragging requires less Strength than lifting.
+* 'help ammocost'.
+* [Hibiscus] (OOC), "When you're wielding a weapon [firearm], you don't use
+brawling. You use Clubs, or Polearms if you have a bayonet.".
+* [Discord] (OOC), "[Essy]: oh and if you're magic, rely on perception instead
+of ultrasound".
+* 'help closecombat'.
+* J'valdi is worth exploring further.
+* Gato says to Eilidh in English, "Once you're past what she can teach you
+wanna swing by the Tir, over where like. Lordstrum's is at? Pero head the
+opposite way, to the east side, an' look around careful.".
+* The Icon Chip for a deck is NERP. (Is it?)
+* 'buy 24 #8'.
+* Analyze slot machine payouts based on input bet.
+* Evaluate utilities decay on the computer. :(
+* Hot ASIST is default if you have it.
+* 'locate file forum' (in the Seattle Public Library).
+* The Cave in Portland has a trapdoor in the files system. Once it is
+decrypted (IIRC) it is possible to do 'logon files'.
+* The 'handler' host of the Portland GridGuide System has paydata.
+* 'locate file snowflake'. (You'll know which run.)
+* Johnson NewBody Labs in East Tacoma has paydata in the basement.
+* Vancouver Center (guess where) has stores that sell cyberware and light
+military armor and also there's an ATM.
+* You can drive your vehicle into the cargo plane at the airport.
+* Make good use of LTG and RTG logins.
+* Investigate the Matrix terminals in Dante's Inferno further.
+* Concealing your deck in your rucksack (etc.) is a possibility.
+* Roswell's in Puyallup practices piloting skills (on Cizae between Redfern
+and Tillicum).
+* The airport (Sea-Tac, Snohomish, Portland) sells aircraft.
+* [Tilphousia] (OOC), "Anyway, if you're getting hit by assault cannon rounds
+and wearing a t-shirt you can forget about soak, so you should try to dodge
+it and pray you roll well. If you're wearing lots of armour and you're not
+facing something extreme like full auto machine guns, soak is typically the
+better choice."
+* The lodge of Council Island Hospital's Matrix host has paydata.
+* The Touristville mall's Matrix host has paydata.
+* The Espanoza Way Complex's accounting Matrix host has paydata. (Orange
+level.)
+* 'run medic' / 'look self'.
+* Search at the amphitheater in Portland. There one can find Vox. He practices
+Corporate Etiquette, Elf Etiquette, Media Etiquette, Negotiation, Street
+Etiquette and Tribal Etiquette.
+* The CAS can now be reached from the airport in Everett.
+* Re: location of the Praetorian Legion: Morbius says to you in English, "The
+Old Impound lot next to Phil's Army Surplus in Seattle."
+* The Seattle Voice office is on First Street in SE Seattle between Espanoza
+and Ridgeway.
+* There is a Matrix terminal in the Seattle Voice office.
+* Shing in the dojo of Chinatown practices Brawling, Stealth, Athletics and
+Cyber Implants.
+* 'karma' shows time until automatic deletion.
+* Re: becoming a walking tank: Kari says OOCly, "Consensus is cyber arms,
+legs, torso and head. 'Ware gets expensive, but they add to Armour, Bod and
+Str. Lots of sams play melee with polearms for the reach. I must admit that I
+prefer sniping."
+* Grand Wizard Shankmire can be found on Fourth Street in Auburn in an
+abandoned area just west of Boseman's Drone Emporium.
+* Matrix host AzTech → AztechMall → White → Backroom → Index
+subystem has a trapdoor. (Orange paydata there.)
+* 'locate ic'.
+* The small storeroom in Ebey's Bar sells all kinds of weapons and armor.
+* [Discord] (OOC), "[Khai]: IC attempt maneuvers by rolling against TN = your
+sensors, and resist your maneuvers by rolling against TN = your evasion. So
+6 would be a good threshold for both. Assuming you don't want to dump evasion
+because you want to be able to play with maneuvers on occassion, I'd do 12
+bod, 12 masking, 6 evasion, 6 sensors. The reason for 12 masking is so you can
+save some active memory space with 11 sleaze, since you'll find active memory
+maximums don't keep up with program size."
+* [Discord] (OOC), "[Khai]: Aside: you can use redirects to increase your TN
+against trace IC"
+* "[Khai]: Hosts each have a "type", which you should be able to see with
+analyze host. RTG hosts would be like the big internet backbone servers,
+LTGs are more local, like on the city or smaller scale. PLTGs are private
+LTGs, essentially the gateways to corporate networks. I don't remember what
+the acronyms stand for though."
+* [Discord] (OOC), "[Khai]: Ah, to clarify redirects - you log on to an rtg
+and do a redirect, and that increases your redirect count by 1. Each rtg you
+do this increases that count. Then you go somewhere where some trace IC
+attempts to target you. Their TN is then increased by that redirect count."
+* Anastasia says in English, "The keywords were "experimental trials". It's
+quest-specific though, so you won't find it in either of those hosts unless
+you have the run."
+* [Jexams] (OOC), "For the buildport, you just make a character on port 4001
+and after getting through chargen, ask for builder privileges"
+* Librarian in a bar on the Sauteurs beach offers work.
+* Build Reality Filters into your next deck.
