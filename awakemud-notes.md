@@ -797,7 +797,8 @@ to less experienced runners.
 * There is a Matrix terminal in a private room in The Skeleton in
 Touristville.
 * Thomas Steele at The Skeleton offers work (minimum reputation 300).
-* Stiletto Rose at The Skeleton offers work. (And it's Matrix work.)
+* Stiletto Rose at The Skeleton offers work for less experienced runners. (And
+it's Matrix work.)
 * There is a combined ATM / Matrix terminal at the Redmond Way Mall in
 Touristville.
 * Wisebrand Wholesale Chips at the Redmond Way Mall sells various ActiveSofts.
@@ -1176,3 +1177,5 @@ you have the run."
 and after getting through chargen, ask for builder privileges"
 * Librarian in a bar on the Sauteurs beach offers work.
 * Build Reality Filters into your next deck.
+* Where appropriate (you'll know where), Routing, Management, Executive and
+lastly Project.
