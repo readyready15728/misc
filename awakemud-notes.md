@@ -1179,3 +1179,5 @@ and after getting through chargen, ask for builder privileges"
 * Build Reality Filters into your next deck.
 * Where appropriate (you'll know where), Routing, Management, Executive and
 lastly Project.
+* Most operational and defense utilities should be at 10 or 12 for a 12 MPCP
+deck.
