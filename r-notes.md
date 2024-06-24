@@ -28,3 +28,29 @@
   ```
 * `verboseIter=TRUE` as an argument to `trainControl` will enable progress
   tracking during runs of `train`.
+* I still don't fully understand, but refer to page 11 of `R for Data
+Science`, 2nd Edition (O'Reilly) for how to get single vs. multiple
+estimated lines for `geom_smooth()` being used with `color` or the like.
+* `geom_density()` with `color`, `fill` and `alpha` can be very nice.
+* `geom_bar()` with `position='fill'` can be used to show relative frequency
+well.
+* Consider using `facet_wrap()` and maybe even `facet_grid()`.
+* "`count()` lets you quickly count the unique values of one or more
+variables: `df %>% count(a, b)` is roughly equivalent toi
+`df %>% group_by(a, b) %>% summarise(n = n())`.".
+* Consider using `.groups='keep'` with `summarize()`. (I refuse to use the
+limey spelling.)
+* Better to use a common prefix than a common suffix in variable naming.
+* Configure RStudio never to use `.RData`.
+* Concerning the difference between `unique()` and `distinct()`: https://stackoverflow.com/questions/45198738/difference-between-distinct-vs-unique
+* The ColorBrewer scales have been hand-tuned to be effective with people
+having various types of color blindness and there are online color blindness
+simulators etc. to test things out.
+* Use `is.na()` and `near()` as needed.
+* `flights |> filter(month == 1, day == 1) |> arrange(desc(is.na(dep_time)), dep_time)`
+makes rows with `dep_time` equal to NA appear first.
+* `if_else()` and the more advanced `case_when()` are in dplyr and they rock.
+* `n_distinct()` is also quite useful.
+* `pmin()` and `pmax()` return parallel extrema among two or more vectors.
+* `forcats::fct()` as opposed to `factor()` won't silently turn values not
+given in `levels` to `NA`s.
