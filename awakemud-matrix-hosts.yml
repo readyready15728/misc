@@ -1,0 +1,30 @@
+838-2206-0000:
+  2206-0666:
+    portal:
+      door: True
+  2206-CI:
+    2206-CI85:
+      lodge: True
+  2206-RENRAKU:
+    Mall:
+      Armante: True
+      Body+Tech: True
+      Charly: True
+      Golden: True
+      Maple: True
+  2206-SAEDER:
+    SK-Banking:
+      SB-Reception:
+        SB-Teller:
+          files: True
+    SK-Corporate:
+      SC-Lobby:
+        SC-Hub:
+          SC-Accounting: True
+          SC-Marketing: True
+    SK-OuterNodes:
+      SK-Research:
+        SR-Lobby:
+          SR-Lower:
+            SR-Library: True
+            SR-Production: True
