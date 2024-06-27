@@ -1181,3 +1181,12 @@ and after getting through chargen, ask for builder privileges"
 lastly Project.
 * Most operational and defense utilities should be at 10 or 12 for a 12 MPCP
 deck.
+* Maxwell tells you OOCly, 'Ok, let's go one by one. Evaluate you'll want at
+12 to maximize paydata gathering. Then Sleaze, defuse, read/write, browse,
+deception, decrypt, analyze... these you want to be as high as they can be...'
+* Maxwell tells you OOCly, 'Now, camo, lock-on and cloak... I would simply not
+use them, free that memory space.'
+* Maxwell tells you OOCly, 'Medic you can leave on standby, maybe at rating 8'
+* Maxwell tells you OOCly, 'Unload it if you run out of active mem.'
+* Maxwell tells you OOCly, 'Oh, and if you need more memory, I'd downgrade
+Attack to 7D.'
