@@ -7,22 +7,69 @@
       lodge: True
   2206-RENRAKU:
     Mall:
+      Arcade: True
       Armante: True
       Body+Tech: True
       Charly: True
+      Clenry: True
+      DocWagon: True
       Golden: True
+      Green: True
+      Hashimoto: True
       Maple: True
+      Purple: True
+      Quickway: True
+      Secure-Tech: True
+      SybreSpace: True
   2206-SAEDER:
     SK-Banking:
       SB-Reception:
+        SB-Basement:
+          monopoly: True
         SB-Teller:
           files: True
+        SB-Second:
+          SB-Contracts: True
+          SB-ITSec: True
+          SB-Management: True
+          SB-Third:
+            SB-Directorate: True
+            SB-ZOG: 'True?'
     SK-Corporate:
       SC-Lobby:
         SC-Hub:
           SC-Accounting: True
+          SC-HMR: 'True?'
           SC-Marketing: True
+    SK-MatrixSystems:
+      MS-Reception:
+        MS-Central:
+          MS-Secure:
+            MS-Upper:
+              MS-Directorate:
+                index:
+                  ES-First:
+                    pawn:
+                      rook:
+                        control: True
     SK-OuterNodes:
+      SK-Aerospace:
+        SA-Visitor:
+          SA-Hub:
+            SA-Tower:
+              SA-Operations: True
+              valkyrie: True
+      SK-Industry:
+        SI-IndustrialHub:
+          SI-Energy:
+            SI-EnergyAcc: 'True?'
+            SI-EnergyMgmt: True
+            SI-Markets: True
+            SI-Sales: True
+          SI-Industries:
+            SI-Production:
+              SI-IndMgmt:
+                saederheavy: True
       SK-Research:
         SR-Lobby:
           SR-Lower:
