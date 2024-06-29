@@ -1084,7 +1084,7 @@ roof, where a service elevator leading to the basement can be found.
 * MPCP further requires 'design' (maybe some other components).
 * 'build mpcp 3.zuse'.
 * Nemesis |]newbie[| Combine 1.box 2.box
-* Decks can be worn.
+* Decks can be worn. (But shouldn't be.)
 * Re: Polearms practice: \a bubbly female voice with a californian
 accent.(Bubbles)/[8 MHz, English]: You can 'searching' 7th street between
 harrison and park.
@@ -1199,8 +1199,9 @@ Projects is "valkyrie".
 * Saeder-Krupp Matrix host passcode for Confidential Projects is
 "saederheavy".
 * Saeder-Krupp Matrix host passcode for Corporate Directorate is
-  "themightydragon".
+  "themightydragon". (Actually "lofwyr", looks like?)
 * There is a Matrix terminal in unit 2437 of the second floor of Renraku
 Arcology.
 * There is a Matrix terminal in Personnel Check on the fourth floor of Renraku
 Arcology.
+* Using medkits costs money.
