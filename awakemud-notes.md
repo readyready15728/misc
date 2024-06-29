@@ -1200,3 +1200,7 @@ Projects is "valkyrie".
 "saederheavy".
 * Saeder-Krupp Matrix host passcode for Corporate Directorate is
   "themightydragon".
+* There is a Matrix terminal in unit 2437 of the second floor of Renraku
+Arcology.
+* There is a Matrix terminal in Personnel Check on the fourth floor of Renraku
+Arcology.
