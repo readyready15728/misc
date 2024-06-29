@@ -36,7 +36,7 @@ estimated lines for `geom_smooth()` being used with `color` or the like.
 well.
 * Consider using `facet_wrap()` and maybe even `facet_grid()`.
 * "`count()` lets you quickly count the unique values of one or more
-variables: `df %>% count(a, b)` is roughly equivalent toi
+variables: `df %>% count(a, b)` is roughly equivalent to
 `df %>% group_by(a, b) %>% summarise(n = n())`.".
 * Consider using `.groups='keep'` with `summarize()`. (I refuse to use the
 limey spelling.)
@@ -54,3 +54,9 @@ makes rows with `dep_time` equal to NA appear first.
 * `pmin()` and `pmax()` return parallel extrema among two or more vectors.
 * `forcats::fct()` as opposed to `factor()` won't silently turn values not
 given in `levels` to `NA`s.
+* `help(package='nycflights13')`.
+* `flights |> ggplot(aes(x=carrier, fill=origin)) + geom_bar(position=position_dodge(preserve='single'))`.
+* `flights |> ggplot(aes(x=carrier)) + geom_bar() + facet_wrap(~origin, ncol=1)`.
+* `ncol=1` is especially important for the last one because not doing so
+results in a very crowded x-axis.
+* `,` can be used instead of `&` with `filter()`.
