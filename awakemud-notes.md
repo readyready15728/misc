@@ -1196,3 +1196,7 @@ enemies.
 * Saeder-Krupp Matrix host passcode for The Vault is "monopoly".
 * Saeder-Krupp Matrix host passcode for Orbital and Aerospace Restricted
 Projects is "valkyrie".
+* Saeder-Krupp Matrix host passcode for Confidential Projects is
+"saederheavy".
+* Saeder-Krupp Matrix host passcode for Corporate Directorate is
+  "themightydragon".
