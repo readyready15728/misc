@@ -1190,3 +1190,9 @@ use them, free that memory space.'
 * Maxwell tells you OOCly, 'Unload it if you run out of active mem.'
 * Maxwell tells you OOCly, 'Oh, and if you need more memory, I'd downgrade
 Attack to 7D.'
+* Mr. Nobody at El Coco on Victoria offers work.
+* Dumping CPOOL into damage soak may be what I need for certain very tough
+enemies.
+* Saeder-Krupp Matrix host passcode for The Vault is "monopoly".
+* Saeder-Krupp Matrix host passcode for Orbital and Aerospace Restricted
+Projects is "valkyrie".
