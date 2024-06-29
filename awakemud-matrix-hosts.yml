@@ -6,6 +6,40 @@
     2206-CI85:
       lodge: True
   2206-RENRAKU:
+    Central:
+      Cultivation:
+        Animal: True
+        Plant: True
+      Offices:
+        Customer: True
+        Finances: True
+        Insurance: True
+      Production:
+        Development: True
+        Marketing: True
+        Microtronics: True
+        Trideo: True
+      Security:
+        Mainframe: True
+        Management:
+          Scanner:
+            Housing:
+              Barstow: True
+              Carnet: True
+              Huang: True
+              Snurlson: True
+            Zeta:
+              Boardroom:
+                control: 'True?'
+    Housing:
+      2435: True
+      2436: True
+      2437: True
+      2438: True
+      2439:
+        Closet:
+          files: True
+      2440: True
     Mall:
       Arcade: True
       Armante: True
