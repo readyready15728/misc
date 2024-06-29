@@ -75,6 +75,11 @@
           SC-Accounting: True
           SC-HMR: 'True?'
           SC-Marketing: True
+          lofwyr:
+            SC-CEO:
+              valhalla:
+                control: True
+              index: True
     SK-MatrixSystems:
       MS-Reception:
         MS-Central:
@@ -109,3 +114,15 @@
           SR-Lower:
             SR-Library: True
             SR-Production: True
+  2206-SHIAWASE:
+    SAtomics:
+      AtomicsHub:
+        N-Engineering:
+          NE-Datastore:
+        SecCheck:
+          CorporateHub:
+            Finance: True
+            MatrixDept:
+              MatrixSec: 'True?'
+            S-Directorate:
+              control: True
