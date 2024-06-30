@@ -1205,3 +1205,9 @@ Arcology.
 * There is a Matrix terminal in Personnel Check on the fourth floor of Renraku
 Arcology.
 * Using medkits costs money.
+* Head down the road in the southeast of Victoria in Grenada to El Coco.
+Search there and you will find a Johnson. Work for him to rescue a menehune
+and get a folder from Sugar Loaf Island, accessible via the ferry. Make sure
+to deliver the folder and you will get a lanyard enabling access to the nearby
+hidden Victoria Crime Mall. Be **VERY** careful and use `scan` before entering
+rooms near the Crime Mall (which appears to be safe in itself).
