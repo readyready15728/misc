@@ -1137,7 +1137,7 @@ Etiquette and Tribal Etiquette.
 * Re: location of the Praetorian Legion: Morbius says to you in English, "The
 Old Impound lot next to Phil's Army Surplus in Seattle."
 * The Seattle Voice office is on First Street in SE Seattle between Espanoza
-and Ridgeway.
+and Ridgeway. (Closest destination is The Big Rhino.)
 * There is a Matrix terminal in the Seattle Voice office.
 * Shing in the dojo of Chinatown practices Brawling, Stealth, Athletics and
 Cyber Implants.
