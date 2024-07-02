@@ -1,10 +1,75 @@
 838-2206-0000:
-  2206-0666:
+  2206-0204: # Seattle Metroplex Gridguide
+    GG-HANDLER:
+      GG-SECURITY: True
+  2206-0666: # Dante's Inferno
     portal:
       door: True
+  2206-0933: #  Espanoza Way Complex
+    EWC-ACC: True
+  2206-1200: # The Seattle Voice
+    archives: True
+  2206-9529: # Shadowland BBS
+    silver: True
+  2206-AZTECH:
+    AztechMall:
+      Black: True
+      Blue: True
+      Green: True
+      Violet: True
+      Yellow: True
+      White: True
+    SeattleMagicAcademy:
+      AcademyClassrooms: True
+      AcademyCourtyard:
+        AcademyLibrary: True
+    SeattlePyramid:
+      CorporateCentral:
+        ConsumerProducts: True
+        CorporateHousing:
+          HousingRecords: True
+        Marketing: True
+        SecurityCheck:
+          InnerCorporate:
+            CorporateResearch: True
+            FinancialHub:
+              slave: True
+            ManagementHub:
+              soundproof: True
+      MagicDivision:
+        InnerPortalSecurity:
+          InnerSanctum:
+            MageHousing:
+              HighMageQuarter:
+                sleep:
+                  access: 'True?'
   2206-CI:
     2206-CI85:
       lodge: True
+  2206-CROSS:
+    Cathedral: 'True?'
+    EntranceHub:
+      Administration:
+        AdminStorage: True
+        SeniorAdmin: 'True?'
+      MatrixSecurity:
+        SecurityDocs: True
+      access:
+        CATCO-Lobby:
+          CATCO-Upper:
+            CATCO-Board: True
+            CATCO-Finance:
+              control: True
+          files:
+            ClassifiedResearch: True
+  2206-MITSUHAMA:
+    lobby:
+      index:
+        MCT-SEC-1595: True
+        MCT-SEC-9492: True
+      mainroom:
+        kitchen: True
+        lounge: True
   2206-RENRAKU:
     Central:
       Cultivation:
@@ -118,7 +183,10 @@
     SAtomics:
       AtomicsHub:
         N-Engineering:
-          NE-Datastore:
+          NE-Datastore: True
+        N-Management: 'True?'
+        N-Research:
+          N-ResearchDatastore: True
         SecCheck:
           CorporateHub:
             Finance: True
@@ -126,3 +194,39 @@
               MatrixSec: 'True?'
             S-Directorate:
               control: True
+    SBiotech:
+      BiotechHub:
+        B-Marketing: 'True?'
+        B-Products: 'True?'
+        B-Research: True
+        SecCheck:
+          CorporateHub:
+            Finance: True
+            MatrixDept:
+              MatrixSec: 'True?'
+            S-Directorate:
+              control: True
+838-5206-0000:
+  5206-0220: # HORIZON-TACOMA-OFFICE
+    H-AdverFloor:
+      H-BarFilm: True
+      H-GreenRoom: True
+  5206-1111: # Evergreen Apartment Complex
+    door:
+      door:
+        Accountant: True
+
+  5206-YAMATETSU:
+    RiceFields:
+      LowerCityHub:
+        InnerGates: 'True?'
+        LowerCityAdmin:
+        LowerCityShrine: True
+        SakeBar:
+          SakeBarStorage:
+            files:
+              access:
+                InnerAdmin:
+                  InnerResearch:
+                InnerBlacksmith: 'True?'
+
