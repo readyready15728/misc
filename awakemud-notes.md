@@ -695,6 +695,9 @@ including a medical supplies store (inserting the word "sells" so I can find
 this entry easily) and an NPC who practices Biotech and Medicine.
 * Where the entrance of Scalpel's Chop Shop is, head east, northeast, north,
 into an abandoned building, and at the top is TraderVix, who offers work.
+(Maxes out at 2000 rep?)
+* A bum who sells spray paint can also be found just a bit west of the
+abandoned building.
 * Read the sign before taking the ferry.
 * The manager at Star Sapphire has work only for less experienced runners.
 * The Parker Center in East Tacoma sells vehicles and drones.
@@ -1211,3 +1214,6 @@ and get a folder from Sugar Loaf Island, accessible via the ferry. Make sure
 to deliver the folder and you will get a lanyard enabling access to the nearby
 hidden Victoria Crime Mall. Be **VERY** careful and use `scan` before entering
 rooms near the Crime Mall (which appears to be safe in itself).
+* Essy (OOC), "If you want the most body stat for essence cost the actual
+answer is"
+* Essy (OOC), "Save up for a delta Tac Comp 4"
