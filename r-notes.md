@@ -2,30 +2,30 @@
 ## Notes on the powerful but often confusing statistical computing package
 
 * Only `&` and `|` are vectorized logical operators; attempting to use `&&` or
-  `||` on a vector will likely not result in the desired outcome.
+`||` on a vector will likely not result in the desired outcome.
 * The code at the bottom of page 178 in *Practical Machine Learning in R*
-  didn't work. Here's what did:
+didn't work. Here's what did:
 
-  ```r
-  donors <- donors %>%
-  mutate(incomeRating = as.character(incomeRating)) %>%
-  mutate(incomeRating=as.factor(str_replace(incomeRating, 'NA', 'UNK')))
-  ```
+```r
+donors <- donors %>%
+mutate(incomeRating = as.character(incomeRating)) %>%
+mutate(incomeRating=as.factor(str_replace(incomeRating, 'NA', 'UNK')))
+```
 * `install.packages` didn't work for DMwR. Here's what did:
 
-  ```r
+```r
   library(devtools)
   remotes::install_github('cran/DMwR')
-  ```
+```
   
   (I had equal success installing ggtheme in a similar fashion.)
 * `attrition` is no longer in `rsample`. To gain access to `attrition`,
   install modeldata, then do:
 
-  ```r
-  library(modeldata)
-  data(attrition, package='modeldata'
-  ```
+```r
+library(modeldata)
+data(attrition, package='modeldata'
+```
 * `verboseIter=TRUE` as an argument to `trainControl` will enable progress
   tracking during runs of `train`.
 * I still don't fully understand, but refer to page 11 of `R for Data
@@ -60,3 +60,10 @@ given in `levels` to `NA`s.
 * `ncol=1` is especially important for the last one because not doing so
 results in a very crowded x-axis.
 * `,` can be used instead of `&` with `filter()`.
+* `libR.so` needs to be available for RStudio to run. This can be made
+available during compiliation from source. (I did so with
+`./configure --enable-R-shlib --enable-BLAS-shlib --enable-memory-profiling --with-blas --with-lapack`.)
+* The enhanced R shell radian also requires `libR.so`.
+* `View()` works outside of RStudio but it uses an ugly Xaw interface. Oh
+well. Note that `print()` has parameters `n` (rows) and `width` (columns) and
+both can be supplied with `Inf`.
