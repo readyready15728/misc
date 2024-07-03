@@ -24,7 +24,7 @@ mutate(incomeRating=as.factor(str_replace(incomeRating, 'NA', 'UNK')))
 
 ```r
 library(modeldata)
-data(attrition, package='modeldata'
+data(attrition, package='modeldata')
 ```
 * `verboseIter=TRUE` as an argument to `trainControl` will enable progress
   tracking during runs of `train`.
