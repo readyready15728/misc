@@ -1217,3 +1217,4 @@ rooms near the Crime Mall (which appears to be safe in itself).
 * Essy (OOC), "If you want the most body stat for essence cost the actual
 answer is"
 * Essy (OOC), "Save up for a delta Tac Comp 4"
+* 'score' works in the Matrix!
