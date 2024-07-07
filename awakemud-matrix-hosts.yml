@@ -1,4 +1,12 @@
-838-2206-0000:
+838-1206-0000: # Redmond LTG
+  838-11206-6000: # Touristville LTG
+    11206-1689: # Redmond Center Mall
+      black: # Ocular Adjustments Inc.
+      blue: True # Pickett's Junkshop
+      red: True # Redmond Wholesale Furniture
+      purple: True # Wisebrand Wholesale Chips
+      yellow: # Martial Arts Shop
+838-2206-0000: # Seattle LTG
   2206-0204: # Seattle Metroplex Gridguide
     GG-HANDLER:
       GG-SECURITY: True
@@ -43,8 +51,8 @@
               HighMageQuarter:
                 sleep:
                   access: 'True?'
-  2206-CI:
-    2206-CI85:
+  2206-CI: # Council Island PLTG
+    2206-CI85: # Council Island Hospital
       lodge: True
   2206-CROSS:
     Cathedral: 'True?'
@@ -206,7 +214,18 @@
               MatrixSec: 'True?'
             S-Directorate:
               control: True
-838-5206-0000:
+838-3206-0000: # Everett LTG
+  3206-8835: # Everett Beacon Mall
+    Ground:
+      Green: # The Pied Pipers
+      Purple: # Street Urchin Chic
+      White: # Delicious Desserts
+838-5206-0000: # Tacoma LTG
+  5206-0099: # Velasquez Securities & Investments
+    door:
+      secure:
+        corridor:
+          security: 'True?'
   5206-0220: # HORIZON-TACOMA-OFFICE
     H-AdverFloor:
       H-BarFilm: True
@@ -215,18 +234,58 @@
     door:
       door:
         Accountant: True
-
+        Custodian: True
+        Manager: True
+  5206-2874: # Dave's Discount Drugs
+    pharmacy: True
+  5206-KNIGHT:
+    Courtyard:
+      Bazaar: 'True?'
+      Convention:
+        Tents: True
+      Portcullis:
+        Corridor:
+          Library:
+            Archives: True
+          Messhall: True
   5206-YAMATETSU:
     RiceFields:
       LowerCityHub:
         InnerGates: 'True?'
-        LowerCityAdmin:
+        LowerCityAdmin: True
         LowerCityShrine: True
         SakeBar:
           SakeBarStorage:
             files:
               access:
                 InnerAdmin:
-                  InnerResearch:
+                  InnerResearch: True
+                InnerCastle:
+                  YamatetsuKeep:
+                    Keep-Second:
+                      Keep-Third:
+                        Keep-Fourth:
+                          slave: True
                 InnerBlacksmith: 'True?'
-
+CA-CL: # Caribbean League RTG
+  621-3200-0000: # Grenada LTG
+    GrenadianChamberOfCommerce:
+      BlueSkyInsurance:
+        cubicles: True
+      CournandsArmory: 'True?'
+      DocWagon:
+        records:
+          contracts: 'True?'
+      Pelagie: True
+      Peyroux:
+        buick:
+          inside:
+            access: True
+      RealGrenadianTaxiandTours:
+        records: True
+      VictoriaPolice:
+        HumanMetaHumanResources: True
+        PrisonerBookingandProcessing: True
+        access: True
+      ViltzHotel:
+        guestbook: True
