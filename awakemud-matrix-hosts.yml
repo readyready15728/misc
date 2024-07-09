@@ -1,11 +1,16 @@
 838-1206-0000: # Redmond LTG
   838-11206-6000: # Touristville LTG
     11206-1689: # Redmond Center Mall
-      black: # Ocular Adjustments Inc.
+      black: True # Ocular Adjustments Inc.
       blue: True # Pickett's Junkshop
+      green: True # Gustav's Military Surplus
       red: True # Redmond Wholesale Furniture
       purple: True # Wisebrand Wholesale Chips
-      yellow: # Martial Arts Shop
+      white: True # Doc Sihn's Chipware
+      yellow: True # Martial Arts Shop
+    11206-5974: # Crusher 495
+      kitchen:
+        office: True
 838-2206-0000: # Seattle LTG
   2206-0204: # Seattle Metroplex Gridguide
     GG-HANDLER:
@@ -15,8 +20,15 @@
       door: True
   2206-0933: #  Espanoza Way Complex
     EWC-ACC: True
+  2206-1037: # Seattle Public Library
+    forum: True
+    reading: True
+  2206-1111: # Shoe-Fly
+    door: True
   2206-1200: # The Seattle Voice
     archives: True
+  2206-3593: # Syberspace
+    files: True
   2206-9529: # Shadowland BBS
     silver: True
   2206-AZTECH:
@@ -54,7 +66,7 @@
   2206-CI: # Council Island PLTG
     2206-CI85: # Council Island Hospital
       lodge: True
-  2206-CROSS:
+  2206-CROSS: # Cross Applied Technologies
     Cathedral: 'True?'
     EntranceHub:
       Administration:
@@ -217,9 +229,12 @@
 838-3206-0000: # Everett LTG
   3206-8835: # Everett Beacon Mall
     Ground:
-      Green: # The Pied Pipers
-      Purple: # Street Urchin Chic
-      White: # Delicious Desserts
+      Blue: True # The Downtown Delicatessen
+      Green: True # The Pied Pipers
+      Purple: True # Street Urchin Chic
+      Red: True # Fanciful Furniture
+      White: True # Delicious Desserts
+      Yellow: True # Wang's Sporting Goods
 838-5206-0000: # Tacoma LTG
   5206-0099: # Velasquez Securities & Investments
     door:
@@ -230,6 +245,10 @@
     H-AdverFloor:
       H-BarFilm: True
       H-GreenRoom: True
+    H-Surveyfloor:
+      SurveyInput: True
+      SurveyOutput:
+        SurveyStorage: True
   5206-1111: # Evergreen Apartment Complex
     door:
       door:
@@ -238,6 +257,12 @@
         Manager: True
   5206-2874: # Dave's Discount Drugs
     pharmacy: True
+  5206-4229: # Tacoma Mall
+    first:
+      blue: True # Living Lore
+      green: True # Oxfam
+      red: True # Kevlar Armors
+  5206-9231: # Tacoma Junkyard PLTG
   5206-KNIGHT:
     Courtyard:
       Bazaar: 'True?'
@@ -289,3 +314,18 @@ CA-CL: # Caribbean League RTG
         access: True
       ViltzHotel:
         guestbook: True
+NA-TT: # Tir Tairngire RTG
+  820-0503-0000: # Portland LTG
+    0503-1123: # Fellini's Satyricon
+      armory: True
+    0503-1224: # Annabel's Antiquities
+      ledger: True
+    0503-1235: # Spacebucks
+      Skylight: True
+    0503-1240: # Lordstrum's Department Store
+      Archives: True
+    0503-6847: # The Cave
+      files: True
+    0503-8432: # Portland Gridguide
+      GG-HANDLER:
+        GG-SECURITY: True
