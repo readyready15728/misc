@@ -1218,3 +1218,11 @@ rooms near the Crime Mall (which appears to be safe in itself).
 answer is"
 * Essy (OOC), "Save up for a delta Tac Comp 4"
 * 'score' works in the Matrix!
+* Ares Armor and Ares Weapons in West Tacoma sell, just that, armor and
+weapons (and ammunition).
+* [Tanq] (OOC), "There's also a 'CE-Spoilers' channel on the Discords for when
+you want an answer to a question like "what does the skeleton key do?" but
+don't feel like figuring it out for yourself or asking another character in
+character."
+* There is a backroom in Fellini's Satyricon that needs to be searched for
+that sells various items, mostly clothing and armor.
