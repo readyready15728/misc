@@ -8,6 +8,7 @@
 * 'alias' / 'galias'.
 * 'affects'.
 * 'buff'.
+* Skills used for 'buff' must be practiced to at least 50%.
 * 'toggle'.
 * 'autoskill' / 'killskill'.
 * 'battlespam'.
@@ -179,7 +180,7 @@ guess your phrase is perfectly legit. :D
 in the game, so it does become easier as you get more experience in the
 game.
 * To complete the Darbyn's (first?) lapidary quest, polish a gem in front of
-him.
+him. (Or possibly 'mission complete' will do it.)
 * [Hint]: Place the materials for the level 75 whip in your crafting inventory
 with the syntax 'craft inventory put all'. Then use the syntax 'craft <item
 type> <level> random' to start crafting a level 75 whip with randomized stats.
@@ -195,5 +196,20 @@ and then 'pull plant'.
 in Hillock Hills.
 * 'craft rod 1'.
 * 'compass' can add points of interest.
+* 'help 2.faux'.
+* Expeditions are more drawn-out quests, akin to campaigns over on Aardwolf.
+* Junkyards are similar except they're extended item quests.
+* Putting items in your crafting inventory means they don't count against
+weight limits.
+* Suggest turning off 'autoskill update'.
+* Most food items seem to require multiple bites to eat.
+* Put all gold in the bank before heading out to Bandit Camp.
+* HoneyBee Village has a bank.
+* [newbie] KitKat Katenka: If you have the quest points for it and are
+interested, craftscape is a nice option because you can specify the sector
+you want, and then you get 70 minutes to mine there with a slightly higher
+chance to load gems. It's a good option if you're in a level range where there
+aren't many options for you to get gems at the level you want. desert is
+pretty rare, for example
 
 Unsure whether 'stoke fire' is necessary for 'make gems'. (I think so.)
