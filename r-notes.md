@@ -74,4 +74,12 @@ both can be supplied with `Inf`.
 * `flights %>% select(ends_with("delay"))`.
 * `flights %>% select(contains("time"))`.
 * `named_dests %>% top_n(n = 10, wt = num_flights)`.
-* `flights |> inner_join(planes, by=c('tailnum')) |> select(carrier, distance, seats) |> mutate(available_seat_miles=distance * seats) |> group_by(carrier) |> summarize(available_seat_miles=sum(available_seat_miles)) |> arrange(desc(available_seat_miles))`.
+* ```r
+flights |>
+inner_join(planes, by=c('tailnum')) |>
+select(carrier, distance, seats) |>
+mutate(available_seat_miles=distance * seats) |>
+group_by(carrier) |>
+summarize(available_seat_miles=sum(available_seat_miles)) |>
+arrange(desc(available_seat_miles))
+```
