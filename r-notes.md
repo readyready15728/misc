@@ -74,7 +74,8 @@ both can be supplied with `Inf`.
 * `flights %>% select(ends_with("delay"))`.
 * `flights %>% select(contains("time"))`.
 * `named_dests %>% top_n(n = 10, wt = num_flights)`.
-* ```r
+*
+```r
 flights |>
 inner_join(planes, by=c('tailnum')) |>
 select(carrier, distance, seats) |>
