@@ -28,6 +28,8 @@ data(attrition, package='modeldata')
 ```
 * `verboseIter=TRUE` as an argument to `trainControl` will enable progress
   tracking during runs of `train`.
+* Tidyverse packages include `glimpse()` which gives a quick rundown of a
+tibble (or presumably a regular dataframe too).
 * I still don't fully understand, but refer to page 11 of `R for Data
 Science`, 2nd Edition (O'Reilly) for how to get single vs. multiple
 estimated lines for `geom_smooth()` being used with `color` or the like.
@@ -67,3 +69,9 @@ available during compiliation from source. (I did so with
 * `View()` works outside of RStudio but it uses an ugly Xaw interface. Oh
 well. Note that `print()` has parameters `n` (rows) and `width` (columns) and
 both can be supplied with `Inf`.
+* `flights |> select(year, month, day, hour, minute, time_hour, everything())`.
+* `flights %>% select(starts_with("a"))`.
+* `flights %>% select(ends_with("delay"))`.
+* `flights %>% select(contains("time"))`.
+* `named_dests %>% top_n(n = 10, wt = num_flights)`.
+* `flights |> inner_join(planes, by=c('tailnum')) |> select(carrier, distance, seats) |> mutate(available_seat_miles=distance * seats) |> group_by(carrier) |> summarize(available_seat_miles=sum(available_seat_miles)) |> arrange(desc(available_seat_miles))`.
