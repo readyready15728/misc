@@ -211,5 +211,19 @@ you want, and then you get 70 minutes to mine there with a slightly higher
 chance to load gems. It's a good option if you're in a level range where there
 aren't many options for you to get gems at the level you want. desert is
 pretty rare, for example
-
-Unsure whether 'stoke fire' is necessary for 'make gems'. (I think so.)
+* 'help lye'.
+* The Newbie Tree House is in the western side of Hillock Hills, appropriately
+up in a tree.
+* 'worth'.
+* Items for mission 'The will to create' are as follows: match, raft, shield,
+magic strand (can be gotten from gardening or killing bosses within level
+range)
+* [secrets] Arienda: you can type craft types to see a list of categories then
+craft armor for example to see the choices
+* 'help mobflags'.
+* Zorryn in Crafter's Forge will assign a mission that makes you a gardener
+and give you a guide to the same skill.
+* 'garden'.
+* 'craft imbue <item> <gem>'.
+* 'craft inventory check <item>'.
+* 'harvest'.
