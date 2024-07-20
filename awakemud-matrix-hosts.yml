@@ -227,7 +227,24 @@
             S-Directorate:
               control: True
 838-3206-0000: # Everett LTG
+  3206-1337: # Paine Field-Snohomish County Airport
+    cargoterminal:
+      securecargo: True
+    mainterminal: # There may be a host left
+      checkin: True
+      securitycheck:
+        airside: True
+  3206-4873: # Everett Gridguide
+    GG-HANDLER:
+      GG-SECURITY: True
   3206-8835: # Everett Beacon Mall
+    First:
+      Blue: True # Microdeck Outlet
+      Green: True # ActiveSoft Central
+      Purple: True # LinguaSoft Central
+      Red: True # Eye-Spy Cybereyes
+      White: True # The Survival Store
+      Yellow: True # Simon's Cyberware Odds and Ends
     Ground:
       Blue: True # The Downtown Delicatessen
       Green: True # The Pied Pipers
@@ -235,6 +252,8 @@
       Red: True # Fanciful Furniture
       White: True # Delicious Desserts
       Yellow: True # Wang's Sporting Goods
+  3206-9265: # Dadson Vision Entertainments
+    Soundstage: True
 838-5206-0000: # Tacoma LTG
   5206-0099: # Velasquez Securities & Investments
     door:
@@ -306,6 +325,7 @@ CA-CL: # Caribbean League RTG
         buick:
           inside:
             access: True
+        tanto: True
       RealGrenadianTaxiandTours:
         records: True
       VictoriaPolice:
