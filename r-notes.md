@@ -84,3 +84,10 @@ group_by(carrier) |>
 summarize(available_seat_miles=sum(available_seat_miles)) |>
 arrange(desc(available_seat_miles))
 ```
+* `guat_dem |> pivot_longer(names_to='year', values_to='democracy_score', cols=-country, names_transform=list(year=as.integer))`.
+* `life_expectancy |> pivot_longer(names_to='year', values_to='life_expectancy', cols=-country) |> mutate(year=as.integer(year))`.
+* `sample_n()`.
+* `skim()` from `skimr` is really very good!
+* `geom_jitter()` can be used to prevent overplotting.
+* Consider using `boundary` with `geom_histogram()`.
+* `options(pillar.sigfig = n)` sets precision of tibble printouts.
