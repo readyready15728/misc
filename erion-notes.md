@@ -227,3 +227,4 @@ and give you a guide to the same skill.
 * 'craft imbue <item> <gem>'.
 * 'craft inventory check <item>'.
 * 'harvest'.
+* 'mults damroll'.
