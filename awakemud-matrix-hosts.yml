@@ -90,7 +90,7 @@
       mainroom:
         kitchen: True
         lounge: True
-  2206-RENRAKU:
+  2206-RENRAKU: # Renraku Arcology
     Central:
       Cultivation:
         Animal: True
@@ -125,12 +125,12 @@
         Closet:
           files: True
       2440: True
-    Mall:
-      Arcade: True
-      Armante: True
-      Body+Tech: True
-      Charly: True
-      Clenry: True
+    Mall: # Renraku Arcology Mall
+      Arcade: True # The Arcade
+      Armante: True # Armante Boutique Outlet
+      Body+Tech: True # Body + Tech
+      Charlys: True # Charly's
+      Clenrys: True # Clenry's
       DocWagon: True
       Golden: True
       Green: True
