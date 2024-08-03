@@ -94,3 +94,13 @@ both can be supplied with `Inf`.
 * A `tsibble` will retain its key even after a `group_by()` operation but will
 lose its initial key when `summarize()` is carried out, which will then be
 replaced with another key reflected by the `group_by()` operation.
+* Following along with *Forecasting: Principles and Practice*, 3rd Edition and
+with `wesanderson` installed and loaded:
+
+  ```r
+  vic_elec |>
+  mutate(Year = factor(year(Time), ordered = TRUE)) |>
+  ggplot(aes(x = Temperature, y = Demand, color = Year)) +
+  geom_point(alpha =  0.25) +
+  scale_color_manual(values = wes_palette(name = 'Zissou1', n = 3))
+  ```
