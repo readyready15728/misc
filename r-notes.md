@@ -20,7 +20,7 @@ didn't work. Here's what did:
   
   (I had equal success installing ggtheme in a similar fashion.)
 * `attrition` is no longer in `rsample`. To gain access to `attrition`,
-  install modeldata, then do:
+  install `modeldata`, then do:
 
   ```r
   library(modeldata)
