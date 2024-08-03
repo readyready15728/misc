@@ -6,26 +6,26 @@
 * The code at the bottom of page 178 in *Practical Machine Learning in R*
 didn't work. Here's what did:
 
-```r
-donors <- donors %>%
-mutate(incomeRating = as.character(incomeRating)) %>%
-mutate(incomeRating=as.factor(str_replace(incomeRating, 'NA', 'UNK')))
-```
+  ```r
+  donors <- donors %>%
+  mutate(incomeRating = as.character(incomeRating)) %>%
+  mutate(incomeRating=as.factor(str_replace(incomeRating, 'NA', 'UNK')))
+  ```
 * `install.packages` didn't work for DMwR. Here's what did:
 
-            ```r
-              library(devtools)
-              remotes::install_github('cran/DMwR')
-            ```
+  ```r
+  library(devtools)
+  remotes::install_github('cran/DMwR')
+  ```
   
   (I had equal success installing ggtheme in a similar fashion.)
 * `attrition` is no longer in `rsample`. To gain access to `attrition`,
   install modeldata, then do:
 
-            ```r
-            library(modeldata)
-            data(attrition, package='modeldata')
-            ```
+  ```r
+  library(modeldata)
+  data(attrition, package='modeldata')
+  ```
 * `verboseIter=TRUE` as an argument to `trainControl` will enable progress
   tracking during runs of `train`.
 * Tidyverse packages include `glimpse()` which gives a quick rundown of a
@@ -75,15 +75,15 @@ both can be supplied with `Inf`.
 * `flights %>% select(contains("time"))`.
 * `named_dests %>% top_n(n = 10, wt = num_flights)`.
 *
-            ```r
-            flights |>
-            inner_join(planes, by=c('tailnum')) |>
-            select(carrier, distance, seats) |>
-            mutate(available_seat_miles=distance * seats) |>
-            group_by(carrier) |>
-            summarize(available_seat_miles=sum(available_seat_miles)) |>
-            arrange(desc(available_seat_miles))
-            ```
+  ```r
+  flights |>
+  inner_join(planes, by=c('tailnum')) |>
+  select(carrier, distance, seats) |>
+  mutate(available_seat_miles=distance * seats) |>
+  group_by(carrier) |>
+  summarize(available_seat_miles=sum(available_seat_miles)) |>
+  arrange(desc(available_seat_miles))
+  ```
 * `guat_dem |> pivot_longer(names_to='year', values_to='democracy_score', cols=-country, names_transform=list(year=as.integer))`.
 * `life_expectancy |> pivot_longer(names_to='year', values_to='life_expectancy', cols=-country) |> mutate(year=as.integer(year))`.
 * `sample_n()`.
