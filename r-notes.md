@@ -91,7 +91,7 @@ both can be supplied with `Inf`.
 * `geom_jitter()` can be used to prevent overplotting.
 * Consider using `boundary` with `geom_histogram()`.
 * `options(pillar.sigfig = n)` sets precision of tibble printouts.
-* A `tsibble` will retain its key even after a `group_by()` operation but will
+* A tsibble will retain its key even after a `group_by()` operation but will
 lose its initial key when `summarize()` is carried out, which will then be
 replaced with another key reflected by the `group_by()` operation.
 * Following along with *Forecasting: Principles and Practice*, 3rd Edition and
