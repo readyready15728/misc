@@ -118,3 +118,15 @@ tidy long format like so:
 
 Note that it is not necessary to supply a key to the tsibble produced thereby.
 An appropriate one will be created automatically!
+* The lag plot example in the forecasting book can be made properly "tidy":
+
+  ```r
+   aus_production_tidy <- aus_production |>
+    pivot_longer(!Quarter, names_to = 'Product', values_to = 'Volume')
+  recent_production_tidy <- aus_production_tidy |>
+    filter(year(Quarter) >= 2000)
+  recent_production_tidy |>
+    filter(Product == 'Beer') |>
+    gg_lag(Volume, geom = 'point') |>
+    labs(x = 'lag(Beer, k)')
+  ```
