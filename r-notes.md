@@ -49,6 +49,10 @@ limey spelling.)
 having various types of color blindness and there are online color blindness
 simulators etc. to test things out.
 * Use `is.na()` and `near()` as needed.
+* (**NOTE TO SELF: The following code examples until the time series stuff
+came from, IIRC, *R for Data Science*, 2nd Edition and
+*Statistical Inference Via Data Science: A ModernDive Into R and the
+Tidyverse*. Properly attributing them will be considered a TODO.**)
 * `flights |> filter(month == 1, day == 1) |> arrange(desc(is.na(dep_time)), dep_time)`
 makes rows with `dep_time` equal to NA appear first.
 * `if_else()` and the more advanced `case_when()` are in dplyr and they rock.
