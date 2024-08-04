@@ -9,7 +9,7 @@ didn't work. Here's what did:
   ```r
   donors <- donors %>%
   mutate(incomeRating = as.character(incomeRating)) %>%
-  mutate(incomeRating=as.factor(str_replace(incomeRating, 'NA', 'UNK')))
+  mutate(incomeRating = as.factor(str_replace(incomeRating, 'NA', 'UNK')))
   ```
 * `install.packages` didn't work for DMwR. Here's what did:
 
@@ -24,9 +24,9 @@ didn't work. Here's what did:
 
   ```r
   library(modeldata)
-  data(attrition, package='modeldata')
+  data(attrition, package = 'modeldata')
   ```
-* `verboseIter=TRUE` as an argument to `trainControl` will enable progress
+* `verboseIter = TRUE` as an argument to `trainControl` will enable progress
   tracking during runs of `train`.
 * Tidyverse packages include `glimpse()` which gives a quick rundown of a
 tibble (or presumably a regular dataframe too).
@@ -34,13 +34,13 @@ tibble (or presumably a regular dataframe too).
 Science`, 2nd Edition (O'Reilly) for how to get single vs. multiple
 estimated lines for `geom_smooth()` being used with `color` or the like.
 * `geom_density()` with `color`, `fill` and `alpha` can be very nice.
-* `geom_bar()` with `position='fill'` can be used to show relative frequency
+* `geom_bar()` with `position = 'fill'` can be used to show relative frequency
 well.
 * Consider using `facet_wrap()` and maybe even `facet_grid()`.
 * "`count()` lets you quickly count the unique values of one or more
 variables: `df %>% count(a, b)` is roughly equivalent to
 `df %>% group_by(a, b) %>% summarise(n = n())`.".
-* Consider using `.groups='keep'` with `summarize()`. (I refuse to use the
+* Consider using `.groups = 'keep'` with `summarize()`. (I refuse to use the
 limey spelling.)
 * Better to use a common prefix than a common suffix in variable naming.
 * Configure RStudio never to use `.RData`.
@@ -60,10 +60,10 @@ makes rows with `dep_time` equal to NA appear first.
 * `pmin()` and `pmax()` return parallel extrema among two or more vectors.
 * `forcats::fct()` as opposed to `factor()` won't silently turn values not
 given in `levels` to `NA`s.
-* `help(package='nycflights13')`.
-* `flights |> ggplot(aes(x=carrier, fill=origin)) + geom_bar(position=position_dodge(preserve='single'))`.
-* `flights |> ggplot(aes(x=carrier)) + geom_bar() + facet_wrap(~origin, ncol=1)`.
-* `ncol=1` is especially important for the last one because not doing so
+* `help(package = 'nycflights13')`.
+* `flights |> ggplot(aes(x = carrier, fill = origin)) + geom_bar(position=position_dodge(preserve = 'single'))`.
+* `flights |> ggplot(aes(x = carrier)) + geom_bar() + facet_wrap(~origin, ncol = 1)`.
+* `ncol = 1` is especially important for the last one because not doing so
 results in a very crowded x-axis.
 * `,` can be used instead of `&` with `filter()`.
 * `libR.so` needs to be available for RStudio to run. This can be made
@@ -81,15 +81,15 @@ both can be supplied with `Inf`.
 *
   ```r
   flights |>
-  inner_join(planes, by=c('tailnum')) |>
+  inner_join(planes, by = c('tailnum')) |>
   select(carrier, distance, seats) |>
-  mutate(available_seat_miles=distance * seats) |>
+  mutate(available_seat_miles = distance * seats) |>
   group_by(carrier) |>
-  summarize(available_seat_miles=sum(available_seat_miles)) |>
+  summarize(available_seat_miles = sum(available_seat_miles)) |>
   arrange(desc(available_seat_miles))
   ```
-* `guat_dem |> pivot_longer(names_to='year', values_to='democracy_score', cols=-country, names_transform=list(year=as.integer))`.
-* `life_expectancy |> pivot_longer(names_to='year', values_to='life_expectancy', cols=-country) |> mutate(year=as.integer(year))`.
+* `guat_dem |> pivot_longer(names_to = 'year', values_to = 'democracy_score', cols = -country, names_transform = list(year=as.integer))`.
+* `life_expectancy |> pivot_longer(names_to = 'year', values_to = 'life_expectancy', cols = -country) |> mutate(year = as.integer(year))`.
 * `sample_n()`.
 * `skim()` from `skimr` is really very good!
 * `geom_jitter()` can be used to prevent overplotting.
