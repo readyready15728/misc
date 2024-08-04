@@ -104,3 +104,13 @@ with `wesanderson` installed and loaded:
   geom_point(alpha =  0.25) +
   scale_color_manual(values = wes_palette(name = 'Zissou1', n = 3))
   ```
+* In `tsibbledata`, `aus_production` is in wide format. One can convert it to
+tidy long format like so:
+
+  ```r
+  aus_production |>
+    pivot_longer(!Quarter, names_to = 'Product', values_to = 'Volume')
+  ```
+
+Note that it is not necessary to supply a key to the tsibble produced thereby.
+An appropriate one will be created automatically!
