@@ -32,3 +32,7 @@ unaffected) so plan accordingly.
 * Elite housing does not require access to infirmaries or fountains.
 * If agoras don't seem to be delivering goods effectively, it could be because
 they are too distant from granaries and storehouses.
+* Flickering in interface elements when using Wine can be remedied by
+disabling something called CSMT. See the [relevant ArchWiki
+article](https://wiki.archlinux.org/title/Wine) for details. (Doesn't apply
+only to Arch.)
