@@ -36,3 +36,11 @@ they are too distant from granaries and storehouses.
 disabling something called CSMT. See the [relevant ArchWiki
 article](https://wiki.archlinux.org/title/Wine) for details. (Doesn't apply
 only to Arch.)
+* Right-clicking rubble will show what that building once was.
+* The "X" in the lower right corner of the Storehouse and Granary management
+windows sets all goods to "Don't Accept".
+* "See Industry" and other such displays can be used to see behind tall
+buildings.
+* Orange growing in Poseidon should be done a very short distance from a
+granary.
+* Raising wages increases the workforce.
