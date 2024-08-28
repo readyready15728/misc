@@ -130,3 +130,6 @@ An appropriate one will be created automatically!
     gg_lag(Volume, geom = 'point') |>
     labs(x = 'lag(Beer, k)')
   ```
+* Consider using `geom_freqpoly()`, especially with `stat = 'density'`.
+* Package naniar can be used to visualize missing data.
+* Use `plotly_json()` to examine R `plotly` objects in the browser.
