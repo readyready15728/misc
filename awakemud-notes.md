@@ -1226,3 +1226,5 @@ don't feel like figuring it out for yourself or asking another character in
 character."
 * There is a backroom in Fellini's Satyricon that needs to be searched for
 that sells various items, mostly clothing and armor.
+* Metro Holographix is in a dark alley on Whitman between Second and Third.
+They sell high-grade cyberware and a very nice cooker.
