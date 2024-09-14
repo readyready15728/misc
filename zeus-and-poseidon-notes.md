@@ -40,7 +40,7 @@ only to Arch.)
 * The "X" in the lower right corner of the Storehouse and Granary management
 windows sets all goods to "Don't Accept".
 * "See Industry" and other such displays can be used to see behind tall
-buildings.
+buildings. (In fact "See Roads" does so explicitly.)
 * Orange growing in Poseidon should be done a very short distance from a
 granary.
 * Raising wages increases the workforce.
