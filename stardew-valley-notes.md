@@ -7,8 +7,9 @@
 * Television also conveys other useful information, such as recipes.
 * Little 3x3 grids for crops are optimal (at least in the beginning?).
 * Don't plant more than 15 crops unless you have one or more scarecrows, each
-  of which defends an 8x8 area. (This means scarecrows can be placed in the
-  center of four 3x3 plots.)
+  of which defends an 8 tiles in each direction. Scarecrows can therefore
+  defend at least 5x5 patches to the northeast, southeast, southwest and
+  northwest.
 * Fishing can be very frustrating. What's worked for me so far is casting the
   line out as far as possible with the Training Rod, which will presumably
   become useless at level 5 of Fishing.
@@ -99,26 +100,24 @@
 * Animals prefer outdoors grass (but not being out in the rain).
 * Refined Quartz is made from firing Quartz with Coal.
 * Put space between Crab Pots so they're easy to distinguish.
-* Harvesting from Crab Pots is much more efficient if you
-* Harvesting from Crab Pots is much more efficient if you
 * Bundle progress can be checked from the Player Menu.
 * It's way more efficient to harvest from many Crab Pots with Bait in hand
   ready to put it in.
 * Linus has the recipe for Sashimi (Friendship level 3, by mail next day).
 * It's not always profitable to turn fish into Sashimi. (I assume this refers
-  to farmed fish?)
+  to farmed fish? No, there's a page on the wiki about this IIRC.)
 * Coffee can be used to increase player speed!
 * If Willy isn't in his shop you can take Bait off your fishing pole for Crab
   Pots.
 * Dig on spots where little brown stems appear.
 * Trellis crops can't be walked through. (Suggest 3x3 design with empty
-  center?)
+  center? That or rows to walk between.)
 * The Mayonnaise Machine can be quite profitable.
 * Grass mowed while all Silos are full doesn't count towards Hay.
 * Light sources are needed for lower mine levels.
 * Grass multiplies if permitted to, which can be used to harvest Hay
   sustainably.
-* Bees with flowers growing near them can produced flavored honey.
+* Bees with flowers growing near them can produce flavored honey.
 * Friendship can decay! One must talk to villagers to maintain it.
 * Sell high quality crops and keep regular ones for cooking because ingredient
   quality (currently) makes no difference.
@@ -171,9 +170,6 @@
 * Casting a fishing rod into a pool of bubbles with increase rare catches and
   lead to earlier biting.
 * Mummies need to be destroyed with some sort of bomb after being downed.
-* Store tree sap products in the same chest as used for other year-round plant
-  goods (mushrooms et al.). Same goes for things like Wheat Flour, even Cloth
-  I would say..
 * Once the player gets all four lit candles on Grandpa's Shrine, it can be
   interacted with to get the Statue of Perfection, which yields Iridium Ore.
 * Sunflowers are by far the fastest way to make Oil.
