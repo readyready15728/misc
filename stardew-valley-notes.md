@@ -16,9 +16,9 @@
 * Only two advanced fishing rods can use Bait.
 * Stumps don't grow back so I'm not sure why some people appear to advocate
   leaving them there.
-* A chest to store excess goods is the first item you should craft. In terms
-  of degradation of materials it appears to make no difference whether chests
-  are in- or outdoors.
+* A Chest to store excess goods is the first item you should craft. In terms
+  of degradation of materials it appears to make no difference whether Chests
+  are in- or outdoors. (They will last forever.)
 * Fences are useful for keeping weeds at bay and protecting crops.
 * Pierre's General Store has the upgraded backpacks for 2000G and 10000G
   respectively.
@@ -37,7 +37,7 @@
 * Be sure to **identify** recipients of quest items positively before giving
   the item.
 * Bring food with you into the mines.
-* Right-click to move just single items between chests/inventory.
+* Right-click to move just single items between Chests/inventory.
 * Fishing outcomes depend on distance bobber cast from land, location, season,
   time of day and weather.
 * It's possible to clear tilled land with the pickaxe tool.
@@ -45,7 +45,7 @@
 * Right-clicking with weapons can invoke a secondary ability in most cases.
 * Pay attention to time while in the mines.
 * Fruit trees need to have a clear area around them to grow.
-* Tilling the beach is a good way to get clay.
+* Tilling the beach is a good way to get Clay.
 * Hoe worms for resources.
 * Some crops are multi-seasonal.
 * Tackle can help catch fish.
@@ -76,7 +76,7 @@
 * "Cooking is a game mechanic that becomes available after upgrading the
   farmhouse for the first time. The house upgrade adds a kitchen, which
   includes a stove and a refrigerator. The stove is the cooking interface, while
-  the refrigerator provides 36 slots of storage space, similar to a chest. The
+  the refrigerator provides 36 slots of storage space, similar to a Chest. The
   refrigerator is unique in that it is directly linked with the cooking
   interface, as if it were an extension of the player's inventory. Only
   ingredients in the player's inventory, refrigerator or Mini-Fridge are seen as
@@ -128,7 +128,7 @@
 * Have an excess supply of fertilizer on hand.
 * You can leave your horse anywhere and it will return.
 * Special Fishing-related foods can enhance Fishing skill past max level.
-* Shift+Right Click on chests splits a stack in between the chest and
+* Shift+Right Click on Chests splits a stack in between the Chest and
   inventory.
 * Ripe produce can continue to be watered and may turn into "large" variants.
 * Kegs can produce a wide variety of products.
@@ -227,7 +227,8 @@
   non-comestibles from above ground, automated furnace, random junk,
   spring produce and other comestibles, then summer produce, fall, winter
   and/or foraged comestibles, eggs and dairy, fish and meat.
-* ...and one cooking ingredients drawer.
+* ...and one cooking ingredients drawer. (Why not just put cooking ingredients
+  in the refrigerator?)
 * There is a [Stardew Valley Checklist](https://drive.google.com/drive/folders/1vk23YmYtXv3plTJ_3RBZ8xJyI0R3kBhy)
   on Google Docs that includes info for mods.
 * Community Center progress can be viewed from inventory.
