@@ -230,3 +230,4 @@
 * ...and one cooking ingredients drawer.
 * There is a [Stardew Valley Checklist](https://drive.google.com/drive/folders/1vk23YmYtXv3plTJ_3RBZ8xJyI0R3kBhy)
   on Google Docs that includes info for mods.
+* Community Center progress can be viewed from inventory.
