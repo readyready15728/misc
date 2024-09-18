@@ -223,8 +223,8 @@
   diagnostic info that can be parsed [here](https://smapi.io/log).
 * Use the cog button on the title screen for mods using Generic Mod Config
   Menu.
-* Chests in this order, right to left: non-comestibles from below ground,
-  non-comestibles from above ground, automated furnace, random junk,
+* Chests in this order, right to left: non-comestibles from above ground,
+  non-comestibles from below ground, automated furnace, random junk,
   spring produce and other comestibles, then summer produce, fall, winter
   and/or foraged comestibles, eggs and dairy, fish and meat.
 * ...and one cooking ingredients drawer. (Why not just put cooking ingredients
