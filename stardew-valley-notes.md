@@ -232,3 +232,11 @@
 * There is a [Stardew Valley Checklist](https://drive.google.com/drive/folders/1vk23YmYtXv3plTJ_3RBZ8xJyI0R3kBhy)
   on Google Docs that includes info for mods.
 * Community Center progress can be viewed from inventory.
+* If using the automated animal door mod, it's best to feed and pet animals
+first thing.
+* Blueberries sell for as much as they do from Preserve Jars as from Kegs, but
+in half the time.
+* Some Golden Walnut locations do not work unless a special note is read
+first.
+* I was able to get to the end of the Volcano Dungeon using only food
+  increasing Speed, bridges of cooled lava and the screenshot trick.
