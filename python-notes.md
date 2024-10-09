@@ -17,3 +17,9 @@ reviews.loc[(reviews['country'].isin(('Australia', 'New Zealand'))) &
 (reviews['points'] >= 95)]`.
 * `bargain_wine = reviews.iloc[(reviews['points'] /
 reviews['price']).idxmax()]['title']`.
+* Here is a solution a bit more general than the suggested one looking for
+keywords in wine reviews:
+```python
+keywords = ['tropical', 'fruity']
+descriptor_counts = pd.Series([reviews['description'].map(lambda desc: keyword in desc).sum() for keyword in keywords], index=keywords)
+```
