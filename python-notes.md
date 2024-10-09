@@ -1,5 +1,5 @@
 # Python Notes
-## from __future__ import brackets
+## `from __future__ import brackets`
 
 * The warning in chapter 2 of _Time Series Forecasting with Python_ when
 setting the historical mean in the `test ` data frame by copying like so:
