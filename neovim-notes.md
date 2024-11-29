@@ -14,3 +14,10 @@ vim.opt.whichwrap:append({
   [">"] = true,
 })
 ``` 
+* Turning off `bufferline.nvim` in `config/plugins/disabled.lua`:
+
+```lua
+return {
+  { "akinsho/bufferline.nvim", enabled = false },
+}
+```
