@@ -21,3 +21,6 @@ return {
   { "akinsho/bufferline.nvim", enabled = false },
 }
 ```
+* `S` for `Sync` in the `Lazy.nvim` plugin manager does install, clean and update in a single action.
+* The LazyVim extras can be quite useful. Consider `editor.dial` which lets you increment and decrement strings like `December`, `2022/02/22`, `sixth`, and `Tuesday`.
+* Use `:lua Snacks.dashboard()` to access the dashboard after starting Neovim.
