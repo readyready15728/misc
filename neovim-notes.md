@@ -24,4 +24,4 @@ return {
 * `S` for `Sync` in the `Lazy.nvim` plugin manager does install, clean and update in a single action.
 * The LazyVim extras can be quite useful. Consider `editor.dial` which lets you increment and decrement strings like `December`, `2022/02/22`, `sixth`, and `Tuesday`.
 * Use `:lua Snacks.dashboard()` to access the dashboard after starting Neovim.
-* `gc` in normal mode (presumably also in Vim) toggles comments.
+* `gc` in normal mode (presumably also in Vim (actually, no, at least not by default)) toggles comments.
