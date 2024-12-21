@@ -1,4 +1,5 @@
 # Python GIS Learning Resources
+
 ## Resources for doing GIS tasks in Python that don't involve ArcGIS or (typically) even QGIS because I'm cheap and want to do things purely programmatically
 
 * [Geo-Python 2024](https://geo-python-site.readthedocs.io/en/latest/) (mainly focuses on getting up and running with Python and other associated tools such as Jupyter and Git rather than GIS but looked pretty decent)
