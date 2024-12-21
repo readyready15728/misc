@@ -22,9 +22,15 @@
 * [Spatial Data Programming with Python (2024)](https://geobgu.xyz/py/) (author Michael Dorman's website where the course has a large number of other resources)
 * [Python for GIS and Geoscience](https://jorisvandenbossche.github.io/DS-python-geospatial/) (course in the form of really detailed notebooks with solutions from the University of Ghent but at least one of the notebooks requires ~12 GB available RAM; run in Kaggle?)
 * [Introduction to GIS in Python](https://onsgeo.github.io/geospatial-training/docs/intro_to_gis_in_python) (hosted by the UK's Office for National Statistics along with a QGIS and R course and more foundational content)
+* [Python for spatial data analysis](https://edutrain.nfdi4earth.de/courses/course-v1:NFDI4Earth+20230828PFSDA+Self-Paced/about) (hosted by German Earth system science community NFDI4Earth along with a number of other courses)
+* [Advanced Geophysical Data Analysis & Visualization](https://www.atmos.albany.edu/facstaff/ktyle/atm533/landing-page.html) (appears to have at least one prerequisite which is also Python-oriented)
+* [Programming for Geospatial Hydrological Applications](https://courses.gisopencourseware.org/course/view.php?id=2) (part of the Open CourseWare for GIS collection)
+* [Introduction to GeoPandas and its Python ecosystem](https://av.tib.eu/media/59414) (one of many on the hosting website, TIB AV-Portal)
+* [Pangeo YouTube channel](https://www.youtube.com/@pangeo2060)("Pangeo is a community and platform for big data analysis in the geoscience and beyond")
 
 <!-- Look at DataCamp, Udemy offerings etc. -->
 <!-- Educative -->
 <!-- Class Central -->
 <!-- Locate Press -->
+<!-- Skills Caravan -->
 <!-- A lot of stuff to comb through here: https://crib.utwente.nl/manual/training-resources/README.html -->
