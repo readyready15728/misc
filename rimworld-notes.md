@@ -18,6 +18,16 @@ Also:
 >good starting point imho. Nobody into drugs/pyro, all capable of violence and
 >firefighting.
 
+* A more recent perspective:
+
+>One person with high shooting, animals and cooking. One with mining,
+>construction and crafting. One with plants, medicine, intellectual. Covers
+>all your bases and gives each pawn a major task that they're good at, without
+>overlapping the ones that take up a lot of time. Then usually I try to fill
+>in the gaps with recruits/pod crashes/etc, and specialize the original
+>colonists into single roles once I've got a few more pawns. I don't really
+>start with xenos tbh, I'll fit them in as recruits later.
+
 * Some initial supplies may be scattered away from the main crash site. (At
 least in that story mode.)
 * Double-click an item to select all visible items of that type.
@@ -81,6 +91,8 @@ food for the type of animal.
 * Food storage near cooking facilities in addition to letting cooked food drop
 rather than be taken to the storage area can greatly improve the efficiency
 of cooking.
+* In fact you should put a storage area specifically for cooked food very
+close to where it is prepared.
 * Chairs make workstations more efficient.
 * Meditation time can be set in Schedule, and psyfocus for psykers can be set
 individually.
