@@ -216,3 +216,6 @@ can be accessed for the purposes of orbital trade.
 * Make vegetarian simple meals to reserve meat for pemmican.
 * A two-square stockpile continuously stocked with kibble can greatly increase
 the capacity of an animal pen. (Or even just one-square.)
+* That didn't actually work very well. What seems to be even better is raising
+hay then using shelves to feed the animals. (The shelves prevent
+deterioration of the hay.)
