@@ -46,3 +46,68 @@ all look something like this: ![Entrance halls](df-entrance-halls.png)
 * In general, players seem to like hallways that are three tiles wide.
 Three-wide staircases should also be adequate for all but the most extravagant
 fortresses.
+* The general stockpile should obviously not have trash and dead bodies but
+wood and stone are to be kept out because they will quickly fill the
+stockpile. (I guess the old Dwarf Fortress code where stockpiles had infinite
+capacity is gone.) It's not clear to me yet why gems should be kept out.
+* "While mining, take care to avoid digging into water. Dwarves are usually
+poor swimmers, and are unlikely to escape from an underground flood. However,
+it is safe to mine next to underground water, as long as you leave at least
+one 'wall' tile between them (see the picture to the right). You can also mine
+one z-level under a body of water (for example, mining under a river), but you
+will have to designate each tile individually because DF automatically cancels
+digging of newly-revealed 'damp' tiles (tiles are considered damp when they
+are adjacent to a water tile, regardless of whether the water tile is on the
+same z-level or not). Also note that water can flow diagonally."
+* After creating the entrance hall I started the beginnings of hallways going
+in the cardinal directions and a temporary meeting area, which should be at
+least 5x5 to prevent animals from fighting in a crowded area:
+![Z-level -2 beginnings](df-z-level-negative-2.png)
+* Multiple zones can overlap, unlike stockpiles.
+* Make a stockpile for refuse on the surface *at least* 5x5 in size. Refuse
+is anything that can rot and the miasma thereof is not OK underground. Vermin
+(Item Types → Remains) should apparently be disabled, as otherwise the refuse
+stockpile will fill up quickly.
+* Next thing will be establishing a farm. I carved out a 7x7 area initially,
+though only a 3x3 area was initially used for farming therein. ("For a
+reliable, long-term food and alcohol supply, you'll need to set up a farm. Dig
+out a medium-sized room in a soil layer (including sand, clay, loam, silt,
+peat, and ooze) accessible from inside your existing fortress. 5×5 is a good
+size to start with, but you'll want to leave room to expand in at least one
+direction. You must pick an underground area with mud or soil*. Placing this
+near the stockpiles is more efficient, since farmers won't need to travel as
+far.")
+* Plump helmets are a good first crop. It is crucial to ensure that they will
+be planted during all seasons because the default setting for each season is
+to remain fallow.
+* Dwarves will eat raw food.
+* Consuming at least plump helmets results in more seeds and therefore more
+planting opportunities available.
+* Plant gathering and (I assume this should be a last resort) butchering the
+initial supply of animals can be sources of emergency food.
+* Create a small (let's say 15 tiles) stockpile on the surface near the
+entrance for the initial wood supply and order a few trees to be cut down.
+* "Drinks can be more problematic than food, since they require more
+preparation (except for water, that is). In warmer weather, you can specify a
+"water source" activity zone around a lake or river on the surface to keep
+your dwarves from dying of thirst, but dwarves deprived of alcohol slow down
+and become unhappy. In addition, drinking outside can be dangerous — dwarves
+running outside constantly risk running into wild animals, or worse. Creating
+a still to brew alcohol is the simplest solution to these problems."
+* "To brew drinks, click on the still, click 'Add new task', and 'Brew drink
+from plant'. **This will not work yet**, since you don't have any empty
+barrels or rock pots, but you should start brewing in the first six months
+(see Calendar and Status)."
+* Create an initial pasture area on the surface about 10x10 to ensure that the
+initial complement of animals doesn't starve.
+* "While this guide recommends a vertical fortress design around a central
+stairwell, with each z-level being used for a particular purpose, it is not
+really that important to use this design for your first fortress. Therefore,
+feel free to put any of the areas described in the rest of this guide on your
+main level or wherever you want as long as dwarves can get to them without
+going outside the fort. In other words, you can think of the "levels"
+described in the guide more as areas that can really all be on the same level
+if you have space. Later you can ponder over what makes things most efficient,
+but for now just do whatever you find easiest. Note that you may need to dig
+down a bit to get to stone if you have more than one z-level of sand/clay/soil
+below the surface."
