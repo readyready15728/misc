@@ -105,9 +105,22 @@ stairwell, with each z-level being used for a particular purpose, it is not
 really that important to use this design for your first fortress. Therefore,
 feel free to put any of the areas described in the rest of this guide on your
 main level or wherever you want as long as dwarves can get to them without
-going outside the fort. In other words, you can think of the "levels"
+going outside the fort. In other words, you can think of the 'levels'
 described in the guide more as areas that can really all be on the same level
 if you have space. Later you can ponder over what makes things most efficient,
 but for now just do whatever you find easiest. Note that you may need to dig
 down a bit to get to stone if you have more than one z-level of sand/clay/soil
 below the surface."
+* "Dig space for your workshops off of the stairwell. It will hold your
+mechanic's, stoneworker's, carpenter's, and jeweler's workshops. Something to
+consider is stockpile proximity: the farther away the material is the dwarves
+use, the more time they waste with walking. So for now, dig out some more
+space for stockpiles close to where your new workshops will be (wood for your
+carpenter, stone for your stoneworker and mechanic, and gems for your
+jeweler)."
+* Here's what the beginnings of a workshop floor look like for me. The
+workshops mentioned above have been built and there are two stone stockpiles,
+one wood stockpile, one gems stockpile and a yet unused finished goods
+stockpile:
+![Beginnings of a workshop floor](df-entrance-halls.png)
+* Use hotkeys to access frequently used areas.
