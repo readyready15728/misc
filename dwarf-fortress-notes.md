@@ -65,7 +65,9 @@ least 5x5 to prevent animals from fighting in a crowded area. The picture
 below shows what the area looks like after further development. There is a
 meeting area in the southwest, a farming area in the northwest, a food and
 drink workshop area in the northeast (with only a still currently) and a food
-stockpile in the southeast:
+stockpile in the southeast. Note also that the temporary meeting area has what
+will later become a well because I was able to dig down into the light aquifer
+present in a controlled manner:
 ![Z-level -2 beginnings](df-z-level-negative-2.png)
 * Multiple zones can overlap, unlike stockpiles.
 * Make a stockpile for refuse on the surface *at least* 5x5 in size. Refuse
