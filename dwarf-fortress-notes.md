@@ -61,7 +61,11 @@ are adjacent to a water tile, regardless of whether the water tile is on the
 same z-level or not). Also note that water can flow diagonally."
 * After creating the entrance hall I started the beginnings of hallways going
 in the cardinal directions and a temporary meeting area, which should be at
-least 5x5 to prevent animals from fighting in a crowded area:
+least 5x5 to prevent animals from fighting in a crowded area. The picture
+below shows what the area looks like after further development. There is a
+meeting area in the southwest, a farming area in the northwest, a food and
+drink workshop area in the northeast (with only a still currently) and a food
+stockpile in the southeast:
 ![Z-level -2 beginnings](df-z-level-negative-2.png)
 * Multiple zones can overlap, unlike stockpiles.
 * Make a stockpile for refuse on the surface *at least* 5x5 in size. Refuse
