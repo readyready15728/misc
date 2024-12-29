@@ -122,5 +122,5 @@ jeweler)."
 workshops mentioned above have been built and there are two stone stockpiles,
 one wood stockpile, one gems stockpile and a yet unused finished goods
 stockpile:
-![Beginnings of a workshop floor](df-entrance-halls.png)
+![Beginnings of a workshop floor](df-workshop-floor-beginnings.png)
 * Use hotkeys to access frequently used areas.
