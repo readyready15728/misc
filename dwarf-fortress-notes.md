@@ -72,6 +72,8 @@ stockpile in the southeast. Note also that the temporary meeting area has what
 will later become a well because I was able to dig down into the light aquifer
 present in a controlled manner:
 ![Z-level -2 beginnings](df-z-level-negative-2.png)
+* I've now decided I actually want to use 9x9 rooms: ![9x9
+rooms](df-9x9-mining.png)
 * Multiple zones can overlap, unlike stockpiles.
 * Make a stockpile for refuse on the surface *at least* 5x5 in size. Refuse
 is anything that can rot and the miasma thereof is not OK underground. Vermin
