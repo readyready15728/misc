@@ -16,7 +16,7 @@ how to deal with them.
   * "Clay", "Sand" or "Soil" for farming and pottery and glass production
   * Flux stone layer for steel industry (trading can ameliorate the lack
   thereof)
-  * No bad neighbors nearby
+  * No bad neighbors nearby (but maybe at least goblins should be around?)
   * On the same continent as an active Dwarven civilization
 * Initially, set "Hunters" and "Fisherdwarves" to "Nobody does this" to avoid
 lone Dwarves getting picked off by wildlife.
@@ -33,12 +33,12 @@ fortress complex.
 * There should be **ONLY** one entrance.
 * When mining, press one of the direction keys to designate 10 squares in any
 direction to be added to the current order.
-* Forging more picks is necessary to make for more miners.
+* Forging (or buying) more picks is necessary to make for more miners.
 * Mining, woodcutting and hunting labors are mutually exclusive.
 * The initial entry passage needs to be widened to three tiles about halfway
 along its length, to admit trade wagons. From there, a three-tile-wide passage
 way will need to be opened into a 5x5 trade depot off to one side. From there,
-keep the entrance one tile wide for two tiles leading into a 5x5 main
+keep the entrance one tile wide for several tiles leading into a 5x5 main
 stairwell area. From the main stairwell area dig a one-tile-wide hallway far
 enough to dig a centered entrance to an 11x11 initial general stockpile area
 (accepting everything but corpses, refuse, wood, stone and gems). It should
@@ -70,13 +70,14 @@ meeting area in the southwest, a farming area in the northwest, a food and
 drink workshop area in the northeast (with only a still currently) and a food
 stockpile in the southeast. Note also that the temporary meeting area has what
 will later become a well because I was able to dig down into the light aquifer
-present in a controlled manner:
-![Z-level -2 beginnings](df-z-level-negative-2.png)
+present in a controlled manner: ![Z-level -2
+beginnings](df-z-level-negative-2.png)
 * I've now decided I actually want to use 9x9 rooms: ![9x9
 rooms](df-9x9-mining.png)
+* **INSERT FURTHER THOUGHTS ABOUT BEGINNING**
 * Multiple zones can overlap, unlike stockpiles.
-* Make a stockpile for refuse on the surface *at least* 5x5 in size. Refuse
-is anything that can rot and the miasma thereof is not OK underground. Vermin
+* Make a stockpile for refuse on the surface *at least* 5x5 in size. Refuse is
+anything that can rot and the miasma thereof is not OK underground. Vermin
 (Item Types → Remains) should apparently be disabled, as otherwise the refuse
 stockpile will fill up quickly.
 * Next thing will be establishing a farm. I carved out a 7x7 area initially,
@@ -132,8 +133,7 @@ jeweler)."
 * Here's what the beginnings of a workshop floor look like for me. The
 workshops mentioned above have been built and there are two stone stockpiles,
 one wood stockpile, one gems stockpile and a yet unused finished goods
-stockpile:
-![Beginnings of a workshop floor](df-workshop-floor-beginnings.png)
+stockpile: ![Beginnings of a workshop floor](df-workshop-floor-beginnings.png)
 * Use hotkeys to access frequently used areas.
 * "(Dwarves already busy mining or hauling may not immediately stop to
 construct workshops; if you like, you may temporarily disable other labors in
@@ -280,3 +280,36 @@ once that process is done as no further irrigation is necessary.
 * Caverns can be a good source of fungal wood.
 * Extensively walling off extensive regions of cavern floors seems to be very
 error-prone.
+* "Keep building after placement" is there to save your wrists!
+* Noise affecting bedrooms isn't a huge deal.
+* Wooden logs can be turned into blocks like stone.
+* There are extensive defense and security guides on the wiki.
+* One technique players use is to "airlock" the trade depot using bridges as
+there is no grace period if a single bridge is not available.
+* The technique of using a well and a designated pond to irrigate stone for
+farming appears to require marking the well as a water source. (Or maybe not.)
+* Encrusting items with gems is better than outright selling them.
+* Creating, engraving and placing memorial slabs is the easiest way to put the
+dead to rest.
+* Children don't like doing chores, which can be disabled in the standing
+orders.
+* Raw hide will rot and become useless if not tanned promptly.
+* Setting a work order to infinity is probably idea. Finite amounts can be
+repeated indefinitely with certain conditions.
+* Meals can use the same ingredient repeatedly, provided they are in different
+stacks.
+* Meat, fish, plants, fruit/leaves and cheese will rot if not stored
+properly, but making meals can prevent this.
+* Clutter in workshops is bad.
+* Forget about long-lasting surface pastures with sand topsoil.
+* Clothing and other equipment will wear out over time.
+* If Dwarves won't carry out construction, be sure that ones with the
+appropriate skills and labor assignments are free.
+* Smoothing floors is a Stonecutting labor.
+* Turn off brewing for pig tails when getting a clothing industry going.
+* It's better to acquire instruments from trade than actually make them
+because the components are procedurally generated for each game and
+potentially split across numerous workshops.
+* A floor for nobility and other important rooms that need high value should
+have double-thick walls to prevent overlap.
+* **Just turn off werewolves.**
