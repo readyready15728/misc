@@ -80,6 +80,7 @@ rooms](df-9x9-mining.png)
 anything that can rot and the miasma thereof is not OK underground. Vermin
 (Item Types → Remains) should apparently be disabled, as otherwise the refuse
 stockpile will fill up quickly.
+* Or better yet, "all refuse except bones, shells, skins and skulls".
 * Next thing will be establishing a farm. I carved out a 7x7 area initially,
 though only a 3x3 area was initially used for farming therein. ("For a
 reliable, long-term food and alcohol supply, you'll need to set up a farm. Dig
@@ -313,3 +314,52 @@ potentially split across numerous workshops.
 * A floor for nobility and other important rooms that need high value should
 have double-thick walls to prevent overlap.
 * **Just turn off werewolves.**
+* Temples require a chest or coffer installed to hold musical instruments.
+* Making "Furnace operating" a labor open to anyone seems like a good idea as
+smelting metals is laborious and also there should be multiple furnaces.
+* [Steam thread on making smelting more efficient](https://steamcommunity.com/app/975370/discussions/0/3757725715245543798/)
+* A general stone stockpile is useless; what seems to help is one each for
+iron ore, flux and coal, with wheelbarrows.
+* "Cooks will only cook dwarven syrup as a last resort, instead preferring to
+cook solid foods with solid foods." *Detailed* workaround offered but it seems
+easier to just turn sweet pods in Dwarven sugar.
+* Military recruits must **NOT** have the mining, woodcutting or hunting
+labors enabled.
+* Once a Mayor is elected, their needs as a noble need to be met. Same goes
+with a Baron.
+* Crossbowmen are buggy and unreliable. They can be made to work but for now I
+want to avoid using them altogether.
+* Suggestions for increasing the value of a room such as a temple:
+  * Increase room size
+  * Make the floor from valuable materials
+  * Put artifacts on display (but be aware they could be stolen—high traffic
+  areas help make sure thieves are seen)
+  * Use statues (made from valuable materials)
+  * Decorate statues
+  * Glaze statues made of stone and ceramic
+  * Make sure all of the skills involved (e.g. Engraving) are as high as
+  possible, assigning make-work tasks to grind levels as needed
+* Attempts at selective gem-encrusting are very fiddly and I decided to give
+up.
+* Move raw foods away from where Dwarves typically congregate and make the
+closest food stockpiles to them contain only prepared meals and drinks in
+order to force them to eat said prepared meals.
+* Don't do anything with refined fuel while preparing it so as to minimize the
+amount of charcoal needed to bootstrap production of coke.
+* "Creatures" → "Other" can be used to find besieging enemies.
+* It was necessary or at least to define a new metal armor uniform that
+replaces clothes in order to get my guys to wear their metal boots.
+* Cheese is more valuable than milk and also frees the container used for said
+milk.
+* **Turn off cavern dwellers entirely.**
+* Difficulty settings can be tuned mid-game.
+* Petitions for temples can only be satisfied by devoting them to the sect,
+not the deity in question.
+* **Separate corpse and butcher stockpiles!**
+* Rock pots can be used to replace barrels.
+* Guildhalls can be built long before they're ever requested. This seems
+especially useful for Engraving.
+* Turning tallow off in cooking seems like a good idea for soapmaking. **And
+it is, and you either have to use stockpile links or forbid each type of tallow
+indiviudually!**
+* Greaves are better than leggings.

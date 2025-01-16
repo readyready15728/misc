@@ -2,8 +2,9 @@
 
 ## What to do when establishing a new fort
 
-* Just turn werebeasts off, period.
-* Chop down a few trees and use the cleared area for a pasture.
+* Just turn werebeasts off, period. And turn off cavern dwellers.
+* Chop down a few trees and use the cleared area for a refuse stockpile and
+also establish a pasture.
 * Start setting work details, including assigning all available picks.
 * Make an entrance that can permit an "airlocked" trade depot using two
 drawbridges, a serpentine hall of traps, an initial stockpile for everything
@@ -24,3 +25,9 @@ the initial stockpile.)
 floor" should now be established and so on later.
 * Try to build a well in the agricultural floor which should be easy with an
 aquifer present.
+* Disable pig tails as a cooking ingredient.
+* Build traps in the entrance passageway and airlock the trade depot and the
+rest of the fort with bridges linked to levers in the meeting area.
+* Build a bedroom floor and start queueing doors and beds.
+* ...
+* Forbid booze and tallow from cooking.
