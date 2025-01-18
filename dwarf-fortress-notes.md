@@ -363,4 +363,3 @@ especially useful for Engraving.
 it is, and you either have to use stockpile links or forbid each type of tallow
 indiviudually!**
 * Greaves are better than leggings.
-* Test.
