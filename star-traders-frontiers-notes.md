@@ -1,4 +1,5 @@
 # Star Traders: Frontiers Notes
+
 ## Notes on the Trese Brothers' turn-based Elite clone
 
 * My custom template is currently a Military Officer with Attributes at A (16
