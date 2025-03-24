@@ -13,7 +13,7 @@
   out.
 * The same ship combat talent can be used more than once if in sore need.
 * Weapons Locker A6 is the highest attainable component of the type but
-  requires special qualifications to attain.
+  requires special qualifications (Military and Starport) to attain.
 * Queue upgrades in a new ship while carrying out errands in your existing
   ship.
 * Revised Captain with Dragoon Cruiser (Ship Level at A) with Attributes at B
