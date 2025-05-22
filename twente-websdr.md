@@ -2,6 +2,20 @@
 
 ## Frequencies (kHz) and times (GMT) I had luck with the University of Twente's WebSDR
 
+* 250
+  * Wednesday, 2:32
+* 639
+  * Wednesday, 2:29
+* 4840
+  * Wednesday, 2:41
+* 5450
+  * Wednesday, 3:02 (USB)
+* 5505
+  * Wednesday, 3:05 (USB)
+* 5800
+  * Wednesday, 3:19
+* 5900
+  * Wednesday, 3:20
 * 5990
   * Monday, 16:45
 * 6070
