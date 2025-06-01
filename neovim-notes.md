@@ -42,3 +42,6 @@ and `Tuesday`.
 * Use `:lua Snacks.dashboard()` to access the dashboard after starting Neovim.
 * `gc` in normal mode (presumably also in Vim (actually, no, at least not by
 default)) toggles comments.
+* Make more use of `I` and `A` and `C` in normal mode and mind the difference
+between `^` and `0`.
+* `<Ctrl>-o` does "go the place I jumped from". `<Ctrl>-i` does the opposite.
