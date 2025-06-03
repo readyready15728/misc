@@ -45,3 +45,4 @@ default)) toggles comments.
 * Make more use of `I` and `A` and `C` in normal mode and mind the difference
 between `^` and `0`.
 * `<Ctrl>-o` does "go the place I jumped from". `<Ctrl>-i` does the opposite.
+* `<Space><Space>` opens the "files in current project" picker.
