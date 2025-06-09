@@ -46,3 +46,19 @@ default)) toggles comments.
 between `^` and `0`.
 * `<Ctrl>-o` does "go the place I jumped from". `<Ctrl>-i` does the opposite.
 * `<Space><Space>` opens the "files in current project" picker.
+* "`<Space>ff` is the same as `<Space><Space>`. It opens 'Find Files (Root
+Directory)' and is just another longer way to get there. I assume it exists in
+both places so that users can choose to map some other action to to the
+super-accessible `<Space><Space>` and still be able to access the picker
+functionality through `<Space>ff`."
+* "`<Space>fF`, where the second `F` is shifted, is slightly different; it is
+mapped to an action called 'Find Files (cwd)'."
+* "The snacks picker is inspired by the command line tool fzf which means
+'fuzzy find'. This tool allows you to quickly access files and open
+directories from your shell, and I highly recommend it.
+* "Let’s start by opening an explorer using the `<Space>-e` keybinding, where
+the mnemonic is '**e** for Explore'. If you pop up the Space mode menu, you’ll see
+that, as with the picker, there are two ways to open the explorer:
+`<Space>-e` for Explore Snacks (root directory) and `<Space>-E` for Explore
+Snacks (cwd).
+* Use `<Backspace>` to go up one level in explorers.
