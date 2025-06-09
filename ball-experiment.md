@@ -1,4 +1,5 @@
 # Ball Experiment
+
 ## He was right
 
 So basically I saw this challenge and gave the naïve (and wrong) answer of
