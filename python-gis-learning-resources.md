@@ -27,7 +27,8 @@
 * [Advanced Geophysical Data Analysis & Visualization](https://www.atmos.albany.edu/facstaff/ktyle/atm533/landing-page.html) (appears to have at least one prerequisite which is also Python-oriented)
 * [Programming for Geospatial Hydrological Applications](https://courses.gisopencourseware.org/course/view.php?id=2) (part of the Open CourseWare for GIS collection)
 * [Introduction to GeoPandas and its Python ecosystem](https://av.tib.eu/media/59414) (one of many on the hosting website, TIB AV-Portal)
-* [Pangeo YouTube channel](https://www.youtube.com/@pangeo2060)("Pangeo is a community and platform for big data analysis in the geoscience and beyond")
+* [Pangeo YouTube channel](https://www.youtube.com/@pangeo2060) ("Pangeo is a community and platform for big data analysis in the geoscience and beyond")
+* [Applied Geostatistics in Python: a Hands-on Guide with GeostatsPy](https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html)
 
 <!-- Look at DataCamp, Udemy offerings etc. -->
 <!-- Educative -->
