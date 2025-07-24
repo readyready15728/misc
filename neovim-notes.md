@@ -63,4 +63,4 @@ that, as with the picker, there are two ways to open the explorer:
 Snacks (cwd).
 * Use `<Backspace>` to go up one level in explorers.
 * `(` and `)` move whole sentences.
-* `[` and `]` invoke "Unimpaired Mode"
+* `[` and `]` invoke "Unimpaired Mode".
