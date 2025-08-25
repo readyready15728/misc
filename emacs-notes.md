@@ -4,13 +4,18 @@
 
 * `C-h t` opens the tutorial.
 * `C-h r` opens the manual.
+* `C-h ?` gives a complete help overview.
 * Here's the [reference card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf).
+* Here's the [Emacs Lisp reference manual](https://www.gnu.org/software/emacs/manual/elisp.html).
+* Here's the [introduction to programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html).
 * Here's the [wiki](https://www.emacswiki.org/emacs/SiteMap) and more specifically the [newbie page](https://www.emacswiki.org/emacs/EmacsNewbie).
 * Other unofficial sources of documentation:
   * [Emacs Redux](https://emacsredux.com/)
   * [Emacs Rocks](https://emacsrocks.com/)
+  * [Learn X in Y Minutes (Where X = Emacs)](https://learnxinyminutes.com/emacs/)
   * [Mastering Emacs](https://www.masteringemacs.org/)
   * [Pragmatic Emacs](https://pragmaticemacs.wordpress.com/) (inactive but presumably still useful)
+  * [Sacha Chua's Emacs articles](https://sachachua.com/blog/category/emacs/)
   * [System Crafters](https://systemcrafters.net/)
 * Running `./autogen.sh` is necessary after cloning the repository.
 * `./configure` gives a comprehensive list of features enabled or not enabled
@@ -46,6 +51,7 @@ taking too long.
 * `C-x o` changes the current window.
 * `M-d` works like in the shell.
 * `C-x u` (and `C-/`) does undo.
+* `C-M-_` does redo. (Clunky, but can also be accessed using `M-x undo-redo`.)
 * `C-k` works like in the shell.
 * `M-k` kills to the end of the current sentence.
 * `C-<SPC>` to set the mark then move the cursor where desired and then `C-w`
