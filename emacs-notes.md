@@ -57,6 +57,8 @@ to kill the text between mark and cursor.
 * `C-x C-b` lists buffers.
 * `C-x b` switches buffers.
 * `C-z` minimizes graphical Emacs.
+* Emacs can create "frames" (which are windows in the normal sense) but I have
+no desire to complicate things.
 * `M-g g` does `goto-line`.
 * Only one major mode can be active at a given time.
 * Use `C-h m` to view the documentation on the current major mode.
@@ -64,3 +66,4 @@ to kill the text between mark and cursor.
 * `C-x f` sets margin for `auto-fill-mode`.
 * `C-s` and `C-r` do incremental search forwards and backwards, respectively.
 * Case-insensitive search appears to be the default.
+* `<Esc> <Esc> <Esc>` gets out of a recursive editing level.
