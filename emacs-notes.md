@@ -73,3 +73,4 @@ no desire to complicate things.
 * `C-s` and `C-r` do incremental search forwards and backwards, respectively.
 * Case-insensitive search appears to be the default.
 * `<Esc> <Esc> <Esc>` gets out of a recursive editing level.
+* `F10` opens the menu in terminal Emacs.
