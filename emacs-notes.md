@@ -52,6 +52,7 @@ taking too long.
 * `M-d` works like in the shell.
 * `C-x u` (and `C-/`) does undo.
 * `C-M-_` does redo. (Clunky, but can also be accessed using `M-x undo-redo`.)
+* `C-g` can also be used to toggle the behavior of undo to redo and back.
 * `C-k` works like in the shell.
 * `M-k` kills to the end of the current sentence.
 * `C-<SPC>` to set the mark then move the cursor where desired and then `C-w`
@@ -74,3 +75,4 @@ no desire to complicate things.
 * Case-insensitive search appears to be the default.
 * `<Esc> <Esc> <Esc>` gets out of a recursive editing level.
 * `F10` opens the menu in terminal Emacs.
+* `C-M-i` does symbol completion in Emacs Lisp buffers.
