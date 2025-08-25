@@ -23,3 +23,9 @@ at the very end.
 * `libxft-dev` is not needed for anti-aliased text
 * `--with-xwidgets` (allows native widgets to be embedded in Emacs) appears broken for the time being
 * After installing dependencies I did `./configure --with-imagemagick --with-mailutils --with-tree-sitter`
+* `C-x C-c` to `:wqa`.
+* `C-g` to abort partially entered keystrokes.
+* `C-l` cycles the display through three states: "centered on the current line",
+"current line at the bottom", "current line at the top".
+* `M-f` and `M-b` work just like in the shell.
+* `C-a` and `C-e` are also the same.
