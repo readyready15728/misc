@@ -76,3 +76,5 @@ no desire to complicate things.
 * `<Esc> <Esc> <Esc>` gets out of a recursive editing level.
 * `F10` opens the menu in terminal Emacs.
 * `C-M-i` does symbol completion in Emacs Lisp buffers.
+* `C-x <SPC>` does rectangular mark mode.
+* `M-q` does `gw}`.
