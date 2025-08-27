@@ -85,3 +85,4 @@ change, then the status buffer is automatically updated."
 refresh the current status buffer or `G` to refresh all Magit buffers."
 * In Magit, `M-p` and `M-n` move between sections that are on the same level.
 * `C-c C-c` can be used to save arguments specified for a current Magit popup.
+* `S` or `U` to stage / unstage everything at once.
