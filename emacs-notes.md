@@ -78,3 +78,10 @@ no desire to complicate things.
 * `C-M-i` does symbol completion in Emacs Lisp buffers.
 * `C-x <SPC>` does rectangular mark mode.
 * `M-q` does `gw}`.
+* "If you use Emacs to edit and save a file which is located inside the
+repository or if you use Magit to perform some action such as staging a
+change, then the status buffer is automatically updated."
+* "And if you change something outside of Emacs, then you can press `g` to
+refresh the current status buffer or `G` to refresh all Magit buffers."
+* In Magit, `M-p` and `M-n` move between sections that are on the same level.
+* `C-c C-c` can be used to save arguments specified for a current Magit popup.
