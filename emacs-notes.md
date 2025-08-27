@@ -86,3 +86,7 @@ refresh the current status buffer or `G` to refresh all Magit buffers."
 * In Magit, `M-p` and `M-n` move between sections that are on the same level.
 * `C-c C-c` can be used to save arguments specified for a current Magit popup.
 * `S` or `U` to stage / unstage everything at once.
+* `ace-window` comes with a bunch of its own special keybindings but the
+default ones Emacs has for managing windows are mostly fine. The main one I
+would want to use is `C-u M-o` (I chose `M-o` as recommended) for swapping two
+windows.
