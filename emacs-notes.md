@@ -93,3 +93,5 @@ windows.
 * `C-M-f` and `C-M-b` have similiar functionality to `%`.
 * `M-;` on a region toggles commented/uncommented.
 * `emacs --debug-init` and the `*Warnings*` buffer are your friends.
+* `:init` happens before `:config` in `use-package` invocations; more details
+  at [le Reddit](https://www.reddit.com/r/emacs/comments/oyj91g/what_is_the_difference_between_init_and_config/).
