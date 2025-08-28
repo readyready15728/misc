@@ -91,3 +91,4 @@ default ones Emacs has for managing windows are mostly fine. The main one I
 would want to use is `C-u M-o` (I chose `M-o` as recommended) for swapping two
 windows.
 * `C-M-f` and `C-M-b` have similiar functionality to `%`.
+* `M-;` on a region toggles commented/uncommented.
