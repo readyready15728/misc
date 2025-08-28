@@ -92,3 +92,4 @@ would want to use is `C-u M-o` (I chose `M-o` as recommended) for swapping two
 windows.
 * `C-M-f` and `C-M-b` have similiar functionality to `%`.
 * `M-;` on a region toggles commented/uncommented.
+* `emacs --debug-init` and the `*Warnings*` buffer are your friends.
