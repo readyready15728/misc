@@ -95,3 +95,4 @@ windows.
 * `emacs --debug-init` and the `*Warnings*` buffer are your friends.
 * `:init` happens before `:config` in `use-package` invocations; more details
   at [le Reddit](https://www.reddit.com/r/emacs/comments/oyj91g/what_is_the_difference_between_init_and_config/).
+* In `vterm-mode`, `C-c C-t` makes copying text possible. Toggle when finished.
