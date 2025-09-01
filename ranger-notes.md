@@ -13,3 +13,5 @@ plugin.
 do so outside of tmux, with `$TERM` set to `xterm-kitty` (or perhaps something
 else like this. It's a costly gimmick not to work under tmux.
 * `default_linemode sizehumanreadablemtime` is what I want.
+* Set `EDITOR` and `VISUAL` to `vim` for desired results when editing files
+(which I should have done regardless).
