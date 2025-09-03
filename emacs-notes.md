@@ -94,5 +94,9 @@ windows.
 * `M-;` on a region toggles commented/uncommented.
 * `emacs --debug-init` and the `*Warnings*` buffer are your friends.
 * `:init` happens before `:config` in `use-package` invocations; more details
-  at [le Reddit](https://www.reddit.com/r/emacs/comments/oyj91g/what_is_the_difference_between_init_and_config/).
-* In `vterm-mode`, `C-c C-t` makes copying text possible. Toggle when finished.
+at [le Reddit](https://www.reddit.com/r/emacs/comments/oyj91g/what_is_the_difference_between_init_and_config/).
+* In `vterm-mode`, `C-c C-t` makes copying text possible. Toggle when
+ inished.
+* `C-h a` runs `apropos-command`, which will search through documentation for
+a match to a supplied pattern (can be a regexp). It is enhanced with
+`apropos-do-all` set to a non-nil value.
