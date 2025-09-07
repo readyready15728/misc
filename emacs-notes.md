@@ -100,3 +100,7 @@ at [le Reddit](https://www.reddit.com/r/emacs/comments/oyj91g/what_is_the_differ
 * `C-h a` runs `apropos-command`, which will search through documentation for
 a match to a supplied pattern (can be a regexp). It is enhanced with
 `apropos-do-all` set to a non-nil value.
+* Be sure to do `M-x pyvenv-activate` when editing Python files!
+* Ensure that Flycheck is set up properly with `C-c ! v`
+* Flycheck keystrokes all seem top start with `C-c !` and are discoverable
+using `which-key`.
