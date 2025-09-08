@@ -100,7 +100,11 @@ at [le Reddit](https://www.reddit.com/r/emacs/comments/oyj91g/what_is_the_differ
 * `C-h a` runs `apropos-command`, which will search through documentation for
 a match to a supplied pattern (can be a regexp). It is enhanced with
 `apropos-do-all` set to a non-nil value.
-* Be sure to do `M-x pyvenv-activate` when editing Python files!
+* Be sure to do `M-x pyvenv-activate` when editing Python files! (Or not?)
 * Ensure that Flycheck is set up properly with `C-c ! v`
 * Flycheck keystrokes all seem top start with `C-c !` and are discoverable
 using `which-key`.
+* Eglot uses Flymake instead of Flycheck, making Flycheck redundant.
+* There doesn't appear to be a ready-made comprehensive list of how to use
+Eglot's features but you can look here:
+https://www.gnu.org/software/emacs/manual/html_mono/eglot.html#Eglot-Features
