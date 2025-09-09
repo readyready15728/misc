@@ -17,3 +17,5 @@ else like this. It's a costly gimmick not to work under tmux.
 (which I should have done regardless).
 * Search is case-insensitive but **only if** no uppercase letters have been
 entered.
+* Beware of pasting files with the same name elsewhere because the behavior
+with `pp` is to just add the file with an underscore attached to the end.
