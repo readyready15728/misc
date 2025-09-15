@@ -182,7 +182,7 @@ view of a cyberdecks contents, so keep that in mind. Rigger equipment is also
 sold here, and various electronic devices are stored in storage lockers. A
 rather large showcase display case is also set up here, which offers
 information on the various cyberdecks being sold."
-* https://shadowrun.fandom.com/wiki/Shadowrun_Reference_Standard_Codes
+* <https://shadowrun.fandom.com/wiki/Shadowrun_Reference_Standard_Codes>
 * 'status'.
 * 'help vision'.
 * 'info' is **REALLY** important.
@@ -214,7 +214,7 @@ armour can never be used by civilians."
 * "Most clothing comes with pockets, or attachments specially for holsters or
 ammo clips. These are used as standard containers, but if you are wearing
 the article of clothing then you can access what is inside as though it is in
-your inventory." 
+your inventory."
 * "Armoured clothing is sold in sets. Within these sets you may wear any
 combination of pieces you want and the layering rules will not come into
 effect. Infact you often get bonuses for wearing an entire set in the area of
@@ -381,7 +381,7 @@ activities.
 deactivated.
 * Microdeck Outlet in Auburn sells various deck programs.
 * Taxi directions are usable in a vehicle with autonav.
-* https://awakemud.com/dokuwiki/gridguidelist
+* <https://awakemud.com/dokuwiki/gridguidelist>
 * Wang's Sporting Goods on the ground floor of Beacon Mall sells golf bags.
 * The Microdeck outlet on the first floor of Beacon Mall sells various
 electronic widgets and appliances, primarily those that help with building
@@ -578,7 +578,7 @@ Drones, Special Program Design, Operational Program Design and Data Brokerage.
 Also the back room guy buys paydata.
 * Jimmy Smith at Smith's Pub in SW Seattle offers work. At least one of his
 runs takes you to the Caribbean. (Requires invitation which can be found
-from doing runs for Bunny.) 
+from doing runs for Bunny.)
 * The ferry in the north of West Tacoma can take you to a mysterious ship
 known as the Bradenton.
 * The secretary at Lone Star 17th Precinct offers work (for less experienced
@@ -1228,3 +1228,4 @@ character."
 that sells various items, mostly clothing and armor.
 * Metro Holographix is in a dark alley on Whitman between Second and Third.
 They sell high-grade cyberware and a very nice cooker.
+* `toggle keepalive`.
