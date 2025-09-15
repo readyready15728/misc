@@ -46,6 +46,8 @@ default)) toggles comments.
 between `^` and `0`.
 * `<Ctrl>-o` does "go the place I jumped from". `<Ctrl>-i` does the opposite.
 * `<Space><Space>` opens the "files in current project" picker.
+* To open multiple files in the file picker, `<Tab>` the appropriate files
+then hit `<Enter>`.
 * "`<Space>ff` is the same as `<Space><Space>`. It opens 'Find Files (Root
 Directory)' and is just another longer way to get there. I assume it exists in
 both places so that users can choose to map some other action to to the
