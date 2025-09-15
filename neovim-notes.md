@@ -42,8 +42,8 @@ and `Tuesday`.
 * Use `:lua Snacks.dashboard()` to access the dashboard after starting Neovim.
 * `gc` in normal mode (presumably also in Vim (actually, no, at least not by
 default)) toggles comments.
-* Make more use of `I` and `A` and `C` in normal mode and mind the difference
-between `^` and `0`.
+* Make more use of `I` and `A` and `C` and `D` in normal mode and mind the
+difference between `^` and `0`.
 * `<Ctrl>-o` does "go the place I jumped from". `<Ctrl>-i` does the opposite.
 * `<Space><Space>` opens the "files in current project" picker.
 * To open multiple files in the file picker, `<Tab>` the appropriate files
@@ -58,11 +58,12 @@ mapped to an action called 'Find Files (cwd)'."
 * "The snacks picker is inspired by the command line tool fzf which means
 'fuzzy find'. This tool allows you to quickly access files and open
 directories from your shell, and I highly recommend it.
-* "Let’s start by opening an explorer using the `<Space>-e` keybinding, where
-the mnemonic is '**e** for Explore'. If you pop up the Space mode menu, you’ll see
-that, as with the picker, there are two ways to open the explorer:
+* "Let's start by opening an explorer using the `<Space>-e` keybinding, where
+the mnemonic is '**e** for Explore'. If you pop up the Space mode menu, you’ll
+see that, as with the picker, there are two ways to open the explorer:
 `<Space>-e` for Explore Snacks (root directory) and `<Space>-E` for Explore
 Snacks (cwd).
+* `?` opens the help for Explore Snacks.
 * Use `<Backspace>` to go up one level in explorers.
 * `(` and `)` move whole sentences.
 * `[` and `]` invoke "Unimpaired Mode".
