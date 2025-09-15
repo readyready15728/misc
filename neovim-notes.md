@@ -58,12 +58,38 @@ mapped to an action called 'Find Files (cwd)'."
 * "The snacks picker is inspired by the command line tool fzf which means
 'fuzzy find'. This tool allows you to quickly access files and open
 directories from your shell, and I highly recommend it.
-* "Let's start by opening an explorer using the `<Space>-e` keybinding, where
+* "Let's start by opening an explorer using the `<Space>e` keybinding, where
 the mnemonic is '**e** for Explore'. If you pop up the Space mode menu, you’ll
 see that, as with the picker, there are two ways to open the explorer:
-`<Space>-e` for Explore Snacks (root directory) and `<Space>-E` for Explore
+`<Space>-e` for Explore Snacks (root directory) and `<Space>E` for Explore
 Snacks (cwd).
 * `?` opens the help for Explore Snacks.
 * Use `<Backspace>` to go up one level in explorers.
 * `(` and `)` move whole sentences.
 * `[` and `]` invoke "Unimpaired Mode".
+* "Instead of jumping out of square brackets as you might expect, the easy to
+type `[[` and `]]` are reserved for a more common operation: jumping to other
+references to the variable under the cursor (in the same file)."
+* "The `[c`, `]c`, `[f`, `]f`, `[m`, and `]m` keybindings allow you to
+navigate around a source code file by jumping to the previous or next
+class/type definition, function definition, or method definition. The
+usefulness of these features depends a bit on both the language you are using
+and the way the Language Service for the language is configured, but it works
+well in common languages."
+* "Because I am so incredibly talented at introducing problems in my code, a
+common navigation task I need to perform is 'jump to the next squiggly line'.
+Collectively, these are referred to as **d**iagnostics, so the key
+combinations are `[d` and `]d`. If you only want to focus on errors and ignore
+hints and warnings, you can use `[e` and `]e`. Analogously, the `[w` and `]w`
+keybindings navigate between only warnings."
+* "`[h` and `]h` allow you to jump to the next git 'hunk'."
+* If yanky.nvim is enabled from the extras menu, `<Space>p` opens the
+clipboard history.
+* "Another super useful keybinding is `[y`. If you invoke this command
+immediately after a put operation, the text that was put will be replaced with
+the text that was cut or copied prior to the most recent yank. And if you
+press it again, it will go back one more step in history, up to 100 steps. So
+if you aren't sure exactly which numbered register a delete operation is in,
+or you want to access text that was yanked but is no longer in the `"0`
+register, you can use `p[y[y[y` until you find the text you really wanted
+to pasted. If you go too far, you can cycle forward with `]y`."
