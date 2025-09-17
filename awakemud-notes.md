@@ -338,7 +338,7 @@ means they do M damage normally but can be staged up with extra successes on
 the attack roll. The number is the target number to soak the damage with Body
 and Cpool dice, though armor reduces the TN. Every 2 successes to soak reduces
 the damage by one stage (moderate to light, for example).
-* \A well accentuated melodic baritone/[8 MHz, English](CRYPTO-1): What kind
+* \A well accentuated melodic baritone/\[8 MHz, English\](CRYPTO-1): What kind
 of storage? portable storage space like bags? there is a phoenix bag sold in
 mammon mall in  seattle southeast. if you care that the storage is movable but
 not on you than there are several car sellers around town. near the harbour
@@ -346,8 +346,8 @@ ave you can buy a bison or in tacoma east you might buy a conestoga. if you
 want to rent an appartment there are several around several places.
 * There are storage lockers at the monorail station. (Use LIST to get
 started.)
-* Re: Little Chiba: \A well accentuated melodic baritone/[8 MHz,
-English](CRYPTO-1): Also there are 2 fences there if you find stuff. one is
+* Re: Little Chiba: \A well accentuated melodic baritone/\[8 MHz,
+English\](CRYPTO-1): Also there are 2 fences there if you find stuff. one is
 rather obscured from being found. you literally have to search the trashiest
 place there to find rikki.
 * Boz Renfield at The Reaper (SW Seattle) offers work.
@@ -830,7 +830,7 @@ ready.
 * A chubby man sporting a cheap suit in Jason's Bar & Grill offers work.
 (Don't take him up on delivering bombs to Little Chiba unless truly
 prepared.)
-* Re: Fort Case: \A gruff and tusked smoker's grunt/[8 MHz, English]:
+* Re: Fort Case: \A gruff and tusked smoker's grunt/\[8 MHz, English\]:
 Microsoft way dayo? South Redmond, out there somewhere. There's a fence
 dayo.
 * Fort Case isn't on Microsoft Way but rather down the road to the west.
@@ -881,10 +881,10 @@ Valin Ke'Nelien in the amphitheater offers work. (Maxes out at 1500 rep.)
 Plaza, in the casino.
 * The Ancients gang might hang out in a truck stop or something in Portland.
 (That's the Portland Crime Mall and it is in fact very dangerous.)
-* \A lazily amused baritone(Gato)/[8 MHz, English](CRYPTO-2): Plus if you're
+* \A lazily amused baritone(Gato)/\[8 MHz, English\](CRYPTO-2): Plus if you're
 fine with short bursts an' ain't wanna full-auto, them SMGs oughta take a
 suppressor just fine.
-* \A lazily amused baritone(Gato)/[8 MHz, English](CRYPTO-2): Both got some
+* \A lazily amused baritone(Gato)/\[8 MHz, English\](CRYPTO-2): Both got some
 integral, sabes? Y entonces you throw a grip on 'em anna top-mounted SL II.
 * Data Brokerage is used to program Evaluate utilities.
 * Negotiation is used in part to calculate payouts from Johnsons.
@@ -936,11 +936,11 @@ possible, decreasing the rate at which your tally increases and the nasty IC
 is spawned. So having maxxed masking and sleaze is paramount.'
 * Seattle Shalimar, the South Asian restaurant, is on Harbour Avenue just west
 of the Hellhound bus depot.
-* \A cheery and aloof female voice/[8 MHz, English](CRYPTO-2): Then do you
+* \A cheery and aloof female voice/\[8 MHz, English\](CRYPTO-2): Then do you
 even really need my help?  try searching around. There's another bar in the
 southwest of seattle that has some light reading you might wanna pick up as
 well.
-* \A heavily synthesized male voice./[8 MHz, English](CRYPTO-1): Yeah there's
+* \A heavily synthesized male voice./\[8 MHz, English\](CRYPTO-1): Yeah there's
 a foul mouthed Johnson there that offers work to newer runners, he's the one
 to impress.
 * Once the invitation to Smith's Pub and encyclopedia are attained from the
@@ -957,7 +957,7 @@ it triggers nastier and nastier IC, until it's too much for you. '
 * Evaluate utilities degrade, one point per 2 RL days.
 * Fort Case is in southern Redmond, out on the dirt roads.
 * Re: sneaking into the Caribbean for the discounted visa: \A heavily
-synthesized male voice.(Morbius)/[8 MHz, English](CRYPTO-1): Just west of
+synthesized male voice.(Morbius)/\[8 MHz, English\](CRYPTO-1): Just west of
 the main entrance to the airport is a cargo platform, you just have to wait
 for it to roll up and start loading, then you can board.
 * One can buy a Caribbean League visa at a discount at St. Patrick's
@@ -992,11 +992,11 @@ Rooster's final job (met the guy, right?), he'll give you access to a back
 room where APDS sniper rifle rounds are also sold, but more expensive than Dr
 Scriptshaw's."
 * Re: the waterfall in the Aztechnology Magic Academy: \a bright, energetic
-female voice(Asami)/[8 MHz, English]: Ano...you go east from the help desk
+female voice(Asami)/\[8 MHz, English\]: Ano...you go east from the help desk
 and down, follow the hallway all the way east to the corner and then straight
 north. Be careful, they do real bad stuff down there.
 * Re: practicing Truck Driving: \a fruity female voice with a Cajun
-accent(Hibiscus)/[8 MHz, English](CRYPTO-2): I seem to remember that Hal, in
+accent(Hibiscus)/\[8 MHz, English\](CRYPTO-2): I seem to remember that Hal, in
 Portland, provided driving lessons on common vehicles. Not sure it's still the
 case.
 * Hal the Rigger of Hal's Garage in Portland (between Glisan and Everett on
@@ -1007,7 +1007,7 @@ Motorcycles, Driving Trucks and Mounted Gunnery.
 * Circuit Couriers sells keyrings.
 * Hibiscus says OOCly, "TOGGLE AUTOKILL is useful to save on ammo."
 * Re: the location of Iceberg Slam: \A feminine voice with a masculine
-undercurrent/[8 MHz, English](CRYPTO-1): From the entrance in the big rhino
+undercurrent/\[8 MHz, English\](CRYPTO-1): From the entrance in the big rhino
 head south then take the first west. He should be right there.
 * For the Iceberg Slam-related quest, search at his location for the secret
 passage.
@@ -1091,7 +1091,7 @@ roof, where a service elevator leading to the basement can be found.
 * Nemesis |]newbie[| Combine 1.box 2.box
 * Decks can be worn. (But shouldn't be.)
 * Re: Polearms practice: \a bubbly female voice with a californian
-accent.(Bubbles)/[8 MHz, English]: You can 'searching' 7th street between
+accent.(Bubbles)/\[8 MHz, English\]: You can 'searching' 7th street between
 harrison and park.
 * prompt <@pP @mM @bB @iI Mode: @A>.
 * Dragging requires less Strength than lifting.
