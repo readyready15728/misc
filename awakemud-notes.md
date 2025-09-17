@@ -1064,6 +1064,7 @@ the MPCP got fried
 * If you cannot LOCATE HOST, you can navigate up one level to the parent host
 with LOGON LTG.
 * Nanashi |]newbie[| You can't find trapdoors that way [locate host]. You can
+only find them by doing analyze \<subsystem\>
 * [Discord] (OOC), "[Khai]: also check the help files for the individual
 commands. locate host is not the only useful way to use locate, and analyze
 \<subsystem\> isn't the only useful way to use analyze"
