@@ -1,3 +1,5 @@
+# AwakeMUD Notes
+
 * "You should also know that there will sometimes be 'doors' that have other
 names, like 'vent' or 'panel', so you might find yourself needing to OPEN
 VENT UP to access an air duct. These are usually apparent in the room
@@ -65,9 +67,12 @@ behave and think about how your character would act."
 settings. To center the radio at a frequency (the most common is 8mhz), type
 RADIO CENTER <frequency>. To scan through all frequencies type RADIO SCAN.
 Encryption rating can be set by typing RADIO CRYPT <rating>. Only radios with
+RADIO CENTER \<frequency\>. To scan through all frequencies type RADIO SCAN.
+Encryption rating can be set by typing RADIO CRYPT \<rating\>. Only radios with
 an encryption rating greater than or equal to what you have it set at can
 receive them."
 * "To broadcast a message type BROADCAST <message>. Turning the radio off can
+* "To broadcast a message type BROADCAST \<message\>. Turning the radio off can
 be accomplished with RADIO OFF."
 * "Phones are a more private form of communication. When you acquire a phone
 and wish to use it, you must first find the eight digit telephone numbers of
@@ -923,6 +928,7 @@ Brawling, Edged Weapons and Whips and Flails.
 * Martingale tells you OOCly, 'You can go from the front to the rear of a
 vehicle by typing SWITCH. You can directly enter the rear of a vehicle that
 has one by typing ENTER <vehicle> REAR.'
+has one by typing ENTER \<vehicle\> REAR.'
 * Martingale says OOCly, "[Vehicle labels] are given through a paintjob at a
 shop east of Circuit Couriers."
 * Maxwell tells you OOCly, 'The most important [skills for deck building] are
@@ -983,6 +989,8 @@ work.)
 * 'help program design'.
 * 'install <plan> computer'.
 * 'program <plan>'.
+* 'install \<plan\> computer'.
+* 'program \<plan\>'.
 * 'list' shows programming progress where appropriate. (Also 'progress'.)
 * Se-Curo Ja is on Third Street between Ridgeway and Spring in Seattle.
 * Hibiscus says to you in English, "If you manage to totally complete the
@@ -1053,6 +1061,7 @@ which means you need to decrypt that particular subsystem before you can
 even try to download a file. In other cases, there are actually trapdoors
 hidden in one of the subsystems
 * Nanashi |]newbie[| So in that case, you'll want to analyze <subsystem> to
+* Nanashi |]newbie[| So in that case, you'll want to analyze \<subsystem\> to
 check for that
 * Ludwig |]newbie[| I can't now because I went somewhere I shouldn't and now
 the MPCP got fried
@@ -1066,6 +1075,7 @@ only find them by doing analyze <subsystem>
 * [Discord] (OOC), "[Khai]: also check the help files for the individual
 commands. locate host is not the only useful way to use locate, and analyze
 <subsystem> isn't the only useful way to use analyze"
+\<subsystem\> isn't the only useful way to use analyze"
 * A clear, firm male voice(Maxwell) on the other end of the line says in
 English, "Aye, whoever designed that thing did not leave much room for
 noticing patterns and possible ways out of the nodes. So, after you connect to
