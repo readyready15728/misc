@@ -94,12 +94,6 @@ so does your magic rating. Lower essence and more cyberware decreases the
 likelihood of beneficial magic affecting you. Essence and magic lost this way
 cannot be restored. However, essence holes are left when cyberware is removed,
 allowing replacement without further essence or magic loss."
-* "Essence is the amount of humanity you have left, or how well attached your
-spirit is to your body. Cyberware will reduce Essence. As your essence drops
-so does your magic rating. Lower essence and more cyberware decreases the
-likelihood of beneficial magic affecting you. Essence and magic lost this way
-cannot be restored. However, essence holes are left when cyberware is removed,
-allowing replacement without further essence or magic loss."
 * "There are two kinds of Armour in the world of Shadowrun; Ballistic and
 Impact. Ballistic protects against bullets. Impact protects against slower
 moving projectiles like arrows, fists, swords and explosions."
@@ -646,7 +640,8 @@ namely Shotguns, Pistols, Submachine Guns, Assault Rifles and Tasers.
 * Heavy Gear in the Puyallup Crime Mall sells Nicami 12x Sniper Model scopes,
 electronic imaging scopes, wrist phones, radios, climbing harnesses and
 thermographic goggles.
-* Mr. Fixit does repairs.
+* Mr. Fixit does repairs. Repairs don't take long at all, so it is best to
+just wait there until he's done.
 * There is a computer store north of Krackerjack's hovel in West Tacoma that
 sells (there's the keyword) computing equipment.
 * Recuperate from injuries in peaceful areas.
