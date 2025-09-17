@@ -1230,4 +1230,46 @@ character."
 that sells various items, mostly clothing and armor.
 * Metro Holographix is in a dark alley on Whitman between Second and Third.
 They sell high-grade cyberware and a very nice cooker.
-* `toggle keepalive`.
+* `toggle keepalive`. (Not working?)
+* `where` shows where players are socializing in certain designated rooms.
+* `where belongings` shows where your stuff is if you get ganked. Be sure to
+get everything from the container! May require multiple `get all`s!
+* Specs of my master deck (12 rated Evaluate utility not included):
+
+```
+You jack into the deck and retrieve the following data:
+MPCP 12 - Active Memory 3000 - Storage Memory 4560/7200
+Hardening 12 - I/O 1200 - Response Increase 3
+Persona Programs:
+Bod:     12   Masking: 12
+Sensors:  6   Evasion:  6
+Other Software:
+SilberSoft Sleaze V                      Rating: 11 ( 363 MP) *
+SilberSoft Armor I                       Rating:  8 ( 192 MP) *
+SilberSoft Decrypt IV                    Rating: 12 ( 144 MP) *
+SilberSoft Browse IV                     Rating: 12 ( 144 MP) *
+SilberSoft Defuse IV                     Rating: 12 ( 288 MP) *
+SilberSoft Read/Write IV                 Rating: 12 ( 288 MP) *
+SilberSoft Deception IV                  Rating: 12 ( 288 MP) *
+SilberSoft Attack III                    Rating:  7 ( 245 MP) *
+SilberSoft Analyze IV                    Rating: 12 ( 432 MP) *
+SilberSoft Medic II                      Rating:  8 ( 256 MP) *
+2640/3000 active memory used by defaulted programs.
+Custom Components:
+SilberSoft Zuse II Matrix Interface      Type: Matrix Interface         (rating 12)
+SilberSoft Zuse II Response Increase     Type: Response Increase        (rating 3)
+SilberSoft Zuse II Reality Filters       Type: Reality Filters          (rating 12)
+SilberSoft Zuse II RAS Override          Type: RAS Override             (rating 12)
+SilberSoft Zuse II Evasion Chip          Type: Evasion Chip             (rating 6)
+SilberSoft Zuse II Masking Chip          Type: Masking Chip             (rating 12)
+SilberSoft Zuse II Sensor Chip           Type: Sensor Chip              (rating 6)
+SilberSoft Zuse II Bod Chip              Type: Bod Chip                 (rating 12)
+SilberSoft Zuse II MPCP                  Type: MPCP                     (rating 12)
+SilberSoft Zuse II I/O Speed             Type: I/O Speed                (rating 1200)
+SilberSoft Zuse II Icon Chip             Type: Icon Chip                (rating 12)
+SilberSoft Zuse II ICCM Biofeedback Filter Type: ICCM Biofeedback Filter  (rating 12)
+SilberSoft Zuse II Hardening             Type: Hardening                (rating 12)
+SilberSoft Zuse II Hot ASIST Interface   Type: Hot ASIST Interface      (rating 12)
+SilberSoft Zuse II Storage Memory        Type: Storage Memory           (rating 7200)
+SilberSoft Zuse II Active Memory         Type: Active Memory            (rating 3000)
+```
