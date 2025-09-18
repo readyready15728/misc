@@ -62,16 +62,16 @@
             MageHousing:
               HighMageQuarter:
                 sleep:
-                  access: 'True?'
+                  access: "True?"
   2206-CI: # Council Island PLTG
     2206-CI85: # Council Island Hospital
       lodge: True
   2206-CROSS: # Cross Applied Technologies
-    Cathedral: 'True?'
+    Cathedral: "True?"
     EntranceHub:
       Administration:
         AdminStorage: True
-        SeniorAdmin: 'True?'
+        SeniorAdmin: "True?"
       MatrixSecurity:
         SecurityDocs: True
       access:
@@ -115,7 +115,7 @@
               Snurlson: True
             Zeta:
               Boardroom:
-                control: 'True?'
+                control: "True?"
     Housing:
       2435: True
       2436: True
@@ -153,12 +153,12 @@
           SB-Management: True
           SB-Third:
             SB-Directorate: True
-            SB-ZOG: 'True?'
+            SB-ZOG: "True?"
     SK-Corporate:
       SC-Lobby:
         SC-Hub:
           SC-Accounting: True
-          SC-HMR: 'True?'
+          SC-HMR: "True?"
           SC-Marketing: True
           lofwyr:
             SC-CEO:
@@ -186,7 +186,7 @@
       SK-Industry:
         SI-IndustrialHub:
           SI-Energy:
-            SI-EnergyAcc: 'True?'
+            SI-EnergyAcc: "True?"
             SI-EnergyMgmt: True
             SI-Markets: True
             SI-Sales: True
@@ -204,26 +204,26 @@
       AtomicsHub:
         N-Engineering:
           NE-Datastore: True
-        N-Management: 'True?'
+        N-Management: "True?"
         N-Research:
           N-ResearchDatastore: True
         SecCheck:
           CorporateHub:
             Finance: True
             MatrixDept:
-              MatrixSec: 'True?'
+              MatrixSec: "True?"
             S-Directorate:
               control: True
     SBiotech:
       BiotechHub:
-        B-Marketing: 'True?'
-        B-Products: 'True?'
+        B-Marketing: "True?"
+        B-Products: "True?"
         B-Research: True
         SecCheck:
           CorporateHub:
             Finance: True
             MatrixDept:
-              MatrixSec: 'True?'
+              MatrixSec: "True?"
             S-Directorate:
               control: True
 838-3206-0000: # Everett LTG
@@ -259,7 +259,7 @@
     door:
       secure:
         corridor:
-          security: 'True?'
+          security: "True?"
   5206-0220: # HORIZON-TACOMA-OFFICE
     H-AdverFloor:
       H-BarFilm: True
@@ -282,9 +282,9 @@
       green: True # Oxfam
       red: True # Kevlar Armors
   5206-9231: # Tacoma Junkyard PLTG
-  5206-KNIGHT:
+  5206-KNIGHT: # Knight Center
     Courtyard:
-      Bazaar: 'True?'
+      Bazaar: "True?"
       Convention:
         Tents: True
       Portcullis:
@@ -292,10 +292,10 @@
           Library:
             Archives: True
           Messhall: True
-  5206-YAMATETSU:
+  5206-YAMATETSU: # Yamatetsu Corporation North America
     RiceFields:
       LowerCityHub:
-        InnerGates: 'True?'
+        InnerGates: "True?"
         LowerCityAdmin: True
         LowerCityShrine: True
         SakeBar:
@@ -310,16 +310,16 @@
                       Keep-Third:
                         Keep-Fourth:
                           slave: True
-                InnerBlacksmith: 'True?'
+                InnerBlacksmith: "True?"
 CA-CL: # Caribbean League RTG
   621-3200-0000: # Grenada LTG
     GrenadianChamberOfCommerce:
       BlueSkyInsurance:
         cubicles: True
-      CournandsArmory: 'True?'
+      CournandsArmory: "True?"
       DocWagon:
         records:
-          contracts: 'True?'
+          contracts: "True?"
       Pelagie: True
       Peyroux:
         buick:
