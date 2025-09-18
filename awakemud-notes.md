@@ -181,7 +181,7 @@ information on the various cyberdecks being sold."
 * <https://shadowrun.fandom.com/wiki/Shadowrun_Reference_Standard_Codes>
 * 'status'.
 * 'help vision'.
-* 'info' is **REALLY** important.
+* 'info' is **REALLY** important. (Can be used in shops.)
 * 'examine'.
 * 'help gps'.
 * "The ambulance service in the Seattle Metroplex is handled by DocWagon. It's
@@ -1268,3 +1268,28 @@ SilberSoft Zuse II Hot ASIST Interface   Type: Hot ASIST Interface      (rating 
 SilberSoft Zuse II Storage Memory        Type: Storage Memory           (rating 7200)
 SilberSoft Zuse II Active Memory         Type: Active Memory            (rating 3000)
 ```
+
+* Crap currently in my apartment:
+
+```
+A miniature block-and-tackle lies on its side.
+A large bag of optical chips has been left here.
+Someone has discarded a box of cyberdeck parts here.
+A small box sits here.
+A pair of gray hiking boots is here.
+An armoured security jacket sits here in a crumpled heap.
+A Transys Quantum I chip encoder is here.
+An optical chip has been left here.
+A huge sniper rifle is lying here.
+A heavy, rack mounted computer dominates the room. (humming)
+A large box sits here.
+(Deployed) The tools that comprise a microtronics workshop are laying around here.
+```
+
+* `uninstall 2.evaluate computer`.
+* Ludwig |]Question[| Can a rifle with scope and silencer still fit a bayonet?
+* Richard |]Question[| LOOK at your weapon and see if it has a space for an underbarrel mount
+* Richard |]Question[| However Ludwig I would recommend getting an electronic magnification III
+cyberware and attaching a top mounted smart link II to your sniper rifle rather than a scope. The
+electronic magnification is very low essence cost and is a scope that doesn't take up slots. So you
+can have a silenced bayonetted rifle and get that -3 to your TN
