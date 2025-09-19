@@ -90,6 +90,16 @@
       mainroom:
         kitchen: True
         lounge: True
+  2206-NOVATECH: # Novatech Central Matrix Host, Seattle
+    Routing:
+      Management:
+        Executive:
+          Echelon: True
+          Finance: True
+          Project: True
+        Research: True
+      Outlet:
+        Storage: True
   2206-RENRAKU: # Renraku Arcology
     Central:
       Cultivation:
@@ -258,8 +268,7 @@
   5206-0099: # Velasquez Securities & Investments
     door:
       secure:
-        corridor:
-          security: "True?"
+        security: "True?"
   5206-0220: # HORIZON-TACOMA-OFFICE
     H-AdverFloor:
       H-BarFilm: True
@@ -334,6 +343,46 @@ CA-CL: # Caribbean League RTG
         access: True
       ViltzHotel:
         guestbook: True
+NA-CS: # CAS (Confederated States of America) RTG
+  CAS-SB: # Seaboard (CAS) LTG
+    CAS-SB-VA: # Virginia LTG
+      1408-ARES-CAS: # Ares (C.A.S.)
+        ARES_SPACE:
+          ARES_HELIOS: "True?"
+        ARES_WEAPON_SYSTEMS: "True?"
+      504-1408-0001: # Hampton Roads LTG
+        504-2408-0000: # Norfolk LTG
+          2408-0113: "True?" # Independence Stuffer Shack
+          2408-0114: "True?" # Stanley Circle Stuffer Shack
+          2408-0284: "True?" # Bayview Baptist Church
+          2408-9574: "True?" # Diego's
+        504-3408-0000: # Virginia Beach LTG
+          4408-ATL-CAS: # The Mystical Island of Atlantis
+            Plaza:
+              AF_Building:
+                AF_Power:
+                  EnergyResearch: "True?"
+          4408-MERIDIONAL-CAS: # Meridional Agronomics
+            Lobby:
+              Emp_Hub:
+                Corporate_Hub: # Still want to know about the elevator
+                  Corp_Finance: "True?"
+                  Corp_Mgmt: "True?"
+                Production_Hub:
+                  Agri_Production: "True?"
+                  Pharma_Production: "True?"
+                  Research_Bio:
+                    Research_Genetics: "True?"
+          4408-UO-CAS: # United Oil Industries - Access Heliport
+            UOI_Access: # Heliport Terminal
+              Access_Checkpoint:
+                UOI_Main:
+                  Deck_Main:
+                    Deck_Accommodation:
+                      Habitation: "True?"
+                      Recreation: "True?"
+                      UOI_Administration: "True?"
+
 NA-TT: # Tir Tairngire RTG
   820-0503-0000: # Portland LTG
     0503-1123: # Fellini's Satyricon
