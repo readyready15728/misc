@@ -43,7 +43,7 @@ But once it starts to exceed Essence Index (Essence + 3) the severe drawbacks
 begin to kick in."
 * 'cyberware' / 'bioware'.
 * 'probe'.
-* 'probe #2'.
+* 'probe #2' (in shops).
 * 'nuyen'.
 * It's important not to carry cash on you at all times.
 * "Characters can store their funds in bank accounts. At an ATM, type BALANCE
@@ -373,15 +373,16 @@ of the ground floor of the Aztech Pyramid at Hugo's Sports Emporium.
 Station do.
 * Credsticks leave a trail and thus cash is necessary for less-legal
 activities.
-* Credsticks, once activated, are usable only be the owner until cracked or
+* Credsticks, once activated, are usable only by the owner until cracked or
 deactivated.
 * Microdeck Outlet in Auburn sells various deck programs.
 * Taxi directions are usable in a vehicle with autonav.
 * <https://awakemud.com/dokuwiki/gridguidelist>
 * Wang's Sporting Goods on the ground floor of Beacon Mall sells golf bags.
 * The Microdeck outlet on the first floor of Beacon Mall sells various
-electronic widgets and appliances, primarily those that help with building
-custom decks.
+electronic widgets and appliances, primarily those involved in deckbuilding.
+Crucially, they sell **large** boxes and bags of cyberdeck parts and optical
+chips, respectively.
 * Use AVAILOFFSET to help with purchases when etiquette (or Charisma) isn't
 enough.
 * There is a survival supplies store on the first floor of Beacon Mall as well
@@ -864,7 +865,7 @@ Xtra Auto Supplies Store slightly to the west.
 * Weston Lynn on the second floor of The Gravity Bar in Everett offers work.
 (And it's Matrix work.)
 * There is a Matrix terminal on the first floor of The Gravity Bar in a
-private dining booth.
+private dining booth (to the northwest).
 * Rex Jackson at Dirty Rikki's Bar in Everett offers work. (Maxes out at 1000
 rep.)
 * A man in Dirty Rikki's Bar practices Latin and Arabic.
@@ -1293,3 +1294,87 @@ A large box sits here.
 cyberware and attaching a top mounted smart link II to your sniper rifle rather than a scope. The
 electronic magnification is very low essence cost and is a scope that doesn't take up slots. So you
 can have a silenced bayonetted rifle and get that -3 to your TN
+* \An articulate and youthful male smoker's voice/\[8 MHz, English\]: Can
+either charter a private flight if you've got the resources, otherwise the
+airport up in Everett offers public flights out there \[i.e. the Confederated
+States of America\]
+* (That means getting on a cargo plane after all.)
+* Look for "A cargo loading platform at Paine Field".
+* There's a Matrix terminal on the ground floor of Bayview Apartments in
+Tidewater.
+* Carl Stubbs on the ground floor of Bayview Apartments offers work for less
+experienced runners.
+* DocWagon in Tidewater has an ATM.
+* Don Morello at Diego's Pizza and Gyros in Tidewater offers work (and it
+seems to be dangerous wetwork.) If you can do his dangerous work, he sells (or
+at least can get you fixed up with) special gear.
+* The Bayside Baptist Church in Tidewater actually sells APDS light pistol
+ammunition.
+* Triton Federal Credit Union in Tidewater has an ATM.
+* Phil's Garage in Tidewater sells various types of automotive equipment.
+* Sadie O'Connor at Someplace Else in Tidewater offers work for less
+experienced runners.
+* Big Bore Guns and Ammo in Tidewater sells various firearms in addition to
+mostly standard ammunition and gunsmithing and ammunition workshops.
+* The Atlantean Foundation in Virginia Beach has a Matrix terminal close to
+the lobby.
+* Dr. Sandra Onasis at Meridional Agronomics in Virginia Beach offers work for
+less experienced runners.
+* Coach, just east of the intersection of Highway 60 and Oyster Street at
+Virgina Beach, practices Athletics.
+* There's a garage area for watercraft just east of Fausto's Surf Shop in
+Virginia Beach.
+* A shady character on Highway 60 (or perhaps nearby) sells mostly hold-out
+pistol ammunition but also EX submachine gun ammunition.
+* Brenda Hughes at United Oil Industries in Virginia Beach offers work for
+less experienced runners.
+* There is a Matrix terminal on the upper floor of United Oil Industries.
+* Yacob Ishaq on the upper floor of United Oil Industries offers work (and it
+seems to be tricky wetwork).
+* Universal Omnitech in Virginia Beach sells bioware, some of it rather
+high-end stuff.
+* Virginia Beach Sport Rotorcraft sells helicopters.
+* In Norfolk, head all the way north from the intersection of Shore Drive and
+Oceanview Road, head down, to the west, then search, then bypass the grate to
+the south. **There is a whole underground town there!**
+* `gridguide` in my vehicle before I overhaul everything:
+
+```
+Lysleul              [-79600, 39900 ](Available)
+Glenn                [-125800, 63000 ](Unavailable)
+Redmond              [-39726, 19963 ](Available)
+Smugglers            [-14454, 7327  ](Available)
+Fenris               [-120476, 60338 ](Available)
+Skeleton             [-50862, 25531 ](Available)
+Humanis              [-60226, 30213 ](Available)
+Rooster              [-45210, 22705 ](Unavailable)
+Surehand             [-66000, 33100 ](Unavailable)
+Paine                [-17650, 8925  ](Available)
+Lore                 [-78422, 39311 ](Available)
+Academy              [-60250, 30225 ](Available)
+Cabbie               [-50980, 25590 ](Available)
+Bob                  [-50684, 25442 ](Available)
+Mammon               [-31602, 15901 ](Available)
+Slitch               [-125612, 62906 ](Available)
+Jim                  [-4138 , 2169  ](Available)
+Dragon               [-14436, 7318  ](Available)
+Renraku              [-17360, 8780  ](Available)
+Red                  [-39726, 19963 ](Available)
+Jnl                  [-6820 , 3510  ](Available)
+Mukilteo             [-78606, 39403 ](Available)
+Ketcham              [-3076 , 1638  ](Available)
+Fixit                [-4138 , 2169  ](Available)
+Novatech             [-120600, 60400 ](Available)
+Knightcenter         [-3038 , 1619  ](Available)
+Knightacademy        [-60254, 30227 ](Available)
+Circuit              [-58616, 29408 ](Available)
+Dantes               [-65322, 32761 ](Available)
+Smiths               [-65132, 32666 ](Available)
+Praetorian           [-186600, 93400 ](Available)
+Councilisland        [-18298, 9249  ](Available)
+Chiba                [-65372, 32786 ](Available)
+Border               [-16216, 8208  ](Available)
+Pae                  [-17650, 8925  ](Available)
+Aztech               [-14802, 7501  ](Available)
+Hellhound            [-65522, 32861 ](Available)
+```
