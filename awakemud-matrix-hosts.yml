@@ -16,10 +16,16 @@
     GG-HANDLER:
       GG-SECURITY: True
   2206-0666: # Dante's Inferno
+    five: True
+    four: True
+    one: True
     portal:
       door: True
+    three: True
+    two: True
   2206-0933: #  Espanoza Way Complex
     EWC-ACC: True
+    EWC-MAN: True
   2206-1037: # Seattle Public Library
     forum: True
     reading: True
@@ -33,12 +39,12 @@
     silver: True
   2206-AZTECH:
     AztechMall:
-      Black: True
-      Blue: True
-      Green: True
-      Violet: True
-      Yellow: True
-      White: True
+      Black: True # Mortimer of London
+      Blue: True # Bits and Bytes
+      Green: True # Hugo's Sports Emporium
+      Violet: True # Universal Omnitech
+      Yellow: True # The Cineplex
+      White: True # An unnamed software store at AztechMall
     SeattleMagicAcademy:
       AcademyClassrooms: True
       AcademyCourtyard:
@@ -64,8 +70,7 @@
                 sleep:
                   access: "True?"
   2206-CI: # Council Island PLTG
-    2206-CI85: # Council Island Hospital
-      lodge: True
+    lodge: True # Council Island Hospital
   2206-CROSS: # Cross Applied Technologies
     Cathedral: "True?"
     EntranceHub:
@@ -82,6 +87,13 @@
               control: True
           files:
             ClassifiedResearch: True
+  2206-LONESTAR: # Lone Star Security Services - Seattle
+    LS-Lobby:
+      LS-Ground:
+        LS_Div_Investigation: "True?"
+        LS_Div_MatrixSec: "True?" # Intrigued by this one as well
+        LS_Div_Paranormal: "True?"
+        LS_Div_Patrol: "True?"
   2206-MITSUHAMA:
     lobby:
       index:
@@ -236,6 +248,23 @@
               MatrixSec: "True?"
             S-Directorate:
               control: True
+  2206-SHINTARU: # Shintaru Technology Seattle
+    PubLobby:
+      EmpAccess:
+        CorpHub:
+          Executive:
+            ExecCEO:
+              index: "True?"
+          Management:
+            MgmtAccounting: "True?"
+          Production:
+            ProdLogistics: "True?"
+            ProdManufacturing:
+              ProdManagement: "True?"
+            ProdResearch: "True?"
+          Security:
+            SecMatrix: "True?" # I'm *REALLY* intrigued by this one
+            SecPhysical: "True?"
 838-3206-0000: # Everett LTG
   3206-1337: # Paine Field-Snohomish County Airport
     cargoterminal:
@@ -277,6 +306,9 @@
       SurveyInput: True
       SurveyOutput:
         SurveyStorage: True
+  5206-0483: # Tacoma Gridguide
+    GG-HANDLER:
+      GG-SECURITY: True
   5206-1111: # Evergreen Apartment Complex
     door:
       door:
@@ -343,6 +375,8 @@ CA-CL: # Caribbean League RTG
         access: True
       ViltzHotel:
         guestbook: True
+CC-ZO: # The Corporate Court Matrix Host - UCAS Access
+  Ares: "True?" # Ares Macrotechnology
 NA-CS: # CAS (Confederated States of America) RTG
   CAS-SB: # Seaboard (CAS) LTG
     CAS-SB-VA: # Virginia LTG
@@ -355,6 +389,8 @@ NA-CS: # CAS (Confederated States of America) RTG
           2408-0113: "True?" # Independence Stuffer Shack
           2408-0114: "True?" # Stanley Circle Stuffer Shack
           2408-0284: "True?" # Bayview Baptist Church
+          2408-0560: "True?" # Ghoul-Jack
+          2408-7360: "True?" # Bayview Apartments
           2408-9574: "True?" # Diego's
         504-3408-0000: # Virginia Beach LTG
           4408-ATL-CAS: # The Mystical Island of Atlantis
@@ -382,7 +418,6 @@ NA-CS: # CAS (Confederated States of America) RTG
                       Habitation: "True?"
                       Recreation: "True?"
                       UOI_Administration: "True?"
-
 NA-TT: # Tir Tairngire RTG
   820-0503-0000: # Portland LTG
     0503-1123: # Fellini's Satyricon
