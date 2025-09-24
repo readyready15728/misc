@@ -402,8 +402,9 @@ offers work (for less experienced runners). (And it's Matrix work.)
 * There is an ATM on Cyber Strip in Little Chiba.
 * Guns 'n' Moses in Lysleul sells Colt Rangemaster hunting rifles.
 * Voyeur Camera Supply in Lysleul Plaza sells surveillance equipment.
-* The Sharper Image outlet in Lysleul Plaza sells radios, phones (including
-ECM scramblers), pocket secretaries and bug scanners.
+* The Sharper Image outlet in Lysleul Plaza (look in the northeast) sells
+radios, phones (including ECM scramblers), pocket secretaries and bug
+scanners.
 * The SecureTech outlet in Lysleul sells armor suitable for covert use.
 * Hermes' Library on the ground floor of Moonlight Mall in Redmond practices
 Negotiation.
@@ -438,8 +439,8 @@ Novatech Cyberdeck Utilities and Programs (sells software), Superhuman Inc.
 Bioware Studio, Superhuman Inc. Cyberware Studio and a store where I can get a
 respirator should I ever need one.
 * Nicolas Lambardi in the Enigma Nightclub on the second floor of Novatech
-Seattle offers work. (Killing the lawyer's bodyguard can be rough.) (What
-he's offering now is also very dangerous.) (Maxes out at 1000 rep.)
+Seattle offers work. (Killing the lawyer's bodyguard can be rough.) (What he's
+offering now is also very dangerous.) (Maxes out at 1000 rep.)
 * Angela Wright on the fifth floor of Novatech Seattle offers work for less
 experienced runners (minimum reputation 500).
 * Maple Leaf Technologies on the first floor of the Renraku Arcology sells
@@ -472,7 +473,7 @@ Inferno.
 * There is a Matrix terminal in a booth or whatever in the Ninth Hell of
 Dante's Inferno.
 * Mister Johnson in Dante's Inferno (Second Hell) offers work (for less
-experiened runners). (And killing the Mitsuhama executive is rough.)
+experienced runners). (And killing the Mitsuhama executive is rough.)
 * There seem to be various "vendors" in Dante's Inferno, including of software
 (which in turn includes evaluate utilities).
 * John Smith in Dante's Inferno (Fourth Hell) offers work. (And it's all quite
@@ -507,9 +508,9 @@ electronic bits, including commonly used appliances and deckbuilding parts.
 * Cranial Caps in the Knight Center Shopping Mall (ground floor) has offensive
 trucker hats.
 * Lead Loaders in the Knight Center Shopping Mall (first floor) sells SMGs and
-Fast and Deadly sells other long guns. In fact there are a bunch of long
-guns on that floor in addition to cyberware, bioware, body armor and
-ammunition. And all kinds of melee weapons.
+Fast and Deadly sells other long guns. In fact there are a bunch of long guns
+on that floor in addition to cyberware, bioware, body armor and ammunition.
+And all kinds of melee weapons.
 * There is an ATM on the first floor of the Knight Center Shopping Mall, near
 the escalators.
 * A leather rifle strap can be bought at Bolshevik Buffet on the first floor
@@ -574,8 +575,8 @@ practices Computers, Electronics, Computer Building and Repair, Repairing
 Drones, Special Program Design, Operational Program Design and Data Brokerage.
 Also the back room guy buys paydata.
 * Jimmy Smith at Smith's Pub in SW Seattle offers work. At least one of his
-runs takes you to the Caribbean. (Requires invitation which can be found
-from doing runs for Bunny.)
+runs takes you to the Caribbean. (Requires invitation which can be found from
+doing runs for Bunny.)
 * The ferry in the north of West Tacoma can take you to a mysterious ship
 known as the Bradenton.
 * The secretary at Lone Star 17th Precinct offers work (for less experienced
@@ -590,8 +591,8 @@ and deck programs.
 ammunition and even troll-sized backpacks.
 * Techno Geeks in Knight Center sells the CMT Avatar and so does a shop in
 Renton.
-* Zigzag at Syberspace offers work and so does a burnt-out Ork decker (minimum
-reputation 1000). (Both presumably offer Matrix work.)
+* Zigzag at Syberspace in northeast Seattleoffers work and so does a burnt-out
+Ork decker (minimum reputation 1000). (Both presumably offer Matrix work.)
 * Brian at Syberspace practices Computers, Electronics, Computer Building and
 Repair, Electronics Building and Repair, Combat Program Design, Defensive
 Program Design, Cyberterminal Program Design, Cyberterminal Design.
@@ -631,9 +632,9 @@ equipment.
 wristwatch/radios, electronic kits, Outlander nightvision goggles and
 high-crypt headset radios.
 * A weapons and ammunitions store (yes) in the Portland Crime Mall sells
-deluxe heavy weapons gyromount system, Desert Eagle Mk. XIX pistols,
-medkits, trauma patches, tranq patches, Walther PSK-770 heavy pistols, M16A4
-assault rifles and dikote combat axes.
+deluxe heavy weapons gyromount system, Desert Eagle Mk. XIX pistols, medkits,
+trauma patches, tranq patches, Walther PSK-770 heavy pistols, M16A4 assault
+rifles and dikote combat axes.
 * Gato tells you OOCly, 'There's a second mall out in the coal plains, off of
 southern Puyallup before the route to Tarislar.'
 * Kiol in the Puyallup Crime Mall (ground floor) practices weapon skills,
@@ -688,9 +689,9 @@ East Tacoma offers work (for less experienced runners).
 * Marty Jameson of Jameson's Garage in West Tacoma practices ground vehicle
 repair skills. Additionally the garage itself sells various vehicle parts.
 * The dark alley in between Jameson's Garage and Scalpel's Chop Shop (sells
-and installs cyberware) in West Tacoma has some interesting secrets
-including a medical supplies store (inserting the word "sells" so I can find
-this entry easily) and an NPC who practices Biotech and Medicine.
+and installs cyberware) in West Tacoma has some interesting secrets including
+a medical supplies store (inserting the word "sells" so I can find this entry
+easily) and an NPC who practices Biotech and Medicine.
 * Where the entrance of Scalpel's Chop Shop is, head east, northeast, north,
 into an abandoned building, and at the top is TraderVix, who offers work.
 (Maxes out at 2000 rep?)
@@ -701,8 +702,8 @@ abandoned building.
 * The Parker Center in East Tacoma sells vehicles and drones.
 * The Parker Center also sells flashlights.
 * Martingale tells you OOCly, 'The first digit of the room number is the
-floor, 1 being ground, the second is 1 for west and 2 for east, and the
-third is how far south it is.'
+floor, 1 being ground, the second is 1 for west and 2 for east, and the third
+is how far south it is.'
 * 'help maximums'.
 * Speaks-with-Many in Fenris Nacht practices several American aboriginal
 languages.
@@ -717,9 +718,9 @@ experienced runners), as does Mister Keiretsu (minimum reputation 500).
 * A private booth in the Rubber Suit has a Matrix terminal (two, in fact).
 * Dave's Discount Drugs in Auburn sells medical supplies.
 * Off of Weisman's Drive in Renton, follow Talbot Lane to Derek's Discount
-Commissary. (Starting with the Italiano is much more efficient.) There a
-Dwarf (Derek?) sells decking-related equipment, decking programs, electronic
-gear and stylish decker's bags.
+Commissary. (Starting with the Italiano is much more efficient.) There a Dwarf
+(Derek?) sells decking-related equipment, decking programs, electronic gear
+and stylish decker's bags.
 * A woman at the top of the burnt-out building in the east of Auburn offers
 work (minimum reputation 200) and so does a druggie in the same building.
 * There is a Matrix terminal in the Fifth Hell of Dante's Inferno.
@@ -824,15 +825,12 @@ Everett.
 * Don't fuck around in the basement of Jason's Bar & Grill unless you're
 ready.
 * A chubby man sporting a cheap suit in Jason's Bar & Grill offers work.
-(Don't take him up on delivering bombs to Little Chiba unless truly
-prepared.)
+(Don't take him up on delivering bombs to Little Chiba unless truly prepared.)
 * Re: Fort Case: \A gruff and tusked smoker's grunt/\[8 MHz, English\]:
-Microsoft way dayo? South Redmond, out there somewhere. There's a fence
-dayo.
+Microsoft way dayo? South Redmond, out there somewhere. There's a fence dayo.
 * Fort Case isn't on Microsoft Way but rather down the road to the west.
 Destroy the fence to get in.
-* Keep working for Boz Renfield, Bunny and Jimmy Smith and I think one of them
-will make it possible to get a visa.
+* Keep working for Boz Renfield, Bunny and Jimmy Smith and I think one of them will make it possible to get a visa.
 * Smith's appears to be the proper place for the encyclopedia volume.
 * Re: Grenada, where there is apparently much decking work: Gato says in
 English, "Mmm. Gettin' out to Grenada, by the way? You can get a visa, fly
@@ -870,8 +868,7 @@ private dining booth (to the northwest).
 rep.)
 * A man in Dirty Rikki's Bar practices Latin and Arabic.
 * 'sit' / 'rest' / 'sleep'.
-* There is a Matrix terminal in the Spacebucks at Surehand Square. There is
-also a trainer there who practices Elf Etiquette and Gaelic. In addition,
+* There is a Matrix terminal in the Spacebucks at Surehand Square. There is also a trainer there who practices Elf Etiquette and Gaelic. In addition,
 Valin Ke'Nelien in the amphitheater offers work. (Maxes out at 1500 rep.)
 * The fiend Valin Ke'Nelien wants dead is on the western side of Lysleul
 Plaza, in the casino.
@@ -1378,3 +1375,36 @@ Pae                  [-17650, 8925  ](Available)
 Aztech               [-14802, 7501  ](Available)
 Hellhound            [-65522, 32861 ](Available)
 ```
+
+* Inside the hidden ghoul town in Norfolk, there is a vendor who sells
+cyberdecks and computers as well as a Matrix terminal and a fence who buys
+paydata **very** close by.
+* Mr. Carson at the McFarlane Mansion in Norfolk offers work (and it's
+wetwork).
+* Anchor Insurance is right next to the Rhino. (Take a good look at the
+anchor sculpture.)
+* There is a Matrix terminal at Anchor Insurance.
+* Anchor Insurance also sells mostly things I don't need but sells large boxes
+  / bags of cyberdeck parts / optical chips respectively and is more
+accessible than the Beacon Mall.
+* Johnny Gnomonic of Anchor Insurance offers work (and it's Matrix work).
+* Victoria Marketing Agency on Victoria (on 3rd Street, namely) is the Grenada
+office of Johnny Gnomonic's Matrix Couriers.
+* Look for Prosperity Real Estate on Highway 13 in the CAS zone.
+* **Apparently gangers can harvest cyber/bioware!**
+* Prosperity Real Estate (Virginia office of Johnny Gnomonic's Matrix
+services) is a little to the east of Docwagon on Tidewater.
+* At the top floor of Espanoza Way Complex, `look north`.
+* `locate file key` in Matrix host `EWC-MAN` to open the top floor door of
+Espanoza Way Complex.
+* The man on the fourth floor of Espanoza Way Complex offers work for less
+experienced runners.
+* Kurt Jackson on the second floor of Red Shift Offices in Victoria sells
+various higher-end long guns.
+* There's a vent on the roof of Red Shift Offices in Victoria that can be
+destroyed to gain entry to the building.
+* `stand` after decking while `follow`ing someone.
+* The lock in the basement of Johnson NewBody Labs can be `bypass`ed.
+* Maxwell tells you OOCly, 'No prerequisites anymore. You have access to all
+standard assignments. And don't forget that there are assignments in all three
+branches!'
