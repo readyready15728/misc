@@ -93,3 +93,16 @@ if you aren't sure exactly which numbered register a delete operation is in,
 or you want to access text that was yanked but is no longer in the `"0`
 register, you can use `p[y[y[y` until you find the text you really wanted
 to pasted. If you go too far, you can cycle forward with `]y`."
+* "The `qQ` command to 'append to recording' operation is analogous to the
+capitalized `A<command>` used to append to a register."
+* "The `Q` command to play back a recording always plays back the most recently
+recorded command, regardless of register. If you want to play back from a
+different register, you would use the `@` command, followed by the name of the
+register. So if you recorded using `qa`, you would play it back with `@a`. As a
+shortcut, `@@` will always replay whichever register you most recently played
+(which is different from `Q` which always plays back the most recent
+recording)."
+* `<Space><Comma>` is the author of the LazyVim book's preferred means of
+interacting with buffers.
+* `<Space>bD` does "close buffer and the window split it is in".
+* `<Space>bo` does "close all buffers other than the active one".
