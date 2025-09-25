@@ -70,7 +70,8 @@
                 sleep:
                   access: "True?"
   2206-CI: # Council Island PLTG
-    lodge: True # Council Island Hospital
+    2206-CI85: # Council Island Hospital
+      lodge: True
   2206-CROSS: # Cross Applied Technologies
     Cathedral: "True?"
     EntranceHub:
@@ -221,7 +222,7 @@
           SR-Lower:
             SR-Library: True
             SR-Production: True
-  2206-SHIAWASE:
+  2206-SHIAWASE: # Shiawase Corporation - Seattle
     SAtomics:
       AtomicsHub:
         N-Engineering:
@@ -317,12 +318,22 @@
         Manager: True
   5206-2874: # Dave's Discount Drugs
     pharmacy: True
+  5206-3044: # The Android's Dungeon Matrix host
+    CentralRoom:
+      GameRoom:
+        files: "Intrigued"
+      Management: "True?"
   5206-4229: # Tacoma Mall
     first:
       blue: True # Living Lore
       green: True # Oxfam
       red: True # Kevlar Armors
-  5206-9231: # Tacoma Junkyard PLTG
+  5206-8544: # The Afterlife Matrix Host
+    Heaven: "True?"
+    Hell: "True?"
+    Purgatory:
+      Management: "True?"
+  5206-9231: "True?" # Tacoma Junkyard PLTG
   5206-KNIGHT: # Knight Center
     Courtyard:
       Bazaar: "True?"
@@ -422,12 +433,25 @@ NA-TT: # Tir Tairngire RTG
   820-0503-0000: # Portland LTG
     0503-1123: # Fellini's Satyricon
       armory: True
+    0503-1138: # Lizards of the Moat Matrix Host
+      VisitorCenter:
+        LotM_Employee:
+
     0503-1224: # Annabel's Antiquities
       ledger: True
     0503-1235: # Spacebucks
       Skylight: True
     0503-1240: # Lordstrum's Department Store
       Archives: True
+    0503-4497: # The Castle Ruins (YDQ hidden dungeon)
+      Descending:
+        Dungeon:
+          behold:
+            index: "True?"
+          RadiancePool:
+            Village: "True?"
+          TreasureRoom:
+            TreasureChest:
     0503-6847: # The Cave
       files: True
     0503-8432: # Portland Gridguide
