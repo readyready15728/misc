@@ -661,6 +661,7 @@ runners).
 and sells patches etc.
 * The Android's Dungeon, south of Stuffer Shack in West Tacoma, has a Matrix
 terminal in the basement.
+* Dan at The Android's Dungeon offers work (and it's Matrix work).
 * 'help progress'.
 * Road Hog Racing in West Tacoma sells vehicles.
 * There is a Matrix terminal in the southernmost room of Bryerson Medical but
@@ -830,8 +831,10 @@ ready.
 Microsoft way dayo? South Redmond, out there somewhere. There's a fence dayo.
 * Fort Case isn't on Microsoft Way but rather down the road to the west.
 Destroy the fence to get in.
-* Keep working for Boz Renfield, Bunny and Jimmy Smith and I think one of them will make it possible to get a visa.
-* Smith's appears to be the proper place for the encyclopedia volume.
+* Keep working for Boz Renfield, Bunny and Jimmy Smith and I think one of them
+will make it possible to get a visa.
+* Smith's appears to be the proper place for the encyclopedia volume. (It
+requires a little bit of searching.)
 * Re: Grenada, where there is apparently much decking work: Gato says in
 English, "Mmm. Gettin' out to Grenada, by the way? You can get a visa, fly
 normal. It works. Faster tambien. Pero you can also kinda... loiter, watch for
