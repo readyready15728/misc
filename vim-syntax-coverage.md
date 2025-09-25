@@ -1,4 +1,5 @@
 # Vim Syntax Coverage
+
 ## Because I was curious
 
 I want to start using Ruby instead of sed or other tools like it pretty much
