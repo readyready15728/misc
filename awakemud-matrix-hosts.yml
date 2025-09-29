@@ -95,7 +95,7 @@
         LS_Div_MatrixSec: "True?" # Intrigued by this one as well
         LS_Div_Paranormal: "True?"
         LS_Div_Patrol: "True?"
-  2206-MITSUHAMA:
+  2206-MITSUHAMA: # Mitsuhama Computer Technologies
     lobby:
       index:
         MCT-SEC-1595: True
@@ -138,7 +138,7 @@
               Snurlson: True
             Zeta:
               Boardroom:
-                control: "True?"
+                control: True
     Housing:
       2435: True
       2436: True
@@ -154,15 +154,15 @@
       Body+Tech: True # Body + Tech
       Charlys: True # Charly's
       Clenrys: True # Clenry's
-      DocWagon: True
-      Golden: True
-      Green: True
-      Hashimoto: True
-      Maple: True
-      Purple: True
-      Quickway: True
-      Secure-Tech: True
-      SybreSpace: True
+      DocWagon: True # DocWagon Ltd.
+      Golden: True # Golden Arch Home Furnishing
+      Green: True # Green Village
+      Hashimoto: True # Hashimoto's
+      Maple: True # Maple Leaf Technologies
+      Purple: True # Purple Haze
+      Quickway: True # Quickway Chemists
+      Secure-Tech: True # Secure-Tech Armour Outlet
+      SybreSpace: True # SybreSpace
   2206-SAEDER:
     SK-Banking:
       SB-Reception:
