@@ -351,7 +351,7 @@ place there to find rikki.
 runs when you get to them are a great introductiono to downtown Seattle,
 yeah.
 * The Hall of Knowledge in Medicine Hollow Lodge on Council Island trains
-Charisma and Willpower.
+Charisma, Willpower and Intelligence.
 * 'help map'.
 * Zander at Rollo's Café, which is on Seneca Street between First and Second
 in Southwest Seattle (actually see 'help SEATTLE SE'), offers work for less
@@ -543,7 +543,8 @@ etiquette.
 Redmond and also offers work (minimum reputation 100).
 * Henry Feed in the basement of The Rooster sells even more rifles and
 ammunition and is accessible once you get the password sheet from the Rooster
-himself.
+himself. (Be sure to give him a certain item before saying `complete` to him,
+I'm pretty sure.)
 * 'help junk'.
 * 'help highlight' for colored text.
 * 'help xterm256'.
@@ -664,8 +665,8 @@ terminal in the basement.
 * Dan at The Android's Dungeon offers work (and it's Matrix work).
 * 'help progress'.
 * Road Hog Racing in West Tacoma sells vehicles.
-* There is a Matrix terminal in the southernmost room of Bryerson Medical but
-it requires an electronics kit and cracking to enter.
+* There is a Matrix terminal in the southernmost room of Bryerson Medical
+(West Tacoma) but it requires an electronics kit and cracking to enter.
 * The manager of the Flying Dragon Restaurant offers work (minimum reputation
 1500).
 * Kiriyama's in Chinatown sells flechette ammunition and various other martial
@@ -871,7 +872,8 @@ private dining booth (to the northwest).
 rep.)
 * A man in Dirty Rikki's Bar practices Latin and Arabic.
 * 'sit' / 'rest' / 'sleep'.
-* There is a Matrix terminal in the Spacebucks at Surehand Square. There is also a trainer there who practices Elf Etiquette and Gaelic. In addition,
+* There is a Matrix terminal in the Spacebucks at Surehand Square. There is
+also a trainer there who practices Elf Etiquette and Gaelic. In addition,
 Valin Ke'Nelien in the amphitheater offers work. (Maxes out at 1500 rep.)
 * The fiend Valin Ke'Nelien wants dead is on the western side of Lysleul
 Plaza, in the casino.
@@ -894,12 +896,12 @@ Seneca in SW Seattle sells hardware.
 find a half-price visa (full price at the Everett Airport itself).
 * There's a guy in the basement of Smith's who sells visas.
 * Glow City is just to the east of where Moonlight Mall is in Redmond (but is
-apparently very dangerous).
+apparently very dangerous). Be wary of gangers and turrets!
 * Stanley's RGA Emporium in Everett sells gunsmithing and ammunition crafting
 equipment and kits for the latter.
 * Clarence Williams at Stanley's RGA Emporium practices the repair and
-ammunition crafting skills for pistols, shotguns, submachine guns, rifles
-and heavy weapons.
+ammunition crafting skills for pistols, shotguns, submachine guns, rifles and
+heavy weapons.
 * Allocate cpool towards offense when targets are hard to hit.
 * 'get nuyen all.corpse'.
 * 'get cred all.corpse'.
@@ -1411,3 +1413,18 @@ destroyed to gain entry to the building.
 * Maxwell tells you OOCly, 'No prerequisites anymore. You have access to all
 standard assignments. And don't forget that there are assignments in all three
 branches!'
+* The White Flower Diner (SE Seattle, between 8th and 9th on Spring Street)
+seems to be a popular place to hang out.
+* There is a Matrix terminal there.
+* Re: where to rent a nicer place:
+* \a glitching female voice/\[8 MHz, English\]: Evergreen in West Tacoma,
+Triple Tree is in Everett.
+* \a glitching female voice/\[8 MHz, English\]: If ya rolling in it the Sapphire
+in East Tacoma is way nicer, or a villa on council island.
+* Re: RPing: Kouyou says OOCly, "Ah you ECHO echo \[text text text\] "
+\[speaking\] ""
+* Kouyou says OOCly, "I also occassionally roll skills when they're relevant
+for fun, so I have 12 in rifles, but I myself don't know alot about rifles, so
+I don't really use that one that much. But I also have 12 in biotech, and I
+can look up medical terms n stuff, so I occassionally roll my biotech skill in
+roleplay situations."
