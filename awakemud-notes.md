@@ -814,6 +814,8 @@ rucksacks, vision-enhancing glasses and various accessiories.
 * Redmond Wholesale Furniture in the Redmond Way Mall sells, well, furniture.
 * Ocular Adjustments Inc. in the Redmond Way Mall sells and installs optical
 cyberware.
+* Search in the dojo at the Redmond Way Mall for a backroom that practices
+Clubs, Cyber Implants, Edged Weapons, Polearms, Brawling and Whips and Flails.
 * Cecile Nichols in The Downfall in Touristville offers work (minimum
 reputation 350).
 * There is a Matrix terminal in the back office of Crusher 495 in
@@ -826,8 +828,9 @@ Redmond offers work (minimum reputation 500 and maxes out at maybe 1000).
 Everett.
 * Don't fuck around in the basement of Jason's Bar & Grill unless you're
 ready.
-* A chubby man sporting a cheap suit in Jason's Bar & Grill offers work.
-(Don't take him up on delivering bombs to Little Chiba unless truly prepared.)
+* A chubby man sporting a cheap suit in Jason's Bar & Grill offers work (for
+less experienced runners). (Don't take him up on delivering bombs to Little
+Chiba unless truly prepared.)
 * Re: Fort Case: \A gruff and tusked smoker's grunt/\[8 MHz, English\]:
 Microsoft way dayo? South Redmond, out there somewhere. There's a fence dayo.
 * Fort Case isn't on Microsoft Way but rather down the road to the west.
@@ -1291,11 +1294,13 @@ A large box sits here.
 
 * `uninstall 2.evaluate computer`.
 * Ludwig |]Question[| Can a rifle with scope and silencer still fit a bayonet?
-* Richard |]Question[| LOOK at your weapon and see if it has a space for an underbarrel mount
-* Richard |]Question[| However Ludwig I would recommend getting an electronic magnification III
-cyberware and attaching a top mounted smart link II to your sniper rifle rather than a scope. The
-electronic magnification is very low essence cost and is a scope that doesn't take up slots. So you
-can have a silenced bayonetted rifle and get that -3 to your TN
+* Richard |]Question[| LOOK at your weapon and see if it has a space for an
+underbarrel mount
+* Richard |]Question[| However Ludwig I would recommend getting an electronic
+magnification III cyberware and attaching a top mounted smart link II to your
+sniper rifle rather than a scope. The electronic magnification is very low
+essence cost and is a scope that doesn't take up slots. So you can have a
+silenced bayonetted rifle and get that -3 to your TN
 * \An articulate and youthful male smoker's voice/\[8 MHz, English\]: Can
 either charter a private flight if you've got the resources, otherwise the
 airport up in Everett offers public flights out there \[i.e. the Confederated
@@ -1421,6 +1426,8 @@ seems to be a popular place to hang out.
 Triple Tree is in Everett.
 * \a glitching female voice/\[8 MHz, English\]: If ya rolling in it the Sapphire
 in East Tacoma is way nicer, or a villa on council island.
+* The location of the villas in question can be found on the west-east road to
+the south of Council Island Hospital.
 * Re: RPing: Kouyou says OOCly, "Ah you ECHO echo \[text text text\] "
 \[speaking\] ""
 * Kouyou says OOCly, "I also occassionally roll skills when they're relevant
@@ -1428,3 +1435,44 @@ for fun, so I have 12 in rifles, but I myself don't know alot about rifles, so
 I don't really use that one that much. But I also have 12 in biotech, and I
 can look up medical terms n stuff, so I occassionally roll my biotech skill in
 roleplay situations."
+* `search`ing in the side alley in Little Chiba leads to an area where an NPC
+practices Biotech, Stealth and Medicine.
+* `help books` is a guide to source material.
+* Re: finding Sinsearach: \a deep, gravelly grumble(Tanq)/\[8 MHz, English\]:
+I's likes goin' down da five, pas' da Puyallup turn, down ta J'valdi, den
+goin' east an' norf up ta a clearin'. Skip dem Leathah Devils frum scratchin'
+up mah paint.
+* When in a maze, use `lua gmcp.Room` to find your way in Mudlet.
+* A remote control deck can be used to locate vehicles precisely.
+* "Zalensky's on Fourth Street" sells remote control decks.
+* Use your ruthenium cloak!
+* Put `CPOOL` dice into offense against dangerous mages, at a distance. With
+very serious opponents armed with guns it may be necessary to distribute dice
+between dodge and soak.
+* There's a superior street-legal matching armor set at the Red Shift Offices
+in Grenada.
+* Going `prone` can help.
+* "You have to FIRE and LAND 2000 shots on an enemy, the best way to do this
+is to build 2000 harmless rounds, put all your dice into offense and go to the
+Splat! and shoot the mobs there for a while."
+* "Okay so head to Stanley's RGA Emporium. You can buy any ammo kit you want
+and craft harmless bullets with it. Get like, 3 or 4 skill in rifle build
+repair from the guy in the back room."
+* "Later in the gun quest Stanley will ask you to build some like flechette
+ammo or something so that's why I recommend a bit of the skill. 4 skill is
+pretty cheap."
+* "I'd say, while you wait for the Red Shift set to get in, build 2200
+harmless sniper rifle rounds, then once its in, head back to Seattle and go to
+the splat and fire off all those rounds SEMI AUTO. It's 2000 TRIGGER PULLS not
+BULLETS FIRED. You can't fire FA10 200 times, that will just be 200 trigger
+pulls even though you spent 2000 ammo."
+* "And again the bullets have to LAND too so you need to put your dice in
+offense."
+* Re: crafting ammo: "You don't need a workshop just a toolkit. Just have the
+toolkit in your inventory."
+* "The workshop is for like, if somebody's thing is "Yeah I build ammo", it
+gives you +2 dice when crafting stuff."
+* [Discord] (OOC), "\[Khai\]: Loot their weapons and look at them. Their
+damage code, mode, and ammo type will let you know what armor is sufficient.
+Minimum soak TN is 2, so past that point, it's about dice pools and finding
+ways to increase your opponent's attack TN."
