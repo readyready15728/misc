@@ -163,7 +163,7 @@
       Quickway: True # Quickway Chemists
       Secure-Tech: True # Secure-Tech Armour Outlet
       SybreSpace: True # SybreSpace
-  2206-SAEDER:
+  2206-SAEDER: # Saeder-Krupp Seattle Matrix Hub
     SK-Banking:
       SB-Reception:
         SB-Basement:
