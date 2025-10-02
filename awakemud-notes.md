@@ -1275,6 +1275,7 @@ SilberSoft Zuse II Storage Memory        Type: Storage Memory           (rating 
 SilberSoft Zuse II Active Memory         Type: Active Memory            (rating 3000)
 ```
 
+* Don't forget the programming suite if I make another decker character.
 * Crap currently in my apartment:
 
 ```
@@ -1450,7 +1451,7 @@ up mah paint.
 very serious opponents armed with guns it may be necessary to distribute dice
 between dodge and soak.
 * There's a superior street-legal matching armor set at the Red Shift Offices
-in Grenada.
+in Grenada. (Use `probe` to see what matches.)
 * Going `prone` can help.
 * "You have to FIRE and LAND 2000 shots on an enemy, the best way to do this
 is to build 2000 harmless rounds, put all your dice into offense and go to the
@@ -1476,3 +1477,22 @@ gives you +2 dice when crafting stuff."
 damage code, mode, and ammo type will let you know what armor is sufficient.
 Minimum soak TN is 2, so past that point, it's about dice pools and finding
 ways to increase your opponent's attack TN."
+* `prompt <@pP @mM @bB @iI CPOOL: @d/@D/@o Mode: @A>`.
+* `help cyberdoc`.
+* Young Decker Quest \#1:
+  * `logon CentralRoom`.
+  * `logon GameRoom`.
+  * `decrypt files`.
+  * `logon files`. There are the instructions.
+  * Access the Portland TLG.
+  * `locate host dungeon`.
+  * `logon Descending`.
+  * `logon Dungeon`.
+  * `logon RadiancePool`.
+  * `locate host pool` / `logon Village`.
+  * Go to the Blue Wyvern. (Air-gapped Matrix host.)
+  * `logon WyvernInterior`.
+  * `logon RestrictedAccess`.
+  * `logon slave`. There's the first orb.
+  * Return to the dungeon and upload the orb file.
+  * Return to Dan and `complete` the job.
