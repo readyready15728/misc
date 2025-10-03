@@ -848,7 +848,7 @@ Rifles, Pistols, Police Procedures and Tasers.
 * Sofbyte in the ground floor of The Auburn Center sells **very expensive**
 decks and decking programs.
 * Fry's Electronics on the ground floor of The Auburn Center sells various
-electronic gear.
+electronic gear, including deckbuilding parts.
 * Body + TECH on the first floor of The Auburn Center sells and installs
 various cyberware and bioware.
 * Stix n' Stuff on the first floor of The Auburn Center sells furniture.
@@ -1480,6 +1480,7 @@ ways to increase your opponent's attack TN."
 * `prompt <@pP @mM @bB @iI CPOOL: @d/@D/@o Mode: @A>`.
 * `help cyberdoc`.
 * Young Decker Quest \#1:
+  * Request work from Dan at the Android's Dungeon.
   * `logon CentralRoom`.
   * `logon GameRoom`.
   * `decrypt files`.
@@ -1490,9 +1491,66 @@ ways to increase your opponent's attack TN."
   * `logon Dungeon`.
   * `logon RadiancePool`.
   * `locate host pool` / `logon Village`.
-  * Go to the Blue Wyvern. (Air-gapped Matrix host.)
+  * Go to the Blue Wyvern as suggested. (Air-gapped Matrix host.)
   * `logon WyvernInterior`.
   * `logon RestrictedAccess`.
   * `logon slave`. There's the first orb.
   * Return to the dungeon and upload the orb file.
   * Return to Dan and `complete` the job.
+* Young Decker Quest \#2:
+  * Repeat the process of getting instructions.
+  * Return to the dungeon.
+  * `logon Descending`.
+  * `logon Dungeon`.
+  * `logon BEHOLD`.
+  * `logon index`.
+  * Go to the Moonlight Mall in Redmond, head north, then up. Obtain the
+  envelope.
+  * Log on to the Lizards of the Moat Matrix host, which is on the Portland
+  LTG.
+  * `logon Visitor_Center`.
+  * `logon LotM_Employee`.
+  * `decrypt Corp_Management`.
+  * `logon Corp_Management`.
+  * `locate file MA-546a` (or `locate file dossier`).
+  * Return Dossier to Dan.
+* Young Decker Quest \#3:
+  * Read and `junk` email.
+  * Tell Dan you are done.
+  * Go to the Seattle Heliport (northeast of Little Chiba).
+  * Ask Gwen for work.
+  * Go to Nybbles & Bytes.
+  * `logon storage` and obtain the white orb.
+  * Upload the orb as before.
+  * Return to the Seattle Heliport and complete the job.
+* Young Decker Quest \#4:
+  * Request work from Gwen.
+  * Return to the Android's Dungeon for instructions.
+  * Return to the Portland LTG and reach the area where `logon BEHOLD` was
+  effective.
+  * `logon VITRIOL`.
+  * `decrypt files` and `download page`.
+  * Read carefully then `junk`.
+  * Return to Gwen and notify her of completion.
+* Young Decker Quest \#5:
+  * Go see Dan in the Android's Dungeon and request work.
+  * Log on to the Lizards of the Moat host.
+  * `logon Visitor_Center`.
+  * `logon LotM_Employee`.
+  * `logon Game_Development`.
+  * `logon control` and download file.
+  * The envelope will direct you to an abandoned book printing facility west
+  of the Auburn Monorail Station on Ebernath Avenue.
+  * Obtain the surveillance footage from the air-gapped Matrix host.
+  * Log on to the Everett LTG.
+  * `locate host Feystandantilus`.
+  * `logon interior`.
+  * `locate host rachem` / `logon HermeticStudy`
+  * `locate host orb` and upload the full recording.
+  * Return to Dan and complete.
+* Young Decker Quest \#6:
+  * Ask Dan for work.
+  * Head over to Syberspace.
+  * Read the note then `junk`.
+  * Return to Dan and complete.
+* Read about the decker quests [on the wiki](https://awakemud.com/dokuwiki/doku.php?id=deckerquests).
