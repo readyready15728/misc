@@ -510,7 +510,8 @@ trucker hats.
 * Lead Loaders in the Knight Center Shopping Mall (first floor) sells SMGs and
 Fast and Deadly sells other long guns. In fact there are a bunch of long guns
 on that floor in addition to cyberware, bioware, body armor and ammunition.
-And all kinds of melee weapons.
+And all kinds of melee weapons. Notably they sell street-legal helmets at
+Professional Protections!
 * There is an ATM on the first floor of the Knight Center Shopping Mall, near
 the escalators.
 * A leather rifle strap can be bought at Bolshevik Buffet on the first floor
@@ -1554,3 +1555,51 @@ ways to increase your opponent's attack TN."
   * Read the note then `junk`.
   * Return to Dan and complete.
 * Read about the decker quests [on the wiki](https://awakemud.com/dokuwiki/doku.php?id=deckerquests).
+* Gargamel at Powell's Technical Books in Portland offers work (and it's
+Matrix work).
+* Aspiring Decker Quest \#1:
+  * Request work from Gargamel at Powell's Technical Books in Portland.
+  * Find and download the post in the Shadowlands Matrix host.
+  * `2206-SHINTARU` → `PubLobby` → `EmpAccess` → `CorpHub` → `Security` →
+  `SecPhyical`.
+  * Look at the log then head to Circuit Couriers and get the envelope.
+  * Head over to Portland, give Gargamel the envelope, then complete.
+* Aspiring Decker Quest \#2:
+  * Install the editor in your deck and follow a similar path in the Matrix as
+  the above but head into `Executive` →  `ExecCEO` → `index` after `CorpHub`.
+  Upload the editor.
+  * Return to Gargamel and complete.
+* Aspiring Decker Quest \#3:
+  * Head over to Shintaru, 2nd floor, then ask the manager for a job.
+  * Get the token, give to the manager, then complete.
+* Aspiring Decker Quest \#4:
+  * Return to Gargamel and ask for work.
+  * Return to Shintaru and get the note.
+  * Log into the Afterlife Matrix host followed by `Purgatory` then `logon
+  ride` and get the access card.
+  * Go to Purgatory in meat space and `search` in the northeast seating. There
+  will be a hidden door to the north.
+  * `connect`, download, then read the email.
+  * Head over to the Davis Street Offices in Portland.
+  * Get the chip, give to Gargamel and complete.
+* Aspiring Decker Quest \#5:
+  * Read the email, `junk` it, then complete.
+* Aspiring Decker Quest \#6:
+  * Ask Gargamel for work.
+  * Head to Matchsticks (just a little north of the Seattle Library).
+  * Ask the Lone Star detective there for work.
+  * Get the virus from the Dave's Discount Drugs `pharmacy` Matrix host.
+  * Enter the `files` trap door of Lone Star's `LS_Corp_RD` host and get the
+  clearance notification.
+  * `locate file password` in `LS-Exec` and get the token.
+  * Head over to the Lone Star 17th Precinct in Seattle. Search room
+  "Detention Cells" for a secret door. You will have to `bypass` it.
+  * Head all the way to the south and unlock the door.
+  * Connect to the Matrix terminal and log on to the `control` trap door, then
+  upload the virus.
+  * Return to the Lone Star detective and complete.
+Aspiring Decker Quest \#7:
+  * Ask the Lone Star detective for work.
+  * Log on to `door` from the Shoe-Fly Matrix host.
+  * Get the message, log off read it, and junk it.
+  * Return to the Lone Star detective and complete.
