@@ -37,7 +37,7 @@
     files: True
   2206-9529: # Shadowland BBS
     silver: True
-  2206-AZTECH:
+  2206-AZTECH: # Seattle Aztechnology Matrix Host
     AztechMall:
       Black: True # Mortimer of London
       Blue: True # Bits and Bytes
@@ -91,6 +91,13 @@
   2206-LONESTAR: # Lone Star Security Services - Seattle
     LS-Lobby:
       LS-Ground:
+        LS-First:
+          LS_Corp_Admin:
+            LS-Exec: "True?"
+            LS_Corp_Accounting: "True?"
+          LS_Corp_IntAffairs: "True?"
+          LS_Corp_RD:
+            files: "True?"
         LS_Div_Investigation: "True?"
         LS_Div_MatrixSec: "True?" # Intrigued by this one as well
         LS_Div_Paranormal: "True?"
@@ -111,8 +118,8 @@
           Finance: True
           Project: True
         Research: True
-      Outlet:
-        Storage: True
+    Outlet:
+      Storage: True
   2206-RENRAKU: # Renraku Arcology
     Central:
       Cultivation:
