@@ -861,7 +861,7 @@ various cyberware and bioware.
 * Guang and Huang intersection in Chinatown is where Yellow Lotus can be
 found, apparently.
 * Dr. Bob's Quickstitch in Touristville sells and installs cyberware, and
-sells medical supplies as well.
+sells medical supplies as well, including field medical kits (or medkits).
 * Chas Moreno at Dr. Bob's Quickstitch offers work.
 * Cabbie Connection in Touristville sells ground vehicle tools and parts.
 * Cabbie of Cabbie Connection offers work.
@@ -1603,3 +1603,22 @@ Aspiring Decker Quest \#7:
   * Log on to `door` from the Shoe-Fly Matrix host.
   * Get the message, log off read it, and junk it.
   * Return to the Lone Star detective and complete.
+* 'Wared Adept Troll with polearm might be what I want for a rescue character.
+(Or do I really want a Mage?)
+* Initially an Adept will only want to spend about 1 Essence then spend more
+later on.
+* "At least when it comes to a troll with a polearm, it's a very low cost of
+entry because they can handle a lot already. Best bet would probably be to
+invest in some early bioware (Toner and Aug, Trauma Damper, Cerebral Booster,
+maybe Enhanced Articulation). Maxed attributes, a decent polearm, and as much
+armor as you can comfortably wear will deal with most problems that don't
+involve APDS or stunbolts."
+* Victoria Crime Mall hidden Matrix host is `backdoor`. From there, there is a
+trap door in `access` and a host `cabinets`.
+* The physical security at Bicson all succumbs to shooting and kicking.
+* `deactivate cyberarms` to turn off the CPOOL-crippling gyromount.
+* Radios tend to be unintelligible while underground.
+* Maxwell de la Grande on Victoria offers work. To find him, head down Dynasty
+Estate Road and `search` at the `Jungle Campsite` NW of `Approaching a Stone
+Building`, then head roughly west until you find the guerrilla camp. He is in
+the officers' quarters. There is also a Matrix terminal present there.
