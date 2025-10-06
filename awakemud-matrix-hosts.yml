@@ -23,6 +23,9 @@
       door: True
     three: True
     two: True
+  2206-0930: # Big Rhino
+    Underground:
+      Melvak: True
   2206-0933: #  Espanoza Way Complex
     EWC-ACC: True
     EWC-MAN: True
@@ -57,7 +60,8 @@
         Marketing: True
         SecurityCheck:
           InnerCorporate:
-            CorporateResearch: True
+            CorporateResearch:
+              ConfidentialResearch: "True?"
             FinancialHub:
               slave: True
             ManagementHub:
