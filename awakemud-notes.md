@@ -1344,8 +1344,9 @@ seems to be tricky wetwork).
 high-end stuff.
 * Virginia Beach Sport Rotorcraft sells helicopters.
 * In Norfolk, head all the way north from the intersection of Shore Drive and
-Oceanview Road, head down, to the west, then search, then bypass the grate to
-the south. **There is a whole underground town there!**
+Oceanview Road (nearest taxi destination is `Mcfarlane`), head down, to the
+west, then search, then bypass the grate to the south. **There is a whole
+underground town there!**
 * `gridguide` in my vehicle before I overhaul everything:
 
 ```
