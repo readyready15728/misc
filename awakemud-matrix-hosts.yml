@@ -335,10 +335,24 @@
         files: "Intrigued"
       Management: "True?"
   5206-4229: # Tacoma Mall
-    first:
+    First:
       blue: True # Living Lore
       green: True # Oxfam
+      purple: True # The Chop Shop
       red: True # Kevlar Armors
+      yellow: True # Zappa-Tech
+    FoodCourt:
+      blue: True # Tessko Foods
+      green: True # Greenway
+      purple: True # Generous George's Subs
+      red: True # Jim's Eatery
+    Second:
+      black: True # Suburban Outfitters
+      blue: True # Vesalius' Forge
+      green: True # OutBack
+      purple: # Hacker's Haven
+      red: # Jilted
+      yellow: # Victoria's Secret
   5206-8544: # The Afterlife Matrix Host
     Heaven: "True?"
     Hell: "True?"
