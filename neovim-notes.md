@@ -107,3 +107,5 @@ interacting with buffers.
 * `<Space>bD` does "close buffer and the window split it is in".
 * `<Space>bo` does "close all buffers other than the active one".
 * `<Esc>` appears to do `:nohlsearch`, at least with LazyVim.
+* With autoformatting turned off, `gq` can be used to manually format code
+according to a linter.
