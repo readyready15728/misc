@@ -740,7 +740,7 @@ work. (He offers a climbing quest.)
 * At the Council Island forest, cross the river (using water wings might help)
 and climb the cliff (hiking gloves and a winch might help) and enter the
 cabin. Search for a trapdoor, enter, and there is Dr. Alex Scriptshaw. He
-sells ADPS submachine gun ammunition, EX heavy machine gun ammunition, ADPS
+sells APDS submachine gun ammunition, EX heavy machine gun ammunition, APDS
 sniper rifle ammunition, RPK HMGs, suits of heavy security armor, Ingram
 Supermach 100s (submachine gun model) and security helmets.
 * The office building just east La Vieux Cinema has a Matrix terminal.
@@ -1017,7 +1017,7 @@ passage.
 obtained from a Johnson, Oswald Skylarke IIRC, or possibly Mister Keiretsu)
 sells numerous level-8 activesofts.
 * STupHR ShaK on Hoagie Street in the Ork Underground sells explosive medium
-submachine gun ammunition and Doc Dodie's Medical Clinic, attached, sells and
+machine gun ammunition and Doc Dodie's Medical Clinic, attached, sells and
 maybe installs cyberware and bioware.
 * Operational Program Design appears required to write Evaluate utilities but
 Data Brokerage determines the highest level they can be written at.
@@ -1050,7 +1050,8 @@ for trapdoors?
 * Ludwig |]newbie[| The website's not working, what's an ACIFS
 * Nanashi |]newbie[| Matrix hosts have subsystems which we refer to as ACIFS,
 which stands for Access, Control, Index, Files, Slave
-* Tiny |]newbie[| The starter syberspace runs are helpful for teaching matrix stuff
+* Tiny |]newbie[| The starter syberspace runs are helpful for teaching matrix
+stuff
 * Tiny |]newbie[| The guy in the south eastern door
 * Nanashi |]newbie[| Sometimes, the Files subsystem of a node is encrypted,
 which means you need to decrypt that particular subsystem before you can
@@ -1155,8 +1156,8 @@ Str. Lots of sams play melee with polearms for the reach. I must admit that I
 prefer sniping."
 * Grand Wizard Shankmire can be found on Fourth Street in Auburn in an
 abandoned area just west of Boseman's Drone Emporium.
-* Matrix host AzTech → AztechMall → White → Backroom → Index
-subystem has a trapdoor. (Orange paydata there.)
+* Matrix host AzTech → AztechMall → White → Backroom → Index subystem has a
+trapdoor. (Orange paydata there.)
 * 'locate ic'.
 * The small storeroom in Ebey's Bar sells all kinds of weapons and armor.
 * [Discord] (OOC), "[Khai]: IC attempt maneuvers by rolling against TN = your
@@ -1206,7 +1207,7 @@ Projects is "valkyrie".
 * Saeder-Krupp Matrix host passcode for Confidential Projects is
 "saederheavy".
 * Saeder-Krupp Matrix host passcode for Corporate Directorate is
-  "themightydragon". (Actually "lofwyr", looks like?)
+"themightydragon". (Actually "lofwyr", looks like?)
 * There is a Matrix terminal in unit 2437 of the second floor of Renraku
 Arcology.
 * There is a Matrix terminal in Personnel Check on the fourth floor of Renraku
@@ -1398,7 +1399,7 @@ wetwork).
 anchor sculpture.)
 * There is a Matrix terminal at Anchor Insurance.
 * Anchor Insurance also sells mostly things I don't need but sells large boxes
-  / bags of cyberdeck parts / optical chips respectively and is more
+/ bags of cyberdeck parts / optical chips respectively and is more
 accessible than the Beacon Mall.
 * Johnny Gnomonic of Anchor Insurance offers work (and it's Matrix work).
 * Victoria Marketing Agency on Victoria (on 3rd Street, namely) is the Grenada
@@ -1482,128 +1483,128 @@ ways to increase your opponent's attack TN."
 * `prompt <@pP @mM @bB @iI CPOOL: @d/@D/@o Mode: @A>`.
 * `help cyberdoc`.
 * Young Decker Quest \#1:
-  * Request work from Dan at the Android's Dungeon.
-  * `logon CentralRoom`.
-  * `logon GameRoom`.
-  * `decrypt files`.
-  * `logon files`. There are the instructions.
-  * Access the Portland TLG.
-  * `locate host dungeon`.
-  * `logon Descending`.
-  * `logon Dungeon`.
-  * `logon RadiancePool`.
-  * `locate host pool` / `logon Village`.
-  * Go to the Blue Wyvern as suggested. (Air-gapped Matrix host.)
-  * `logon WyvernInterior`.
-  * `logon RestrictedAccess`.
-  * `logon slave`. There's the first orb.
-  * Return to the dungeon and upload the orb file.
-  * Return to Dan and `complete` the job.
+* Request work from Dan at the Android's Dungeon.
+* `logon CentralRoom`.
+* `logon GameRoom`.
+* `decrypt files`.
+* `logon files`. There are the instructions.
+* Access the Portland TLG.
+* `locate host dungeon`.
+* `logon Descending`.
+* `logon Dungeon`.
+* `logon RadiancePool`.
+* `locate host pool` / `logon Village`.
+* Go to the Blue Wyvern as suggested. (Air-gapped Matrix host.)
+* `logon WyvernInterior`.
+* `logon RestrictedAccess`.
+* `logon slave`. There's the first orb.
+* Return to the dungeon and upload the orb file.
+* Return to Dan and `complete` the job.
 * Young Decker Quest \#2:
-  * Repeat the process of getting instructions.
-  * Return to the dungeon.
-  * `logon Descending`.
-  * `logon Dungeon`.
-  * `logon BEHOLD`.
-  * `logon index`.
-  * Go to the Moonlight Mall in Redmond, head north, then up. Obtain the
-  envelope.
-  * Log on to the Lizards of the Moat Matrix host, which is on the Portland
-  LTG.
-  * `logon Visitor_Center`.
-  * `logon LotM_Employee`.
-  * `decrypt Corp_Management`.
-  * `logon Corp_Management`.
-  * `locate file MA-546a` (or `locate file dossier`).
-  * Return Dossier to Dan.
+* Repeat the process of getting instructions.
+* Return to the dungeon.
+* `logon Descending`.
+* `logon Dungeon`.
+* `logon BEHOLD`.
+* `logon index`.
+* Go to the Moonlight Mall in Redmond, head north, then up. Obtain the
+envelope.
+* Log on to the Lizards of the Moat Matrix host, which is on the Portland
+LTG.
+* `logon Visitor_Center`.
+* `logon LotM_Employee`.
+* `decrypt Corp_Management`.
+* `logon Corp_Management`.
+* `locate file MA-546a` (or `locate file dossier`).
+* Return Dossier to Dan.
 * Young Decker Quest \#3:
-  * Read and `junk` email.
-  * Tell Dan you are done.
-  * Go to the Seattle Heliport (northeast of Little Chiba).
-  * Ask Gwen for work.
-  * Go to Nybbles & Bytes.
-  * `logon storage` and obtain the white orb.
-  * Upload the orb as before.
-  * Return to the Seattle Heliport and complete the job.
+* Read and `junk` email.
+* Tell Dan you are done.
+* Go to the Seattle Heliport (northeast of Little Chiba).
+* Ask Gwen for work.
+* Go to Nybbles & Bytes.
+* `logon storage` and obtain the white orb.
+* Upload the orb as before.
+* Return to the Seattle Heliport and complete the job.
 * Young Decker Quest \#4:
-  * Request work from Gwen.
-  * Return to the Android's Dungeon for instructions.
-  * Return to the Portland LTG and reach the area where `logon BEHOLD` was
-  effective.
-  * `logon VITRIOL`.
-  * `decrypt files` and `download page`.
-  * Read carefully then `junk`.
-  * Return to Gwen and notify her of completion.
+* Request work from Gwen.
+* Return to the Android's Dungeon for instructions.
+* Return to the Portland LTG and reach the area where `logon BEHOLD` was
+effective.
+* `logon VITRIOL`.
+* `decrypt files` and `download page`.
+* Read carefully then `junk`.
+* Return to Gwen and notify her of completion.
 * Young Decker Quest \#5:
-  * Go see Dan in the Android's Dungeon and request work.
-  * Log on to the Lizards of the Moat host.
-  * `logon Visitor_Center`.
-  * `logon LotM_Employee`.
-  * `logon Game_Development`.
-  * `logon control` and download file.
-  * The envelope will direct you to an abandoned book printing facility west
-  of the Auburn Monorail Station on Ebernath Avenue.
-  * Obtain the surveillance footage from the air-gapped Matrix host.
-  * Log on to the Everett LTG.
-  * `locate host Feystandantilus`.
-  * `logon interior`.
-  * `locate host rachem` / `logon HermeticStudy`
-  * `locate host orb` and upload the full recording.
-  * Return to Dan and complete.
+* Go see Dan in the Android's Dungeon and request work.
+* Log on to the Lizards of the Moat host.
+* `logon Visitor_Center`.
+* `logon LotM_Employee`.
+* `logon Game_Development`.
+* `logon control` and download file.
+* The envelope will direct you to an abandoned book printing facility west
+of the Auburn Monorail Station on Ebernath Avenue.
+* Obtain the surveillance footage from the air-gapped Matrix host.
+* Log on to the Everett LTG.
+* `locate host Feystandantilus`.
+* `logon interior`.
+* `locate host rachem` / `logon HermeticStudy`
+* `locate host orb` and upload the full recording.
+* Return to Dan and complete.
 * Young Decker Quest \#6:
-  * Ask Dan for work.
-  * Head over to Syberspace.
-  * Read the note then `junk`.
-  * Return to Dan and complete.
+* Ask Dan for work.
+* Head over to Syberspace.
+* Read the note then `junk`.
+* Return to Dan and complete.
 * Read about the decker quests [on the wiki](https://awakemud.com/dokuwiki/doku.php?id=deckerquests).
 * Gargamel at Powell's Technical Books in Portland offers work (and it's
 Matrix work).
 * Aspiring Decker Quest \#1:
-  * Request work from Gargamel at Powell's Technical Books in Portland.
-  * Find and download the post in the Shadowlands Matrix host.
-  * `2206-SHINTARU` → `PubLobby` → `EmpAccess` → `CorpHub` → `Security` →
-  `SecPhyical`.
-  * Look at the log then head to Circuit Couriers and get the envelope.
-  * Head over to Portland, give Gargamel the envelope, then complete.
+* Request work from Gargamel at Powell's Technical Books in Portland.
+* Find and download the post in the Shadowlands Matrix host.
+* `2206-SHINTARU` → `PubLobby` → `EmpAccess` → `CorpHub` → `Security` →
+`SecPhyical`.
+* Look at the log then head to Circuit Couriers and get the envelope.
+* Head over to Portland, give Gargamel the envelope, then complete.
 * Aspiring Decker Quest \#2:
-  * Install the editor in your deck and follow a similar path in the Matrix as
-  the above but head into `Executive` →  `ExecCEO` → `index` after `CorpHub`.
-  Upload the editor.
-  * Return to Gargamel and complete.
+* Install the editor in your deck and follow a similar path in the Matrix as
+the above but head into `Executive` →  `ExecCEO` → `index` after `CorpHub`.
+Upload the editor.
+* Return to Gargamel and complete.
 * Aspiring Decker Quest \#3:
-  * Head over to Shintaru, 2nd floor, then ask the manager for a job.
-  * Get the token, give to the manager, then complete.
+* Head over to Shintaru, 2nd floor, then ask the manager for a job.
+* Get the token, give to the manager, then complete.
 * Aspiring Decker Quest \#4:
-  * Return to Gargamel and ask for work.
-  * Return to Shintaru and get the note.
-  * Log into the Afterlife Matrix host followed by `Purgatory` then `logon
-  ride` and get the access card.
-  * Go to Purgatory in meat space and `search` in the northeast seating. There
-  will be a hidden door to the north.
-  * `connect`, download, then read the email.
-  * Head over to the Davis Street Offices in Portland.
-  * Get the chip, give to Gargamel and complete.
+* Return to Gargamel and ask for work.
+* Return to Shintaru and get the note.
+* Log into the Afterlife Matrix host followed by `Purgatory` then `logon
+ride` and get the access card.
+* Go to Purgatory in meat space and `search` in the northeast seating. There
+will be a hidden door to the north.
+* `connect`, download, then read the email.
+* Head over to the Davis Street Offices in Portland.
+* Get the chip, give to Gargamel and complete.
 * Aspiring Decker Quest \#5:
-  * Read the email, `junk` it, then complete.
+* Read the email, `junk` it, then complete.
 * Aspiring Decker Quest \#6:
-  * Ask Gargamel for work.
-  * Head to Matchsticks (just a little north of the Seattle Library).
-  * Ask the Lone Star detective there for work.
-  * Get the virus from the Dave's Discount Drugs `pharmacy` Matrix host.
-  * Enter the `files` trap door of Lone Star's `LS_Corp_RD` host and get the
-  clearance notification.
-  * `locate file password` in `LS-Exec` and get the token.
-  * Head over to the Lone Star 17th Precinct in Seattle. Search room
-  "Detention Cells" for a secret door. You will have to `bypass` it.
-  * Head all the way to the south and unlock the door.
-  * Connect to the Matrix terminal and log on to the `control` trap door, then
-  upload the virus.
-  * Return to the Lone Star detective and complete.
+* Ask Gargamel for work.
+* Head to Matchsticks (just a little north of the Seattle Library).
+* Ask the Lone Star detective there for work.
+* Get the virus from the Dave's Discount Drugs `pharmacy` Matrix host.
+* Enter the `files` trap door of Lone Star's `LS_Corp_RD` host and get the
+clearance notification.
+* `locate file password` in `LS-Exec` and get the token.
+* Head over to the Lone Star 17th Precinct in Seattle. Search room
+"Detention Cells" for a secret door. You will have to `bypass` it.
+* Head all the way to the south and unlock the door.
+* Connect to the Matrix terminal and log on to the `control` trap door, then
+upload the virus.
+* Return to the Lone Star detective and complete.
 Aspiring Decker Quest \#7:
-  * Ask the Lone Star detective for work.
-  * Log on to `door` from the Shoe-Fly Matrix host.
-  * Get the message, log off read it, and junk it.
-  * Return to the Lone Star detective and complete.
+* Ask the Lone Star detective for work.
+* Log on to `door` from the Shoe-Fly Matrix host.
+* Get the message, log off read it, and junk it.
+* Return to the Lone Star detective and complete.
 * 'Wared Adept Troll with polearm might be what I want for a rescue character.
 (Or do I really want a Mage?)
 * Initially an Adept will only want to spend about 1 Essence then spend more
@@ -1625,13 +1626,30 @@ Building`, then head roughly west until you find the guerrilla camp. He is in
 the officers' quarters. There is also a Matrix terminal present there.
 * Tacoma Weapons Emporium is mostly lame but sells various weapons
 accessories, including bayonets, bipods and polearm straps.
-* A market area in Glow City sells a high-quality mononaginata polearm.
+* The Caryard Bazaar in Glow City sells a high-quality mononaginata polearm.
+The same area also sells APDS assault rifle ammunition, EX assault rifle
+ammunition, APDS submachine gun ammunition, EX submachine gun ammunition, the
+Arasaka Rapid Assault Shotgun and Heckler and Koch OICW Heavy Assault Rifle.
 * The required signatories for the letter of marksmanship qualification are:
 Stanley of Stanley's RGA Emporium, the Chief Instructor at Lone Star's 17th
 Precinct, Kiol of the Puyallup Crime Mall and Rooster in Redmond.
+* After you get the lanyard from the marksmanship quest, wear it, enter the
+dark alley to the north of Chinatown one room, search for a hidden room, and
+say 'training'.
 * It's possible to spawn Green Dawg and get his modified rifle by getting
 work from the Johnson on B2 of Dante's Inferno.
 * I was able to defeat Green Dawg by training Polearms, getting the
 mononaginata and putting **ALL** of my CPOOL dice into soak.
 * It is possible to `eject` your magazine on a firearm equipped with a bayonet
-  to carry out a bayonet charge.
+to carry out a bayonet charge.
+* I'm going to have to redo my Virginia notes...
+* \[Discord\] (OOC), "[Khai]: HMGs are good. Accessories with gas vent 4 and
+tripod. FA 4 with an HMG is comparable to FA 6 with an assault rifle, with
+an option to go prone + FA 10 for the really hard targets. Has a weakness
+against spirits, but then so do all firearms."
+* HMG ammunition has to be crafted.
+* \[Discord\] (OOC), "\[Alak\]: Shotguns are a good compromise. BF handles
+most threats well enough, damage per bullet equal to baseline HMG, and AP
+ammo for purchase out in the world."
+* \[Remy\] (OOC), "Using drones makes being unoptimized easy. Just send in the
+bot."
