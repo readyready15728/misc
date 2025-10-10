@@ -1623,3 +1623,15 @@ trap door in `access` and a host `cabinets`.
 Estate Road and `search` at the `Jungle Campsite` NW of `Approaching a Stone
 Building`, then head roughly west until you find the guerrilla camp. He is in
 the officers' quarters. There is also a Matrix terminal present there.
+* Tacoma Weapons Emporium is mostly lame but sells various weapons
+accessories, including bayonets, bipods and polearm straps.
+* A market area in Glow City sells a high-quality mononaginata polearm.
+* The required signatories for the letter of marksmanship qualification are:
+Stanley of Stanley's RGA Emporium, the Chief Instructor at Lone Star's 17th
+Precinct, Kiol of the Puyallup Crime Mall and Rooster in Redmond.
+* It's possible to spawn Green Dawg and get his modified rifle by getting
+work from the Johnson on B2 of Dante's Inferno.
+* I was able to defeat Green Dawg by training Polearms, getting the
+mononaginata and putting **ALL** of my CPOOL dice into soak.
+* It is possible to `eject` your magazine on a firearm equipped with a bayonet
+  to carry out a bayonet charge.
