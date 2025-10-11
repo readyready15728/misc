@@ -1324,16 +1324,34 @@ ammunition.
 * Phil's Garage in Tidewater sells various types of automotive equipment.
 * Sadie O'Connor at Someplace Else in Tidewater offers work for less
 experienced runners.
+* Pastor Rich at Bayside Baptist Church offers work for less experienced
+runners.
 * Big Bore Guns and Ammo in Tidewater sells various firearms in addition to
 mostly standard ammunition and gunsmithing and ammunition workshops.
 * The Atlantean Foundation in Virginia Beach has a Matrix terminal close to
 the lobby.
+* Lone Tusk at the Atlantean Foundation in Virginia Beach offers work for less
+experienced runners.
+* Andrea Blue-Feather at Shore Lanes in Virginia Beach offers work.
+* Franklin Cromwell at the CDC Field Office in Virginia Beach offers work for
+less experienced runners.
+* Natasha Watanabe at Crash Cart in Virginia Beach offers work.
+* Stein the Gnome is in an alley south of Gull Street in Virginia Beach and he
+does repairs.
+* Dennis Newman at Rosco's Pub & Grille in Virginia Beach offers work for less
+experienced runners.
+* Jakob Gunderson at the Ford Motor Company in Virginia Beach offers work for
+less experienced runners.
+* Fausto's Surf Shop in Virginia Beach sells watercraft and water wings.
+* The confectioner at Just Desserts Candy Shop in Virginia Beach offers work.
 * Dr. Sandra Onasis at Meridional Agronomics in Virginia Beach offers work for
 less experienced runners.
 * Coach, just east of the intersection of Highway 60 and Oyster Street at
 Virgina Beach, practices Athletics.
 * There's a garage area for watercraft just east of Fausto's Surf Shop in
 Virginia Beach.
+* Frank at Salieri's Country Club in Virginia Beach offers work.
+* Universal Omnitech in Virginia Beach sells high-end bioware.
 * A shady character on Highway 60 (or perhaps nearby) sells mostly hold-out
 pistol ammunition but also EX submachine gun ammunition.
 * Brenda Hughes at United Oil Industries in Virginia Beach offers work for
@@ -1341,13 +1359,21 @@ less experienced runners.
 * There is a Matrix terminal on the upper floor of United Oil Industries.
 * Yacob Ishaq on the upper floor of United Oil Industries offers work (and it
 seems to be tricky wetwork).
-* Universal Omnitech in Virginia Beach sells bioware, some of it rather
-high-end stuff.
 * Virginia Beach Sport Rotorcraft sells helicopters.
 * In Norfolk, head all the way north from the intersection of Shore Drive and
 Oceanview Road (nearest taxi destination is `Mcfarlane`), head down, to the
 west, then search, then bypass the grate to the south. **There is a whole
 underground town there!**
+* Mr. Carson at the Mcfarlane Mansion in Norfolk offers work.
+* Paulie at Moe's Pub in Norfolk offers work. All of it is easy non-violent
+delivery.
+* Wayne Johnson at the Carolina Steakhouse in Norfolk offers work.
+* Irwin Stevenson at Irwin Stevenson's in Norfolk offers work for less
+experienced runners.
+* Mama June at Mama June's Kitchen in Norfolk offers work.
+* Yuk-Yuk is at Someplace Else in Tidewater.
+* Professor Rudmin can be found in the south of Wallops Island in Tidewater.
+* Herman at the Asylum in Tidewater offers work.
 * `gridguide` in my vehicle before I overhaul everything:
 
 ```
