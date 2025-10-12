@@ -406,6 +406,7 @@ CA-CL: # Caribbean League RTG
       RealGrenadianTaxiandTours:
         records: True
       VictoriaPolice:
+        ActiveInvestigations: True
         HumanMetaHumanResources: True
         PrisonerBookingandProcessing: True
         access: True
