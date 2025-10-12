@@ -554,12 +554,20 @@ equipment).
 * Bunny at Circuit Couriers offers work. At least one of his runs goes to the
 Caribbean.
 * Miyoko at Dante's Inferno (Ninth Hell) offers work.
+* Corben Lucifer is on floor 9 of Renraku.
+* Sherman Huang is on floor 12 of Renraku and so is Michael Dumont. He's
+tricky to kill!
 * Harold Moore at Dante's Inferno (Ninth Hell) offers work.
 * Harold Moore's quest for lost items requires going to the Bradenton, the
 staircase at the northernmost part of the Moonlight Mall and a back room in
 the Blue Wyvern.
+* The Aztlaner necromancer is on floor 3 of Aztech and he goes down easily.
+* The data storage unit is on floor 6 of Aztech and requires no bloodshed to
+attain.
+* After working for Harold Moore enough you can attain a chain from Hermes in
+the Moonlight Mall if you are a magic user at the acme of skill.
 * Don Giuseppe Bonanno at the OldTown station in Tacoma (Den of Thieves')
-offers work (for less experienced runners).
+offers work ((not only?) for less experienced runners).
 * Pherrik (quest target) can be found on the dance floor of Dante's (Fourth
 Hell).
 * Tanq says OOCly, "Take your time. just, for future refrence, 'get all
@@ -1374,6 +1382,8 @@ experienced runners.
 * Yuk-Yuk is at Someplace Else in Tidewater.
 * Professor Rudmin can be found in the south of Wallops Island in Tidewater.
 * Herman at the Asylum in Tidewater offers work.
+* Once you get the foul smelling key from Herman you can enter the director's
+office of the Asylum and meet Director Clements, who offers work.
 * `gridguide` in my vehicle before I overhaul everything:
 
 ```
