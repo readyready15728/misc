@@ -601,7 +601,7 @@ and deck programs.
 ammunition and even troll-sized backpacks.
 * Techno Geeks in Knight Center sells the CMT Avatar and so does a shop in
 Renton.
-* Zigzag at Syberspace in northeast Seattleoffers work and so does a burnt-out
+* Zigzag at Syberspace in northeast Seattle offers work and so does a burnt-out
 Ork decker (minimum reputation 1000). (Both presumably offer Matrix work.)
 * Brian at Syberspace practices Computers, Electronics, Computer Building and
 Repair, Electronics Building and Repair, Combat Program Design, Defensive
@@ -690,7 +690,11 @@ ring where vendors sell mostly arms, armor and accessories.
 * Xing in the dojo of Chinatown practices Brawling, Stealth, Athletics and
 Cyber Implants.
 * Nybbles & Bytes sells credsticks.
+* A nameless Johnson at Afterlife (Purgatory, west corner booth) offers work
+for less experienced runners.
 * Oswald Skylarke at the Afterlife (Heaven) in West Tacoma offers work.
+* The page of the tome of Arcazon is in Formulae Database, floor 3, Aztech.
+The tome itself is in the location of the Altar (same place).
 * Use the skeleton key obtained from Oswald Skylarke to open the secret door
 in Hell's Bar at Afterlife.
 * Phillipe "Mugsy" Vizzini in the back of Pharaoh's Nightclub in East Tacoma
@@ -722,6 +726,9 @@ languages.
 * A nameless Johnson on the second floor of Espanoza Complex offers work (for
 less experienced runners).
 * Kahiri Osato in the Murdered Mime in Renton offers work.
+* When Osato sends you to Novatech to wipe out the assassins, start in the
+men's bathroom on the ground floor, then go into the vent. The first one will
+be right in there, and should be shot.
 * Mister Zaibatsu at the Rubber Suit in Everett offers work (for less
 experienced runners), as does Mister Keiretsu (minimum reputation 500).
 * Alan Tsukamoto at Yoshi's Trideoke and Sushi Bar (SE Seattle) offers work.
@@ -827,9 +834,14 @@ cyberware.
 Clubs, Cyber Implants, Edged Weapons, Polearms, Brawling and Whips and Flails.
 * Cecile Nichols in The Downfall in Touristville offers work (minimum
 reputation 350).
+* A clean-shaven man below the Bradenton sells minigun ammunition; EX light,
+medium and heavy machine gun ammunition and explosive assault cannon
+ammunition.
+* A guy underneath the Bradenton buys paydata.
 * There is a Matrix terminal in the back office of Crusher 495 in
 Touristville.
 * Melvin Graybald at Crusher 495 offers work. (And it seems really difficult.)
+(And I finally outgrew him.)
 * Mack Roland in the cemetery at the western end of Middlefield Avenue in
 Redmond offers work (minimum reputation 500 and maxes out at maybe 1000).
 * Maxwell Jensen at Ebey's Bar offers work (minimum reputation 250).
@@ -864,6 +876,9 @@ various cyberware and bioware.
 * There is an ATM at the entrance of The Auburn Center.
 * The receptionist at the very topmost floor of Knight Center offers work
 (minimum reputation 400).
+* Take the Ares invitation slip to Big Boomers on floor 1 of the Knight
+Center. There they sell truly high-end cyberware and a number of high-quality
+firearms including a sniper rifle I might want to get someday.
 * Mister Johann at The Banshee in Touristville offers work.
 * Hyeon Sang-chul at Y.Y. Korean BBQ in Touristville offers work.
 * Guang and Huang intersection in Chinatown is where Yellow Lotus can be
@@ -925,13 +940,14 @@ installs various cyberware.
 * Be on the look out for corn on the cob, a red apple, a chocolate doughnut
 and a bagel.
 * A wandering Ork merchant sells corn on the cob in the Ork Underground.
-* An apple can be foiund at Utopus Produce in the SW of Lysleul Plaza.
-* Silent Cafe (NE Seattle, North Fifth and Espanoza) sells bagels.
-* The Stop Gap (SE Seattle, Eight Street between Seneca and Boren) sells
+* An apple can be found at Utopus Produce in the SW of Lysleul Plaza.
+* Silent Cafe (NE Seattle, North Fifth and Espanoza, closest to UCASBank)
+sells bagels.
+* The Stop Gap (SE Seattle, Eighth Street between Seneca and Boren) sells
 chocolate doughnuts.
 * Toh Li at O'Bryant Square in Portland practices Athletics, Stealth,
 Brawling, Edged Weapons and Whips and Flails.
-* Martingale says OOCly, "My.mpuv should work."
+* Martingale says OOCly, "My.gmc should work."
 * Martingale tells you OOCly, 'You can go from the front to the rear of a
 vehicle by typing SWITCH. You can directly enter the rear of a vehicle that
 has one by typing ENTER \<vehicle\> REAR.'
@@ -1047,7 +1063,11 @@ firearms and Zeiss-Audiotek prototype smartscopes.
 * Benny Butte on floor 2 of the Red Shift Offices offers work.
 * There is a Matrix terminal on floor 4 of the Red Shift Offices. (Several in
 fact.)
-* John Smith on floor 4 of the Red Shift Offices offers work.
+* John Smith on floor 4 of the Red Shift Offices offers work. (And it's Matrix
+work.)
+* To find the file John Smith wants for his second run, log on to
+`ActiveInvestigations` in the Victoria Police host then run `locate file
+investigations`.
 * Mercer Johansen on floor 5 of the Red Shift Offices offers work.
 * The clinic on Prospect and Union sells cyberware and bioware.
 * Smith's Electronic Boutique on Prospect and Union sells various goggles,
@@ -1628,7 +1648,8 @@ will be a hidden door to the north.
 * Ask the Lone Star detective there for work.
 * Get the virus from the Dave's Discount Drugs `pharmacy` Matrix host.
 * Enter the `files` trap door of Lone Star's `LS_Corp_RD` host and get the
-clearance notification.
+clearance notification. (Not necessary in future runs; just get the password
+token.)
 * `locate file password` in `LS-Exec` and get the token.
 * Head over to the Lone Star 17th Precinct in Seattle. Search room
 "Detention Cells" for a secret door. You will have to `bypass` it.
@@ -1689,3 +1710,10 @@ most threats well enough, damage per bullet equal to baseline HMG, and AP
 ammo for purchase out in the world."
 * \[Remy\] (OOC), "Using drones makes being unoptimized easy. Just send in the
 bot."
+* \[Discord\] (OOC), "[Khai]: Re: choice of firearm - for general purpose
+killing, assault rifles are probably still what I'd default to. Snipers are
+better for avoiding getting attacked in return but don't penalize opponent
+dodge, HMGs have better power but has self-damage + str/bod reqs + annoying
+ammo acquisition, SMGs are 1 point weaker than assault rifles but let you use
+offhand shield/focus, shotguns are comparable to SMGs but don't need the under
+slot for recoil comp and so is better for bayonets"
