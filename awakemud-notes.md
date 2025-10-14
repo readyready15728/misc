@@ -1067,7 +1067,8 @@ fact.)
 work.)
 * To find the file John Smith wants for his second run, log on to
 `ActiveInvestigations` in the Victoria Police host then run `locate file
-investigations`.
+investigations`. Do the same with DocWagon in `records` by looking for
+`record`.
 * Mercer Johansen on floor 5 of the Red Shift Offices offers work.
 * The clinic on Prospect and Union sells cyberware and bioware.
 * Smith's Electronic Boutique on Prospect and Union sells various goggles,
@@ -1154,7 +1155,8 @@ military armor and also there's an ATM.
 * Investigate the Matrix terminals in Dante's Inferno further.
 * Concealing your deck in your rucksack (etc.) is a possibility.
 * Roswell's in Puyallup practices piloting skills (on Cizae between Redfern
-and Tillicum).
+and Tillicum). (Might have to search?)
+* A "platinum" Cessna might have better fuel efficiency.
 * The airport (Sea-Tac, Snohomish, Portland) sells aircraft.
 * [Tilphousia] (OOC), "Anyway, if you're getting hit by assault cannon rounds
 and wearing a t-shirt you can forget about soak, so you should try to dodge
@@ -1346,6 +1348,8 @@ experienced runners.
 * Don Morello at Diego's Pizza and Gyros in Tidewater offers work (and it
 seems to be dangerous wetwork.) If you can do his dangerous work, he sells (or
 at least can get you fixed up with) special gear.
+* The "kill Jari Kardine quest" has a red herring. Don't go looking in Council
+Island. Instead head to the east end of J'valdi and go north.
 * The Bayside Baptist Church in Tidewater actually sells APDS light pistol
 ammunition.
 * Triton Federal Credit Union in Tidewater has an ATM.
@@ -1717,3 +1721,11 @@ dodge, HMGs have better power but has self-damage + str/bod reqs + annoying
 ammo acquisition, SMGs are 1 point weaker than assault rifles but let you use
 offhand shield/focus, shotguns are comparable to SMGs but don't need the under
 slot for recoil comp and so is better for bayonets"
+* Apparently finding the other half of the heart-shaped key in the CAS
+requires working for Johnsons in the CAS. It may be necessary to incapacitate
+targets in order to gain that half.
+* I may have to search on the beach in the CAS as a further part of finding
+out what the key's for.
+* A wounded Knight-Errant Security Officer on the 7th floor of Knight Center
+offers work.
+* `toggle noautokill` to incapacitate targets.
