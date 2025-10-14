@@ -652,6 +652,8 @@ namely Shotguns, Pistols, Submachine Guns, Assault Rifles and Tasers.
 * Heavy Gear in the Puyallup Crime Mall sells Nicami 12x Sniper Model scopes,
 electronic imaging scopes, wrist phones, radios, climbing harnesses and
 thermographic goggles.
+* There are exclusive high-end vendors in the Puyallup Crime Mall who will let
+you in only if you have 2,000,000 nuyen on hand.
 * Mr. Fixit does repairs. Repairs don't take long at all, so it is best to
 just wait there until he's done.
 * There is a computer store north of Krackerjack's hovel in West Tacoma that
@@ -1376,6 +1378,8 @@ experienced runners.
 less experienced runners.
 * Fausto's Surf Shop in Virginia Beach sells watercraft and water wings.
 * The confectioner at Just Desserts Candy Shop in Virginia Beach offers work.
+* The vampires the confectioner wants dead are in the sewers of Norfolk (1)
+and in the cemetery in Redmond (2).
 * Dr. Sandra Onasis at Meridional Agronomics in Virginia Beach offers work for
 less experienced runners.
 * Coach, just east of the intersection of Highway 60 and Oyster Street at
@@ -1390,13 +1394,18 @@ pistol ammunition but also EX submachine gun ammunition.
 less experienced runners.
 * There is a Matrix terminal on the upper floor of United Oil Industries.
 * Yacob Ishaq on the upper floor of United Oil Industries offers work (and it
-seems to be tricky wetwork).
+seems to be tricky wetwork) (and he also won't give me work anymore).
 * Virginia Beach Sport Rotorcraft sells helicopters.
 * In Norfolk, head all the way north from the intersection of Shore Drive and
 Oceanview Road (nearest taxi destination is `Mcfarlane`), head down, to the
 west, then search, then bypass the grate to the south. **There is a whole
 underground town there!**
 * Mr. Carson at the Mcfarlane Mansion in Norfolk offers work.
+* Once Grand Wizard Mcfarlane gives you the warehouse key, head to "A dark
+stretch of forgotten road" all the way in the west of Norfolk. The first
+hidden door will have to be bypassed but beyond that is another one requiring
+the key. Underneath that hatch there is a shop that sells and probably
+installs high-end cyberware.
 * Paulie at Moe's Pub in Norfolk offers work. All of it is easy non-violent
 delivery.
 * Wayne Johnson at the Carolina Steakhouse in Norfolk offers work.
@@ -1729,3 +1738,6 @@ out what the key's for.
 * A wounded Knight-Errant Security Officer on the 7th floor of Knight Center
 offers work.
 * `toggle noautokill` to incapacitate targets.
+* There is a sewer all the way to the south of the Massage Parlor in Chinatown
+that can be accessed by searching in that area.
+* `help costtime`.
