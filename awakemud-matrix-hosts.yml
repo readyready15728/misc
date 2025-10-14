@@ -52,6 +52,9 @@
       AcademyClassrooms: True
       AcademyCourtyard:
         AcademyLibrary: True
+      Upperfloor:
+        DeansOffice:
+          access: True
     SeattlePyramid:
       CorporateCentral:
         ConsumerProducts: True
