@@ -109,3 +109,13 @@ interacting with buffers.
 * `<Esc>` appears to do `:nohlsearch`, at least with LazyVim.
 * With autoformatting turned off, `gq` can be used to manually format code
 according to a linter.
+* `<Space>bD` (to close buffer) and `<Space>bD` to close buffer **and**
+containing window.
+* `<Ctrl>-w` and `<Space>w` both open the window menu.
+* `<Space>ws` opens a horizontal split and `<Space>wv` opens a vertical split.
+* In Neotree, `<Space>s` does a vertical split on the selected file and
+`<Space>S` does a horizontal split.
+* `<Space>qq` to save a session local to the current directory, `<Space>qs` to
+restore the local session, and `<Space>qS` to look at any number of sessions
+that have been made recently. Lastly, `<Space>qd` quits without disturbing the
+existing session.
