@@ -425,7 +425,9 @@ early on.
 * The Chop Shop on the ground floor of the Tacoma Mall sells various useful
 cyberware and also installs them.
 * There is a post office on the ground floor of the Tacoma Mall.
-* Jilted sells weapons on the first floor of the Tacoma Mall.
+* Jilted sells weapons on the first floor of the Tacoma Mall. But really you
+should go there because they sell improved gas vents, laser sights and
+smartlink systems.
 * Hackers' Haven on the second floor of the Tacoma Mall sells various
 software.
 * Vesalius' Forge on the first floor of the Tacoma Mall sells various
@@ -500,6 +502,8 @@ Rapid Fire Ammunition.)
 languages the old-fashioned way too.
 * A woman in the lobby of Mitsuhama Tower practices Negotiation and Corporate
 Etiquette.
+* Some of the samurai guards at the top of Mitsuhama have pretty decent
+helmets.
 * Mr. Jones in the Knight Errant Training Facility offers work.
 * Takashi Takechi in the Knight Errant Training Facility sells guns and
 ammunition.
@@ -1741,3 +1745,29 @@ offers work.
 * There is a sewer all the way to the south of the Massage Parlor in Chinatown
 that can be accessed by searching in that area.
 * `help costtime`.
+* Cross Applied Technologies is on Oyster Street in Virginia Beach.
+* Dr. Bouchard's Bioware Clinic (ground floor of Cross Applied Technologies)
+sells high-end bioware.
+* Dr. Gauthier's Cyberware Clinic (ground floor of CAT) sells high-end
+cyberware.
+* Cross Applied Technologies Consumer Electronics (ground floor of CAT)
+deckbuilding parts; laser sights; portable GridGuide units; smart, low-light
+and thermographic shades; middle-tier computers; electronics kits and
+**workshops**; remote control decks; radios; and wrist phones.
+* There is a Matrix terminal on the ground floor of CAT.
+* Marie St. Claire (ground floor of CAT) offers work.
+* Guillaume Tremblay (ground floor of CAT) offers work.
+* Pierre Belanger (first floor of CAT) offers work.
+* Elodie Marchand (first floor of CAT) offers work.
+* Etienne Marceau (first floor of CAT) offers work.
+* Dr. Seraphin Duguay (first floor of CAT) offers work.
+* Commander Jean-Marc (second floor of CAT) offers work.
+* Emile Marceau (second floor of CAT) offers work.
+* Genevieve Rousseau (second floor of CAT) offers work.
+* Arnaud Desjardin (third floor of CAT) offers work.
+* Maxence Lafleur (third floor of CAT) offers work.
+* **Indispensable 'ware for any character: smartlink, brain bio and trauma
+bio.**
+* I was able to sell a junked kayak by dropping and selling it.
+* A wrecking yard shack at the Boneyard in West Tacoma sells fly-by-wire
+sytems and autopilots for aircraft.
