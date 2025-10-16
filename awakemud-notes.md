@@ -708,7 +708,8 @@ offers work (for less experienced runners).
 * Shakey the Toad in one of the squalid back rooms of Pharaoh's Nightclub in
 East Tacoma offers work (for less experienced runners).
 * Marty Jameson of Jameson's Garage in West Tacoma practices ground vehicle
-repair skills. Additionally the garage itself sells various vehicle parts.
+repair skills. Additionally the garage itself sells various vehicle parts,
+vehicle workshops and vehicle toolkits.
 * The dark alley in between Jameson's Garage and Scalpel's Chop Shop (sells
 and installs cyberware) in West Tacoma has some interesting secrets including
 a medical supplies store (inserting the word "sells" so I can find this entry
@@ -885,8 +886,10 @@ various cyberware and bioware.
 * Take the Ares invitation slip to Big Boomers on floor 1 of the Knight
 Center. There they sell truly high-end cyberware and a number of high-quality
 firearms including a sniper rifle I might want to get someday.
-* Mister Johann at The Banshee in Touristville offers work.
-* Hyeon Sang-chul at Y.Y. Korean BBQ in Touristville offers work.
+* Mister Johann at The Banshee in Touristville offers work. (Or did, until I
+outgrew him.)
+* Hyeon Sang-chul at Y.Y. Korean BBQ in Touristville offers work. (And now he
+won't offer me work either.)
 * Guang and Huang intersection in Chinatown is where Yellow Lotus can be
 found, apparently.
 * Dr. Bob's Quickstitch in Touristville sells and installs cyberware, and
@@ -1520,7 +1523,9 @@ I's likes goin' down da five, pas' da Puyallup turn, down ta J'valdi, den
 goin' east an' norf up ta a clearin'. Skip dem Leathah Devils frum scratchin'
 up mah paint.
 * When in a maze, use `lua gmcp.Room` to find your way in Mudlet.
-* A remote control deck can be used to locate vehicles precisely.
+* A remote control deck can be used to locate vehicles precisely. Just use
+`subscribe` to see where they are. (They have to be `subscribe`d first of
+course.)
 * "Zalensky's on Fourth Street" sells remote control decks.
 * Use your ruthenium cloak!
 * Put `CPOOL` dice into offense against dangerous mages, at a distance. With
@@ -1771,3 +1776,4 @@ bio.**
 * I was able to sell a junked kayak by dropping and selling it.
 * A wrecking yard shack at the Boneyard in West Tacoma sells fly-by-wire
 sytems and autopilots for aircraft.
+* 'HELP REPAIR' / 'HELP TOW'.
