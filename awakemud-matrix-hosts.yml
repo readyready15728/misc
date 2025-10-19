@@ -117,6 +117,7 @@
       mainroom:
         kitchen: True
         lounge: True
+      stall: "True?"
   2206-NOVATECH: # Novatech Central Matrix Host, Seattle
     Routing:
       Management:
@@ -218,6 +219,7 @@
         SA-Visitor:
           SA-Hub:
             SA-Tower:
+              SA-Orbital: True
               SA-Operations: True
               valkyrie: True
       SK-Industry:
