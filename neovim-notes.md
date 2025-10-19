@@ -119,3 +119,9 @@ containing window.
 restore the local session, and `<Space>qS` to look at any number of sessions
 that have been made recently. Lastly, `<Space>qd` quits without disturbing the
 existing session.
+* `<Space>cm` opens the menu for mason.nvim.
+* `<Space>cl` is a shortcut for `:LspInfo`, which displays information about
+any language servers that are running and which buffers they are attached to.
+* `:LspRestart` turns it off and on again.
+* `:LazyHealth` and `:checkhealth` (to be used in that order) provide further
+diagnostics.
