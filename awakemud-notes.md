@@ -488,7 +488,8 @@ difficult.)
 * The mosh pit in The Platinum Club is dangerous!
 * The bar in The Platinum Club is to the northeast of the mosh pit.
 * Remember that aggressive mobs will force you to draw your weapon!
-* Lin's Laundromat at Seventh Street Plaza in NE Seattle offers work.
+* Lin's Laundromat at Seventh Street Plaza in NE Seattle offers work for less
+experienced runners.
 * Cent and Mad Dog at the Slitch Pit offer work (for less experienced
 runners).
 * 'help follow'.
@@ -534,6 +535,10 @@ Seattle.
 * Bang for Your Buck on the third floor of the Mall of Mammon sells submachine
 gun, heavy pistol, light pistol, sport rifle, shotgun and assault rifle
 ammunition.
+* Snoozin' in the Shadows on the second floor of the Mall of Mammon sells
+beds.
+* The Rack Shack on the second floor of the Mall of Mammon sells storage
+furniture.
 * Velasquez Bank in West Tacoma has a Matrix terminal.
 * The backroom of Bullet Bonanza in Knight Center sells even **more**
 ammunition.
@@ -896,7 +901,8 @@ found, apparently.
 sells medical supplies as well, including field medical kits (or medkits).
 * Chas Moreno at Dr. Bob's Quickstitch offers work.
 * Cabbie Connection in Touristville sells ground vehicle tools and parts.
-* Cabbie of Cabbie Connection offers work.
+* Cabbie of Cabbie Connection offers work. (Also for less experienced
+runners.)
 * Auburn Paint and Panel sells more vehicle stuff, as does Slipstream Ultra
 Xtra Auto Supplies Store slightly to the west.
 * Boseman's Drone Emporium sells drones just north of Slipstream.
@@ -1157,8 +1163,8 @@ decrypted (IIRC) it is possible to do 'logon files'.
 * The 'handler' host of the Portland GridGuide System has paydata.
 * 'locate file snowflake'. (You'll know which run.)
 * Johnson NewBody Labs in East Tacoma has paydata in the basement.
-* Vancouver Center (guess where) has stores that sell cyberware and light
-military armor and also there's an ATM.
+* Vancouver Center (guess where) has stores that sell high-end cyberware and
+light military armor and also there's an ATM.
 * You can drive your vehicle into the cargo plane at the airport.
 * Make good use of LTG and RTG logins.
 * Investigate the Matrix terminals in Dante's Inferno further.
@@ -1467,8 +1473,8 @@ Hellhound            [-65522, 32861 ](Available)
 ```
 
 * Inside the hidden ghoul town in Norfolk, there is a vendor who sells
-cyberdecks and computers as well as a Matrix terminal and a fence who buys
-paydata **very** close by.
+cyberdecks and computers (Greg's Computer Electronics) as well as a Matrix
+terminal and a fence who buys paydata **very** close by.
 * Mr. Carson at the McFarlane Mansion in Norfolk offers work (and it's
 wetwork).
 * Anchor Insurance is right next to the Rhino. (Take a good look at the
@@ -1532,7 +1538,8 @@ course.)
 very serious opponents armed with guns it may be necessary to distribute dice
 between dodge and soak.
 * There's a superior street-legal matching armor set at the Red Shift Offices
-in Grenada. (Use `probe` to see what matches.)
+in Grenada. (Use `probe` to see what matches.) It also comes with a superior
+set of boots.
 * Going `prone` can help.
 * "You have to FIRE and LAND 2000 shots on an enemy, the best way to do this
 is to build 2000 harmless rounds, put all your dice into offense and go to the
@@ -1747,6 +1754,7 @@ out what the key's for.
 * A wounded Knight-Errant Security Officer on the 7th floor of Knight Center
 offers work.
 * `toggle noautokill` to incapacitate targets.
+* Use `steal` to get the ovum from the female chupacabra.
 * There is a sewer all the way to the south of the Massage Parlor in Chinatown
 that can be accessed by searching in that area.
 * `help costtime`.
@@ -1777,3 +1785,9 @@ bio.**
 * A wrecking yard shack at the Boneyard in West Tacoma sells fly-by-wire
 sytems and autopilots for aircraft.
 * 'HELP REPAIR' / 'HELP TOW'.
+* Scout |\]Question\[| Yep, VCR for control, RCD for subscribe, need both to
+rig remotely, but just a datajack lets you "rig" a vehicle you are already
+inside, for a -1 to TNs for ramming, speeding, flying etc
+* Jellyfish-resistant boats can be bought in Cape Charles, Tidewater.
+* For the Allen and Associates Johnny Gnomonic run, connect in "A Small Room"
+on the top floor.
