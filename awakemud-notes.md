@@ -715,6 +715,7 @@ East Tacoma offers work (for less experienced runners).
 * Marty Jameson of Jameson's Garage in West Tacoma practices ground vehicle
 repair skills. Additionally the garage itself sells various vehicle parts,
 vehicle workshops and vehicle toolkits.
+* Racespec Performance Workshop also sells vehicle toolkits and workshops.
 * The dark alley in between Jameson's Garage and Scalpel's Chop Shop (sells
 and installs cyberware) in West Tacoma has some interesting secrets including
 a medical supplies store (inserting the word "sells" so I can find this entry
@@ -1396,7 +1397,7 @@ and in the cemetery in Redmond (2).
 * Dr. Sandra Onasis at Meridional Agronomics in Virginia Beach offers work for
 less experienced runners.
 * Coach, just east of the intersection of Highway 60 and Oyster Street at
-Virgina Beach, practices Athletics.
+Virginia Beach, practices Athletics.
 * There's a garage area for watercraft just east of Fausto's Surf Shop in
 Virginia Beach.
 * Frank at Salieri's Country Club in Virginia Beach offers work.
@@ -1639,6 +1640,7 @@ of the Auburn Monorail Station on Ebernath Avenue.
 * Young Decker Quest \#6:
 * Ask Dan for work.
 * Head over to Syberspace.
+* Obtain the note from the Matrix host.
 * Read the note then `junk`.
 * Return to Dan and complete.
 * Read about the decker quests [on the wiki](https://awakemud.com/dokuwiki/doku.php?id=deckerquests).
@@ -1770,10 +1772,11 @@ and thermographic shades; middle-tier computers; electronics kits and
 * There is a Matrix terminal on the ground floor of CAT.
 * Marie St. Claire (ground floor of CAT) offers work.
 * Guillaume Tremblay (ground floor of CAT) offers work.
-* Pierre Belanger (first floor of CAT) offers work.
+* Pierre Belanger (first floor of CAT, southwest) offers work.
 * Elodie Marchand (first floor of CAT) offers work.
 * Etienne Marceau (first floor of CAT) offers work.
 * Dr. Seraphin Duguay (first floor of CAT) offers work.
+* Marc-Andre Lavoie (second floor of CAT, northwest) offers work.
 * Commander Jean-Marc (second floor of CAT) offers work.
 * Emile Marceau (second floor of CAT) offers work.
 * Genevieve Rousseau (second floor of CAT) offers work.
@@ -1791,3 +1794,23 @@ inside, for a -1 to TNs for ramming, speeding, flying etc
 * Jellyfish-resistant boats can be bought in Cape Charles, Tidewater.
 * For the Allen and Associates Johnny Gnomonic run, connect in "A Small Room"
 on the top floor.
+* Captain Chaos in the Seattle State Park offers work.
+* A vendor in the basement of the Tsuyama mansion north of Seattle State Park
+sells what appear to be highly valuable magical baubles. Indeed there is at
+least one other vendor there that sells similar items.
+* Frank Horrigan can be found at Mama June's in Norfolk.
+* There is a Matrix terminal on the ground floor of the Evergreen Multiplex
+which can be used after destroying a swinging door in the way.
+* Tony Bergdorf at the top floor of Homewood Suites in Seattle offers work for
+less experienced runners.
+* Knight-Errant lifeguards in Virginia have an even better helmet than the
+samurai helmets mentioned earlier (but they're illegal).
+* The "shady character" can be found on or near Highway 60 in Virginia Beach
+but it can be tricky.
+* Airships can land at helipads.
+* Marc Andre-Lavoie's tractor run involves a frustrated farmer on the highway
+in the north part of Tidewater.
+* Marc Andre-Lavoie's pier run really demands milspec armor.
+* Newton, the small time fence's operation is on the eastern side of the
+highway in the north of Tidewater. Newton operates much like the pawn shop in
+Little Chiba.
