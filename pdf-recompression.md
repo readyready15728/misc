@@ -1,4 +1,5 @@
 # Recompressing PDFs with GhostScript
+
 ## Like EPUBs, PDFs are often larger than they need to be
 
 Often, large PDFs can be cut down to size with the following:
