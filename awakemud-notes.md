@@ -1476,6 +1476,7 @@ Hellhound            [-65522, 32861 ](Available)
 * Inside the hidden ghoul town in Norfolk, there is a vendor who sells
 cyberdecks and computers (Greg's Computer Electronics) as well as a Matrix
 terminal and a fence who buys paydata **very** close by.
+* Mr. Johnson at Smokin' Joe's Long-Pork BBQ in the ghoul town offers work.
 * Mr. Carson at the McFarlane Mansion in Norfolk offers work (and it's
 wetwork).
 * Anchor Insurance is right next to the Rhino. (Take a good look at the
@@ -1775,13 +1776,34 @@ and thermographic shades; middle-tier computers; electronics kits and
 * Pierre Belanger (first floor of CAT, southwest) offers work.
 * Elodie Marchand (first floor of CAT) offers work.
 * Etienne Marceau (first floor of CAT) offers work.
-* Dr. Seraphin Duguay (first floor of CAT) offers work.
+* Dr. Seraphin Duguay (first floor of CAT, southeast) offers work.
 * Marc-Andre Lavoie (second floor of CAT, northwest) offers work.
-* Commander Jean-Marc (second floor of CAT) offers work.
-* Emile Marceau (second floor of CAT) offers work.
-* Genevieve Rousseau (second floor of CAT) offers work.
+* Genevieve Rousseau (second floor of CAT, northeast) offers work.
+* Isabeau Tremblay-Vinet (third floor of CAT, southwest) offers work.
+* Commander Jean-Marc (second floor of CAT, southwest) offers work.
+* Emile Marceau (second floor of CAT, southeast) offers work.
 * Arnaud Desjardin (third floor of CAT) offers work.
 * Maxence Lafleur (third floor of CAT) offers work.
+* Frank Horrigan can be found at Mama June's in Norfolk.
+* The "shady character" can be found on or near Highway 60 in Virginia Beach
+but it can be tricky.
+* Marc Andre-Lavoie's tractor run involves a frustrated farmer on the highway
+in the north part of Tidewater.
+* Marc Andre-Lavoie's pier run really demands milspec armor.
+* Newton, the small time fence's operation is on the eastern side of the
+highway in the north of Tidewater. Newton operates much like the pawn shop in
+Little Chiba.
+* Emilia Nealon can be found during a run east and a little bit south
+of Fausto's Surf Shop, out in the water.
+* For Dr. Seraphin Duguay's run that involves a "dark humid hidden place",
+search just east of the old arcade in Norfolk.
+* Genevieve Rousseau's meddling reporter was found on Mermaid Street in
+Virginia Beach.
+* The mobs at the dog park for a later run from Rousseau must be dispatched
+very carefully (as must various other mobs encountered working for executives
+at CAT).
+* Doing anything for a CAT Johnson in the Grenada jungle camp is **extremely
+dangerous**.
 * **Indispensable 'ware for any character: smartlink, brain bio and trauma
 bio.**
 * I was able to sell a junked kayak by dropping and selling it.
@@ -1798,19 +1820,10 @@ on the top floor.
 * A vendor in the basement of the Tsuyama mansion north of Seattle State Park
 sells what appear to be highly valuable magical baubles. Indeed there is at
 least one other vendor there that sells similar items.
-* Frank Horrigan can be found at Mama June's in Norfolk.
 * There is a Matrix terminal on the ground floor of the Evergreen Multiplex
 which can be used after destroying a swinging door in the way.
 * Tony Bergdorf at the top floor of Homewood Suites in Seattle offers work for
 less experienced runners.
 * Knight-Errant lifeguards in Virginia have an even better helmet than the
 samurai helmets mentioned earlier (but they're illegal).
-* The "shady character" can be found on or near Highway 60 in Virginia Beach
-but it can be tricky.
 * Airships can land at helipads.
-* Marc Andre-Lavoie's tractor run involves a frustrated farmer on the highway
-in the north part of Tidewater.
-* Marc Andre-Lavoie's pier run really demands milspec armor.
-* Newton, the small time fence's operation is on the eastern side of the
-highway in the north of Tidewater. Newton operates much like the pawn shop in
-Little Chiba.
