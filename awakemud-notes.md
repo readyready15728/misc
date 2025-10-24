@@ -74,6 +74,7 @@ be accomplished with RADIO OFF."
 * "Phones are a more private form of communication. When you acquire a phone
 and wish to use it, you must first find the eight digit telephone numbers of
 the people you want to call. Type PHONE to see your settings."
+* Phones must be turned on to work.
 * "Type CALL (phone number) to start calling someone. If they answer, use TALK
 (message) to start talking with them. Type HELP PHONE for more information
 on settings and calls. Head NORTH to learn about doors and maglocks."
@@ -364,6 +365,10 @@ Matrix work.)
 * There is a Matrix terminal in a back room at the Blue Wyvern.
 * Daniella at Friendship Restaurant on Council Island offers work for less
 experienced runners (minimum reputation 100).
+* For her "salad", head to the wooded roundabout in Council Island, then go
+south, then west. The other ingredient is up the dirt road just west of
+J'valdi.
+* Jake Albright at Friendship Restaurant on Council Island offers work.
 * Unnamed Software Store in the mezzanine of the Aztech Pyramid has various
 ActiveSofts for sale.
 * If something happens to my Ruger 100 I can get another on the eastern side
@@ -391,6 +396,7 @@ cyberware.
 * There is a rent-a-cop on the eastern side of the first floor of Beacon Mall
 who offers work (for less experienced runners). (And it's (not all) Matrix
 work.)
+* The decker he's looking for in Everett is at the Gravity Bar.
 * There is also an ActiveSoft store on the first floor.
 * Action Computers and Electronics sells wrist computers, phones, various
 optical equipment, decks, programs and deckbuilding parts. In addition, Mike
@@ -684,7 +690,8 @@ and sells patches etc.
 terminal in the basement.
 * Dan at The Android's Dungeon offers work (and it's Matrix work).
 * 'help progress'.
-* Road Hog Racing in West Tacoma sells vehicles.
+* Road Hog Racing in West Tacoma sells vehicles. So does Harbor Trucks and
+Vans in SW Seattle and Corporate Edge Security Automotives in NW Seattle.
 * There is a Matrix terminal in the southernmost room of Bryerson Medical
 (West Tacoma) but it requires an electronics kit and cracking to enter.
 * The manager of the Flying Dragon Restaurant offers work (minimum reputation
@@ -1150,6 +1157,7 @@ brawling. You use Clubs, or Polearms if you have a bayonet.".
 of ultrasound".
 * 'help closecombat'.
 * J'valdi is worth exploring further.
+* Molly Horne of The Perk Cup in J'valdi offers work.
 * Gato says to Eilidh in English, "Once you're past what she can teach you
 wanna swing by the Tir, over where like. Lordstrum's is at? Pero head the
 opposite way, to the east side, an' look around careful.".
@@ -1719,6 +1727,7 @@ accessories, including bayonets, bipods and polearm straps.
 The same area also sells APDS assault rifle ammunition, EX assault rifle
 ammunition, APDS submachine gun ammunition, EX submachine gun ammunition, the
 Arasaka Rapid Assault Shotgun and Heckler and Koch OICW Heavy Assault Rifle.
+* There is also a vendor who sells ultrasound glasses in the Caryard Bazaar.
 * The required signatories for the letter of marksmanship qualification are:
 Stanley of Stanley's RGA Emporium, the Chief Instructor at Lone Star's 17th
 Precinct, Kiol of the Puyallup Crime Mall and Rooster in Redmond.
@@ -1784,6 +1793,7 @@ and thermographic shades; middle-tier computers; electronics kits and
 * Emile Marceau (second floor of CAT, southeast) offers work.
 * Arnaud Desjardin (third floor of CAT) offers work.
 * Maxence Lafleur (third floor of CAT) offers work.
+* Jean-Marie Cross (third floor of CAT) offers work.
 * Frank Horrigan can be found at Mama June's in Norfolk.
 * The "shady character" can be found on or near Highway 60 in Virginia Beach
 but it can be tricky.
@@ -1827,3 +1837,93 @@ less experienced runners.
 * Knight-Errant lifeguards in Virginia have an even better helmet than the
 samurai helmets mentioned earlier (but they're illegal).
 * Airships can land at helipads.
+* Maxwell says in English, "One thing I found to be convenient here is renting
+a place at Bayview and installing a medical workshop inside. Especially if
+you're taking those jobs from Cross."
+* Medical workshops can be acquired next to DocWagon in Seattle.
+* A hysterical woman at the Seattle Zoo (northwestern part, more or less)
+offers work for less experienced runners.
+* A humanoid robot in the bunker beneath the area Before the Wrecked Gates to
+the Old Shiawase Plant (search for the hatch) offers work.
+* Llewynithe |]Question[| In my opinion, Earth would be a good choice for a
+combat-focused mage. Armor and the elemental manipulations are some really
+handy spells. Plus the extra conjuring dice on earth elementals might get you
+a couple more services for sustain Armor spells.
+* Llewynithe |]Question[| I would recommend allocating enough resources to
+getting a R3 power focus. It's around 315k in charactergen, I think.
+* Llewynithe |]Question[| Also, i wouldn't bond any foci in character gen. You
+can get enough karma from newbie quests to bond them for much cheaper.
+* Llewynithe |]Question[| Talbot's Musings on Hermetic Magic on the wiki is a
+good lookthrough. It's where I learned most of what I know.
+* `help conjure`.
+* `help elemental`.
+* `help cast`.
+* Discord |]Question[| \[Khai\]: For a new mage, the things that can cause
+regret: no melee skill, no sustaining foci, and going straight for force 6+
+elementals (summoning force 5 elementals means averaging twice as many
+services).`
+* "Concentrating on a spell distracts you from other tasks, and if it's not
+being sustained by a spirit or focus (explained later) it will cause you to
+have a harder time doing things that require concentration."
+* `help ritualcast`.
+* `help order`.
+* `help contest`.
+* `help banish`.
+* `help astral`.
+* `help foci`.
+* Foci need to be bonded to be effective.
+* "You must BOND a focus before it can be used, after which it MUST BE WORN OR
+WIELDED to function, some may require you to manually ACTIVATE them as well."
+* "If you find a foci bound by another mage, you can TRACK it back to its
+owner with astral tracking or rebind it, which severs its link with its
+previous owner and makes it usable by you."
+* `help foci addiction`.
+* `help initiate`.
+* `help project`.
+* `help perceive`.
+* Certain actions can only be performed on the astral plane.
+* `help assense`. (Remember to `perceive` to return from the astral plane
+after use!)
+* `help magic loss`.
+* 'Ware can be installed during chargen on the path of the Street Samurai.
+* `help wear` to see details about wearing objects (i.e. how many slots are
+where and how to wear items at specific slots) which appears very important
+for foci.
+* `help drain`.
+* `help spool`.
+* `help learn`.
+* `help status`.
+* `help sustain`.
+* `help geas`.
+* `help metamagic`.
+* You can wear up to 2x your magic rating in foci without concern but going
+beyond that risks geas.
+* It seems (via `status`) that power foci don't raise the ceiling for how much
+foci can be used without risking geas.
+* "Foci of the exact same kind do not stack with each other. The strongest
+takes priority."
+* "Your taser \[or other ranged weapon\] provides you with a ranged option and
+can be used against opposing spellcasters while your own spell pool is fully
+allocated to spell defense. It can also be used to destroy locked doors
+(essentially by frying the maglock)."
+* Re: chances of spell success (other than allocating `SPOOL`): Sheng
+|]Question[| Skill, the opponent's willpower, background count.
+* Mierana |]Question[| And category/specific spell foci, as something to plan
+for the future
+* "Waterbolt provides a physical damage option for non-living opponents (e.g.,
+turrets)."
+* Yuki |]Question[| The LEAVE command at the receptionist can be used to
+cancel a lease
+* Mierana |]Question[| Radios work in a pocket to save an inventory slot,
+holsters and sheaths for quick drawing... other than that, you can type eq to
+see the items you put instead of look in bag
+* Electronic kit belts exist ... somewhere.
+* [Pretzel] (OOC), "Have your elemental sustain armour, combat sense,
+stealth/silence and improved invis at 8, have a bunch of force 3 rings
+sustaining attribute spells, maybe some bioware under that for even bigger
+number, and then just crush everything before you"
+* Brightwillow's Talismans and Curiosities at the Moonlight Mall in Redmond
+sells:
+  * An amethyst crystal wand (`HOLD`, spirit, 4)
+  * A silver ring (`FINGER`, power, 1)
+  * An etched dark oak ring (`FINGER`, spirit, 3)
