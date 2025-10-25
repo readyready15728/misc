@@ -387,7 +387,7 @@ deactivated.
 * The Microdeck outlet on the first floor of Beacon Mall sells various
 electronic widgets and appliances, primarily those involved in deckbuilding.
 Crucially, they sell **large** boxes and bags of cyberdeck parts and optical
-chips, respectively.
+chips, respectively. They also sell microtronics workshops.
 * Use AVAILOFFSET to help with purchases when etiquette (or Charisma) isn't
 enough.
 * There is a survival supplies store on the first floor of Beacon Mall as well
@@ -627,7 +627,7 @@ Program Design, Cyberterminal Program Design, Cyberterminal Design.
 offers work for less experienced runners.
 * Universal Omnitech in the Aztech Pyramid (ground floor) sells cyberware.
 * Bits and Bytes in the Aztech Pyramid (ground floor) sells decking-related
-equipment, including chip cookers and microtronics toolkits.
+equipment, including chip cookers and microtronics tool kits.
 * 'sneak' appears to be required to use Stealth.
 * Discord |]newbie[| [Alak]: It's worth mentioning sneaking only buys you
 about a second or less. It's for moving fast more than reading new stuff in
@@ -704,7 +704,8 @@ and accessories.
 * Rita's Body Sculpture in Chinatown sells a bunch of different cyberware and
 bioware and maybe installs them too.
 * The intersection of Xhu and Zhao Streets in Chinatown leads to a smuggler
-ring where vendors sell mostly arms, armor and accessories.
+ring where vendors sell mostly arms, armor and accessories. Among these
+accessories are smartlink-2 systems.
 * Xing in the dojo of Chinatown practices Brawling, Stealth, Athletics and
 Cyber Implants.
 * Nybbles & Bytes sells credsticks.
@@ -853,7 +854,7 @@ cyberware.
 * Search in the dojo at the Redmond Way Mall for a backroom that practices
 Clubs, Cyber Implants, Edged Weapons, Polearms, Brawling and Whips and Flails.
 * Cecile Nichols in The Downfall in Touristville offers work (minimum
-reputation 350).
+reputation 350). She may have connections to superior magical gear.
 * A clean-shaven man below the Bradenton sells minigun ammunition; EX light,
 medium and heavy machine gun ammunition and explosive assault cannon
 ammunition.
@@ -1896,6 +1897,7 @@ for foci.
 * `help sustain`.
 * `help geas`.
 * `help metamagic`.
+* `help build`.
 * You can wear up to 2x your magic rating in foci without concern but going
 beyond that risks geas.
 * It seems (via `status`) that power foci don't raise the ceiling for how much
@@ -1922,8 +1924,65 @@ see the items you put instead of look in bag
 stealth/silence and improved invis at 8, have a bunch of force 3 rings
 sustaining attribute spells, maybe some bioware under that for even bigger
 number, and then just crush everything before you"
+* Discord |]Question[| [Cons (Iserna/Way)]: re: background count.  If you
+astrally perceive you'll sometimes notice extra lines describing the emotional
+tone of the room.  That's background.  Stuff that is innate to the room (like
+at monument to the Night of Rage) can be temporarily cleansed but will return
+to its default value over time.  Stuff that is transitory (like from killing
+MOBs) can be wiped away completely.
+* Hermes at Hermes' Library in the Moonlight Mall in Redmond trains metamagic
+techniques (I'm not sure which yet) and practices Sorcery, Conjuration,
+Negotiation, Aura Reading and Spell Design.
 * Brightwillow's Talismans and Curiosities at the Moonlight Mall in Redmond
 sells:
   * An amethyst crystal wand (`HOLD`, spirit, 4)
   * A silver ring (`FINGER`, power, 1)
   * An etched dark oak ring (`FINGER`, spirit, 3)
+* Laubenstein's Magical Clearing House at the Moonlight Mall sells offensive
+spell formulas but it's unclear how valuable they are.
+* Drafin's Witchery at Moonlight Mall sells:
+  * A parchment scroll (force-5 Acid Stream)
+  * A fiery ruby ring (`FINGER`, spirit, 4)
+  * A pane of lead crystal etched in runes (force-8 Invisibility)
+  * A miniature golden sword on a silver chain (`NECK`, `WRIST`, `ANKLE`;
+  spirit; 3)
+* The Eyerie at Moonlight Mall sells:
+  * An eagle feather (`HEAD`, `HOLD`, `EAR`; spirit; 5)
+  * A pebble, etched with an image of the Sun (`WRIST`, `HOLD`, `ANKLE`;
+  specific, 3)
+  * An obsidian arrowhead (`NECK`, `WRIST`, `ANKLE`; power, 2)
+* The Lore Store in Everett sells:
+  * A seal of protection talisman (`NECK`, `WRIST`, `EAR`, `ANKLE`, `LAPEL`;
+  spell defense; 3)
+  * A leather bound manual scribed on vellum (force-3 Ignite)
+  * A digital rating-3 sorcery library
+  * A digital rating-3 conjuring library
+  * A rating-3 sorcery library
+  * A rating-3 conjuring library
+  * A small jar of conjuring materials
+  * A pair of orichalcum-rimmed spectacles (`EYES`, sustaining, 4)
+  * A sturdy wyvern hide fashioned into a sash (`WAIST`, power, 3)
+* Herbie's Herbals in NE Seattle sells:
+  * An engraved hamsa amulet (`NECK`, `WRIST`, `EAR`, `ANKLE`, `LAPEL`)
+  * 
+* Fanciful Furniture on the ground floor of Beacon Mall sells ... furniture.
+* The Troll Underground can be found at the western end of Cockroach Alley in
+the south of the Ork Underground.
+* Stalker's Armour Emporium in the Troll Underground sells armor, including a
+matching set of "Trog Moxie" armored clothing.
+* Scarecrow's Reinforced Furniture in the Troll Underground sells furniture,
+including storage containers.
+* Chimaera Wares in the Troll Underground sells high-end bioware and
+cyberware.
+* Mister Gaines at The Vagabond in the Troll Underground offers work.
+* Fenrir's Forge in the Troll Underground sells melee weapons, including a
+troll-modified monofilament glaive (Pole Arm).
+* Mechtild's Munitions in the Troll Underground sells normal assault rifle,
+shotgun, light machine gun, medium machine gun and heavy machine gun
+ammunition, as well as explosive assault cannon ammunition, troll-modified
+AK-97 assault rifles, Ares Alpha Combat Guns, Ingram Valiants, Ultimax MMGs,
+RPK HMGs and Panther assault cannons as well as regular Ares Thunderers.
+* A smartlink-2 can be easily acquired by harvesting it from the cheapest gun
+at the pawn shop that has one.
+* A Troll's natural dermal armor means that I have to use Increase Cybered
+Attribute for increasing Body.
