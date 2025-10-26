@@ -516,6 +516,7 @@ helmets.
 ammunition.
 * Techno Geeks in the Knight Center Shopping Mall (ground floor) sells various
 electronic bits, including commonly used appliances and deckbuilding parts.
+They also sell pocket secretaries in case I ever need a new one.
 * Cranial Caps in the Knight Center Shopping Mall (ground floor) has offensive
 trucker hats.
 * Lead Loaders in the Knight Center Shopping Mall (first floor) sells SMGs and
@@ -650,7 +651,8 @@ kit and the corresponding skill.
 * Aggie's Drug Store in the Portland Crime Mall sells ... drugs.
 * Aves' Guns and Gear in the Portland Crime Mall sells weapons, ammunition and
 accessories.
-* Morkhan's Street Gear in the Portland Crime Mall sells heavy-duty armor.
+* Morkhan's Street Gear in the Portland Crime Mall sells heavy-duty armor,
+including medium military armor and heavy military helmets.
 * Gearhead's in the Portland Crime Mall sells automotive and rigging
 equipment.
 * TheftTronics in the Portland Crime Mall sells such electronic gear as black
@@ -1394,7 +1396,7 @@ experienced runners.
 less experienced runners.
 * Natasha Watanabe at Crash Cart in Virginia Beach offers work.
 * Stein the Gnome is in an alley south of Gull Street in Virginia Beach and he
-does repairs.
+does repairs. (May have to search in the future.)
 * Dennis Newman at Rosco's Pub & Grille in Virginia Beach offers work for less
 experienced runners.
 * Jakob Gunderson at the Ford Motor Company in Virginia Beach offers work for
@@ -1889,7 +1891,7 @@ after use!)
 * 'Ware can be installed during chargen on the path of the Street Samurai.
 * `help wear` to see details about wearing objects (i.e. how many slots are
 where and how to wear items at specific slots) which appears very important
-for foci.
+for foci. There are two `NECK` slots!
 * `help drain`.
 * `help spool`.
 * `help learn`.
@@ -1933,6 +1935,9 @@ MOBs) can be wiped away completely.
 * Hermes at Hermes' Library in the Moonlight Mall in Redmond trains metamagic
 techniques (I'm not sure which yet) and practices Sorcery, Conjuration,
 Negotiation, Aura Reading and Spell Design.
+* Two instructors at the Aztechnology Magic Academy (head north of the dean's
+office) practice Sorcery, Conjuring and Aura Reading, in addition to training
+metamagic techniques.
 * Brightwillow's Talismans and Curiosities at the Moonlight Mall in Redmond
 sells:
   * An amethyst crystal wand (`HOLD`, spirit, 4)
@@ -1963,8 +1968,80 @@ spell formulas but it's unclear how valuable they are.
   * A pair of orichalcum-rimmed spectacles (`EYES`, sustaining, 4)
   * A sturdy wyvern hide fashioned into a sash (`WAIST`, power, 3)
 * Herbie's Herbals in NE Seattle sells:
-  * An engraved hamsa amulet (`NECK`, `WRIST`, `EAR`, `ANKLE`, `LAPEL`)
-  * 
+  * An engraved hamsa amulet (`NECK`, `WRIST`, `EAR`, `ANKLE`, `LAPEL`; spell
+  defense; 1)
+  * Some conjuring materials
+  * A rating-5 conjuring library
+  * A parchment scroll (force-5 Invisibility)
+  * A scroll (force-6 Heal)
+  * An owl pelt (force-6 Invisibility) (for Shamanic mages though)
+  * A beaver pelt (force-6 Heal) (also Shamanic)
+* Ritual Retail on the ground floor of Knight Center sells:
+  * A digital rating-6 sorcery library
+  * A digital rating-6 conjuring library
+  * A slender zircon inlaid ring (`FINGER`, sustaining, 1)
+  * A decorative cuttlefish bone amulet (expendable, 2)
+  * An amerindian ceremonial turquoise embroidered sash (`WAIST`, `UNDERARM`;
+  spirit, 2)
+  * A sturdy, expensive brown leather attache case
+  * A tall brushed metal filing cabinet (storage, furniture)
+* An Ares Occult Shop on the first floor of Knight Center sells:
+  * A thesis on nervous system dynamics (force-3 Resist Pain)
+  * A sterile cord of wrapped barbwire (force-3 Resist Pain) (Shamanic)
+  * A thick medical consultant's guide (force-4 Treat)
+  * A colourful, symbolic tapestry book (force-4 Treat) (Shamanic)
+  * A fancy looking dreamcatcher (force-4 Stunbolt) (Shamanic)
+  * The Dummy's Guide to Telepathy (force-4 Mindlink)
+  * A wood-cut of an owl (force-4 Mindlink) (Shamanic)
+* Modern Magik in NE Seattle (`modern` for taxi/GridGuide) sells:
+  * An ash leaf anklet (`ANKLE`, sustaining, 1)
+  * A rune ring (`FINGER`, power, 3)
+  * A small golden triquetra (`NECK`, `WRIST`, `EAR`, `ANKLE`, `LAPEL`; spell
+  defense, 2)
+  * An athame dagger (`HOLD`, category, 3)
+  * A gold and orichalcum collar (`NECK`, category, 3)
+  * A sprig of mistletoe (`HEAD`, sustaining, 2)
+  * A spell formula (force-4 Stabilize)
+  * A spell fomula (force-4 Armor)
+  * A rating-6 sorcery library
+  * ...and a bunch of Shamanic spells
+* On the northern part of Highway 13 in Norfolk, head north until reaching "a
+heavily wooded section of Lankford Highway". Head west. You will eventually
+find "Liz's Lore: Talismonger and Telesma Shoppe". There they sell (as far as
+a Hermetic mage is concerned):
+  * A string of gator teeth (`NECK`, expendable, 8)
+  * A set of leather dog tags (`NECK`, spell defense, 4)
+  * A necklace of bear claws (`NECK`, power, 3)
+* Tilsam's Talismongery on Victoria sells:
+  * An ash leaf anklet (`ANKLE`, sustaining, 1)
+  * A netted hand weave of clear firepolished crystals (`HANDS`, category, 3)
+  * A baroque style lemon pearl netted foot jewelry (`SOCK`, spirit, 3)
+  * A triple banded white pearl anklet (`ANKLE`, sustaining, 2)
+  * A slender pearl and azure adorned bracelet (`WRIST`, power, 3)
+  * A necklace woven from various seeds (`NECK`, specific, 4)
+  * A yellow gold Caribbean topaz rings (`FINGER`, expandable, 4)
+  * A polished yellow gold cuff link inset with firepolished crystals
+  (`WRIST`, sustaining, 3)
+  * ...and more Shamanic wares
+* Aera Talismans on floor 1 (mezzanine) the southern end of Telestrian Habitat sells:
+  * A pentacle necklace (`NECK`, spell defense, 1)
+  * A bright blue jewel (`HOLD`, sustaining, 4)
+  * A parchment scroll (force-8 Combat Sense)
+  * A silver ring (`FINGER`, power, 1)
+* Rook's Relics on floor 3 of Telestrian Habitat (southwest) sells:
+  * A copper wire ring (`FINGER`, category, 4)
+  * A color-shifting belt (`WAIST`, spirit, 4)
+  * A dragonfly necklace (`NECK`, specific, 3)
+  * A quintessence (`FINGER`, power, 4)
+  * Force-6 Stabilize, Confusion, Flamethrower, Improved Invisibility for both
+    Hermetic and Shamanic mages
+* Phantasma's Magikwerks in the Portland Crime Mall sells:
+  * An obsidian ring (`FINGER`, spirit, 5)
+  * A silver ring with an orichalcum thread (`FINGER`, sustaining, 3)
+  * A silver and jade earring (`EAR`, expendable, 6)
+  * Force-6 Combat Sense for Shamanic and Hermetic mages.
+* Regarding magical buffs etc.: Helios |]Question[| Plus you can burn nuyen to
+ritualcast for max successes
 * Fanciful Furniture on the ground floor of Beacon Mall sells ... furniture.
 * The Troll Underground can be found at the western end of Cockroach Alley in
 the south of the Ork Underground.
@@ -1986,3 +2063,11 @@ RPK HMGs and Panther assault cannons as well as regular Ares Thunderers.
 at the pawn shop that has one.
 * A Troll's natural dermal armor means that I have to use Increase Cybered
 Attribute for increasing Body.
+* Regarding street-legal armor: A skinny dwarven orbital punk says OOCly,
+"Redshift is 10/10 with forearm guard and mark 4 form. Portland and Trog moxie
+I think are 9/9."
+* A skinny dwarven orbital punk says OOCly, "Moxie is a little more durable."
+* Any of the guns from the troll part of the OU other than the Alpha (no under
+slot) are a good pick for Haensel. 3 net reach from a bayonet is massively
+helpful. If you're going light chrome, or just not bothering with muscle aug
+bio, the monowhip is still a top contender for melee.
