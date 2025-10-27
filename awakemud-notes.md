@@ -574,6 +574,7 @@ Caribbean.
 * Sherman Huang is on floor 12 of Renraku and so is Michael Dumont. He's
 tricky to kill!
 * Harold Moore at Dante's Inferno (Ninth Hell) offers work.
+* Harold Moore's colleague is Hermes at the Moonlight Mall.
 * Harold Moore's quest for lost items requires going to the Bradenton, the
 staircase at the northernmost part of the Moonlight Mall and a back room in
 the Blue Wyvern.
@@ -638,14 +639,23 @@ at 1000 rep.)
 * Possibly the "Teddy Bear Killer" Ly'trelli wants gone is in the abandoned
 mall in Tarislar. (No, Redmond.) For another quest, Schizz can also be found
 in the abandoned mini mall in Redmond.
+* The "Teddy Bear Killer" run takes you to the ruins of a mini-mall close to
+Burton and Commerce in Redmond. His captive is in a room you will have to
+search for after killing him. Her destination is just a little north of the
+Seattle Public Library.
 * There's a guy on the western side of East Puyallup who sells ammunition and
 weapon accessories, as well as a radio model with encryption rating 4.
-* Richard Skylarke in The Epicenter club offers work (for less experienced
-runners).
+* Richard Skylarke in The Epicenter club (East Puyallup) offers work (for less
+experienced runners).
+* Slash is in the ground floor of the abandoned factory in Redmond.
 * Reality Hackers HQ in West Puyallup has easy targets.
 * Duran Bowers in The Cave in Portland (NW of Glisan and Sixth) offers work.
 (Maxes out at 1500 rep.)
 * The Cave in Portland has a Matrix terminal.
+* Jana Ca'Haeden in the Davis Street Offices of Portland offers work for less
+experienced runners. There is also a Matrix terminal in her office.
+* Robert James Hark III of the Satyricon in Portland offers work.
+* There is a Matrix terminal in the northern area of the Satyricon.
 * The lock to the Portland Crime Mall is easy to bypass with an electronics
 kit and the corresponding skill.
 * Aggie's Drug Store in the Portland Crime Mall sells ... drugs.
@@ -788,15 +798,11 @@ Supermach 100s (submachine gun model) and security helmets.
 terminal.
 * Dr. Kack Javorkian in the South Island Clinic sells and installs cyberware
 (requires going through air ducts).
-* Robert James Hark III of the Satyricon in Portland offers work.
-* There is a Matrix terminal in the northern area of the Satyricon.
 * There is an ATM on the ground floor of TTBank Tower in Portland.
 * There is an ATM near the entrance of the Downtown Portland MAX Station.
 * The Royal Hospital in Portland sells DocWagon modulators and medical
 supplies.
 * The Royal Hospital in Portland also installs cyberware (maybe).
-* Jana Ca'Haeden in the Davis Street Offices of Portland offers work for less
-experienced runners. There is also a Matrix terminal in her office.
 * There is another Matrix terminal in the Davis Street Offices on the same
 floor as Jana Ca'Haeden in a vacant office.
 * Trojan Combat Supplies Store on the ground floor of Telestrian Habitat in
@@ -849,7 +855,7 @@ Touristville.
 * Doc Sihn's Chipware at the Redmond Way Mall sells and installs various
 chipjack-related cyberware.
 * Gustav's Military Surplus in the Redmond Way Mall sells ammunition,
-rucksacks, vision-enhancing glasses and various accessiories.
+rucksacks, vision-enhancing glasses and various accessiories, such as bipods.
 * Redmond Wholesale Furniture in the Redmond Way Mall sells, well, furniture.
 * Ocular Adjustments Inc. in the Redmond Way Mall sells and installs optical
 cyberware.
@@ -1967,6 +1973,7 @@ spell formulas but it's unclear how valuable they are.
   * A small jar of conjuring materials
   * A pair of orichalcum-rimmed spectacles (`EYES`, sustaining, 4)
   * A sturdy wyvern hide fashioned into a sash (`WAIST`, power, 3)
+  * An orichalcum bracelet (`WRIST`, sustaining, 3)
 * Herbie's Herbals in NE Seattle sells:
   * An engraved hamsa amulet (`NECK`, `WRIST`, `EAR`, `ANKLE`, `LAPEL`; spell
   defense; 1)
@@ -2005,6 +2012,14 @@ spell formulas but it's unclear how valuable they are.
   * A spell fomula (force-4 Armor)
   * A rating-6 sorcery library
   * ...and a bunch of Shamanic spells
+* Nybbles & Bytes sells:
+  * A silver armband (`WRIST`, sustaining, 2)
+* Yargh's Talismongery and Chicken on Tusky Drive in the western end of the
+Ork Underground sells:
+  * A charm bracelet (`WRIST`, specific, 3)
+  * An opal pendant (`NECK`, `HOLD`; spirit; 2)
+  * A colourful beaded bracelet (`WRIST`, `ANKLE`; specific; 2)
+  * A wooden walking cane (`HOLD`, specific, 8)
 * On the northern part of Highway 13 in Norfolk, head north until reaching "a
 heavily wooded section of Lankford Highway". Head west. You will eventually
 find "Liz's Lore: Talismonger and Telesma Shoppe". There they sell (as far as
@@ -2063,6 +2078,8 @@ RPK HMGs and Panther assault cannons as well as regular Ares Thunderers.
 at the pawn shop that has one.
 * A Troll's natural dermal armor means that I have to use Increase Cybered
 Attribute for increasing Body.
+* Increase Cybered is required for both cyber- and bioware modified
+attributes.
 * Regarding street-legal armor: A skinny dwarven orbital punk says OOCly,
 "Redshift is 10/10 with forearm guard and mark 4 form. Portland and Trog moxie
 I think are 9/9."
@@ -2071,3 +2088,12 @@ I think are 9/9."
 slot) are a good pick for Haensel. 3 net reach from a bayonet is massively
 helpful. If you're going light chrome, or just not bothering with muscle aug
 bio, the monowhip is still a top contender for melee.
+* Increasing Spell Design all the 12 can assist with success rate and reduce
+the amount of time needed.
+* Discord |]Question[| \[Essy\]: ware and magic stack, so optimally you get
+both (and just ritual cast your buffs to make them less miserable). as for
+efficacy ware is like, usually more efficent. neutral at worst for the bio
+suite anyway.
+* The Sorcery skill caps the number of sustaining foci.
+* Library rating and increasing the Magic atrribute can both assist with Spell
+Design.
