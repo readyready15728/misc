@@ -125,3 +125,5 @@ any language servers that are running and which buffers they are attached to.
 * `:LspRestart` turns it off and on again.
 * `:LazyHealth` and `:checkhealth` (to be used in that order) provide further
 diagnostics.
+* Use `<Space>cd` to expand on diagnostic text.
+* Open the diagnostics/quick fix menu with `<Space>x`.
