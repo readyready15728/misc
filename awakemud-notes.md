@@ -503,8 +503,9 @@ runners).
 all decking-related skills to the maximum.
 * 'toggle cyberdoc' to allow player cyberdocs to operate on you.
 * 'leave' vehicles to get out.
-* Rapid Fire Ammunition in SE Seattle sells ... ammunition. (See below re:
-Rapid Fire Ammunition.)
+gw}* Rapid Fire Ammunition in SE Seattle sells ... ammunition.
+Specifically, they sell normal shotgun, submachine gun, sniper rifle, light
+machine gun, assault rifle and heavy pistol ammunition.
 * The Smith School of Linguistics in SE Seattle has linguasofts and practices
 languages the old-fashioned way too.
 * A woman in the lobby of Mitsuhama Tower practices Negotiation and Corporate
@@ -594,8 +595,6 @@ etc."
 * Nick at Purple Haze (NW of Nybbles & Bytes) offers work (for less
 experienced runners).
 * Escalators take a moment to take you to your destination.
-* The tiny office in Rapid Fire Ammunition (Seattle SE) sells a diverse array
-of different types of ammunition.
 * Medkits can be used more than once.
 * Powell's Technical Books in Portland sells decking-related merchandise and
 practices Computers, Electronics, Computer Building and Repair, Repairing
@@ -655,6 +654,11 @@ experienced runners).
 * Jana Ca'Haeden in the Davis Street Offices of Portland offers work for less
 experienced runners. There is also a Matrix terminal in her office.
 * Robert James Hark III of the Satyricon in Portland offers work.
+* There is a Matrix terminal in the Spacebucks at Surehand Square. There is
+also a trainer there who practices Elf Etiquette and Gaelic. In addition,
+Valin Ke'Nelien in the amphitheater offers work. (Maxes out at 1500 rep.)
+* The fiend Valin Ke'Nelien wants dead is on the western side of Lysleul
+Plaza, in the casino.
 * There is a Matrix terminal in the northern area of the Satyricon.
 * The lock to the Portland Crime Mall is easy to bypass with an electronics
 kit and the corresponding skill.
@@ -910,10 +914,13 @@ Center. There they sell truly high-end cyberware and a number of high-quality
 firearms including a sniper rifle I might want to get someday.
 * Mister Johann at The Banshee in Touristville offers work. (Or did, until I
 outgrew him.)
+* The "young human male" run involves going out into the back alley in the
+western end of The Skeleton.
 * Hyeon Sang-chul at Y.Y. Korean BBQ in Touristville offers work. (And now he
 won't offer me work either.)
-* Guang and Huang intersection in Chinatown is where Yellow Lotus can be
+* Guang and Wu intersection in Chinatown is where Yellow Lotus can be
 found, apparently.
+* The Triad kneebreaker is in Kiriyama's in Chinatown.
 * Dr. Bob's Quickstitch in Touristville sells and installs cyberware, and
 sells medical supplies as well, including field medical kits (or medkits).
 * Chas Moreno at Dr. Bob's Quickstitch offers work.
@@ -931,11 +938,6 @@ private dining booth (to the northwest).
 rep.)
 * A man in Dirty Rikki's Bar practices Latin and Arabic.
 * 'sit' / 'rest' / 'sleep'.
-* There is a Matrix terminal in the Spacebucks at Surehand Square. There is
-also a trainer there who practices Elf Etiquette and Gaelic. In addition,
-Valin Ke'Nelien in the amphitheater offers work. (Maxes out at 1500 rep.)
-* The fiend Valin Ke'Nelien wants dead is on the western side of Lysleul
-Plaza, in the casino.
 * The Ancients gang might hang out in a truck stop or something in Portland.
 (That's the Portland Crime Mall and it is in fact very dangerous.)
 * \A lazily amused baritone(Gato)/\[8 MHz, English\](CRYPTO-2): Plus if you're
@@ -1865,7 +1867,6 @@ can get enough karma from newbie quests to bond them for much cheaper.
 * Llewynithe |]Question[| Talbot's Musings on Hermetic Magic on the wiki is a
 good lookthrough. It's where I learned most of what I know.
 * `help conjure`.
-* `help elemental`.
 * `help cast`.
 * Discord |]Question[| \[Khai\]: For a new mage, the things that can cause
 regret: no melee skill, no sustaining foci, and going straight for force 6+
@@ -1875,6 +1876,7 @@ services).`
 being sustained by a spirit or focus (explained later) it will cause you to
 have a harder time doing things that require concentration."
 * `help ritualcast`.
+* `help elemental`.
 * `help order`.
 * `help contest`.
 * `help banish`.
@@ -1922,8 +1924,8 @@ allocated to spell defense. It can also be used to destroy locked doors
 for the future
 * "Waterbolt provides a physical damage option for non-living opponents (e.g.,
 turrets)."
-* Yuki |]Question[| The LEAVE command at the receptionist can be used to
-cancel a lease
+* How to give up your apartment: Yuki |]Question[| The LEAVE command at the
+receptionist can be used to cancel a lease
 * Mierana |]Question[| Radios work in a pocket to save an inventory slot,
 holsters and sheaths for quick drawing... other than that, you can type eq to
 see the items you put instead of look in bag
@@ -2020,6 +2022,8 @@ Ork Underground sells:
   * An opal pendant (`NECK`, `HOLD`; spirit; 2)
   * A colourful beaded bracelet (`WRIST`, `ANKLE`; specific; 2)
   * A wooden walking cane (`HOLD`, specific, 8)
+* Behind Yargh's Talismongery there is a bazaar that sells obscenely expensive
+but apparently worthwhile melee weapons!
 * On the northern part of Highway 13 in Norfolk, head north until reaching "a
 heavily wooded section of Lankford Highway". Head west. You will eventually
 find "Liz's Lore: Talismonger and Telesma Shoppe". There they sell (as far as
