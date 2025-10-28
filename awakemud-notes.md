@@ -503,9 +503,9 @@ runners).
 all decking-related skills to the maximum.
 * 'toggle cyberdoc' to allow player cyberdocs to operate on you.
 * 'leave' vehicles to get out.
-gw}* Rapid Fire Ammunition in SE Seattle sells ... ammunition.
-Specifically, they sell normal shotgun, submachine gun, sniper rifle, light
-machine gun, assault rifle and heavy pistol ammunition.
+* Rapid Fire Ammunition in SE Seattle sells ... ammunition. Specifically, they
+sell normal shotgun, submachine gun, sniper rifle, light machine gun, assault
+rifle and heavy pistol ammunition.
 * The Smith School of Linguistics in SE Seattle has linguasofts and practices
 languages the old-fashioned way too.
 * A woman in the lobby of Mitsuhama Tower practices Negotiation and Corporate
