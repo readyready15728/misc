@@ -20,6 +20,17 @@ be especially useful in the case of spells.
 * `'` switches between the weapons in inventory slots `a` and `b`.
 * `Q` to quiver (including spells).
 * `v` shoots a wielded missile weapon and `+` cycles targets.
+* `v` can also be used to attack at range with a polearm.
 * `V` to evoke items.
 * `Ctrl+F` finds items and dungeon features across multiple floors and accepts
 the Boolean operators `&&`, `||` and `!!`.
+* `m` views and manages skills.
+* `z` to cast spells.
+* `I` to display spells without casting.
+* `t` to order allies.
+* Heavy armor is detrimental to both missile attacks and spellcasting.
+* Thrown weapons are not slowed by armor.
+* `Ctrl-O` to show a list of interesting features found so far.
+* `>` to pray at an altar.
+* `^` to view religious standing.
+* `a` to use abilities.
