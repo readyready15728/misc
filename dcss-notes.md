@@ -4,9 +4,9 @@
 * Press `X` to view the map. `<Enter>` or `.` will travel to the location of
 the cursor.
 * "XL" means "experience level".
-* "o" does automatic exploration, though, even with safeguards it could be
+* `o` does automatic exploration, though, even with safeguards it could be
 dangerous.
-* "C" closes doors.
+* `C` closes doors.
 * Ranged weapons no longer require ammunition, and the ranged weapon brand
 affects the infinite amount of ammunition that you get. However, ranged
 weapons are weaker than melee weapons, and suffer penalties when wearing heavy
@@ -34,3 +34,7 @@ the Boolean operators `&&`, `||` and `!!`.
 * `>` to pray at an altar.
 * `^` to view religious standing.
 * `a` to use abilities.
+* `A` shows any peculiarities like unusual speed or body parts.
+* Damage with long and short blades is driven by dexterity.
+* `%` and `@` show additional character information that's not present on the
+main display.
