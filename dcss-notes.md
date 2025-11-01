@@ -38,3 +38,14 @@ the Boolean operators `&&`, `||` and `!!`.
 * Damage with long and short blades is driven by dexterity.
 * `%` and `@` show additional character information that's not present on the
 main display.
+* Size has various effects that could be quite important.
+* `?/t` to look up status effects.
+* "The usual skill advice in Crawl is to "train your killing skills to
+competency first, then train your defenses". Dodging an extra attack won't
+help if you have to use a consumable to beat every other fight. It's perfectly
+reasonable to turn Dodging off at the start, then turn it back on later on
+when you feel skilled enough at killing stuff."
+* "Dodging is more effective when you have higher dexterity and you are
+wearing lighter armour. Still, even a brute in crystal plate armour will
+eventually want to train a few levels of Dodging, since the early levels of a
+skill are cheap."
