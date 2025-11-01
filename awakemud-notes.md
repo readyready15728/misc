@@ -2101,3 +2101,5 @@ suite anyway.
 * The Sorcery skill caps the number of sustaining foci.
 * Library rating and increasing the Magic atrribute can both assist with Spell
 Design.
+* Syspoints can be transferred between characters.
+* Power foci don't count as negative modifiers for the TN of Spell Design.
