@@ -127,3 +127,15 @@ any language servers that are running and which buffers they are attached to.
 diagnostics.
 * Use `<Space>cd` to expand on diagnostic text.
 * Open the diagnostics/quick fix menu with `<Space>x`.
+* `<Space>sn` to open the Noice pop-ups menu.
+* Manual configuration of linters with LazyVim may be necessary in some cases.
+The same goes for formatters and LSPs. (You can find out how to do so in
+[chapter 10](https://lazyvim-ambitious-devs.phillips.codes/course/chapter-10/)
+of *LazyVim for Ambitious Developers*.
+* `<Space>cf` triggers manual formatting.
+* `gd` does go to definition. As mentioned earlier, `<Ctrl>-o` jumps back and
+`<Ctrl>-i` jumps forwards.
+* `gr` (go to reference) is the inverse of `gd`.
+* `K` activates tooltips.
+* `<Space>/` searches throughout an entire project. (It requires ripgrep to be
+installed.)
