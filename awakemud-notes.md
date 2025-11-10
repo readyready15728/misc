@@ -867,6 +867,8 @@
   Clubs, Cyber Implants, Edged Weapons, Polearms, Brawling and Whips and Flails.
 - Cecile Nichols in The Downfall in Touristville offers work (minimum
   reputation 350). She may have connections to superior magical gear.
+- The martichoras Cecile Nichols wants dead is north on Highway 229 to the
+east of J'valdi. Look for "A grassy field" to the west.
 - A clean-shaven man below the Bradenton sells minigun ammunition; EX light,
   medium and heavy machine gun ammunition and explosive assault cannon
   ammunition.
@@ -877,11 +879,18 @@
   (And I finally outgrew him.)
 - Mack Roland in the cemetery at the western end of Middlefield Avenue in
   Redmond offers work (minimum reputation 500 and maxes out at maybe 1000).
+- The vampire and his lackeys in the graveyard can be found by entering a
+  graffiti-covered crypt in the eastern part of the graveyard, searching, then
+  going down from there. Look for "Before a busted doorway" as a northeastern
+  exit.
 - Maxwell Jensen at Ebey's Bar offers work (minimum reputation 250).
 - There is a Matrix terminal in a private booth at Jason's Bar & Grill in
   Everett.
 - Don't fuck around in the basement of Jason's Bar & Grill unless you're
   ready.
+- The brothel rescue quest involves killing a troll in the basement of Jason's
+  Bar & Grill involves killing a troll, removing a mangled hanger from his
+  dead body, then searching for a hidden room opened with said hanger.
 - A chubby man sporting a cheap suit in Jason's Bar & Grill offers work (for
   less experienced runners). (Don't take him up on delivering bombs to Little
   Chiba unless truly prepared.)
@@ -924,6 +933,8 @@
 - Dr. Bob's Quickstitch in Touristville sells and installs cyberware, and
   sells medical supplies as well, including field medical kits (or medkits).
 - Chas Moreno at Dr. Bob's Quickstitch offers work.
+- Chas Moreno's smash and grab at Novatech involves going to Novatech then
+  heading to the southern area.
 - Cabbie Connection in Touristville sells ground vehicle tools and parts.
 - Cabbie of Cabbie Connection offers work. (Also for less experienced
   runners.)
@@ -980,67 +991,68 @@
 - The Stop Gap (SE Seattle, Eighth Street between Seneca and Boren) sells
   chocolate doughnuts.
 - Toh Li at O'Bryant Square in Portland practices Athletics, Stealth,
-  Brawling, Edged Weapons and Whips and Flails.
+Brawling, Edged Weapons and Whips and Flails and trains Kipping Up and Close
+Combat.
 - Martingale says OOCly, "My.gmc should work."
 - Martingale tells you OOCly, 'You can go from the front to the rear of a
-  vehicle by typing SWITCH. You can directly enter the rear of a vehicle that
-  has one by typing ENTER \<vehicle\> REAR.'
+vehicle by typing SWITCH. You can directly enter the rear of a vehicle that
+has one by typing ENTER \<vehicle\> REAR.'
 - Martingale says OOCly, "[Vehicle labels] are given through a paintjob at a
-  shop east of Circuit Couriers."
+shop east of Circuit Couriers."
 - Maxwell tells you OOCly, 'The most important [skills for deck building] are
-  Computers, Computers B/R, Cyberterminal Program Design.'
+Computers, Computers B/R, Cyberterminal Program Design.'
 - Maxwell tells you OOCly, 'Run it with zero evasion. And 7 on the rest of
-  persona programs.'
+persona programs.'
 - Maxwell tells you OOCly, 'You want to have your detection factor as high as
-  possible, decreasing the rate at which your tally increases and the nasty IC
-  is spawned. So having maxxed masking and sleaze is paramount.'
+possible, decreasing the rate at which your tally increases and the nasty IC
+is spawned. So having maxxed masking and sleaze is paramount.'
 - Seattle Shalimar, the South Asian restaurant, is on Harbour Avenue just west
-  of the Hellhound bus depot.
+of the Hellhound bus depot.
 - \A cheery and aloof female voice/\[8 MHz, English\](CRYPTO-2): Then do you
-  even really need my help? try searching around. There's another bar in the
-  southwest of seattle that has some light reading you might wanna pick up as
-  well.
-- \A heavily synthesized male voice./\[8 MHz, English\](CRYPTO-1): Yeah there's
-  a foul mouthed Johnson there that offers work to newer runners, he's the one
-  to impress.
+even really need my help? try searching around. There's another bar in the
+southwest of seattle that has some light reading you might wanna pick up as
+well.
+- \A heavily synthesized male voice./\[8 MHz, English\](CRYPTO-1): Yeah
+there's a foul mouthed Johnson there that offers work to newer runners, he's
+the one to impress.
 - Once the invitation to Smith's Pub and encyclopedia are attained from the
-  respective Johnsons, search in the tiny backroom of Smith's Pub and use the
-  encyclopedia to enter. There is a Matrix terminal down there and, perhaps more
-  importantly, a vendor for Tir Tairngire visas.
+respective Johnsons, search in the tiny backroom of Smith's Pub and use the
+encyclopedia to enter. There is a Matrix terminal down there and, perhaps more
+importantly, a vendor for Tir Tairngire visas.
 - 'help garage'.
 - Apparently maxing out Computers is important for decking.
 - Maxwell tells you OOCly, 'Paydata works like this: usually you are able to
-  find SOME paydata when you first 'locate paydata'. After that, the remaining
-  paydata in the node will be attached to IC. So you WILL have to fight some IC.
-  The key is knowing when to log off to reset your tally. As your tally rises,
-  it triggers nastier and nastier IC, until it's too much for you. '
+find SOME paydata when you first 'locate paydata'. After that, the remaining
+paydata in the node will be attached to IC. So you WILL have to fight some IC.
+The key is knowing when to log off to reset your tally. As your tally rises,
+it triggers nastier and nastier IC, until it's too much for you. '
 - Evaluate utilities degrade, one point per 2 RL days.
 - Fort Case is in southern Redmond, out on the dirt roads.
 - Re: sneaking into the Caribbean for the discounted visa: \A heavily
-  synthesized male voice.(Morbius)/\[8 MHz, English\](CRYPTO-1): Just west of
-  the main entrance to the airport is a cargo platform, you just have to wait
-  for it to roll up and start loading, then you can board.
+synthesized male voice.(Morbius)/\[8 MHz, English\](CRYPTO-1): Just west of
+the main entrance to the airport is a cargo platform, you just have to wait
+for it to roll up and start loading, then you can board.
 - One can buy a Caribbean League visa at a discount at St. Patrick's
-  International Airport in the customs office.
+International Airport in the customs office.
 - There is an ATM in the southern entrance area of St. Patrick's International
-  Airport on Sauteurs.
+Airport on Sauteurs.
 - Guillaume's Goods on Sauteurs sells swimming equipment.
 - Lacoste's Boats and Rentals on Sauteurs sells watercraft.
 - Essy |]newbie[| Either piloting Motorboats or piloting ships, depending on
-  the size of the vessel, if you know what you wanna drive you can probe it
-  and it'll tell you the type of boat it is.
+the size of the vessel, if you know what you wanna drive you can probe it and
+it'll tell you the type of boat it is.
 - There is a secret passage in the organist's room at the Church of Saint
-  Sarasses on Sauteurs but it's quite dangerous.
+Sarasses on Sauteurs but it's quite dangerous.
 - Pelagie Apartments on Sauteurs is actually quite cheap.
 - There is a Matrix terminal in Montplaisir Restaurant on Sauteurs in a
-  private dining booth.
+private dining booth.
 - Mister Who at the Montplaisir Restaurant on Sauteur offers work.
 - There is an ATM at the chip cashing exchange in the Grandmaion Casino on
-  Sauteurs.
+Sauteurs.
 - There is a Matrix terminal in Hidden from the Mambo's Clutches at The
-  Mambo's Clutches on Waltham and Victoria.
+Mambo's Clutches on Waltham and Victoria.
 - Mister Montreuil at The Mambo's Clutches offers work. (And it's Matrix
-  work.)
+work.)
 - Philomene the Mutton Chopper at Cienfuegos Cantina on Sauteurs offers work.
 - 'help program design'.
 - 'install \<plan\> computer'.
@@ -1048,109 +1060,109 @@
 - 'list' shows programming progress where appropriate. (Also 'progress'.)
 - Se-Curo Ja is on Third Street between Ridgeway and Spring in Seattle.
 - Hibiscus says to you in English, "If you manage to totally complete the
-  Rooster's final job (met the guy, right?), he'll give you access to a back
-  room where APDS sniper rifle rounds are also sold, but more expensive than Dr
-  Scriptshaw's."
+Rooster's final job (met the guy, right?), he'll give you access to a back
+room where APDS sniper rifle rounds are also sold, but more expensive than Dr
+Scriptshaw's."
 - Re: the waterfall in the Aztechnology Magic Academy: \a bright, energetic
-  female voice(Asami)/\[8 MHz, English\]: Ano...you go east from the help desk
-  and down, follow the hallway all the way east to the corner and then straight
-  north. Be careful, they do real bad stuff down there.
+female voice(Asami)/\[8 MHz, English\]: Ano...you go east from the help desk
+and down, follow the hallway all the way east to the corner and then straight
+north. Be careful, they do real bad stuff down there.
 - Re: practicing Truck Driving: \a fruity female voice with a Cajun
-  accent(Hibiscus)/\[8 MHz, English\](CRYPTO-2): I seem to remember that Hal, in
-  Portland, provided driving lessons on common vehicles. Not sure it's still the
-  case.
+accent(Hibiscus)/\[8 MHz, English\](CRYPTO-2): I seem to remember that Hal, in
+Portland, provided driving lessons on common vehicles. Not sure it's still the
+case.
 - Hal the Rigger of Hal's Garage in Portland (between Glisan and Everett on
-  Broadway) practices Driving Cars, Machine Guns, Assault Cannons, Driving
-  Motorcycles, Driving Trucks and Mounted Gunnery.
+Broadway) practices Driving Cars, Machine Guns, Assault Cannons, Driving
+Motorcycles, Driving Trucks and Mounted Gunnery.
 - 'help ammunition'.
 - 'help keyring'.
 - Circuit Couriers sells keyrings.
 - Hibiscus says OOCly, "TOGGLE AUTOKILL is useful to save on ammo."
 - Re: the location of Iceberg Slam: \A feminine voice with a masculine
-  undercurrent/\[8 MHz, English\](CRYPTO-1): From the entrance in the big rhino
-  head south then take the first west. He should be right there.
+undercurrent/\[8 MHz, English\](CRYPTO-1): From the entrance in the big rhino
+head south then take the first west. He should be right there.
 - For the Iceberg Slam-related quest, search at his location for the secret
-  passage.
+passage.
 - The back room area in Dadson Vision Entertainment (unlocked with a keycard
-  obtained from a Johnson, Oswald Skylarke IIRC, or possibly Mister Keiretsu)
-  sells numerous level-8 activesofts.
+obtained from a Johnson, Oswald Skylarke IIRC, or possibly Mister Keiretsu)
+sells numerous level-8 activesofts.
 - STupHR ShaK on Hoagie Street in the Ork Underground sells explosive medium
-  machine gun ammunition and Doc Dodie's Medical Clinic, attached, sells and
-  maybe installs cyberware and bioware.
+machine gun ammunition and Doc Dodie's Medical Clinic, attached, sells and
+maybe installs cyberware and bioware.
 - There are studio apartments on Clooney Street in the eastern parts of the
-  Ork Underground.
+Ork Underground.
 - Operational Program Design appears required to write Evaluate utilities but
-  Data Brokerage determines the highest level they can be written at.
+Data Brokerage determines the highest level they can be written at.
 - The basketball player Zephram Hood is in Tarislar Park.
 - A pencil can be bought at Hen-Chi's All-in-One in western Auburn.
 - Be on the lookout for a resin tube and bubble gum. (They can be found at
-  Dave's Discount Drugstore in Auburn.)
+Dave's Discount Drugstore in Auburn.)
 - The keycard Chas Moreno gives you after a difficult run can be used to
-  unlock a room where **very** high-end cyberware can be bought and presumably
-  installed.
+unlock a room where **very** high-end cyberware can be bought and presumably
+installed.
 - Just west of Renton and Cizae in East Puyallup, there is a vendor who sells
-  weapons and ammunition, including EX sniper ammunition, and Accodata radios
-  with encryption rating 4.
+weapons and ammunition, including EX sniper ammunition, and Accodata radios
+with encryption rating 4.
 - LeMaitre Medical Wares on Victoria sells and installs high-quality cyberware
-  and bioware.
+and bioware.
 - The Cage on floor 1 of the Red Shift Offices on Victoria sells various
-  firearms and Zeiss-Audiotek prototype smartscopes.
+firearms and Zeiss-Audiotek prototype smartscopes.
 - The Grit 'n' Kit on floor 1 of the Red Shift Offices sells armor.
 - Benny Butte on floor 2 of the Red Shift Offices offers work.
 - There is a Matrix terminal on floor 4 of the Red Shift Offices. (Several in
-  fact.)
+fact.)
 - John Smith on floor 4 of the Red Shift Offices offers work. (And it's Matrix
-  work.)
+work.)
 - To find the file John Smith wants for his second run, log on to
-  `ActiveInvestigations` in the Victoria Police host then run `locate file
+`ActiveInvestigations` in the Victoria Police host then run `locate file
 investigations`. Do the same with DocWagon in `records` by looking for
-  `record`.
+`record`.
 - Mercer Johansen on floor 5 of the Red Shift Offices offers work.
 - The clinic on Prospect and Union sells cyberware and bioware.
 - Smith's Electronic Boutique on Prospect and Union sells various goggles,
-  electronic kits and low-end electronic gear. The back room buys paydata.
+electronic kits and low-end electronic gear. The back room buys paydata.
 - Vehicle repair can be done in the Tacoma Junkyard.
 - Tiny |]newbie[| Analyze various hosts and also check the ACIFS of each place
-  for trapdoors?
+for trapdoors?
 - Ludwig |]newbie[| The website's not working, what's an ACIFS
 - Nanashi |]newbie[| Matrix hosts have subsystems which we refer to as ACIFS,
-  which stands for Access, Control, Index, Files, Slave
+which stands for Access, Control, Index, Files, Slave
 - Tiny |]newbie[| The starter syberspace runs are helpful for teaching matrix
-  stuff
+stuff
 - Tiny |]newbie[| The guy in the south eastern door
 - Nanashi |]newbie[| Sometimes, the Files subsystem of a node is encrypted,
-  which means you need to decrypt that particular subsystem before you can
-  even try to download a file. In other cases, there are actually trapdoors
-  hidden in one of the subsystems
+which means you need to decrypt that particular subsystem before you can even
+try to download a file. In other cases, there are actually trapdoors hidden in
+one of the subsystems
 - Nanashi |]newbie[| So in that case, you'll want to analyze \<subsystem\> to
-  check for that
+check for that
 - Ludwig |]newbie[| I can't now because I went somewhere I shouldn't and now
-  the MPCP got fried
+the MPCP got fried
 - Tiny |]newbie[| It's probably not fried permanently
 - Nanashi |]newbie[| Oh ouch. I _think_ chargen decks can be repaired at Jim's
 - Nanashi |]newbie[| Not entirely sure though
 - If you cannot LOCATE HOST, you can navigate up one level to the parent host
-  with LOGON LTG.
+with LOGON LTG.
 - Nanashi |]newbie[| You can't find trapdoors that way [locate host]. You can
-  only find them by doing analyze \<subsystem\>
+only find them by doing analyze \<subsystem\>
 - [Discord] (OOC), "[Khai]: also check the help files for the individual
-  commands. locate host is not the only useful way to use locate, and analyze
-  \<subsystem\> isn't the only useful way to use analyze"
+commands. locate host is not the only useful way to use locate, and analyze
+\<subsystem\> isn't the only useful way to use analyze"
 - A clear, firm male voice(Maxwell) on the other end of the line says in
-  English, "Aye, whoever designed that thing did not leave much room for
-  noticing patterns and possible ways out of the nodes. So, after you connect to
-  the Novatech Host, you can either go OUTLET - and that's their outlet and shop
-  parts, not really what you're looking for - or ROUTING. That's where you need
-  to go, that's the corporate side."
+English, "Aye, whoever designed that thing did not leave much room for
+noticing patterns and possible ways out of the nodes. So, after you connect to
+the Novatech Host, you can either go OUTLET - and that's their outlet and shop
+parts, not really what you're looking for - or ROUTING. That's where you need
+to go, that's the corporate side."
 - A clear, firm male voice(Maxwell) on the other end of the line says in
-  English, "If I may suggest one place you can try with your CMT Avatar and
-  get some experience as you go about it, I would suggest the Paine-Snohomish
-  Airport node in the Everett LTG, Ludwig."
+English, "If I may suggest one place you can try with your CMT Avatar and get
+some experience as you go about it, I would suggest the Paine-Snohomish
+Airport node in the Everett LTG, Ludwig."
 - A clear, firm male voice(Maxwell) on the other end of the line says in
-  English, "You can always ANALYZE the HOST to check its rating. ANALYZEing
-  its SECURITY will also inform you of your security tally."
+English, "You can always ANALYZE the HOST to check its rating. ANALYZEing its
+SECURITY will also inform you of your security tally."
 - In Johnson NewBody Laboratories, look on the third floor for access to the
-  roof, where a service elevator leading to the basement can be found.
+roof, where a service elevator leading to the basement can be found.
 - 'ASIST' is required to use hot ASIST in the Matrix.
 - Ghost says OOCly, "Help build - create deck first"
 - Ghost says OOCly, "Then create part"
@@ -1159,21 +1171,21 @@ investigations`. Do the same with DocWagon in `records` by looking for
 - Nemesis |]newbie[| Combine 1.box 2.box
 - Decks can be worn. (But shouldn't be.)
 - Re: Polearms practice: \a bubbly female voice with a californian
-  accent.(Bubbles)/\[8 MHz, English\]: You can 'searching' 7th street between
-  harrison and park.
+accent.(Bubbles)/\[8 MHz, English\]: You can 'searching' 7th street between
+harrison and park.
 - prompt <@pP @mM @bB @iI Mode: @A>.
 - Dragging requires less Strength than lifting.
 - 'help ammocost'.
 - [Hibiscus] (OOC), "When you're wielding a weapon [firearm], you don't use
-  brawling. You use Clubs, or Polearms if you have a bayonet.".
+brawling. You use Clubs, or Polearms if you have a bayonet.".
 - [Discord] (OOC), "[Essy]: oh and if you're magic, rely on perception instead
-  of ultrasound".
+of ultrasound".
 - 'help closecombat'.
 - J'valdi is worth exploring further.
 - Molly Horne of The Perk Cup in J'valdi offers work.
 - Gato says to Eilidh in English, "Once you're past what she can teach you
-  wanna swing by the Tir, over where like. Lordstrum's is at? Pero head the
-  opposite way, to the east side, an' look around careful.".
+wanna swing by the Tir, over where like. Lordstrum's is at? Pero head the
+opposite way, to the east side, an' look around careful.".
 - The Icon Chip for a deck is NERP. (Is it?)
 - 'buy 24 #8'.
 - Analyze slot machine payouts based on input bet.
@@ -1181,7 +1193,7 @@ investigations`. Do the same with DocWagon in `records` by looking for
 - Hot ASIST is default if you have it.
 - 'locate file forum' (in the Seattle Public Library).
 - The Cave in Portland has a trapdoor in the files system. Once it is
-  decrypted (IIRC) it is possible to do 'logon files'.
+decrypted (IIRC) it is possible to do 'logon files'.
 - The 'handler' host of the Portland GridGuide System has paydata.
 - 'locate file snowflake'. (You'll know which run.)
 - Johnson NewBody Labs in East Tacoma has paydata in the basement.
@@ -2105,3 +2117,6 @@ Building`, then head roughly west until you find the guerrilla camp. He is in
   Design.
 - Syspoints can be transferred between characters.
 - Power foci don't count as negative modifiers for the TN of Spell Design.
+- "High" and "luxury" class lifestyles give negative TN modifier to making
+purchases.
+- `HELP NODELETE`.
