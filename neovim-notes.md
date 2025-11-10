@@ -112,6 +112,7 @@ return {
   containing window.
 - `<Ctrl>-w` and `<Space>w` both open the window menu.
 - `<Space>ws` opens a horizontal split and `<Space>wv` opens a vertical split.
+- `<Space>wq` closes a window.
 - In Neotree, `<Space>s` does a vertical split on the selected file and
   `<Space>S` does a horizontal split.
 - `<Space>qq` to save a session local to the current directory, `<Space>qs` to
@@ -141,3 +142,16 @@ return {
 - rip-substitute can be installed as described in the LazyVim book. It
   requires ripgrep to be installed with PCRE2 support. How one can do so can be
   seen [on a related GitHub issue](https://github.com/BurntSushi/ripgrep/discussions/2190).
+- `<Space>sr` opens the grug-far.nvim global find and replace interface.
+- `q:` opens the editable command window.
+- `g<Ctrl>-g` shows a few summary statistics about the current position and
+  the current buffer, similar to `wc`.
+- `z=` gives suggestions for how to spell a given word.
+- `<Ctrl-/>` opens (and also closes) a terminal window.
+- Use `<Esc><Esc>` (rapidly) to enter normal mode in terminal windows.
+- `<Space>gs` opens a file picker that shows only those files that have
+  changed since the last commit.
+- There are a number of ways to interact with Git from within Neovim but
+  perhaps the easiest might be to invoke Lazygit through `<Space>gg`.
+- Maybe I will want to learn about debugging and running tests in Neovim at
+  some point?
