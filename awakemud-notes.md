@@ -1395,7 +1395,7 @@ A large box sits here.
   experienced runners.
 - DocWagon in Tidewater has an ATM.
 - Don Morello at Diego's Pizza and Gyros in Tidewater offers work (and it
-  seems to be dangerous wetwork.) If you can do his dangerous work, he sells (or
+  seems to be dangerous wetwork). If you can do his dangerous work, he sells (or
   at least can get you fixed up with) special gear.
 - The "kill Jari Kardine quest" has a red herring. Don't go looking in Council
   Island. Instead head to the east end of J'valdi and go north.
