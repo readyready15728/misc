@@ -449,8 +449,11 @@
 - Nicolas Lambardi in the Enigma Nightclub on the second floor of Novatech
   Seattle offers work. (Killing the lawyer's bodyguard can be rough.) (What he's
   offering now is also very dangerous.) (Maxes out at 1000 rep.)
+- When you get to the basement of Bicson for Nicolas Lambardi, the Cybertram
+  he wants is in the southeastern chamber.
 - Angela Wright on the fifth floor of Novatech Seattle offers work for less
   experienced runners (minimum reputation 500).
+- Yukiya Dahayoto is on floor 5 of the Mitsuhama building.
 - Maple Leaf Technologies on the first floor of the Renraku Arcology sells
   decks and various other decking-related technology, including the Hitachi
   RM-AX optical chip encoder.
@@ -486,6 +489,9 @@
   (which in turn includes evaluate utilities).
 - John Smith in Dante's Inferno (Fourth Hell) offers work. (And it's all quite
   difficult.)
+- The vampire Hemorrhage and his cronies John Smith wants dead are under "A
+  torched-out shop" under the mini-mall ruins in Redmond on Burton Street.
+  They can in fact be shot.
 - A girl in line before Dante's Inferno practices Street Etiquette.
 - There is an ATM in Dante's Inferno (Ninth Hell).
 - Janis Reenes in The Platinum Club (SE Seattle) offers work. (Maxes out at
@@ -1413,14 +1419,26 @@ A large box sits here.
   the lobby.
 - Lone Tusk at the Atlantean Foundation in Virginia Beach offers work for less
   experienced runners.
-- Andrea Blue-Feather at Shore Lanes in Virginia Beach offers work.
+- When Lone Tusk sends you against runners in Lysleul Plaza, head to the
+  casino in the west and engage them at range. Most of them are on the second
+  floor. The trail of dead bodies will lead you right to the Johnson and the
+  purloined artifact.
+- Don't do Lone Tusk's Portland Mall run unless very prepared for the elite
+  assassin.
+- Andrea Blue-Feather at Shore Lanes in Virginia Beach offers work (minimum
+  reputation 1200).
 - Franklin Cromwell at the CDC Field Office in Virginia Beach offers work for
   less experienced runners.
+- Broadly speaking, the Winternight terrorists Cromwell wants dead are
+  arranged from north to south when entering the sewer system near the
+  McFarlane mansion. I believe there are three total. Search the bodies for
+  the virus.
 - Natasha Watanabe at Crash Cart in Virginia Beach offers work.
 - Stein the Gnome is in an alley south of Gull Street in Virginia Beach and he
   does repairs. (May have to search in the future.)
 - Dennis Newman at Rosco's Pub & Grille in Virginia Beach offers work for less
   experienced runners.
+- The CDC run Dennis Newman offers is very difficult.
 - Jakob Gunderson at the Ford Motor Company in Virginia Beach offers work for
   less experienced runners.
 - Fausto's Surf Shop in Virginia Beach sells watercraft and water wings.
@@ -1429,11 +1447,15 @@ A large box sits here.
   and in the cemetery in Redmond (2).
 - Dr. Sandra Onasis at Meridional Agronomics in Virginia Beach offers work for
   less experienced runners.
+- If Sandra Onasis wants you to take on shadowrunners in her building, you
+  might want to bail immediately.
 - Coach, just east of the intersection of Highway 60 and Oyster Street at
   Virginia Beach, practices Athletics.
 - There's a garage area for watercraft just east of Fausto's Surf Shop in
   Virginia Beach.
 - Frank at Salieri's Country Club in Virginia Beach offers work.
+- The run against the Triton Federal Credit Union from Frank is very
+  dangerous.
 - Universal Omnitech in Virginia Beach sells high-end bioware.
 - A shady character on Highway 60 (or perhaps nearby) sells mostly hold-out
   pistol ammunition but also EX submachine gun ammunition.
@@ -1442,13 +1464,17 @@ A large box sits here.
 - There is a Matrix terminal on the upper floor of United Oil Industries.
 - Yacob Ishaq on the upper floor of United Oil Industries offers work (and it
   seems to be tricky wetwork) (and he also won't give me work anymore).
+- When getting rid of the toxic shaman for Yacob Ishaq, search in "Under the
+  tanks" on the ground floor for access to the basement.
 - Virginia Beach Sport Rotorcraft sells helicopters.
 - In Norfolk, head all the way north from the intersection of Shore Drive and
   Oceanview Road (nearest taxi destination is `Mcfarlane`), head down, to the
   west, then search, then bypass the grate to the south. **There is a whole
   underground town there!**
-- Mr. Carson at the Mcfarlane Mansion in Norfolk offers work.
-- Once Grand Wizard Mcfarlane gives you the warehouse key, head to "A dark
+- Mr. Carson at the McFarlane Mansion in Norfolk offers work.
+- The Cocotona gangers Mr. Carson wants dead were seen hanging out at the old
+  arcade in Norfolk.
+- Once Grand Wizard McFarlane gives you the warehouse key, head to "A dark
   stretch of forgotten road" all the way in the west of Norfolk. The first
   hidden door will have to be bypassed but beyond that is another one requiring
   the key. Underneath that hatch there is a shop that sells and probably
@@ -1456,8 +1482,12 @@ A large box sits here.
 - Paulie at Moe's Pub in Norfolk offers work. All of it is easy non-violent
   delivery.
 - Wayne Johnson at the Carolina Steakhouse in Norfolk offers work.
+- Wayne Johnson's runs seem to be very easy. They are against low-level Yakuza
+  mobs.
 - Irwin Stevenson at Irwin Stevenson's in Norfolk offers work for less
   experienced runners.
+- Irwin Stevenson's run to save Itchy requires you to find an alley south of
+  "A piece of roadway with a large sinkhole" on Pleasant Drive.
 - Mama June at Mama June's Kitchen in Norfolk offers work.
 - Yuk-Yuk is at Someplace Else in Tidewater.
 - Professor Rudmin can be found in the south of Wallops Island in Tidewater.
@@ -2120,3 +2150,4 @@ Building`, then head roughly west until you find the guerrilla camp. He is in
 - "High" and "luxury" class lifestyles give negative TN modifier to making
   purchases.
 - `HELP NODELETE`.
+* Vinnie's Drone Mart in West Tacoma sells drones.
