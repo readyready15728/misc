@@ -1488,7 +1488,11 @@ A large box sits here.
   experienced runners.
 - Irwin Stevenson's run to save Itchy requires you to find an alley south of
   "A piece of roadway with a large sinkhole" on Pleasant Drive.
-- Mama June at Mama June's Kitchen in Norfolk offers work.
+- Irwin Stevenson's run against a majestic unicorn is dangerous. Considering
+  sniping the non-quest unicorns before moving on to the real target.
+- I-64, where the hellhounds are, is near the airport.
+- Mama June at Mama June's Kitchen in Norfolk offers work. All of it is easy
+  delivery runs.
 - Yuk-Yuk is at Someplace Else in Tidewater.
 - Professor Rudmin can be found in the south of Wallops Island in Tidewater.
 - Herman at the Asylum in Tidewater offers work.
@@ -1540,8 +1544,54 @@ Hellhound            [-65522, 32861 ](Available)
   cyberdecks and computers (Greg's Computer Electronics) as well as a Matrix
   terminal and a fence who buys paydata **very** close by.
 - Mr. Johnson at Smokin' Joe's Long-Pork BBQ in the ghoul town offers work.
+- When getting the run to kill Marquis and get his ring, search in the area to
+  the west of Smokin' Joe's labeled "A blocked off section of subway tunnel".
 - Mr. Carson at the McFarlane Mansion in Norfolk offers work (and it's
   wetwork).
+- Cross Applied Technologies is on Oyster Street in Virginia Beach.
+- Dr. Bouchard's Bioware Clinic (ground floor of Cross Applied Technologies)
+  sells high-end bioware.
+- Dr. Gauthier's Cyberware Clinic (ground floor of CAT) sells high-end
+  cyberware.
+- Cross Applied Technologies Consumer Electronics (ground floor of CAT)
+  deckbuilding parts; laser sights; portable GridGuide units; smart, low-light
+  and thermographic shades; middle-tier computers; electronics kits and
+  **workshops**; remote control decks; radios; and wrist phones.
+- There is a Matrix terminal on the ground floor of CAT.
+- Marie St. Claire (ground floor of CAT, southeast) offers work.
+- Guillaume Tremblay (ground floor of CAT, southwest) offers work.
+- Etienne Marceau (first floor of CAT, northeast) offers work.
+- Elodie Marchand (first floor of CAT, northwest) offers work.
+- Pierre Belanger (first floor of CAT, southwest) offers work.
+- Dr. Seraphin Duguay (first floor of CAT, southeast) offers work.
+- Marc-Andre Lavoie (second floor of CAT, northwest) offers work.
+- Genevieve Rousseau (second floor of CAT, northeast) offers work.
+- Isabeau Tremblay-Vinet (third floor of CAT, southwest) offers work.
+- Commander Jean-Marc (second floor of CAT, southwest) offers work.
+- Emile Marceau (second floor of CAT, southeast) offers work.
+- Arnaud Desjardin (third floor of CAT) offers work.
+- Maxence Lafleur (third floor of CAT) offers work.
+- Jean-Marie Cross (third floor of CAT) offers work.
+- Frank Horrigan can be found at Mama June's in Norfolk.
+- The "shady character" can be found on or near Highway 60 in Virginia Beach
+  but it can be tricky.
+- Marc Andre-Lavoie's tractor run involves a frustrated farmer on the highway
+  in the north part of Tidewater.
+- Marc Andre-Lavoie's pier run really demands milspec armor.
+- Newton, the small time fence's operation is on the eastern side of the
+  highway in the north of Tidewater. Newton operates much like the pawn shop in
+  Little Chiba.
+- Emilia Nealon can be found during a run east and a little bit south
+  of Fausto's Surf Shop, out in the water.
+- For Dr. Seraphin Duguay's run that involves a "dark humid hidden place",
+  search just east of the old arcade in Norfolk.
+- Genevieve Rousseau's meddling reporter was found on Mermaid Street in
+  Virginia Beach.
+- The mobs at the dog park for a later run from Rousseau must be dispatched
+  very carefully (as must various other mobs encountered working for executives
+  at CAT).
+- Doing anything for a CAT Johnson in the Grenada jungle camp is **extremely
+  dangerous**.
 - Anchor Insurance is right next to the Rhino. (Take a good look at the
   anchor sculpture.)
 - There is a Matrix terminal at Anchor Insurance.
@@ -1825,50 +1875,6 @@ Building`, then head roughly west until you find the guerrilla camp. He is in
 - There is a sewer all the way to the south of the Massage Parlor in Chinatown
   that can be accessed by searching in that area.
 - `help costtime`.
-- Cross Applied Technologies is on Oyster Street in Virginia Beach.
-- Dr. Bouchard's Bioware Clinic (ground floor of Cross Applied Technologies)
-  sells high-end bioware.
-- Dr. Gauthier's Cyberware Clinic (ground floor of CAT) sells high-end
-  cyberware.
-- Cross Applied Technologies Consumer Electronics (ground floor of CAT)
-  deckbuilding parts; laser sights; portable GridGuide units; smart, low-light
-  and thermographic shades; middle-tier computers; electronics kits and
-  **workshops**; remote control decks; radios; and wrist phones.
-- There is a Matrix terminal on the ground floor of CAT.
-- Marie St. Claire (ground floor of CAT) offers work.
-- Guillaume Tremblay (ground floor of CAT) offers work.
-- Pierre Belanger (first floor of CAT, southwest) offers work.
-- Elodie Marchand (first floor of CAT) offers work.
-- Etienne Marceau (first floor of CAT) offers work.
-- Dr. Seraphin Duguay (first floor of CAT, southeast) offers work.
-- Marc-Andre Lavoie (second floor of CAT, northwest) offers work.
-- Genevieve Rousseau (second floor of CAT, northeast) offers work.
-- Isabeau Tremblay-Vinet (third floor of CAT, southwest) offers work.
-- Commander Jean-Marc (second floor of CAT, southwest) offers work.
-- Emile Marceau (second floor of CAT, southeast) offers work.
-- Arnaud Desjardin (third floor of CAT) offers work.
-- Maxence Lafleur (third floor of CAT) offers work.
-- Jean-Marie Cross (third floor of CAT) offers work.
-- Frank Horrigan can be found at Mama June's in Norfolk.
-- The "shady character" can be found on or near Highway 60 in Virginia Beach
-  but it can be tricky.
-- Marc Andre-Lavoie's tractor run involves a frustrated farmer on the highway
-  in the north part of Tidewater.
-- Marc Andre-Lavoie's pier run really demands milspec armor.
-- Newton, the small time fence's operation is on the eastern side of the
-  highway in the north of Tidewater. Newton operates much like the pawn shop in
-  Little Chiba.
-- Emilia Nealon can be found during a run east and a little bit south
-  of Fausto's Surf Shop, out in the water.
-- For Dr. Seraphin Duguay's run that involves a "dark humid hidden place",
-  search just east of the old arcade in Norfolk.
-- Genevieve Rousseau's meddling reporter was found on Mermaid Street in
-  Virginia Beach.
-- The mobs at the dog park for a later run from Rousseau must be dispatched
-  very carefully (as must various other mobs encountered working for executives
-  at CAT).
-- Doing anything for a CAT Johnson in the Grenada jungle camp is **extremely
-  dangerous**.
 - **Indispensable 'ware for any character: smartlink, brain bio and trauma
   bio.**
 - I was able to sell a junked kayak by dropping and selling it.
@@ -2136,8 +2142,8 @@ Building`, then head roughly west until you find the guerrilla camp. He is in
   slot) are a good pick for Haensel. 3 net reach from a bayonet is massively
   helpful. If you're going light chrome, or just not bothering with muscle aug
   bio, the monowhip is still a top contender for melee.
-- Increasing Spell Design all the 12 can assist with success rate and reduce
-  the amount of time needed.
+- Increasing Spell Design all the way to 12 can assist with success rate and
+  reduce the amount of time needed.
 - Discord |]Question[| \[Essy\]: ware and magic stack, so optimally you get
   both (and just ritual cast your buffs to make them less miserable). as for
   efficacy ware is like, usually more efficent. neutral at worst for the bio
@@ -2150,4 +2156,10 @@ Building`, then head roughly west until you find the guerrilla camp. He is in
 - "High" and "luxury" class lifestyles give negative TN modifier to making
   purchases.
 - `HELP NODELETE`.
-* Vinnie's Drone Mart in West Tacoma sells drones.
+- Increase Reflexes (+_n_) requires only one point but force matters for
+  resisting detection of the Stealth spell.
+- Confusion has less drain than Chaos, though it only applies to living
+  beings.
+- Confusion and Chaos both result in a sustaining penalty...
+- Recent extensions to the CAS zone will be attached to an area in the
+  Accawamacke kingdom where there is a watch tower.
