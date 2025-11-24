@@ -142,3 +142,99 @@
   ingredients it is more productive to change spot regularly (like every 10-15
   explores) to optimize your yield. You can see the status of the fertility
   (from Exhausted to Abundant) of the spot you are in on your Main Page."
+- "On your Character Sheet, underneath your stats, go to 'Evolve'. This is
+  where you can increase your stats. Your Evolution Points (EPs) depend on the
+  total sum of all your skills (both weapon skills and general skills). As you
+  raise your main weapon skill, your crafting skills etc, you will gain extra
+  EPs. You can then spend these Evolution Points to increase the stat of your
+  choice."
+- Summary of stats:
+  - "Agility: primary stat for hitting/dodging but does not increase damage."
+  - "Strength: secondary stat for hitting/dodging, strongly affects the amount
+    of damage you deal with each hit. Also increases carrying weight by 1 kg."
+  - "Intelligence: lowers the amount of XP required to skill up. Its effects
+    applies to all weapon skills and all general skills, no matter the level. It
+    is also the secondary stat for Mana points (gives 1 max mana point)."
+  - "Health: primary HP stat (gives 5 Health points). Helps with
+    auto-regeneration of HP."
+  - "Endurance: secondary HP stat (gives 2 Health points) and secondary MP
+    stat (1 max mana point). Increases carrying weight by 0.25kg. Helps with
+    auto-regeneration of HP."
+  - "Instinct: increases chances of spirit catching, item finding, fleeing,
+    blocking someone from fleeing and pretty much everything with a luck factor.
+    Gives a small attack power bonus if lucky. Does not affect crafting."
+  - "Will: increases elemental protection by 1%, it is also the primary way to
+    boost Mana increasing maximum mana points by 2, and carrying weight by
+    0.25kg. It also increases your chance to catch spirits."
+- "With regards to weapons, you get experience from each hit. Therefore it’s
+  better to wear training weapons when fighting monsters and only use higher
+  tier weapons in emergencies, boss fights or PvP."
+- "When a creature attacks you, look closely at what it does. If it 'cuts' you
+  or 'claws' you for example, then that is Slicing damage. If it 'stabs you',
+  'pecks you', 'pierces you' or 'bites' you, then this is most likely Piercing
+  damage. And if it 'charges you', 'tramples you', 'punches you', 'headbutts
+  you' or 'throws something at you' then you can bet it is blunt damage."
+- "To defend against physical damage, you need to have a good armor and a good
+  shield (if you are using a 1-handed weapon)."
+- How to make a basic Wood Shield: "You first need to use the Tailoring recipe
+  to craft 2 leather strips using Hides. Then you need to go in a forest (green
+  tiles on the map) and use "cut wood" (you have to have the axe in your
+  inventory) and spend about 5-10 turns on it. You are not very skilled yet so
+  you will fail to gather logs quite frequently, just keep on going until you
+  have 2 or 3. Then use the Woodworking recipes to craft 4 Planks and 3 Thatch
+  from these logs. Then you'll have all the ingredients required to use the
+  final Woodworking recipe to craft the Wood Shield. If any of the recipes fail,
+  just cut some more logs and keep trying!"
+- To access storage of The Quiet, go to 58, 177 and enter inventory.
+- "OK now, another kind of damage you can get, is elemental damage. So far we
+  have identified only two types: poison, and acid. Many creatures out there
+  have one of those two elements that can cause extra damage. The bad news is,
+  armors and shields are useless against this type of damage. What helps though
+  is your Will. Just like any other stat, you can increase your Will by spending
+  your Evolution Points in the Evolve Page. And here the reduction is a
+  percentage. If a monster hits you for 10 poison damage, and your Will is 20,
+  you get a 20% reduction, so you will only suffer 8 damage. Understood?"
+- "Will also increases your Mana Points. And it also helps you catch spirits
+  better. I see your collection of spirits is quite poor. Let's practice with
+  Crows, they are easy to get, even for someone like you. See the two bridges
+  south-west of cap? Go that way, as soon as you are out of the second bridge
+  there will be a waste next to you. Explore and walk around in that waste, you
+  will find Crows. Try and catch their spirit. You just need to kill them, and
+  then hope to get lucky. Sometimes you'll get a spirit in the first tries,
+  sometimes you'll need to kill 20, 30 or more before catching their spirit."
+- "You can increase your success rate by raising your Will or your Instinct.
+  As a matter of fact, take this potion of Luwill, and drink it right before you
+  start hunting for crows. It will greatly increase your chances of catching a
+  spirit during 24 hours."
+- "You can also see which spirits you have caught by going into your Kill List
+  and then Spirit List."
+- It is possible to get a movement buff in the capital.
+- A few notes on weapons:
+  - Daggers are popular among the Lightfoot.
+  - (One-handed) swords are good all-around weapons, paired with shields.
+  - (One-handed) axes work well with shields as well.
+  - Two-handed swords and polearms require certain "physical capacity"
+    (Strength and Agility, I think).
+  - Blowguns require little Strength but hitting targets with them requires a
+    lot of skill.
+  - Two-handed axes are favored by Dwarr.
+  - Dual swords mean less protection but more chances to hit one's target.
+  - Two-handed hammers are favored by Giants.
+  - "\[Flails\] originate from torture chambers and other places where the
+    object was not to kill quickly and effectively, but to prolong pain until
+    the victim dies of shock. Ultimately this is not such a bad outcome on the
+    battlefield either."
+  - Kiith like spears. Spears work well with shields.
+- "Now the stronger the monster, and the harder the spirit is to catch. A crow
+  requires 10 sorcery, a mammoth requires 380 sorcery. You can also stack
+  spirits. If you have 70 sorcery, you can carry up to 7 Crow spirits. The
+  amount of sorcery XP you receive also depends on the monster. A crow spirit
+  will give you 12xp when you catch it. A mammoth, over 600xp!"
+- "When your sorcery skill is high enough, there are also a few things you can
+  craft, such as enchanted rings or amulets, in which you inject some spirits."
+- "I think that's enough for this lesson. Carry on now. Keep raising that main
+  skill of yours. When you reach 70, come back to cap, I know Biologist Rwandi
+  is looking for someone to help him on his research. You could also try to find
+  some work at the Crafting Guild, a little east of here at 74,162 where
+  Mastersmith Vendrick has recently set up a new world-class smithing forge. And
+  there's always the ancient's academy, I will tell you more when you get back."
