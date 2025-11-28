@@ -225,6 +225,14 @@
     the victim dies of shock. Ultimately this is not such a bad outcome on the
     battlefield either."
   - Kiith like spears. Spears work well with shields.
+- Ways to improve skills:
+  - By using them, typically the best.
+  - From another player, for gold. "This is only effective if the difference
+    in skill between you and your master is very large."
+  - "If you obtained an Ancient Relic through a quest or an event, you can use
+    it to get a specialized training worth 2500XP. But relics are very rare and
+    hard to come by!"
+  - Solo training (least efficient)
 - "Now the stronger the monster, and the harder the spirit is to catch. A crow
   requires 10 sorcery, a mammoth requires 380 sorcery. You can also stack
   spirits. If you have 70 sorcery, you can carry up to 7 Crow spirits. The
@@ -238,3 +246,19 @@
   some work at the Crafting Guild, a little east of here at 74,162 where
   Mastersmith Vendrick has recently set up a new world-class smithing forge. And
   there's always the ancient's academy, I will tell you more when you get back."
+- "Ok here is the list of what I need, think you can handle it? Of course you
+  can, look at you, you were destined for this. All I know is that Permiana are
+  usually in Plains, Babirusa in Forests, White-winged bats in Wastes, Desert
+  Scorpions in... well Deserts obviously... and Scolopendras in Mountains."
+- "Notice how, instead of using 50 turns (5 times 10), we used only 30. Doing
+  lump crafts is a very efficient way to get more bang for your turns. But
+  heads-up! The XP reward is based on how many turns we actually spent! So we
+  received 300XP. Crafting the shields one by one would have cost us 50 turns,
+  but would have earned us 500XP. Therefore in some cases, if you are not so
+  interested in saving turns, but rather in optimizing your ingredients and
+  maximizing your training, then you will want to craft items one-by-one rather
+  than lumping them."
+- Store gold in the bank, using the "Downtown" area of New Heaven.
+- "From my understanding, Meolanias should roam in plains, Giant Venus Fly
+  Traps in forests, White vipers in wastes, Mohawkuanas in the mountains, and
+  Desert Iguanas in... well take a wild guess..."
