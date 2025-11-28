@@ -2163,3 +2163,4 @@ Building`, then head roughly west until you find the guerrilla camp. He is in
 - Confusion and Chaos both result in a sustaining penalty...
 - Recent extensions to the CAS zone will be attached to an area in the
   Accawamacke kingdom where there is a watch tower.
+- `mob` and `item` show the names of NPCs and items around you.
