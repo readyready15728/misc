@@ -30,6 +30,8 @@
 - `I` to display spells without casting.
 - `t` to order allies.
 - Heavy armor is detrimental to both missile attacks and spellcasting.
+- Mountain Dwarves are affected by heavy armor when spellcasting much less
+  than other races.
 - Thrown weapons are not slowed by armor.
 - `Ctrl-O` to show a list of interesting features found so far.
 - `>` to pray at an altar.
@@ -43,8 +45,8 @@
   main display.
 - Size has various effects that could be quite important.
 - `?/t` to look up status effects.
-- "The usual skill advice in Crawl is to "train your killing skills to
-  competency first, then train your defenses". Dodging an extra attack won't
+- "The usual skill advice in Crawl is to 'train your killing skills to
+  competency first, then train your defenses'. Dodging an extra attack won't
   help if you have to use a consumable to beat every other fight. It's perfectly
   reasonable to turn Dodging off at the start, then turn it back on later on
   when you feel skilled enough at killing stuff."
