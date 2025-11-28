@@ -221,3 +221,15 @@
   with your current ship name (under the picture), click this pencil and give
   your ship a name you'll remember (it will be important in a bit). Once you
   have set a new name, I'll call you back."
+- "So in combat we had a load of random cards right? This happens when you
+  don't define a combat deck or cannot fill it. A combat deck is ship specific
+  and we can make one up in the tactical window. To do this, press the cards
+  section in the tactical window and in the section called current deck, press
+  the deck builder link. You can add any cards you want to your deck by pressing
+  the plus button, up to 25. You can also only add up to 5 special cards.
+  Building a deck although not essential, will make combat easier for you in the
+  future. So have a play around with it and call me back when you are ready."
+- Re: getting new cards: "I've loaded a basic set into your computer. But,
+  each ship will give you some new cards that are ship specific. Other than that
+  you will need to learn skills to obtain new cards. Oh - some fancy equipment
+  also sometimes interfaces with your computer to show new cards as well"
