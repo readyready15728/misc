@@ -8,3 +8,5 @@
 - The seeds turn into fruit and must be harvested after a day to prevent them
   from spoiling. They, along with cooked fish and cooked meat, are used during
   combat rounds to increase health.
+- "\[Before combat, first\], build a warehouse and put extra supplies and
+  equipment in it. Only take food and equipped items like daggers."
