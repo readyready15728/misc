@@ -2119,8 +2119,11 @@ Building`, then head roughly west until you find the guerrilla camp. He is in
 - Scarecrow's Reinforced Furniture in the Troll Underground sells furniture,
   including storage containers.
 - Chimaera Wares in the Troll Underground sells high-end bioware and
-  cyberware.
+  cyberware. The backroom can be accessed by working for Mister Gaines (see
+  below.)
 - Mister Gaines at The Vagabond in the Troll Underground offers work.
+- Dalton Ripley, wanted by Mister Gaines, is easy to find in Victoria. Just
+  look at the map.
 - Fenrir's Forge in the Troll Underground sells melee weapons, including a
   troll-modified monofilament glaive (Pole Arm).
 - Mechtild's Munitions in the Troll Underground sells normal assault rifle,
@@ -2164,3 +2167,4 @@ Building`, then head roughly west until you find the guerrilla camp. He is in
 - Recent extensions to the CAS zone will be attached to an area in the
   Accawamacke kingdom where there is a watch tower.
 - `mob` and `item` show the names of NPCs and items around you.
+- `penalties`.
