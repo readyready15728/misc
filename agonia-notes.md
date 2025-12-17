@@ -208,7 +208,8 @@
   spirit during 24 hours."
 - "You can also see which spirits you have caught by going into your Kill List
   and then Spirit List."
-- It is possible to get a movement buff in the capital.
+- It is possible to get a movement buff in the capital, as well as free
+  healing.
 - A few notes on weapons:
   - Daggers are popular among the Lightfoot.
   - (One-handed) swords are good all-around weapons, paired with shields.
@@ -262,3 +263,12 @@
 - "From my understanding, Meolanias should roam in plains, Giant Venus Fly
   Traps in forests, White vipers in wastes, Mohawkuanas in the mountains, and
   Desert Iguanas in... well take a wild guess..."
+- Dwellings in allied cities give you access to your own storage. (I'm not
+  sure it's shared storage though, is it? (It indeed is not.))
+- "These classes can be taken once, each, per calender month, and they all
+  cost 1 Ancient Relic each. The Ancient Academy (74, 148) can train you in
+  Fleeing (2500 XP), Seeking (2500 XP), Alchemy (2500 XP), Runic (2500 XP),
+  Sorcery (2500 XP), General Course (600 XP to all five above skills). The
+  Crafting Guild (74, 162) can train you in: Masonry (2500 XP), Blacksmithing
+  (2500 XP), Tailoring (2500 XP), Woodworking (2500 XP) Stoneworking (2500 XP),
+  General Course (600 XP to all five above skills).
