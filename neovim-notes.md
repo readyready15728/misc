@@ -155,3 +155,5 @@ return {
   perhaps the easiest might be to invoke Lazygit through `<Space>gg`.
 - Maybe I will want to learn about debugging and running tests in Neovim at
   some point?
+- `<Space>uC` can be used for a live preview of the different color schemes
+  that have been installed.
