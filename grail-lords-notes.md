@@ -94,3 +94,6 @@
   - "All animals are produced by the town’s breeding program. Seekers can
     improve their Animal Attitude Skills by helping the town with their Breeding
     Program in the Labor Hall in exchange for a wage."
+  - Putting things on sale is done at your residence.
+- Accelerated healing can be done at the Town Hospital, using your own
+  stamina, money, or Grail tokens. Healing potions also work.
