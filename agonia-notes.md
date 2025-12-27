@@ -272,3 +272,6 @@
   Crafting Guild (74, 162) can train you in: Masonry (2500 XP), Blacksmithing
   (2500 XP), Tailoring (2500 XP), Woodworking (2500 XP) Stoneworking (2500 XP),
   General Course (600 XP to all five above skills).
+- Multiple quests can be taken on at once.
+- It's possible to get intelligence on a square in the "Look Around" view by
+  clicking on it.
