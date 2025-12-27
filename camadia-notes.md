@@ -19,3 +19,5 @@
 - One can do Mining in Gander in Newfoundland. There is also a Trading Post in
   Gander.
 - Text in the guild channel is private to members of the guild.
+- In Burgeo in Newfoundland it is possible to smelt ingots and smith equipment
+  (both Blacksmithing, I think).
