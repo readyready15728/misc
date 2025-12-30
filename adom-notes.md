@@ -33,3 +33,5 @@
   6. Mithril Skin: +3 to PV (Steel Skin, Dwarf)
 - Desired total stats for Dwarven Paladin in character generation: 16, 15, 13,
   14, 15, 6, 3, 12, 12.
+- Karmic creatures should not be attacked in melee. Note that **them**
+  attacking **you** will not affect your like.
