@@ -19,7 +19,18 @@ distributions of attributes](https://en.uesp.net/wiki/Morrowind:Races).
   inventory and dropping it on my character.
 - Press `F` to draw or sheath your weapon.
 - Click and hold the left mouse button to attack. Holding it down longer will
-  result in more powerful (but more fatigue-inducing) attacks.
+  result in more powerful (but more Fatigue-inducing) attacks.
 - Legible items in the world can be read with `<Space>`. Legible items in
   inventory can be "equipped" to be read.
 - Torches and lights can also be equipped and have a finite duration.
+- Lock picks have to be readied after being equipped to be used. Use the left
+  mouse button to make an attempt.
+- Select an active spell in the magic menu, then `R` to ready, and left mouse
+  button to cast.
+- Using Persuasion can backfire if not successful.
+- `J` to open journal.
+- Using `<Space>` on objects typically seems to take them.
+- `E` jumps.
+- `T` shows the time and enables waiting and resting.
+- Running induces Fatigue.
+- Look for "Training" in dialogues at the appropriate places.
