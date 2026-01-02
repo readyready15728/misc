@@ -25,6 +25,8 @@ distributions of attributes](https://en.uesp.net/wiki/Morrowind:Races).
 - Torches and lights can also be equipped and have a finite duration.
 - Lock picks have to be readied after being equipped to be used. Use the left
   mouse button to make an attempt.
+- If you can't see your inventory upon right-click, try left-clicking any
+  icons that might be in the lower left.
 - Select an active spell in the magic menu, then `R` to ready, and left mouse
   button to cast.
 - Using Persuasion can backfire if not successful.
@@ -34,3 +36,14 @@ distributions of attributes](https://en.uesp.net/wiki/Morrowind:Races).
 - `T` shows the time and enables waiting and resting.
 - Running induces Fatigue.
 - Look for "Training" in dialogues at the appropriate places.
+- The Imperial Legion is recruiting at Fort Darius, in the West Gash near the
+  village of Gnisis.
+- Processus Vitellius, tax collector of Seyda Neen, has gone missing.
+- Divine Intervention serves as a "Word of Recall"-type spell that transports
+  you instantly to the nearest Imperial Cult shrine. Useful for escaping great
+  danger or just as a fast means of transport, especially when laden with
+  heavy goods.
+- One should use armorer's hammers on the spot (as they are heavy) or maybe
+  carry backup weapons.
+- Solstheim can be accessed by boat from Khuul.
+- Daedra cults are bad news.
