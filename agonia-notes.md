@@ -275,3 +275,13 @@
 - Multiple quests can be taken on at once.
 - It's possible to get intelligence on a square in the "Look Around" view by
   clicking on it.
+- Fishing is unique to Lightfoots as far as The Order is concerned. (You have
+  to learn the "Walk on Water" spell.)
+- Fishing requires no special equipment, just do gathering.
+- Fishing can be used to acquire gems.
+- Only river fishing is safe. Avoid the sea.
+- Fleeing battle and letting your bones knit while fighting wildlife works but
+  is inadvisable in raid-prone areas due to the amount of time it takes.
+- I might want to start training weapons other than the one I started with to
+  gain evolution points. (After reaching hard cap on the initial weapon skill
+  I suppose.)
