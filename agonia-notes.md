@@ -285,3 +285,5 @@
 - I might want to start training weapons other than the one I started with to
   gain evolution points. (After reaching hard cap on the initial weapon skill
   I suppose.)
+- Fleeing can only be trained in the capital or using Ancient Relics in the
+  Ancient Academy.
