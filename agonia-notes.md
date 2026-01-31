@@ -287,3 +287,5 @@
   I suppose.)
 - Fleeing can only be trained in the capital or using Ancient Relics in the
   Ancient Academy.
+- Muddy Gemstones can be opened.
+- Raise evolution points with crafting and secondary weapons.
