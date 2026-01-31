@@ -227,7 +227,8 @@
     battlefield either."
   - Kiith like spears. Spears work well with shields.
 - Ways to improve skills:
-  - By using them, typically the best.
+  - By using them, typically the best (though availability of materials can
+    bottleneck progress).
   - From another player, for gold. "This is only effective if the difference
     in skill between you and your master is very large."
   - "If you obtained an Ancient Relic through a quest or an event, you can use
