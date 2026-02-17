@@ -21,3 +21,4 @@
 - Text in the guild channel is private to members of the guild.
 - In Burgeo in Newfoundland it is possible to smelt ingots and smith equipment
   (both Blacksmithing, I think).
+- Monthly festivals typically run from the 15th to 18th.
