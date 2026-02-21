@@ -22,3 +22,5 @@
 - In Burgeo in Newfoundland it is possible to smelt ingots and smith equipment
   (both Blacksmithing, I think).
 - Monthly festivals typically run from the 15th to 18th.
+- Tin mine at 47, 219.
+- Copper mine at 38, 222.
