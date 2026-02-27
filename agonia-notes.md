@@ -295,3 +295,4 @@
 - Tin mine at 62, 257.
 - Iron mine at 66, 262.
 - Copper mine at 85, 264.
+- Tin mine at 76, 239.
