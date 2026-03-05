@@ -290,11 +290,4 @@
   Ancient Academy.
 - Muddy Gemstones can be opened.
 - Raise evolution points with crafting and secondary weapons.
-- Tin mine at 47, 219.
-- Copper mine at 38, 222.
-- Tin mine at 62, 257.
-- Iron mine at 66, 262.
-- Copper mine at 85, 264.
-- Tin mine at 76, 239.
-- Copper mine at 71, 246.
-- Tin mine at 58, 176.
+- Mines change place over time!
