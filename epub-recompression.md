@@ -78,6 +78,9 @@ directory:
     modified, because, in those cases, the angle bracket must be escaped as
     `&lt;`. On the other hand, it is robust enough to account for an `alt`
     attribute or the like intervening between `img` and the `src` attribute.
+    \[**N.b.**: Other files like `content.opf` may need to be altered. Not
+    doing so has never actually changed my reading experience but I now do so
+    for the sake of completeness.\]
 
 8. If you followed my advice in step 3, `cd` to the image directory if you are
 not already in it and run `du -ch` again to get a sense of how much space
