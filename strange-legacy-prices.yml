@@ -1,0 +1,54 @@
+Capital City:
+  Artifact: 200000
+  Beer: 600
+  Bow: 3200
+  Bread: 295
+  Cattle: 2347
+  Diamond: 30000
+  Fish: 128
+  Glass: 3000
+  Grain: 103
+  Iron: 2551
+  Meat: 589
+  Paper: 3000
+  Wine: 900
+  Sand: 250
+  Silk: 4500
+  Spices: 4500
+  Stone: 2000
+  Weapon: 5881
+Drake City:
+  Bow: 2500
+  Fish: 150
+  Meat: 750
+  Iron: 1800
+  Weapon: 4000
+  Wine: 800
+  Wood: 2000
+Elves Rise:
+  Bow: 1600
+  Grain: 100
+  Spices: 3500
+  Wine: 900
+Harbour City:
+  Beer: 700
+  Bow: 2500
+  Cattle: 2300
+  Fish: 72
+  Spices: 4800
+  Stone: 2000
+  Weapon: 4500
+  Wine: 800
+  Wood: 2971
+Stonecutter:
+  Cattle: 3000
+  Fish: 100
+  Grain: 200
+  Iron: 2300
+  Stone: 1200
+Swamp City:
+  Bread: 800
+  Grain: 120
+  Silk: 3000
+  Weapon: 5500
+  Silk: 3000
