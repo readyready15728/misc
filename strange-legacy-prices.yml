@@ -11,12 +11,20 @@ Capital City:
   Iron: 2551
   Meat: 589
   Paper: 3000
-  Wine: 900
   Sand: 250
   Silk: 4500
   Spices: 4500
   Stone: 2000
   Weapon: 5881
+  Wine: 900
+Desert Keep:
+  Diamond: 29000
+  Fish: 150
+  Grain: 200
+  Silk: 4500
+  Spices: 4500
+  Water: 50
+  Wine: 1000
 Drake City:
   Bow: 2500
   Fish: 150
@@ -30,6 +38,11 @@ Elves Rise:
   Grain: 100
   Spices: 3500
   Wine: 900
+Grapevillage:
+  Bread: 500
+  Cattle: 2000
+  Grain: 200
+  Wine: 500
 Harbour City:
   Beer: 700
   Bow: 2500
@@ -51,4 +64,11 @@ Swamp City:
   Grain: 120
   Silk: 3000
   Weapon: 5500
-  Silk: 3000
+  Wine: 1000
+Woodcutter:
+  Cattle: 3000
+  Fish: 200
+  Grain: 200
+  Iron: 2000
+  Wine: 800
+  Wood: 1400
