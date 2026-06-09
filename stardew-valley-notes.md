@@ -22,6 +22,7 @@
 * A Chest to store excess goods is the first item you should craft. In terms
   of degradation of materials it appears to make no difference whether Chests
   are in- or outdoors. (They will last forever.)
+* Make use of Add to Existing Stacks when interacting with chests!
 * Fences are useful for keeping weeds at bay and protecting crops.
 * Pierre's General Store has the upgraded backpacks for 2000G and 10000G
   respectively.
