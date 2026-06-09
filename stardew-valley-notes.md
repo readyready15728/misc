@@ -13,6 +13,9 @@
   of which defends an 8 tiles in each direction. Scarecrows can therefore
   defend at least 5x5 patches to the northeast, southeast, southwest and
   northwest.
+* "Placing floor or path tiles under your scarecrows is a smart trick to
+  prevent them from being accidentally destroyed or uprooted when you use your
+  scythe or pickaxe to clear out withered crops or weeds."
 * Fishing can be very frustrating. What's worked for me so far is casting the
   line out as far as possible with the Training Rod, which will presumably
   become useless at level 5 of Fishing.
@@ -286,7 +289,10 @@ Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
   but the Auto-Fill Ingredients button will find the items from any inventory
   all the same."
 * Animal Husbandry Mod has quite a few options including turning off treats
-  and the animal contest which is what I will be doing.
+  and the animal contest which is what I will be doing. I will also be using
+  softermode and disabling the meat tool letter to avoid cluttering my
+  inventory. (It will be necessary to use the meat button in the animal query
+  to gather meat.)
 * Horse Overhaul makes the horse hit box 1x1 in all directions. There is also
   (limited) interaction with the environment while on horseback and a number
   of other things I will document as I encounter them.
@@ -301,6 +307,12 @@ Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
 * Happy Birthday made it impossible for me to read my mail so I got rid of it.
 * I prefer to turn off treats and the animal contest in the Animal Husbandry
   mod.
+* Sometimes Alecto the Witch can get stuck due to a patch of grass added
+  outside her cave if SVE is present. Scythe the grass away to fix it.
+* After installing Artisanal Soda Makers, make sure all the right boxes are
+  checked off in its configuration.
+* There is a [Reddit thread concerning how to unlock the Aurora Vineyard in
+  SVE](https://www.reddit.com/r/StardewValleyExpanded/comments/195cmef/how_do_i_activate_aurora_vineyard/).
 * I found a [Reddit thread documenting different expansions for Stardew
 Valley](https://www.reddit.com/r/StardewValleyMods/comments/1gcamep/recommend_me_some_quality_expansion_mods/)
   which will be worth looking into at some point. More can be found by Googling
