@@ -250,6 +250,7 @@
   increasing Speed, bridges of cooled lava and the screenshot trick.
 * `|` to open the NPC Map Locations minimap.
 * `p` to open the CJB Cheats Menu.
+* `v` opens the Schedule Viewer.
 * With Lookup Anything, use `<F1>` to query what is under the cursor and
 `<Shift>-<F1>` to do lookup instead.
 * CJB Item Spawner opens with `i`.
