@@ -1,6 +1,9 @@
 # Stardew Valley Notes
+
 ## "It ain't much but it's honest work"
 
+* (60, 45, 60) gives a decent gray eye color.
+* Pants should be (64, 64, 16)..
 * Tools and other objects have very limited range.
 * Check the weather forecast for rain which will mean you don't have to water
   your crops.
@@ -93,7 +96,7 @@
 * Regarding chicken hearts: "It's easy you just have to feed them and right
   click on them every day. also, right clicking on them will not increase
   their hearts when they are upset. so give them heaters in the winter and let
-  them outside in the summer, Fall and spring ( they will not get lost because
+  them outside in the summer, Fall and spring (they will not get lost because
   thay all come back inside beetween 5PM and 5.30PM) Hope this helps!"
 * Cut out weeds, stumps and stones from the wilderness to maximize space for
   foraging.
@@ -111,7 +114,7 @@
   Pots.
 * Dig on spots where little brown stems appear.
 * Trellis crops can't be walked through. (Suggest 3x3 design with empty
-  center? That or rows to walk between.)
+  center? That or rows to walk between. Passable Crops fixes things entirely.)
 * The Mayonnaise Machine can be quite profitable.
 * Grass mowed while all Silos are full doesn't count towards Hay.
 * Light sources are needed for lower mine levels.
@@ -156,7 +159,7 @@
 * The Old Mariner sells the Mermaid's Pendant, vital to marriage.
 * Extra friendship levels appear after marriage.
 * Once ten hearts of friendship are attained they never go down.
-* Apparently children are possible?
+* Apparently children are possible.
 * "For processing animal products, I suggest putting them in the building with
   the relevant animals. So, put your cheese presses in your barn, put your
   mayo-makers in the coop. If you have 1 per animal then you can just pick up
@@ -194,7 +197,8 @@
   It also keeps any placed fences from decaying, so they'll no longer need
   repair."
 * Speed-boosting items also work when on horseback.
-* Your horse needs a gap of two spaces to navigate a narrow area.
+* Your horse needs a gap of two spaces to navigate a narrow area. (But not
+  with Horse Overhaul.)
 * Find all the secret notes!
 * Forage and beachcomb on Saturday, before the weekly reset.
 * Seed packets can be profitable.
@@ -206,7 +210,8 @@
 * Salmonberries are best turned into Jellies.
 * The Casino can be unlocked.
 * Use Tree Fertilizer to accelerate tree growth.
-* Maybe letting Pigs out all day is a good idea?
+* Maybe letting Pigs out all day is a good idea? (Better idea is using Auto
+  Animal Doors.)
 * Give back the Wizard's Magic Ink to make magic buildings available.
 * The Iridium Band is really nice.
 * Harvey's clinic has valuable supplies!
@@ -220,9 +225,11 @@
 * Fairy Roses have a crappy profit margin but can increase the price of honey
   produced by bees to a very high degree.
 * `~/.config/StardewValley/ErrorLogs/SMAPI-latest.txt` contains useful
-  diagnostic info that can be parsed [here](https://smapi.io/log).
+  diagnostic info that can be parsed [using an online utility program](https://smapi.io/log).
 * Use the cog button on the title screen for mods using Generic Mod Config
-  Menu.
+  Menu. (It works in game just as well!)
+* The little keyboard on the Generic Mod Config Menu shows all keybindings and
+  highlights conflicting ones in red.
 * Chests in this order, right to left: non-comestibles from above ground,
   non-comestibles from below ground, automated furnace, random junk,
   spring produce and other comestibles, then summer produce, fall, winter
@@ -233,10 +240,63 @@
   on Google Docs that includes info for mods.
 * Community Center progress can be viewed from inventory.
 * If using the automated animal door mod, it's best to feed and pet animals
-first thing.
+  first thing.
 * Blueberries sell for as much as they do from Preserve Jars as from Kegs, but
-in half the time.
+  in half the time.
 * Some Golden Walnut locations do not work unless a special note is read
-first.
+  first.
 * I was able to get to the end of the Volcano Dungeon using only food
   increasing Speed, bridges of cooled lava and the screenshot trick.
+* `|` to open the NPC Map Locations minimap.
+* `p` to open the CJB Cheats Menu.
+* With Lookup Anything, use `<F1>` to query what is under the cursor and
+`<Shift>-<F1>` to do lookup instead.
+* CJB Item Spawner opens with `i`.
+* For Better Crafting, if you want to favorite or unfavorite a crafting or
+  cooking recipe, press `f` while hovering over it.
+* Right-clicking a recipe accesses the bulk crafting menu for Better Crafting.
+* Better Crafting has customizable categories as well but is a little unclear
+  about how to use them.
+* Categories can even be turned off for Better Crafting.
+* The Happy Birthday mod adds search and tooltips to the gift selector menu.
+* For TimeSpeed, `n` freezes or unfreezes time, `,` speeds up time by 1 second
+  per 10 game-minutes, `.` slows down by the same amount and prefixing either
+  with `<Ctrl>` multiplies the effect by 100. `b` reloads the config settings
+  from file. (Of course it also supports Generic Mod Config Menu.)
+* `l` opens To-Dew Menu.
+* For Fishing Assistant 2, `<F5>` toggles it and `<F6>` toggles catching
+  treasure. The mod options are very extensive.
+* It looks like setting the difficulty multiplier to 0.5 for Fishing Assistant
+  2 will make my life considerably easier.
+* Train Station makes the train station in the north of Pelican Town
+  functional (but is also deprecated).
+* AutoAnimalDoors has configuration options but I believe the defaults are
+  pretty good.
+* Since I am using the Little Red Schoolhouse mod, I should disable the
+  school schedule for Community Center Reimagined and also the cooking class.
+* I think I applied the SVE patch to Little Red Schoolhouse properly but we'll
+  see.
+* [Compatibility notes for The Love of
+Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
+  "Disable Cooking Menu in the mod config, or disable the Better Crafting
+  cooking menu in its own config." It also says re: mods like Bigger Backpack:
+  "Some mods may not show all their inventory rows in the new cooking menu,
+  but the Auto-Fill Ingredients button will find the items from any inventory
+  all the same."
+* Animal Husbandry Mod has quite a few options including turning off treats
+  and the animal contest which is what I will be doing.
+* Horse Overhaul makes the horse hit box 1x1 in all directions. There is also
+  (limited) interaction with the environment while on horseback and a number
+  of other things I will document as I encounter them.
+* Walk to the Desert lets you do just that, but it can be dangerous and you'll
+  want to be armed.
+* World Atlas might be better than World Maps Everywhere but I don't know if
+  it will be necessary yet.
+* Bus Locations Continued seems to be unnecessary given that Central Station
+  exists. (No I actually need it for Downtown Zuzu.)
+* If I need it, Machine Control Panel says "Press Q next to a machine to open
+  the control panel."
+* I found a [Reddit thread documenting different expansions for Stardew
+Valley](https://www.reddit.com/r/StardewValleyMods/comments/1gcamep/recommend_me_some_quality_expansion_mods/)
+  which will be worth looking into at some point. More can be found by Googling
+  'stardew valley expansions' or even 'best stardew valley expansions'.
