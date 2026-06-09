@@ -302,3 +302,4 @@ Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
 Valley](https://www.reddit.com/r/StardewValleyMods/comments/1gcamep/recommend_me_some_quality_expansion_mods/)
   which will be worth looking into at some point. More can be found by Googling
   'stardew valley expansions' or even 'best stardew valley expansions'.
+* Happy Birthday made it impossible for me to read my mail so I got rid of it.
