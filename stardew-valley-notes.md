@@ -16,6 +16,8 @@
 * "Placing floor or path tiles under your scarecrows is a smart trick to
   prevent them from being accidentally destroyed or uprooted when you use your
   scythe or pickaxe to clear out withered crops or weeds."
+* Tiles are also great for preventing trees that are being tapped from
+  dropping debris.
 * Fishing can be very frustrating. What's worked for me so far is casting the
   line out as far as possible with the Training Rod, which will presumably
   become useless at level 5 of Fishing.
@@ -251,18 +253,21 @@
   first.
 * I was able to get to the end of the Volcano Dungeon using only food
   increasing Speed, bridges of cooled lava and the screenshot trick.
+* Gift quality matters.
 * `|` to open the NPC Map Locations minimap.
 * `p` to open the CJB Cheats Menu.
 * `v` opens the Schedule Viewer.
 * With Lookup Anything, use `<F1>` to query what is under the cursor and
 `<Shift>-<F1>` to do lookup instead.
 * CJB Item Spawner opens with `i`.
+* `<Caps Lock>` turns to To-Dew overlay on and off!
 * For Better Crafting, if you want to favorite or unfavorite a crafting or
   cooking recipe, press `f` while hovering over it.
 * Right-clicking a recipe accesses the bulk crafting menu for Better Crafting.
 * Better Crafting has customizable categories as well but is a little unclear
   about how to use them.
 * Categories can even be turned off for Better Crafting.
+* I like turning on "Highlight New Recipes" with Better Crafting.
 * The Happy Birthday mod adds search and tooltips to the gift selector menu.
 * For TimeSpeed, `n` freezes or unfreezes time, `,` speeds up time by 1 second
   per 10 game-minutes, `.` slows down by the same amount and prefixing either
@@ -313,6 +318,8 @@ Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
   checked off in its configuration.
 * There is a [Reddit thread concerning how to unlock the Aurora Vineyard in
   SVE](https://www.reddit.com/r/StardewValleyExpanded/comments/195cmef/how_do_i_activate_aurora_vineyard/).
+* Shearwater Bridge, east of the Museum, is accessible with SVE after
+  attaining Fishing level 5.
 * I found a [Reddit thread documenting different expansions for Stardew
 Valley](https://www.reddit.com/r/StardewValleyMods/comments/1gcamep/recommend_me_some_quality_expansion_mods/)
   which will be worth looking into at some point. More can be found by Googling
