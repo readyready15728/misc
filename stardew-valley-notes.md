@@ -277,7 +277,8 @@
 * For Fishing Assistant 2, `<F5>` toggles it and `<F6>` toggles catching
   treasure. The mod options are very extensive.
 * It looks like setting the difficulty multiplier to 0.5 for Fishing Assistant
-  2 will make my life considerably easier.
+  2 will make my life considerably easier. (Too easy, maybe. Setting the
+  difficulty to 0.75 for normal fishing.)
 * Train Station makes the train station in the north of Pelican Town
   functional (but is also deprecated).
 * AutoAnimalDoors has configuration options but I believe the defaults are
