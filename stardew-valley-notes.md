@@ -27,7 +27,7 @@
 * A Chest to store excess goods is the first item you should craft. In terms
   of degradation of materials it appears to make no difference whether Chests
   are in- or outdoors. (They will last forever.)
-* Make use of Add to Existing Stacks when interacting with chests!
+* Make use of Add to Existing Stacks when interacting with Chests!
 * Fences are useful for keeping weeds at bay and protecting crops.
 * Pierre's General Store has the upgraded backpacks for 2000G and 10000G
   respectively.
@@ -160,8 +160,7 @@
 * Fairy Roses are best for making Fairy Rose Honey.
 * Plant Cranberry Seeds early to profit best. (That applies more generally for
   crops that keep yielding after first harvest.)
-* Ordinary trees need only one space to thrive but giving them two might make
-  tapping operations easier to work with.
+* Ordinary trees need only one space to thrive.
 * The Old Mariner sells the Mermaid's Pendant, vital to marriage.
 * Extra friendship levels appear after marriage.
 * Once ten hearts of friendship are attained they never go down.
@@ -240,6 +239,14 @@
   non-comestibles from below ground, automated furnace, random junk,
   spring produce and other comestibles, then summer produce, fall, winter
   and/or foraged comestibles, eggs and dairy, fish and meat.
+* Exception to the above rule: Pumpkins are technically not comestible but
+  will go into fall produce anyway.
+* Mods have introduced way too many kinds of foraged comestibles and now I
+  think each should go into its own season. If there are multiple seasons,
+  pick the earliest.
+* Additionally, mods have forced me to add a separate "overflow" chest for
+  spring comestibles. The main chest takes spring crops and the auxiliary
+  chest takes spring foraged produce.
 * ...and one cooking ingredients drawer. (Why not just put cooking ingredients
   in the refrigerator?)
 * There is a [Stardew Valley Checklist](https://drive.google.com/drive/folders/1vk23YmYtXv3plTJ_3RBZ8xJyI0R3kBhy)
@@ -302,6 +309,11 @@ Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
 * Horse Overhaul makes the horse hit box 1x1 in all directions. There is also
   (limited) interaction with the environment while on horseback and a number
   of other things I will document as I encounter them.
+* Horse friendship develops over time through petting, feeding, watering and
+  access to a heater if necessary. Higher levels increase horse speed.
+* Feeding your horse requires precise alignment with their muzzle.
+* Most foraged items can be foraged on horseback with the mod but you have to
+  be right on top of them.
 * Walk to the Desert lets you do just that, but it can be dangerous and you'll
   want to be armed.
 * World Atlas might be better than World Maps Everywhere but I don't know if
