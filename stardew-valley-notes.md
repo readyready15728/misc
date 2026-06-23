@@ -247,6 +247,7 @@
 * Additionally, mods have forced me to add a separate "overflow" chest for
   spring comestibles. The main chest takes spring crops and the auxiliary
   chest takes spring foraged produce.
+* Or I can even use the Big Chest!
 * ...and one cooking ingredients drawer. (Why not just put cooking ingredients
   in the refrigerator?)
 * There is a [Stardew Valley Checklist](https://drive.google.com/drive/folders/1vk23YmYtXv3plTJ_3RBZ8xJyI0R3kBhy)
@@ -329,6 +330,8 @@ Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
   outside her cave if SVE is present. Scythe the grass away to fix it.
 * After installing Artisanal Soda Makers, make sure all the right boxes are
   checked off in its configuration.
+* It looks like I'm supposed to turn off everything in Community Center
+  Reimagined if SVE and Town Schoolhouse are present. (?)
 * There is a [Reddit thread concerning how to unlock the Aurora Vineyard in
   SVE](https://www.reddit.com/r/StardewValleyExpanded/comments/195cmef/how_do_i_activate_aurora_vineyard/).
 * Shearwater Bridge, east of the Museum, is accessible with SVE after
