@@ -314,7 +314,7 @@ Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
   access to a heater if necessary. Higher levels increase horse speed.
 * Feeding your horse requires precise alignment with their muzzle.
 * Most foraged items can be foraged on horseback with the mod but you have to
-  be right on top of them.
+  be positioned very closely next to them.
 * Walk to the Desert lets you do just that, but it can be dangerous and you'll
   want to be armed.
 * World Atlas might be better than World Maps Everywhere but I don't know if
@@ -328,6 +328,8 @@ Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
   mod.
 * Sometimes Alecto the Witch can get stuck due to a patch of grass added
   outside her cave if SVE is present. Scythe the grass away to fix it.
+* SVE might have prevented the "shadowy figure" cutscene but it is still
+  possible to get the Magnifying Glass near the Community Center.
 * After installing Artisanal Soda Makers, make sure all the right boxes are
   checked off in its configuration.
 * It looks like I'm supposed to turn off everything in Community Center
