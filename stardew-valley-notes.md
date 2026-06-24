@@ -302,6 +302,9 @@ Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
   "Some mods may not show all their inventory rows in the new cooking menu,
   but the Auto-Fill Ingredients button will find the items from any inventory
   all the same."
+* Cornucopia - Cooking Recipes suggests use of "Enable Hyperflexible Recipes"
+  with Love of Cooking but cautions the user against accidentally using the
+  wrong ingredients and says that balance is not guaranteed.
 * Animal Husbandry Mod has quite a few options including turning off treats
   and the animal contest which is what I will be doing. I will also be using
   softermode and disabling the meat tool letter to avoid cluttering my
