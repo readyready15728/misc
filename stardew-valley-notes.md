@@ -341,6 +341,8 @@ Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
   SVE](https://www.reddit.com/r/StardewValleyExpanded/comments/195cmef/how_do_i_activate_aurora_vineyard/).
 * Shearwater Bridge, east of the Museum, is accessible with SVE after
   attaining Fishing level 5.
+* Cornucopia bushes like the Olive bush need to be harvested daily; they can't
+  accumulate their fruits up to three days like trees.
 * I found a [Reddit thread documenting different expansions for Stardew
 Valley](https://www.reddit.com/r/StardewValleyMods/comments/1gcamep/recommend_me_some_quality_expansion_mods/)
   which will be worth looking into at some point. More can be found by Googling
