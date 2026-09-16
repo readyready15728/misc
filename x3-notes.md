@@ -50,7 +50,8 @@
   by default using `<Left Alt>`. To zoom back out, just release the same key.
 * Actually, for now, no. `<Alt>-<Tab>` then created its own problems on Linux.
   The fix for me was to disable video enhancement goggles in the control
-  settings.
+  settings but even then I still had to press `<Alt>` when returning to the
+  game to get any of the keys to work.
 * Fly into crates to pick them up. It's not clear that any kind of cargo scoop
   is necessary.
 * Engage SETA (speeds up the game) with `J` if possible. Also set SETA to 10x
