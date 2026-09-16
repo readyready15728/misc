@@ -3,7 +3,7 @@
 ## "It ain't much but it's honest work"
 
 * (60, 45, 60) gives a decent gray eye color.
-* Pants should be (64, 64, 16)..
+* Pants should be (64, 64, 16).
 * Tools and other objects have very limited range.
 * Check the weather forecast for rain which will mean you don't have to water
   your crops.
