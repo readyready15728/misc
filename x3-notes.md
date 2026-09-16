@@ -33,11 +33,25 @@
   will turn red.
 * Undocking is done via the sidebar.
 * If you started as "Humble Merchant", shooting the debris in the tutorial is
-  not possible. It appears that the most straightforward way to make use of
-  all the tutorial material is to start as "Terran Defender". Just make sure you start by interacting with the flight school ship. Another way to go about
+  not possible. It appears that the most straightforward way to make use of all
+  the tutorial material is to start as "Terran Defender". Just make sure you
+  start by interacting with the flight school ship. Another way to go about
   things would be skipping that part of the tutorial if playing as "Humble
   Merchant" then coming back to it after getting armed.
 * There is [a tutorial on the "Humble Merchant"
   start](https://web.archive.org/web/20121214143922/http://roguey.co.uk/x3tc/help/kongrudi/humble-merchant1.php)
   which covers basics and slightly more advanced things that can now only be
   accessed through the Wayback Machine (link provided).
+* For whatever reason, I turned on `<Ctrl>-<Tab>` a long time ago in Xfce to
+  cycle through windows. Using it caused me to open fire at whatever happens
+  to be in the way of my vessel. I promptly changed the setting back to the
+  default of `<Alt>-<Tab>`.
+* If available, video enhancement goggles allow for a greatly zoomed-in view,
+  by default using `<Left Alt>`. To zoom back out, just release the same key.
+* Actually, for now, no. `<Alt>-<Tab>` then created its own problems on Linux.
+  The fix for me was to disable video enhancement goggles in the control
+  settings.
+* Fly into crates to pick them up. It's not clear that any kind of cargo scoop
+  is necessary.
+* Engage SETA (speeds up the game) with `J` if possible. Also set SETA to 10x
+  in the settings rather than the default of 6x.
