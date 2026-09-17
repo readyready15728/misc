@@ -233,6 +233,7 @@
   diagnostic info that can be parsed [using an online utility program](https://smapi.io/log).
 * Use the cog button on the title screen for mods using Generic Mod Config
   Menu. (It works in game just as well!)
+* For some mods, the GMCM is only usable from the title screen.
 * The little keyboard on the Generic Mod Config Menu shows all keybindings and
   highlights conflicting ones in red.
 * Chests in this order, right to left: non-comestibles from above ground,
