@@ -337,6 +337,8 @@ Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
 * In Fishing Assistant 3, set "Manual cast unlock time" to "Immediately".
 * Sometimes Alecto the Witch can get stuck due to a patch of grass added
   outside her cave if SVE is present. Scythe the grass away to fix it.
+* When there are "ze/zy/zo/zum" gender options in mods be sure to turn them
+  off.
 * SVE might have prevented the "shadowy figure" cutscene but it is still
   possible to get the Magnifying Glass near the Community Center.
 * After installing Artisanal Soda Makers, make sure all the right boxes are
