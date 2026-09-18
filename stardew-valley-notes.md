@@ -296,6 +296,7 @@
   school schedule for Community Center Reimagined and also the cooking class.
 * I think I applied the SVE patch to Little Red Schoolhouse properly but we'll
   see.
+* Don't change the school playground while in game.
 * [Compatibility notes for The Love of
 Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
   "Disable Cooking Menu in the mod config, or disable the Better Crafting
