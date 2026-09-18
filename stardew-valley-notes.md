@@ -334,6 +334,7 @@ Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
 * It is recommended that you reset the terrain when first entering the East
   Scarp map. I bound the reset feature to `R` because `L` conflicts with
   To-Dew.
+* In Fishing Assistant 3, set "Manual cast unlock time" to "Immediately".
 * Sometimes Alecto the Witch can get stuck due to a patch of grass added
   outside her cave if SVE is present. Scythe the grass away to fix it.
 * SVE might have prevented the "shadowy figure" cutscene but it is still
