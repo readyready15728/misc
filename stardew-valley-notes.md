@@ -330,6 +330,7 @@ Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
   the control panel."
 * Happy Birthday made it impossible for me to read my mail so I got rid of it.
 * In Cornucopia - More Crops I like to rename and retexture the press.
+* I like using TimeSpeed to give me 1.5x as much time.
 * Sometimes Alecto the Witch can get stuck due to a patch of grass added
   outside her cave if SVE is present. Scythe the grass away to fix it.
 * SVE might have prevented the "shadowy figure" cutscene but it is still
