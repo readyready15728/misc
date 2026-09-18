@@ -329,8 +329,7 @@ Cooking](https://www.nexusmods.com/stardewvalley/mods/6830?tab=posts) say
 * If I need it, Machine Control Panel says "Press Q next to a machine to open
   the control panel."
 * Happy Birthday made it impossible for me to read my mail so I got rid of it.
-* I prefer to turn off treats and the animal contest in the Animal Husbandry
-  mod.
+* In Cornucopia - More Crops I like to rename and retexture the press.
 * Sometimes Alecto the Witch can get stuck due to a patch of grass added
   outside her cave if SVE is present. Scythe the grass away to fix it.
 * SVE might have prevented the "shadowy figure" cutscene but it is still
