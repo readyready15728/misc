@@ -237,9 +237,10 @@
 * The little keyboard on the Generic Mod Config Menu shows all keybindings and
   highlights conflicting ones in red.
 * Chests in this order, right to left: non-comestibles from above ground,
-  non-comestibles from below ground, automated furnace, random junk,
-  spring produce and other comestibles, then summer produce, fall, winter
-  and/or foraged comestibles, eggs and dairy, fish and meat.
+  non-comestibles from below ground (includes slime, bug meat and things that
+  are typically found in the mines), automated furnace, random junk, spring
+  produce and other comestibles, then summer produce, fall, winter and/or
+  foraged comestibles, eggs and dairy, fish and meat.
 * Exception to the above rule: Pumpkins are technically not comestible but
   will go into fall produce anyway.
 * Mods have introduced way too many kinds of foraged comestibles and now I
