@@ -254,8 +254,8 @@
   in the refrigerator?)
 * My current scheme involves the use of Big Chests and putting foraged
   comestibles that can be grown instead of just foraged in their earliest
-  season, with the exception of mushrooms, which go with winter and/or foraged
-  comestibles.
+  season, with the exception of mushrooms and cave carrots, which go with winter
+  and/or foraged comestibles.
 * There is a [Stardew Valley Checklist](https://drive.google.com/drive/folders/1vk23YmYtXv3plTJ_3RBZ8xJyI0R3kBhy)
   on Google Docs that includes info for mods.
 * Community Center progress can be viewed from inventory.
