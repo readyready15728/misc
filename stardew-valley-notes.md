@@ -256,6 +256,8 @@
   comestibles that can be grown instead of just foraged in their earliest
   season, with the exception of mushrooms and cave carrots, which go with winter
   and/or foraged comestibles.
+* No I'm taking that back. I'm going to put foraged items in their earliest
+  season whether they can be grown or not.
 * There is a [Stardew Valley Checklist](https://drive.google.com/drive/folders/1vk23YmYtXv3plTJ_3RBZ8xJyI0R3kBhy)
   on Google Docs that includes info for mods.
 * Community Center progress can be viewed from inventory.
