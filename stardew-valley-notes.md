@@ -258,6 +258,9 @@
   and/or foraged comestibles.
 * No I'm taking that back. I'm going to put foraged items in their earliest
   season whether they can be grown or not.
+* I'm going to put Calico Desert and Ginger Island comestible foraged items
+  into the summer category as it would be incongruous to put them with winter.
+  (And it's probably better balanced.)
 * There is a [Stardew Valley Checklist](https://drive.google.com/drive/folders/1vk23YmYtXv3plTJ_3RBZ8xJyI0R3kBhy)
   on Google Docs that includes info for mods.
 * Community Center progress can be viewed from inventory.
