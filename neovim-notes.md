@@ -157,3 +157,5 @@ return {
   some point?
 - `<Space>uC` can be used for a live preview of the different color schemes
   that have been installed.
+- For now, don't use the tree-sitter plugin for `.csv` files; the default
+  highlighting is better.
