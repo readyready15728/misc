@@ -15,6 +15,9 @@ else like this). It's a costly gimmick not to work under tmux.
 * `default_linemode sizehumanreadablemtime` is what I want.
 * It's also possible to change the default view to orthodox instead of Miller
   panes with `set viewmode multipane`.
+* The `--` for `xdg-open` that's in the default `rifle.conf` doesn't work and
+to open `.epub` files properly with `xdg-open` I had to do
+`xdg-mime default calibre-ebook-viewer.desktop application/epub+zip`.
 * Set `EDITOR` and `VISUAL` to `vim` for desired results when editing files
 (which I should have done regardless).
 * Search is case-insensitive but **only if** no uppercase letters have been
