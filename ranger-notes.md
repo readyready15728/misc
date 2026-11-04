@@ -13,6 +13,8 @@ plugin.
 do so outside of tmux, with `$TERM` set to `xterm-kitty` (or perhaps something
 else like this). It's a costly gimmick not to work under tmux.
 * `default_linemode sizehumanreadablemtime` is what I want.
+* It's also possible to change the default view to orthodox instead of Miller
+  panes with `set viewmode multipane`.
 * Set `EDITOR` and `VISUAL` to `vim` for desired results when editing files
 (which I should have done regardless).
 * Search is case-insensitive but **only if** no uppercase letters have been
