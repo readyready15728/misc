@@ -19,4 +19,3 @@ else like this). It's a costly gimmick not to work under tmux.
 entered.
 * Beware of pasting files with the same name elsewhere because the behavior
 with `pp` is to just add the file with an underscore attached to the end.
-* Test.
