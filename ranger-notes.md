@@ -21,7 +21,7 @@ to open `.epub` files properly with `xdg-open` I had to do
 * Handling `.pdf.xz` extensions was described in a [response to an issue from
 me](https://github.com/ranger/ranger/issues/3190). Briefly, find the
 "Archives" section in `rifle.conf` and make sure something like the following
-comes first: `name pdf(\.xz)?$, has xreader, X, flag f = xreader -- "$@".
+comes first: `name pdf(\.xz)?$, has xreader, X, flag f = xreader -- "$@"`.
 * Set `EDITOR` and `VISUAL` to `vim` for desired results when editing files
 (which I should have done regardless).
 * Search is case-insensitive but **only if** no uppercase letters have been
