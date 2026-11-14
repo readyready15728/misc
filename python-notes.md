@@ -24,3 +24,9 @@ reviews['price']).idxmax()]['title']`.
 keywords = ['tropical', 'fruity']
 descriptor_counts = pd.Series([reviews['description'].map(lambda desc: keyword in desc).sum() for keyword in keywords], index=keywords)
 ```
+* Consider using `:-` in the future.
+* Remember the optional `else` block available with `for` and `while` loops.
+* Using iterator-based `for` loops with file objects runs at C-language speed
+in standard CPython whereas a `while` loop using `.readline()` runs in the
+Python virtual machine and is likely to be slower. And `.readlines()` is just
+inefficient, putting the entire file contents into memory at worse.
