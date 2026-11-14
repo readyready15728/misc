@@ -3,7 +3,7 @@
 ## `from __future__ import brackets`
 
 * The warning in chapter 2 of _Time Series Forecasting with Python_ when
-setting the historical mean in the `test ` data frame by copying like so:
+setting the historical mean in the `test` data frame by copying like so:
 `test = df.copy()[-4:]`.
 * The assignment of `pred_last_season` in the same chapter uses `.values`
 because of the different indexing of the data.
@@ -18,8 +18,7 @@ reviews.loc[(reviews['country'].isin(('Australia', 'New Zealand'))) &
 (reviews['points'] >= 95)]`.
 * `bargain_wine = reviews.iloc[(reviews['points'] /
 reviews['price']).idxmax()]['title']`.
-* Here is a solution a bit more general than the suggested one looking for
-keywords in wine reviews:
+* Here is a solution a bit more general than the suggested one looking for keywords in wine reviews:
 ```python
 keywords = ['tropical', 'fruity']
 descriptor_counts = pd.Series([reviews['description'].map(lambda desc: keyword in desc).sum() for keyword in keywords], index=keywords)
