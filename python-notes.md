@@ -1,4 +1,5 @@
 # Python Notes
+
 ## `from __future__ import brackets`
 
 * The warning in chapter 2 of _Time Series Forecasting with Python_ when
