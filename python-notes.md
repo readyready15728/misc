@@ -35,4 +35,3 @@ called. The iterator then implements the following protocol: `next()` (or
 `__next__()` to get the next object in the iterator and raises the exception
 `StopIteration` when no more results remain, and is the same as calling
 `next()`.
-* Test.
