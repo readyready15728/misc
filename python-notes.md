@@ -35,3 +35,27 @@ called. The iterator then implements the following protocol: `next()` (or
 `__next__()` to get the next object in the iterator and raises the exception
 `StopIteration` when no more results remain, and is the same as calling
 `next()`.
+* Here's an [article about how to avoid callbacks made in loops from using the
+last value of the loop](https://www.bobobk.com/en/python-loop-callback-late-binding.html).
+* `map()` can take multiple iterables.
+* The `operator` module can be useful for functional programming.
+* Generators can be effectively infinite. Fibonacci numbers might be
+illustrative. In fact, here it is:
+
+```python
+def fib():
+    i, j = 0, 1
+    n = 0
+
+    while True:
+        if n < 2:
+            if n == 0:
+                yield 0
+            else:
+                yield 1
+        else:
+            i, j = j, i + j
+            yield j
+      
+        n += 1
+```
