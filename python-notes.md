@@ -59,3 +59,10 @@ def fib():
       
         n += 1
 ```
+* Use `list(str_variable)` instead of what I seem to remember using,
+`str_variable.split('')`. (Doesn't even work as of Python 3.12.)
+* Use `collections.namedtuple` for lightweight immutable record objects with
+named fields.
+* If the result of `.__repr__()` is user-friendly, `str()` will use it if
+`.__str()__` is not available. If you implement only one of these two dunder
+methods, make it `.__repr__()`.
