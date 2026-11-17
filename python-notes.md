@@ -30,9 +30,9 @@ descriptor_counts = pd.Series([reviews['description'].map(lambda desc: keyword i
 in standard CPython whereas a `while` loop using `.readline()` runs in the
 Python virtual machine and is likely to be slower. And `.readlines()` is just
 inefficient, putting the entire file contents into memory at worse.
-* An iterable returns an iterator when `iter()` (or, really, `__iter__()` is
+* An iterable returns an iterator when `iter()` (or, really, `.__iter__()` is
 called. The iterator then implements the following protocol: `next()` (or
-`__next__()` to get the next object in the iterator and raises the exception
+`.__next__()` to get the next object in the iterator and raises the exception
 `StopIteration` when no more results remain, and is the same as calling
 `next()`.
 * Here's an [article about how to avoid callbacks made in loops from using the
