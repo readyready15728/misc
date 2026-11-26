@@ -225,3 +225,8 @@ line instead of bunching up and being more vulnerable as a result.
 * Components can wear out and need replacing. Take that into consideration
 before using all of them. On that note, RimFridge refrigeration units are
 pretty component-hungry compared to using vanilla coolers.
+* Here's a [thread on Reddit concerning the size of farm plots and recommended
+distance between
+them](https://www.reddit.com/r/RimWorld/comments/1f702p5/how_big_do_my_fields_need_to_be_and_what_is_the/).
+Apparently three is enough to prevent the spread of fire but not the spread of
+blight.
