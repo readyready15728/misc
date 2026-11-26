@@ -170,6 +170,7 @@ be altered in Assign.
   * Firebreaks (e.g. concrete floor three or four strips wide)
   * Building out the roof area and cutting all plants under it.
 * Wardens need to take care of prisoners.
+* Use the "Prisoner" tab on a prisoner to determine how they'll be treated.
 * Hover mouse over shooting target after selecting shooter to see accuracy.
 * Drugs can be burned if causing an issue.
 * `Ctrl` and `Shift` can be used to increment or decrement the number of times
@@ -231,3 +232,6 @@ them](https://www.reddit.com/r/RimWorld/comments/1f702p5/how_big_do_my_fields_ne
 Apparently three is enough to prevent the spread of fire but not the spread of
 blight. Also note that the Tilled Soil mod will likely cut need for arable
 land in about half.
+* Minimum and maximum levels can be set for bills at workstations and they can
+also be assigned to specific workers.
+* Making smokeleaf joins trains Cooking but requires assignment to Crafting.
