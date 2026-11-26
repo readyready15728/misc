@@ -169,7 +169,8 @@ be altered in Assign.
   * Using less flammable material
   * Firebreaks (e.g. concrete floor three or four strips wide)
   * Building out the roof area and cutting all plants under it.
-* Wardens need to take care of prisoners.
+* Wardens need to take care of prisoners. Doctors can also take care of
+prisoners.
 * Use the "Prisoner" tab on a prisoner to determine how they'll be treated.
 * Hover mouse over shooting target after selecting shooter to see accuracy.
 * Drugs can be burned if causing an issue.
@@ -240,3 +241,5 @@ also be assigned to specific workers.
 * I had way too much smokeleaf and needed to cut the existing crops to make
 way for haygrass. There were a lot of cells. `<Shift>` + LMB drag was what I
 needed.
+* Sterile tiles don't need to cover the whole floor. Only the average
+Cleanliness matters.
