@@ -221,6 +221,8 @@ the capacity of an animal pen. (Or even just one-square.)
 * That didn't actually work very well. What seems to be even better is raising
 hay then using shelves to feed the animals. (The shelves prevent
 deterioration of the hay.)
+* Actually, hay *can* rot, which is not the same as deterioration. It takes
+about 60 days to do so.
 * Right-click and drag can be used when your colonists are drafted to form a
 line instead of bunching up and being more vulnerable as a result.
 * Components can wear out and need replacing. Take that into consideration
