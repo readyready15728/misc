@@ -229,4 +229,5 @@ pretty component-hungry compared to using vanilla coolers.
 distance between
 them](https://www.reddit.com/r/RimWorld/comments/1f702p5/how_big_do_my_fields_need_to_be_and_what_is_the/).
 Apparently three is enough to prevent the spread of fire but not the spread of
-blight.
+blight. Also note that the Tilled Soil mod will likely cut need for arable
+land in about half.
