@@ -71,14 +71,15 @@ Shift+Right-click to decrement.
 carry it out immediately. If that can't be done, there is useful diagnostic
 info.
 * Smith, Tailor, Art and Craft should only be done by the most skilled
-colonists.
+colonists. (Except maybe for making things like Granite Blocks as they don't
+seem to have a quality level.)
 * Passageways between buildings should be at least three tiles wide.
 * Leave a 6x6 zone free around steam geysers.
 * Colonists want to eat at a proper table.
 * Tables need chairs.
 * Plant Cotton and Healroot early in the game. (50 tiles initially, then
 increasing to 100.)
-* Q and E rotate the thing you want to build.
+* `Q` and `E` rotate the thing you want to build.
 * Build both a Horseshoes Pin and a Chess Table early. (Chess Tables also
 require chairs.)
 * For the freezer room, build two coolers, one set to -6°C and the other one
@@ -155,7 +156,7 @@ using the Operations tab.
 * Columns are needed to hold up the roofs of larger buildings.
 * It's best to interact with traders using pawns with high Social. (Traders
 have a blinking question mark above their heads.)
-* Ctrl-Click also works for operations like harvesting.
+* `Ctrl-Click` also works for operations like harvesting.
 * Allies bring more caravans.
 * Dirt and raw meat look similar in your inventory. Be careful!
 * Make sure you're not cooking fine meals or higher grade if ingredients
@@ -171,8 +172,8 @@ be altered in Assign.
 * Wardens need to take care of prisoners.
 * Hover mouse over shooting target after selecting shooter to see accuracy.
 * Drugs can be burned if causing an issue.
-* Ctrl and Shift can be used to increment or decrement the number of times an
-order is to be carried out at a workstation 10 and 100 times respectively.
+* `Ctrl` and `Shift` can be used to increment or decrement the number of times
+an order is to be carried out at a workstation 10 and 100 times respectively.
 * Friendly fire never occurs when allies are close.
 * Hunting animals with "boom" in their name can be dangerous.
 * Once a shuttle is loaded for a quest, send it immediately.
@@ -219,3 +220,8 @@ the capacity of an animal pen. (Or even just one-square.)
 * That didn't actually work very well. What seems to be even better is raising
 hay then using shelves to feed the animals. (The shelves prevent
 deterioration of the hay.)
+* Right-click and drag can be used when your colonists are drafted to form a
+line instead of bunching up and being more vulnerable as a result.
+* Components can wear out and need replacing. Take that into consideration
+before using all of them. On that note, RimFridge refrigeration units are
+pretty component-hungry compared to using vanilla coolers.
