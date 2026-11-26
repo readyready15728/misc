@@ -235,3 +235,6 @@ land in about half.
 * Minimum and maximum levels can be set for bills at workstations and they can
 also be assigned to specific workers.
 * Making smokeleaf joins trains Cooking but requires assignment to Crafting.
+* I had way too much smokeleaf and needed to cut the existing crops to make
+way for haygrass. There were a lot of cells. `<Shift>` + LMB drag was what I
+needed.
